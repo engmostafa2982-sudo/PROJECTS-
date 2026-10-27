@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - "**/All Files/**"
+      - ".github/scripts/**"
+      - ".github/workflows/convert-weekly-reports.yml"
   workflow_dispatch:
 
 permissions:
@@ -17,6 +19,7 @@ concurrency:
 jobs:
   convert:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,25 +33,21 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y -q tesseract-ocr tesseract-ocr-ara poppler-utils
-          pip install "markitdown[all]==0.1.9" pillow-heif
+          pip install "markitdown[all]==0.1.9" openpyxl pillow-heif
 
-      - name: Convert new or changed files
-        run: python .github/scripts/convert_to_md.py
-
-      - name: Update upload tracker
-        if: always()
-        run: python .github/scripts/update_tracker.py
-
-      - name: Commit Markdown files and tracker
-        if: always()
+      - name: Convert files and update tracker, saving progress as it goes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
-          git add -A -- ':(glob)**/MD Files/**' README.md
-          if git diff --cached --quiet; then
-            echo "Nothing to commit"
-            exit 0
-          fi
-          git commit -m "Convert uploads to Markdown and update tracker"
-          git pull --rebase origin main
-          git push origin HEAD:main
+          while true; do
+            status=0
+            python .github/scripts/convert_to_md.py --budget 1500 || status=$?
+            python .github/scripts/update_tracker.py
+            git add -A -- ':(glob)**/MD Files/**' README.md
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Convert uploads to Markdown and update tracker"
+              git pull --rebase -X theirs origin main
+              git push origin HEAD:main
+            fi
+            [ "$status" -eq 3 ] || exit "$status"
+          done
