@@ -24,8 +24,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install converter
-        run: pip install "markitdown[all]==0.1.9"
+      - name: Install converters
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q tesseract-ocr tesseract-ocr-ara poppler-utils
+          pip install "markitdown[all]==0.1.9" pillow-heif
 
       - name: Convert new or changed files
         run: python .github/scripts/convert_to_md.py

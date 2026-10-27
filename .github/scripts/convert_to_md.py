@@ -10,6 +10,9 @@ from pathlib import Path
 
 from markitdown import MarkItDown
 
+from image_to_md import IMAGE_EXTS, image_to_markdown, ocr_pdf
+from xer_to_md import xer_to_markdown
+
 ROOT = Path(__file__).resolve().parents[2]
 SRC_DIR, OUT_DIR = "All Files", "MD Files"
 MARKER = re.compile(r"^<!-- converted-from: (.+?) sha256: ([0-9a-f]{64}) -->")
@@ -23,6 +26,20 @@ def read_marker(md_path):
     with md_path.open(encoding="utf-8", errors="ignore") as f:
         m = MARKER.match(f.readline())
     return m.groups() if m else None
+
+
+def convert(converter, src, target):
+    ext = src.suffix.lower()
+    if ext == ".md":
+        return src.read_text(encoding="utf-8", errors="replace")
+    if ext == ".xer":
+        return xer_to_markdown(src)
+    if ext in IMAGE_EXTS:
+        return image_to_markdown(src, target)
+    text = converter.convert(str(src)).text_content
+    if ext == ".pdf" and len(text.strip()) < 20:  # scanned PDF with no text layer
+        text = ocr_pdf(src) or text
+    return text
 
 
 def main():
@@ -45,10 +62,7 @@ def main():
             if target.exists() and read_marker(target) == (rel.as_posix(), digest):
                 continue
             try:
-                if src.suffix.lower() == ".md":
-                    text = src.read_text(encoding="utf-8", errors="replace")
-                else:
-                    text = converter.convert(str(src)).text_content
+                text = convert(converter, src, target)
             except Exception as e:  # keep going so one bad file doesn't block the rest
                 failed.append(f"{src.relative_to(ROOT)}: {e}")
                 continue
