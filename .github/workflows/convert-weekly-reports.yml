@@ -1,0 +1,45 @@
+name: Convert weekly reports to Markdown
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/All Files/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: convert-weekly-reports
+  cancel-in-progress: false
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install converter
+        run: pip install "markitdown[all]==0.1.9"
+
+      - name: Convert new or changed files
+        run: python .github/scripts/convert_to_md.py
+
+      - name: Commit Markdown files
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          git add -A -- ':(glob)**/MD Files/**'
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "Convert weekly reports to Markdown"
+          git pull --rebase origin main
+          git push origin HEAD:main
