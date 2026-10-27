@@ -1,4 +1,4 @@
-"""Convert every file in each week's "All Files" folder to Markdown in the sibling "MD Files" folder.
+"""Convert every file in each "All Files" folder to Markdown in the sibling "MD Files" folder.
 
 Each generated file starts with a marker holding the source file's hash, so a file is
 only reconverted when it changes, and its Markdown is removed when the source is deleted.
@@ -45,7 +45,7 @@ def convert(converter, src, target):
 def main():
     converter = MarkItDown()
     changed, failed = 0, []
-    for src_dir in sorted(ROOT.glob(f"*/4-Weekly update/W*/{SRC_DIR}")):
+    for src_dir in sorted(p for p in ROOT.glob(f"[0-9]*/**/{SRC_DIR}") if p.is_dir()):
         out_dir = src_dir.parent / OUT_DIR
         out_dir.mkdir(exist_ok=True)
         sources = sorted(p for p in src_dir.rglob("*")
