@@ -1,4 +1,4 @@
-name: Convert weekly reports to Markdown
+name: Convert uploads to Markdown and update tracker
 
 on:
   push:
@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -33,16 +35,20 @@ jobs:
       - name: Convert new or changed files
         run: python .github/scripts/convert_to_md.py
 
-      - name: Commit Markdown files
+      - name: Update upload tracker
+        if: always()
+        run: python .github/scripts/update_tracker.py
+
+      - name: Commit Markdown files and tracker
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
-          git add -A -- ':(glob)**/MD Files/**'
+          git add -A -- ':(glob)**/MD Files/**' README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit"
             exit 0
           fi
-          git commit -m "Convert weekly reports to Markdown"
+          git commit -m "Convert uploads to Markdown and update tracker"
           git pull --rebase origin main
           git push origin HEAD:main
