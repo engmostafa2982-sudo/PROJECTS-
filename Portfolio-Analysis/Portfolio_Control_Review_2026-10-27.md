@@ -36,7 +36,7 @@
 | 22 | Stadiums – Eastern | – | – | – | W3, but **it is project 19's report** | **None** |
 | 25 | Najran Craftsmen (NJR1-05-005 / NJR1-01-007) | – | – | ✅ | W1–W3 (no schedule update) | Partial |
 
-- 11 of 25 projects (44%) have no usable control data.
+- 12 of 25 projects (48%) have no usable control data: 02, 04, 05, 06, 10, 11, 13, 14, 20, 22 (holds project 19's report), 23, 24. Project 18 has only a 6-month-old baseline.
 - Only 1 project has a BOQ.
 - Only 1 project has any drawing content.
 
@@ -110,7 +110,7 @@
 | S9 | **Scope changes with no CCO or EOT**: revised BOQ –SAR 70.9M (01); added roads and culverts (16); telecom manholes and stormwater redesign (09). | 01, 09, 16 | The contract record diverges from the work actually being done. |
 | S10 | **Resources below plan while behind** (01: –60%, 17: –53%, 21: –60%, 03: –22%), or **above plan with low output** (07: 181%, 22/19: 2 to 3×), which points to productivity or loading problems. | 01, 03, 07, 17, 19, 21 | |
 | S11 | **Consultant review bottleneck**: MSAs delayed 22 to 144 days, an RFI at 111 days (19), and Code-B drawings never upgraded (09, 01). | 01, 09, 19 | |
-| S12 | **Missing uploads**: 11 projects have no data, and 15's dashboard is not convertible (.xlsb). | Portfolio | |
+| S12 | **Missing uploads**: 12 projects have no usable data, and 15's dashboard is not convertible (.xlsb). | Portfolio | |
 
 ---
 
@@ -628,7 +628,7 @@ These projects are:
 | 7 | **Live risk and issue management.** Each register has an owner, target date, ageing and score. Owner-caused issues are assigned to MODON, not the contractor. A Top-5 is reviewed in the weekly meeting. | All PMs | 2 weeks |
 | 8 | **Consultant review SLA.** Submittals and MSAs reviewed within 14 days and RFIs within 7 days, with ageing reported weekly. Projects 19, 09 and 01 come first. | EGIS / MODON | Immediate |
 | 9 | **Change control.** Register CCOs and EOT assessments for scope already being executed: 01 (BOQ –SAR 70.9M), 09, 16. | MODON contracts | 30 days |
-| 10 | **Data completeness.** Upload data for the 11 projects that have none, convert the RAR/XLSB/ZIP files, and correct the 22→19 misfiling. | PMO / document control | 1 week |
+| 10 | **Data completeness.** Upload data for the 12 projects that have none, convert the RAR/XLSB/ZIP files, and correct the 22→19 misfiling. | PMO / document control | 1 week |
 
 ---
 
