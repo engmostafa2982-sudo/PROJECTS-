@@ -15,7 +15,7 @@ To get a report, ask Claude in this repository, for example: *"Generate the stan
 | `تقرير-تقدم-<المشروع>-الأسبوع-<NN>.pdf` | Arabic PDF, dark. |
 | `photos/` | The site photos used in the report. |
 
-`<NN>` is the **project week**: whole weeks from site handover (or commencement, if no handover date is given) to the data date, i.e. `(data date − handover) // 7` days. Kharj: 03-Dec-2025 → 26-Oct-2026 is 327 days, week 46. If the weekly report states its own week number, use that.
+`<NN>` is the **project week**: whole weeks from site handover (or commencement, if no handover date is given) to the data date, i.e. `(data date − handover) // 7` days. Kharj: 03-Dec-2025 → 26-Oct-2026 is 327 days, week 46. If the weekly report states the contract week (e.g. "Current Contract Weeks: 33 of 44"), that is the same number. A report's serial number ("Weekly Report #29") is not the week number.
 
 ## Sections, in order
 
