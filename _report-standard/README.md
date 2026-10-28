@@ -39,7 +39,7 @@ A section with no data for a project is left out. A section is never filled with
 
 ## Rules
 
-- **Progress is physical % complete only**, weighted by budgeted man-hours. Do not show cost-based or earned-value progress as the main figure.
+- **Every progress percentage in the report is physical % complete**, weighted by budgeted man-hours. This covers tiles, charts, tables, phases, callouts, issues and data notes. Cost-based, earned-value (EV) or value-weighted progress percentages and their SPI are never shown anywhere, not even as a secondary figure or in Data notes. If a file labels cost-based progress as "actual", Data notes may say so, without quoting its numbers. If a project has no physical progress figure, say that plainly instead of substituting another measure. Non-progress percentages (invoiced, time elapsed, delivered, quantity finished) are allowed.
 - Scope quantities always include a **this-week** column (this week's cumulative minus last week's).
 - Variances are written as percentages, e.g. Arabic *متأخر بنسبة 5.5%*. Do not write them as points.
 - Dates are written `26-Oct-2026` (Arabic: `26-أكتوبر-2026`), always left-to-right.

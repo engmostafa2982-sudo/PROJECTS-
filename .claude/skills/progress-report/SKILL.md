@@ -14,8 +14,9 @@ The standard is defined in `_report-standard/README.md`. Read it first. Then bui
    - The week's `MD Files`: weekly report sheets, progress presentation, P6 update.
    - The previous week's `MD Files`, for the this-week values and the gained-this-week figures.
    - `3-Baseline/MD Files` and `1-BOQ/MD Files`, when the sections need them.
-3. **Write down every figure with its file and sheet.** If two files disagree, keep both values and add a Data notes item. Never estimate a missing figure; leave the section out instead.
-4. **Choose photos.** Take 6 photos from the week's `All Files`. Read each photo's MD file (EXIF and OCR) for its date and GPS stamp. Resize each to 1280 px wide (JPEG, quality about 82) into `Generated Report/photos/`.
+3. **Use physical % complete for every progress percentage** (man-hour weighted). Never show cost-based / earned-value progress or its SPI anywhere in the report, not even in Data notes.
+4. **Write down every figure with its file and sheet.** If two files disagree, keep both values and add a Data notes item. Never estimate a missing figure; leave the section out instead.
+5. **Choose photos.** Take 6 photos from the week's `All Files`. Read each photo's MD file (EXIF and OCR) for its date and GPS stamp. Resize each to 1280 px wide (JPEG, quality about 82) into `Generated Report/photos/`.
 
 ## 2. Fill the reference
 
