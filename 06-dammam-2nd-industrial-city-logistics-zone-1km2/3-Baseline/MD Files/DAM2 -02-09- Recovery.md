@@ -1,0 +1,4089 @@
+<!-- converted-from: DAM2 -02-09- Recovery.xer sha256: 6acc19ac154ffa976193db0c50574bfe8916d4adf10a8af2251ba79f00e2babc -->
+# DAM2 -02-09- Recovery.xer
+
+## Project: DAM2 ACC- BOQv2-2
+
+| Field | Value |
+|---|---|
+| Data date | 2026-09-15 |
+| Planned start | 2025-07-30 |
+| Scheduled finish | 2027-01-29 |
+| Must finish by |  |
+
+## Activity status
+
+| Status | Count |
+|---|---|
+| Completed | 1313 |
+| In Progress | 789 |
+| Not Started | 1962 |
+| **Total** | **4064** |
+
+## Activities
+
+| ID | Name | WBS | Type | Status | Start | Finish | Actual Start | Actual Finish | % Complete | Total Float (d) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| DMM-Mil-1 | Project Commencement (Start) - Kickoff | Contractual Milestones | Milestone | Completed | 2025-07-30 | 2025-07-30 | 2025-07-30 | 2025-07-30 | 100 |  |
+| DMM-Mil-2 | Medium Voltage Network - Finish | Contractual Milestones | Milestone | Not Started | 2026-11-08 | 2026-11-08 |  |  | 0 | 71 |
+| DMM-Mil-3 | Road Works & Asphalt - Finish | Contractual Milestones | Milestone | Not Started | 2026-11-22 | 2026-11-22 |  |  | 0 | 25 |
+| DMM-Mil-4 | Engineering - Finish | Contractual Milestones | Milestone | Not Started | 2026-10-05 | 2026-10-05 |  |  | 0 | 8 |
+| DMM-Mil-5 | Sewerage Network - Finish | Networks & Stations | Milestone | Not Started | 2026-10-24 | 2026-10-24 |  |  | 0 | 84 |
+| DMM-Mil-6 | Storm Water Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-30 | 2026-11-30 |  |  | 0 | 13 |
+| DMM-Mil-7 | Potable Water Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-12 | 2026-11-12 |  |  | 0 | 67 |
+| DMM-Mil-8 | TSE Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-17 | 2026-11-17 |  |  | 0 | 63 |
+| DMM-Mil-9 | Telecommunication Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-28 | 2026-11-28 |  |  | 0 | 54.9 |
+| DMM-Mil-10 | Low Voltage Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-16 | 2026-11-16 |  |  | 0 | 64 |
+| DMM-Mil-11 | Fire Fighting Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-25 | 2026-11-25 |  |  | 0 | 56 |
+| DMM-Mil-12 | Street Lighting Network - Finish | Networks & Stations | Milestone | Not Started | 2026-11-25 | 2026-11-25 |  |  | 0 | 56 |
+| DMM-Mil-13 | Zone 01 - Finish | Zonewise Milestones | Milestone | Not Started | 2026-10-21 | 2026-10-21 |  |  | 0 | 41 |
+| DMM-Mil-14 | Zone 02 - Finish | Zonewise Milestones | Milestone | Not Started | 2026-11-29 | 2026-11-29 |  |  | 0 | 36.8 |
+| DMM-Mil-15 | Zone 03 - Finish | Zonewise Milestones | Milestone | Not Started | 2026-11-22 | 2026-11-22 |  |  | 0 | 59 |
+| DMM-Mil-16 | Zone 04 - Finish | Zonewise Milestones | Milestone | Not Started | 2026-11-29 | 2026-11-29 |  |  | 0 | 53 |
+| DMM-Mil-17 | Potable Water Pump Station - Finish | Networks & Stations | Milestone | Not Started | 2026-11-26 | 2026-11-26 |  |  | 0 | 3 |
+| DMM-Mil-18 | Sewage Lift Station - Finish | Networks & Stations | Milestone | Not Started | 2026-11-22 | 2026-11-22 |  |  | 0 | 34 |
+| DMM2-Mob-04 | Store & Laydown Area | Site Facilities and Offices | Task | Completed | 2025-09-10 | 2025-10-05 | 2025-09-10 | 2025-10-05 | 100 |  |
+| DMM2-Mob-05 | Project Laboratory Installation & Equiping | Site Facilities and Offices | Task | Completed | 2025-09-17 | 2025-10-19 | 2025-09-17 | 2025-10-19 | 100 |  |
+| DMM2-Mob-06 | Project Main Signboards Installation | Site Facilities and Offices | Task | Completed | 2025-08-17 | 2025-08-21 | 2025-08-17 | 2025-08-23 | 100 |  |
+| DMM2-Mob-07 | Offices, Parking Slots, Gates Installation | Site Facilities and Offices | Task | Completed | 2025-09-20 | 2025-11-04 | 2025-09-20 | 2025-11-04 | 100 |  |
+| DMM2-Mob-08 | Site Access Roads Clearing & Grubbing | Site Facilities and Offices | Task | Completed | 2025-08-10 | 2025-08-17 | 2025-08-10 | 2025-08-18 | 100 |  |
+| DMM2-Mob-09 | Manpower Crews & Project Staff Mobilization | Site Facilities and Offices | Task | Completed | 2025-08-11 | 2025-10-08 | 2025-08-11 | 2025-10-08 | 100 |  |
+| DMM2-Mob-010 | Equipment Mobilization | Site Facilities and Offices | Task | Completed | 2025-08-10 | 2025-09-09 | 2025-08-10 | 2025-09-10 | 100 |  |
+| DMM2-Mob-011 | Prepare & Submit | Soil Investigation | Task | Completed | 2025-08-27 | 2025-09-01 | 2025-08-27 | 2025-09-01 | 100 |  |
+| DMM2-Mob-012 | Review & Approval | Soil Investigation | Task | Completed | 2025-09-02 | 2025-09-22 | 2025-09-02 | 2025-09-22 | 100 |  |
+| DMM2-Mob-013 | Prepare & Submit | Project Management Plans | Task | Completed | 2025-08-18 | 2025-09-09 | 2025-08-18 | 2025-09-09 | 100 |  |
+| DMM2-Mob-014 | Prepare & Submit | Quality Plans | Task | Completed | 2025-08-26 | 2025-09-02 | 2025-08-26 | 2025-09-02 | 100 |  |
+| DMM2-Mob-015 | Prepare & Submit | Baseline Schedule | Task | Completed | 2025-08-16 | 2025-11-13 | 2025-08-16 | 2025-11-13 | 100 |  |
+| DMM2-Mob-016 | Prepare & Submit | HSE Plans | Task | Completed | 2025-08-11 | 2025-08-24 | 2025-08-11 | 2025-08-24 | 100 |  |
+| DMM2-Mob-017 | Prepare & Submit | Site Mobilization Plan | Task | Completed | 2025-08-11 | 2025-08-12 | 2025-08-11 | 2025-08-12 | 100 |  |
+| DMM2-Mob-018 | Prepare & Submit | Organization Chart and Recruitment Plan | Task | Completed | 2025-08-13 | 2025-08-14 | 2025-08-13 | 2025-08-14 | 100 |  |
+| DMM2-Mob-019 | Review & Approval | Quality Plans | Task | Completed | 2025-09-03 | 2025-09-20 | 2025-09-03 | 2025-09-20 | 100 |  |
+| DMM2-Mob-020 | Review & Approval | Baseline Schedule | Task | Completed | 2025-11-15 | 2025-11-18 | 2025-11-15 | 2025-11-19 | 100 |  |
+| DMM2-Mob-021 | Review & Approval | HSE Plans | Task | Completed | 2025-10-08 | 2025-11-04 | 2025-10-08 | 2025-11-04 | 100 |  |
+| DMM2-Mob-022 | Review & Approval | Site Mobilization Plan | Task | Completed | 2025-08-13 | 2025-08-19 | 2025-08-13 | 2025-08-19 | 100 |  |
+| DMM2-Mob-023 | Review & Approval | Organization Chart and Recruitment Plan | Task | Completed | 2025-08-16 | 2025-08-18 | 2025-08-16 | 2025-08-18 | 100 |  |
+| DMM2-Mob-024 | Review & Approval | Project Management Plans | Task | Completed | 2025-09-10 | 2025-09-20 | 2025-09-10 | 2025-09-20 | 100 |  |
+| DMM2-Mob-025 | Nurse Room Installation & Equiping | Site Facilities and Offices | Task | Completed | 2025-09-10 | 2025-09-28 | 2025-09-10 | 2025-09-28 | 100 |  |
+| DMM2-Mob-026 | Site Utilities, Cabins, Offices Electrical & Sanitary Wares | Site Facilities and Offices | Task | Completed | 2025-08-20 | 2025-09-04 | 2025-08-20 | 2025-09-04 | 100 |  |
+| DMM-Mil-28 | Project Commencement Finish | Contractual Milestones | Milestone | Not Started | 2027-01-29 | 2027-01-29 |  |  | 0 | 0 |
+| DMM-Mil-38 | Mobilization - Finish | Contractual Milestones | Milestone | Completed | 2025-11-25 | 2025-11-25 | 2025-11-25 | 2025-11-25 | 100 |  |
+| DMM2-Mob-01 | Dewatering Plan & Permission | Authorities Permits & Approvals | Task | Completed | 2025-09-20 | 2025-11-06 | 2025-09-20 | 2025-11-06 | 100 |  |
+| DMM2-Mob-02 | Electric Current Permission | Authorities Permits & Approvals | Task | Completed | 2025-08-09 | 2025-08-24 | 2025-08-09 | 2025-08-24 | 100 |  |
+| DMM2-Mob-03 | Water & Sewer Permission | Authorities Permits & Approvals | Task | Completed | 2025-08-12 | 2025-08-18 | 2025-08-12 | 2025-08-18 | 100 |  |
+| DMM2-Eng-SD-01 | Prepare & Submit | Earth & Road Works | Task | Completed | 2025-09-24 | 2025-11-03 | 2025-09-24 | 2025-11-03 | 100 |  |
+| DMM2-Eng-SD-02 | Review & Approval | Earth & Road Works | Task | Completed | 2025-10-07 | 2025-11-11 | 2025-10-07 | 2025-11-11 | 100 |  |
+| DMM2-Eng-SD-03 | Prepare & Submit | Landscape Works | Task | Completed | 2025-10-26 | 2025-12-11 | 2025-10-26 | 2025-12-11 | 100 |  |
+| DMM2-Eng-SD-04 | Review & Approval | Landscape Works | Task | Completed | 2025-10-30 | 2026-01-03 | 2025-10-30 | 2026-01-03 | 100 |  |
+| DMM2-Eng-SD-05 | Prepare & Submit | Civil & Architecture | Task | Completed | 2025-10-15 | 2025-10-20 | 2025-10-15 | 2025-10-20 | 100 |  |
+| DMM2-Eng-SD-06 | Review & Approval | Civil & Architecture | Task | Completed | 2025-10-21 | 2025-11-06 | 2025-10-21 | 2025-11-06 | 100 |  |
+| DMM2-Eng-SD-07 | Prepare & Submit | Sewerage Network | Task | Completed | 2025-09-08 | 2025-10-19 | 2025-09-08 | 2025-10-19 | 100 |  |
+| DMM2-Eng-SD-08 | Review & Approval | Sewerage Network | Task | Completed | 2025-10-20 | 2025-10-22 | 2025-10-20 | 2025-10-22 | 100 |  |
+| DMM2-Eng-SD-09 | Prepare & Submit | Storm Network | Task | Completed | 2025-08-30 | 2025-10-25 | 2025-08-30 | 2025-10-25 | 100 |  |
+| DMM2-Eng-SD-010 | Review & Approval | Storm Network | Task | Completed | 2025-10-26 | 2025-10-30 | 2025-10-26 | 2025-10-30 | 100 |  |
+| DMM2-Eng-SD-011 | Prepare & Submit | Potable Network | Task | Completed | 2025-09-16 | 2025-10-27 | 2025-09-16 | 2025-10-27 | 100 |  |
+| DMM2-Eng-SD-012 | Review & Approval | Potable Network | Task | Completed | 2025-10-28 | 2025-11-03 | 2025-10-28 | 2025-11-03 | 100 |  |
+| DMM2-Eng-SD-013 | Prepare & Submit | TSE Network | Task | Completed | 2025-10-29 | 2025-12-11 | 2025-10-29 | 2025-12-11 | 100 |  |
+| DMM2-Eng-SD-014 | Review & Approval | TSE Network | Task | Completed | 2025-11-03 | 2026-01-14 | 2025-11-03 | 2026-01-14 | 100 |  |
+| DMM2-Eng-SD-015 | Prepare & Submit | Fire Fighting Network | Task | Completed | 2025-10-11 | 2025-11-01 | 2025-10-11 | 2025-11-01 | 100 |  |
+| DMM2-Eng-SD-016 | Review & Approval | Fire Fighting Network | Task | Completed | 2025-11-02 | 2025-11-10 | 2025-11-02 | 2025-11-10 | 100 |  |
+| DMM2-Eng-SD-017 | Prepare & Submit | Potable Water Pump Station | Task | Completed | 2025-10-16 | 2025-12-10 | 2025-10-16 | 2025-12-10 | 100 |  |
+| DMM2-Eng-SD-018 | Review & Approval | Potable Water Pump Station | Task | Completed | 2025-10-20 | 2026-01-01 | 2025-10-20 | 2026-01-01 | 100 |  |
+| DMM2-Eng-SD-019 | Prepare & Submit | Sewer Lift Station | Task | Completed | 2025-11-25 | 2025-12-11 | 2025-11-25 | 2025-12-11 | 100 |  |
+| DMM2-Eng-SD-020 | Review & Approval | Sewer Lift Station | Task | Completed | 2025-11-30 | 2025-12-24 | 2025-11-30 | 2025-12-24 | 100 |  |
+| DMM2-Eng-SD-021 | Prepare & Submit | Medium Voltage Network | Task | Completed | 2025-09-27 | 2025-10-11 | 2025-09-27 | 2025-10-11 | 100 |  |
+| DMM2-Eng-SD-022 | Review & Approval | Medium Voltage Network | Task | Completed | 2025-10-12 | 2025-10-16 | 2025-10-12 | 2025-10-16 | 100 |  |
+| DMM2-Eng-SD-023 | Prepare & Submit | Low Voltage Network | Task | Completed | 2025-10-04 | 2025-10-11 | 2025-10-04 | 2025-10-11 | 100 |  |
+| DMM2-Eng-SD-024 | Review & Approval | Low Voltage Network | Task | Completed | 2025-10-12 | 2025-10-16 | 2025-10-12 | 2025-10-16 | 100 |  |
+| DMM2-Eng-SD-025 | Prepare & Submit | Telecommunication Network | Task | Completed | 2025-10-02 | 2025-10-15 | 2025-10-02 | 2025-10-15 | 100 |  |
+| DMM2-Eng-SD-026 | Review & Approval | Telecommunication Network | Task | Completed | 2025-10-16 | 2025-10-20 | 2025-10-16 | 2025-10-20 | 100 |  |
+| DMM2-Eng-SD-027 | Prepare & Submit | Street Lighting | Task | Completed | 2025-10-01 | 2025-10-11 | 2025-10-01 | 2025-10-11 | 100 |  |
+| DMM2-Eng-SD-028 | Review & Approval | Street Lighting | Task | Completed | 2025-10-12 | 2025-10-16 | 2025-10-12 | 2025-10-16 | 100 |  |
+| DMM2-Eng-PQ-01 | Prepare & Submit for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-10-15 | 2025-10-15 | 2025-10-15 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-02 | Prepare & Submit for Agg. Base Coarse | Earth & Road Works | Task | Completed | 2025-10-14 | 2025-10-15 | 2025-10-14 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-03 | Prepare & Submit for Asphalt Materials | Earth & Road Works | Task | Completed | 2025-10-14 | 2025-11-11 | 2025-10-14 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-04 | Prepare & Submit for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-10-14 | 2025-11-16 | 2025-10-14 | 2025-11-16 | 100 |  |
+| DMM2-Eng-PQ-05 | Prepare & Submit for Curbstone Materials | Earth & Road Works | Task | Completed | 2025-12-17 | 2025-12-18 | 2025-12-17 | 2025-12-18 | 100 |  |
+| DMM2-Eng-PQ-06 | Prepare & Submit for Trees Materials | Landscape Works | Task | Completed | 2025-12-31 | 2026-02-09 | 2025-12-31 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-07 | Prepare & Submit for Ornamental Grasses Materials | Landscape Works | Task | Completed | 2025-12-31 | 2026-02-09 | 2025-12-31 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-08 | Prepare & Submit for Geotextile Layers Materials | Landscape Works | Task | Completed | 2025-12-04 | 2025-12-06 | 2025-12-04 | 2025-12-06 | 100 |  |
+| DMM2-Eng-PQ-09 | Prepare & Submit for Plastic edge Materials | Landscape Works | Task | Completed | 2025-12-31 | 2026-02-09 | 2025-12-31 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-010 | Prepare & Submit for Large Shrubs Materials | Landscape Works | Task | Completed | 2026-01-04 | 2026-02-09 | 2026-01-04 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-011 | Prepare & Submit for Interlock Materials | Earth & Road Works | Task | Completed | 2025-11-16 | 2025-11-17 | 2025-11-16 | 2025-11-17 | 100 |  |
+| DMM2-Eng-PQ-012 | Prepare & Submit for Pavement Markings Materials | Earth & Road Works | Task | Completed | 2026-01-05 | 2026-01-06 | 2026-01-05 | 2026-01-06 | 100 |  |
+| DMM2-Eng-PQ-013 | Prepare & Submit for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Completed | 2026-01-14 | 2026-01-15 | 2026-01-14 | 2026-01-15 | 100 |  |
+| DMM2-Eng-PQ-014 | Prepare & Submit for Traffic Signs Materials | Earth & Road Works | Task | Completed | 2025-12-31 | 2026-01-01 | 2025-12-31 | 2026-01-01 | 100 |  |
+| DMM2-Eng-PQ-015 | Prepare & Submit for ground Mounted Information Signs Materials | Earth & Road Works | Task | Completed | 2026-01-17 | 2026-01-18 | 2026-01-17 | 2026-01-18 | 100 |  |
+| DMM2-Eng-PQ-016 | Prepare & Submit for Plants Materials | Landscape Works | Task | Completed | 2026-01-03 | 2026-02-09 | 2026-01-03 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-017 | Prepare & Submit for Gravel/Stone Mulch Materials | Landscape Works | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-018 | Prepare & Submit for Fences (ZATCA HCIS) Materials | Landscape Works | Task | Completed | 2025-11-09 | 2025-11-10 | 2025-11-09 | 2025-11-10 | 100 |  |
+| DMM2-Eng-PQ-019 | Prepare & Submit for Fences (MODON) Materials | Landscape Works | Task | Completed | 2025-12-10 | 2025-12-13 | 2025-12-10 | 2025-12-13 | 100 |  |
+| DMM2-Eng-PQ-020 | Prepare & Submit for Vehicle Steel Gate Materials | Landscape Works | Task | Completed | 2026-05-12 | 2026-05-19 | 2026-05-12 | 2026-05-19 | 100 |  |
+| DMM2-Eng-PQ-021 | Prepare & Submit for Vehicle and Pedestrian Steel Gate Materials | Landscape Works | Task | Completed | 2026-05-12 | 2026-05-19 | 2026-05-12 | 2026-05-19 | 100 |  |
+| DMM2-Eng-PQ-022 | Prepare & Submit for Lean Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-19 | 2025-10-20 | 2025-10-19 | 2025-10-20 | 100 |  |
+| DMM2-Eng-PQ-023 | Prepare & Submit for Stone Coping Materials | Civil & Architecture | Task | Completed | 2025-12-17 | 2025-12-18 | 2025-12-17 | 2025-12-18 | 100 |  |
+| DMM2-Eng-PQ-024 | Prepare & Submit for Screed Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-19 | 2025-10-20 | 2025-10-19 | 2025-10-20 | 100 |  |
+| DMM2-Eng-PQ-025 | Prepare & Submit for Foam Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-19 | 2025-10-20 | 2025-10-19 | 2025-10-20 | 100 |  |
+| DMM2-Eng-PQ-026 | Prepare & Submit for Reinforced Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-19 | 2025-10-20 | 2025-10-19 | 2025-10-20 | 100 |  |
+| DMM2-Eng-PQ-027 | Prepare & Submit for Vapor Retarders Materials | Civil & Architecture | Task | Completed | 2025-12-06 | 2025-12-09 | 2025-12-06 | 2025-12-09 | 100 |  |
+| DMM2-Eng-PQ-028 | Prepare & Submit for Board Insulation Materials | Civil & Architecture | Task | Completed | 2025-12-06 | 2025-12-09 | 2025-12-06 | 2025-12-09 | 100 |  |
+| DMM2-Eng-PQ-029 | Prepare & Submit for Fluid-Applied Water Proofing Paint Materials | Civil & Architecture | Task | Completed | 2026-03-04 | 2026-03-07 | 2026-03-04 | 2026-03-07 | 100 |  |
+| DMM2-Eng-PQ-030 | Prepare & Submit for Water proofing Membrane Materials | Civil & Architecture | Task | Completed | 2025-12-17 | 2025-12-18 | 2025-12-17 | 2025-12-18 | 100 |  |
+| DMM2-Eng-PQ-031 | Prepare & Submit for Concrete Masonry Materials | Civil & Architecture | Task | Completed | 2025-11-09 | 2025-11-11 | 2025-11-09 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-032 | Prepare & Submit for Porcelain Flooring Tiles Materials | Civil & Architecture | Task | Completed | 2026-05-10 | 2026-05-11 | 2026-05-10 | 2026-05-11 | 100 |  |
+| DMM2-Eng-PQ-033 | Prepare & Submit for gypsum Board Suspended Ceiling Materials | Civil & Architecture | Task | Completed | 2026-08-12 | 2026-08-13 | 2026-08-12 | 2026-08-13 | 100 |  |
+| DMM2-Eng-PQ-034 | Prepare & Submit for Painting Materials | Civil & Architecture | Task | Completed | 2026-05-13 | 2026-05-14 | 2026-05-13 | 2026-05-14 | 100 |  |
+| DMM2-Eng-PQ-035 | Prepare & Submit for Raised Floor System Materials | Civil & Architecture | Task | Completed | 2026-08-08 | 2026-08-10 | 2026-08-08 | 2026-08-10 | 100 |  |
+| DMM2-Eng-PQ-036 | Prepare & Submit for Steel Doors Materials | Civil & Architecture | Task | Completed | 2026-04-11 | 2026-04-11 | 2026-04-10 | 2026-04-11 | 100 |  |
+| DMM2-Eng-PQ-037 | Prepare & Submit for Wood Doors Materials | Civil & Architecture | Task | Completed | 2026-05-17 | 2026-05-18 | 2026-05-17 | 2026-05-18 | 100 |  |
+| DMM2-Eng-PQ-038 | Prepare & Submit for Aluminum Windows Materials | Civil & Architecture | Task | Completed | 2026-05-20 | 2026-05-21 | 2026-05-20 | 2026-05-21 | 100 |  |
+| DMM2-Eng-PQ-039 | Prepare & Submit for Exhaust Axial Fans Materials | Mechanical | Task | Completed | 2026-05-14 | 2026-05-18 | 2026-05-14 | 2026-05-18 | 100 |  |
+| DMM2-Eng-PQ-040 | Prepare & Submit for uPVC Pipes Materials | Mechanical | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-041 | Prepare & Submit for PPR Pipes Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-042 | Prepare & Submit for DX Wall Mounted Split/AC Materials | Mechanical | Task | Completed | 2025-10-25 | 2025-10-30 | 2025-10-25 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-043 | Prepare & Submit for Scupper Materials | Mechanical | Task | Completed | 2026-07-28 | 2026-07-30 | 2026-07-28 | 2026-07-30 | 100 |  |
+| DMM2-Eng-PQ-044 | Prepare & Submit for Clean out Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 8 |
+| DMM2-Eng-PQ-045 | Prepare & Submit for Floor Drain Materials | Mechanical | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-046 | Prepare & Submit for Electrical Water Heater Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-047 | Prepare & Submit for Manhole Materials | Mechanical | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-048 | Prepare & Submit for Shower Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 12 |
+| DMM2-Eng-PQ-049 | Prepare & Submit for Toilet Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 12 |
+| DMM2-Eng-PQ-050 | Prepare & Submit for Semi Pedestal Sink Materials | Mechanical | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 12 |
+| DMM2-Eng-PQ-051 | Prepare & Submit for Fire Extinguishers (CO2 & Powder) Materials | Mechanical | Task | Completed | 2025-11-30 | 2025-12-01 | 2025-11-30 | 2025-12-01 | 100 |  |
+| DMM2-Eng-PQ-052 | Prepare & Submit for Panelboards Materials | Electrical | Task | Completed | 2026-02-05 | 2026-02-10 | 2026-02-05 | 2026-02-10 | 100 |  |
+| DMM2-Eng-PQ-053 | Prepare & Submit for Low Voltage Cable Materials | Electrical | Task | Completed | 2025-10-14 | 2025-10-15 | 2025-10-14 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-054 | Prepare & Submit for Lighting Materials | Electrical | Task | Completed | 2026-01-07 | 2026-01-08 | 2026-01-07 | 2026-01-08 | 100 |  |
+| DMM2-Eng-PQ-055 | Prepare & Submit for Wiring Devices Materials | Electrical | Task | Completed | 2026-02-08 | 2026-02-09 | 2026-02-08 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-056 | Prepare & Submit for Ground Wires, Rods, Pits, Clamping Materials | Electrical | Task | Completed | 2025-10-14 | 2025-10-15 | 2025-10-14 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-057 | Prepare & Submit for Enclosed Switches and Circuit Breakers Materials | Electrical | Task | Completed | 2026-01-07 | 2026-01-08 | 2026-01-07 | 2026-01-08 | 100 |  |
+| DMM2-Eng-PQ-058 | Prepare & Submit for Fire Alarm System Materials | Electrical | Task | Completed | 2025-12-24 | 2026-01-04 | 2025-12-24 | 2026-01-04 | 100 |  |
+| DMM2-Eng-PQ-059 | Prepare & Submit for Data and Voice System Materials | Electrical | Task | Completed | 2026-05-17 | 2026-06-11 | 2026-05-17 | 2026-06-11 | 100 |  |
+| DMM2-Eng-PQ-060 | Prepare & Submit for Data Cabinet Materials | Electrical | Task | Completed | 2026-05-03 | 2026-05-07 | 2026-05-03 | 2026-05-07 | 100 |  |
+| DMM2-Eng-PQ-061 | Prepare & Submit for Data/ Voice RJ45 Outlet Materials | Electrical | Task | Completed | 2026-05-17 | 2026-05-19 | 2026-05-17 | 2026-05-19 | 100 |  |
+| DMM2-Eng-PQ-062 | Prepare & Submit for PC Workstation Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-063 | Prepare & Submit for 50 inch Screen Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-064 | Prepare & Submit for GRP Pipes Materials | Storm Network | Task | Completed | 2025-10-01 | 2025-11-20 | 2025-10-01 | 2025-11-20 | 100 |  |
+| DMM2-Eng-PQ-065 | Prepare & Submit for Steel Reinforcement Materials | Storm Network | Task | Completed | 2025-10-09 | 2025-10-11 | 2025-10-09 | 2025-10-11 | 100 |  |
+| DMM2-Eng-PQ-066 | Prepare & Submit for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-067 | Prepare & Submit for Concrete Chambers & Catch Basin Materials | Storm Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-068 | Prepare & Submit for uPVC Pipes Materials | Storm Network | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-069 | Prepare & Submit for HDPE Pipes Materials | Sewerage Network | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-070 | Prepare & Submit for Valves Chambers Materials | Sewerage Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-071 | Prepare & Submit for Valves Materials | Sewerage Network | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-072 | Prepare & Submit for Discharge Chamber Materials | Sewerage Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-073 | Prepare & Submit for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-074 | Prepare & Submit for Valves Materials | Fire Fighting Network | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-075 | Prepare & Submit for Valves Chambers Materials | Fire Fighting Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-076 | Prepare & Submit for HDPE Pipes Materials | Potable Network | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-077 | Prepare & Submit for Valves Materials | Potable Network | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-078 | Prepare & Submit for Valves & Flow Meter Chambers Materials | Potable Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-079 | Prepare & Submit for Flow Meter Materials | Potable Network | Task | Completed | 2025-12-10 | 2025-12-13 | 2025-12-10 | 2025-12-13 | 100 |  |
+| DMM2-Eng-PQ-080 | Prepare & Submit for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-081 | Prepare & Submit for Solenoid Primary Control Valves Materials | TSE Network | Task | Completed | 2026-02-18 | 2026-02-21 | 2026-02-18 | 2026-02-22 | 100 |  |
+| DMM2-Eng-PQ-082 | Prepare & Submit for Valves Materials | TSE Network | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-083 | Prepare & Submit for Metal Ladders Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-084 | Prepare & Submit for Metal Covers Materials | Civil & Architecture | Task | Completed | 2026-01-07 | 2026-01-08 | 2026-01-07 | 2026-01-08 | 100 |  |
+| DMM2-Eng-PQ-085 | Prepare & Submit for Internal Painting (Acrylic) Materials | Civil & Architecture | Task | Completed | 2026-08-03 | 2026-08-06 | 2026-08-03 | 2026-08-06 | 100 |  |
+| DMM2-Eng-PQ-086 | Prepare & Submit for Signages Materials | Civil & Architecture | Task | Completed | 2026-08-09 | 2026-08-12 | 2026-08-09 | 2026-08-12 | 100 |  |
+| DMM2-Eng-PQ-087 | Prepare & Submit for Submersible Pumps Materials | Mechanical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-088 | Prepare & Submit for Double Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-089 | Prepare & Submit for Buried Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-090 | Prepare & Submit for Geotextile Membrane Materials | Civil & Architecture | Task | Completed | 2025-12-04 | 2025-12-06 | 2025-12-04 | 2025-12-06 | 100 |  |
+| DMM2-Eng-PQ-091 | Prepare & Submit for Non Return Valve (Flap) Materials | Mechanical | Task | Completed | 2025-08-31 | 2025-09-20 | 2025-08-31 | 2025-09-20 | 100 |  |
+| DMM2-Eng-PQ-092 | Prepare & Submit for Basket Screens Materials | Mechanical | Task | Completed | 2025-12-30 | 2026-02-04 | 2025-12-30 | 2026-02-04 | 100 |  |
+| DMM2-Eng-PQ-093 | Prepare & Submit for Odor Control Unit Materials | Mechanical | Task | Completed | 2025-11-19 | 2025-11-20 | 2025-11-19 | 2025-11-20 | 100 |  |
+| DMM2-Eng-PQ-094 | Prepare & Submit for Surge Tank Materials | Mechanical | Task | Completed | 2025-12-31 | 2026-05-24 | 2025-12-31 | 2026-05-24 | 100 |  |
+| DMM2-Eng-PQ-095 | Prepare & Submit for JIB Crane Materials | Mechanical | Task | Completed | 2025-11-19 | 2025-11-20 | 2025-11-19 | 2025-11-20 | 100 |  |
+| DMM2-Eng-PQ-096 | Prepare & Submit for Penstock Materials | Mechanical | Task | Completed | 2025-12-31 | 2026-02-04 | 2025-12-31 | 2026-02-04 | 100 |  |
+| DMM2-Eng-PQ-097 | Prepare & Submit for Screening Container Materials | Mechanical | Task | Completed | 2025-12-31 | 2026-02-04 | 2025-12-31 | 2026-02-04 | 100 |  |
+| DMM2-Eng-PQ-098 | Prepare & Submit for Scupper Materials | Mechanical | Task | Completed | 2025-12-31 | 2026-02-04 | 2025-12-31 | 2026-02-04 | 100 |  |
+| DMM2-Eng-PQ-099 | Prepare & Submit for Motor Control Center (MCC) Materials | Electrical | Task | Completed | 2025-12-15 | 2025-12-15 | 2025-12-15 | 2025-12-15 | 100 |  |
+| DMM2-Eng-PQ-0100 | Prepare & Submit for Local Control Panel Materials | Electrical | Task | Completed | 2025-12-15 | 2025-12-15 | 2025-12-15 | 2025-12-15 | 100 |  |
+| DMM2-Eng-PQ-0101 | Prepare & Submit for Low Voltage Cables Materials | Electrical | Task | Completed | 2025-10-14 | 2025-10-15 | 2025-10-14 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-0102 | Prepare & Submit for Standby Diesel Generator Materials | Electrical | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-0103 | Prepare & Submit for Fuel Pump Materials | Electrical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-0104 | Prepare & Submit for Automatic Transfer (Switch ATS) Materials | Electrical | Task | Completed | 2025-12-15 | 2025-12-15 | 2025-12-15 | 2025-12-15 | 100 |  |
+| DMM2-Eng-PQ-0105 | Prepare & Submit for Under Ground Fuel Tank Materials | Electrical | Task | Completed | 2025-12-24 | 2025-12-28 | 2025-12-24 | 2025-12-28 | 100 |  |
+| DMM2-Eng-PQ-0106 | Prepare & Submit for Displacement Rotary Type Pump Materials | Electrical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-0107 | Prepare & Submit for Electrical Hand Holes Materials | Electrical | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-0108 | Prepare & Submit for Galvanized Steel Pole Materials | Electrical | Task | Completed | 2025-12-13 | 2025-12-14 | 2025-12-13 | 2025-12-14 | 100 |  |
+| DMM2-Eng-PQ-0109 | Prepare & Submit for Surfaced Mounted Light (LED) Materials | Electrical | Task | Completed | 2026-02-11 | 2026-03-18 | 2026-02-11 | 2026-03-18 | 100 |  |
+| DMM2-Eng-PQ-0110 | Prepare & Submit for PLC System Materials | Electrical | Task | Completed | 2025-10-29 | 2025-10-30 | 2025-10-29 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-0111 | Prepare & Submit for Process Control Wiring Materials | Electrical | Task | Completed | 2025-12-21 | 2025-12-22 | 2025-12-21 | 2025-12-22 | 100 |  |
+| DMM2-Eng-PQ-0112 | Prepare & Submit for Instrumentation for Process Systems Materials | Electrical | Task | Completed | 2026-01-18 | 2026-01-19 | 2026-01-18 | 2026-01-19 | 100 |  |
+| DMM2-Eng-PQ-0113 | Prepare & Submit for Stairs Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-0114 | Prepare & Submit for CMU Walls Materials | Civil & Architecture | Task | Completed | 2025-11-10 | 2025-11-11 | 2025-11-10 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-0115 | Prepare & Submit for Stainless Steel Ladder Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-0116 | Prepare & Submit for Steel shutter Door Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-0117 | Prepare & Submit for Metal Railing Materials | Civil & Architecture | Task | Completed | 2026-07-11 | 2026-07-12 | 2026-07-11 | 2026-07-12 | 100 |  |
+| DMM2-Eng-PQ-0118 | Prepare & Submit for Gravel Materials | Civil & Architecture | Task | Completed | 2025-12-31 | 2026-01-01 | 2025-12-31 | 2026-01-01 | 100 |  |
+| DMM2-Eng-PQ-0119 | Prepare & Submit for Handrail Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-0120 | Prepare & Submit for Water Pumps Materials | Mechanical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-0121 | Prepare & Submit for Fire Pumps Materials | Mechanical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-0122 | Prepare & Submit for Butterfly Valve Materials | Mechanical | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-0123 | Prepare & Submit for OverHead Crane Materials | Mechanical | Task | Completed | 2025-11-19 | 2025-11-20 | 2025-11-19 | 2025-11-20 | 100 |  |
+| DMM2-Eng-PQ-0124 | Prepare & Submit for Strainers Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| DMM2-Eng-PQ-0125 | Prepare & Submit for Sand Trap Louver Materials | Mechanical | Task | Completed | 2026-07-06 | 2026-07-08 | 2026-07-06 | 2026-07-08 | 100 |  |
+| DMM2-Eng-PQ-0126 | Prepare & Submit for FM200 Supression System Materials | Mechanical | Task | Completed | 2025-09-24 | 2025-09-25 | 2025-09-24 | 2025-09-25 | 100 |  |
+| DMM2-Eng-PQ-0127 | Prepare & Submit for Hose Bibb Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 17 |
+| DMM2-Eng-PQ-0128 | Prepare & Submit for Exhaust Fans Materials | Mechanical | Task | Completed | 2026-01-21 | 2026-01-25 | 2026-01-21 | 2026-01-25 | 100 |  |
+| DMM2-Eng-PQ-0129 | Prepare & Submit for Chlorine Cylinder Racks Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| DMM2-Eng-PQ-0130 | Prepare & Submit for Chlorinators Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| DMM2-Eng-PQ-0131 | Prepare & Submit for Discharge Line Analyzer Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| DMM2-Eng-PQ-0132 | Prepare & Submit for Emergency shower Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| DMM2-Eng-PQ-0133 | Prepare & Submit for Trench Drain Materials | Mechanical | Task | Completed | 2026-07-02 | 2026-07-05 | 2026-07-02 | 2026-07-05 | 100 |  |
+| DMM2-Eng-PQ-0134 | Prepare & Submit for Switches and Circuit Breakers Materials | Electrical | Task | Completed | 2026-02-11 | 2026-02-12 | 2026-02-11 | 2026-02-12 | 100 |  |
+| DMM2-Eng-PQ-0135 | Prepare & Submit for MV Cables Materials | Medium Voltage Network | Task | Completed | 2025-12-20 | 2025-12-27 | 2025-12-20 | 2025-12-27 | 100 |  |
+| DMM2-Eng-PQ-0136 | Prepare & Submit for Straight Joints, Termination Materials | Medium Voltage Network | Task | Completed | 2025-12-20 | 2025-12-22 | 2025-12-20 | 2025-12-22 | 100 |  |
+| DMM2-Eng-PQ-0137 | Prepare & Submit for Unit Substation Materials | Medium Voltage Network | Task | Completed | 2026-01-03 | 2026-01-03 | 2026-01-02 | 2026-01-03 | 100 |  |
+| DMM2-Eng-PQ-0138 | Prepare & Submit for RMU Materials | Medium Voltage Network | Task | Completed | 2026-01-03 | 2026-01-05 | 2026-01-03 | 2026-01-05 | 100 |  |
+| DMM2-Eng-PQ-0139 | Prepare & Submit for LV Cables Materials | Low Voltage Network | Task | Completed | 2025-10-14 | 2025-10-15 | 2025-10-14 | 2025-10-15 | 100 |  |
+| DMM2-Eng-PQ-0140 | Prepare & Submit for LV Pillars Materials | Low Voltage Network | Task | Completed | 2026-01-15 | 2026-01-15 | 2026-01-15 | 2026-01-15 | 100 |  |
+| DMM2-Eng-PQ-0141 | Prepare & Submit for SL Pillars Materials | Street Lighting | Task | Completed | 2026-01-15 | 2026-01-15 | 2026-01-15 | 2026-01-15 | 100 |  |
+| DMM2-Eng-PQ-0142 | Prepare & Submit for SL Cables Materials | Street Lighting | Task | Completed | 2025-12-20 | 2025-12-22 | 2025-12-20 | 2025-12-22 | 100 |  |
+| DMM2-Eng-PQ-0143 | Prepare & Submit for SL Poles Materials | Street Lighting | Task | Completed | 2025-12-24 | 2025-12-25 | 2025-12-24 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-0144 | Prepare & Submit for SL Luminares Materials | Street Lighting | Task | Completed | 2025-12-24 | 2025-12-25 | 2025-12-24 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-0145 | Prepare & Submit for SL Earthing Materials | Street Lighting | Task | Completed | 2026-02-03 | 2026-02-07 | 2026-02-03 | 2026-02-07 | 100 |  |
+| DMM2-Eng-PQ-0146 | Prepare & Submit for SL Drawpits Materials | Street Lighting | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-0147 | Prepare & Submit for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-0148 | Prepare & Submit for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2025-11-02 | 2025-11-03 | 2025-11-02 | 2025-11-03 | 100 |  |
+| DMM2-Eng-PQ-148 | Review & Approval for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-10-15 | 2025-10-16 | 2025-10-15 | 2025-10-16 | 100 |  |
+| DMM2-Eng-PQ-158 | Review & Approval for Agg. Base Coarse | Earth & Road Works | Task | Completed | 2025-10-15 | 2025-10-16 | 2025-10-15 | 2025-10-16 | 100 |  |
+| DMM2-Eng-PQ-168 | Review & Approval for Asphalt Materials | Earth & Road Works | Task | Completed | 2025-10-15 | 2025-10-16 | 2025-10-15 | 2025-10-16 | 100 |  |
+| DMM2-Eng-PQ-178 | Review & Approval for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-10-15 | 2025-10-16 | 2025-10-15 | 2025-10-16 | 100 |  |
+| DMM2-Eng-PQ-188 | Review & Approval for Curbstone Materials | Earth & Road Works | Task | Completed | 2026-01-07 | 2026-01-08 | 2026-01-07 | 2026-01-08 | 100 |  |
+| DMM2-Eng-PQ-198 | Review & Approval for Interlock Materials | Earth & Road Works | Task | Completed | 2025-11-17 | 2025-11-18 | 2025-11-17 | 2025-11-18 | 100 |  |
+| DMM2-Eng-PQ-208 | Review & Approval for Pavement Markings Materials | Earth & Road Works | Task | Completed | 2026-07-26 | 2026-07-28 | 2026-07-26 | 2026-07-28 | 100 |  |
+| DMM2-Eng-PQ-218 | Review & Approval for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Completed | 2026-01-31 | 2026-02-04 | 2026-01-31 | 2026-02-04 | 100 |  |
+| DMM2-Eng-PQ-228 | Review & Approval for Traffic Signs Materials | Earth & Road Works | Task | Completed | 2026-07-15 | 2026-07-19 | 2026-07-15 | 2026-07-19 | 100 |  |
+| DMM2-Eng-PQ-238 | Review & Approval for Ground Mounted Information Signs Materials | Earth & Road Works | Task | Completed | 2026-07-25 | 2026-07-29 | 2026-07-25 | 2026-07-29 | 100 |  |
+| DMM2-Eng-PQ-248 | Review & Approval for GRP Pipes Materials | Storm Network | Task | Completed | 2025-10-05 | 2025-10-06 | 2025-10-05 | 2025-10-06 | 100 |  |
+| DMM2-Eng-PQ-258 | Review & Approval for Steel Reinforcement Materials | Storm Network | Task | Completed | 2025-11-13 | 2025-11-15 | 2025-11-13 | 2025-11-15 | 100 |  |
+| DMM2-Eng-PQ-268 | Review & Approval for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-278 | Review & Approval for Concrete Chambers & Catch Basin Materials | Storm Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-288 | Review & Approval for uPVC Pipes Materials | Storm Network | Task | Completed | 2025-11-04 | 2025-11-05 | 2025-11-04 | 2025-11-05 | 100 |  |
+| DMM2-Eng-PQ-298 | Review & Approval for HDPE Pipes Materials | Sewerage Network | Task | Completed | 2025-10-11 | 2025-10-12 | 2025-10-11 | 2025-10-12 | 100 |  |
+| DMM2-Eng-PQ-308 | Review & Approval for Valves Chambers Materials | Sewerage Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-318 | Review & Approval for Valves Materials | Sewerage Network | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-328 | Review & Approval for Discharge Chamber Materials | Sewerage Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-338 | Review & Approval for HDPE Pipes Materials | Potable Network | Task | Completed | 2025-10-11 | 2025-10-12 | 2025-10-11 | 2025-10-12 | 100 |  |
+| DMM2-Eng-PQ-348 | Review & Approval for Valves Materials | Potable Network | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-358 | Review & Approval for Valves Chambers Materials | Potable Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-368 | Review & Approval for Flow Meter Materials | Potable Network | Task | Completed | 2025-12-22 | 2025-12-25 | 2025-12-22 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-378 | Review & Approval for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-10-11 | 2025-10-12 | 2025-10-11 | 2025-10-12 | 100 |  |
+| DMM2-Eng-PQ-388 | Review & Approval for Solenoid Primary Control Valves Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-14 | 2026-01-13 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-398 | Review & Approval for Valves Materials | TSE Network | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-408 | Review & Approval for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2025-10-11 | 2025-10-12 | 2025-10-11 | 2025-10-12 | 100 |  |
+| DMM2-Eng-PQ-418 | Review & Approval for Valves Materials | Fire Fighting Network | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-428 | Review & Approval for Valves Chambers Materials | Fire Fighting Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-438 | Review & Approval for Stairs Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-448 | Review & Approval for CMU Walls Materials | Civil & Architecture | Task | Completed | 2025-08-11 | 2025-08-17 | 2025-08-11 | 2025-08-17 | 100 |  |
+| DMM2-Eng-PQ-458 | Review & Approval for Stainless Steel Ladder Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| DMM2-Eng-PQ-468 | Review & Approval for Steel shutter Door Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-07 | 2026-05-02 | 2026-05-07 | 100 |  |
+| DMM2-Eng-PQ-478 | Review & Approval for Metal Railing Materials | Civil & Architecture | Task | Completed | 2026-07-11 | 2026-07-12 | 2026-07-11 | 2026-07-12 | 100 |  |
+| DMM2-Eng-PQ-488 | Review & Approval for Gravel Materials | Civil & Architecture | Task | Completed | 2025-11-18 | 2025-11-25 | 2025-11-18 | 2025-11-25 | 100 |  |
+| DMM2-Eng-PQ-498 | Review & Approval for Handrail Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-07 | 2026-05-02 | 2026-05-07 | 100 |  |
+| DMM2-Eng-PQ-508 | Review & Approval for Water Pumps Materials | Mechanical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-518 | Review & Approval for Fire Pumps Materials | Mechanical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-528 | Review & Approval for Butterfly Valve Materials | Mechanical | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-538 | Review & Approval for OverHead Crane Materials | Mechanical | Task | Completed | 2025-11-22 | 2025-11-23 | 2025-11-22 | 2025-11-23 | 100 |  |
+| DMM2-Eng-PQ-548 | Review & Approval for Strainers Materials | Mechanical | Task | Completed | 2026-01-31 | 2026-02-03 | 2026-01-31 | 2026-02-03 | 100 |  |
+| DMM2-Eng-PQ-558 | Review & Approval for Sand Trap Louver Materials | Mechanical | Task | Completed | 2026-08-10 | 2026-08-15 | 2026-08-10 | 2026-08-15 | 100 |  |
+| DMM2-Eng-PQ-568 | Review & Approval for FM200 Supression System Materials | Mechanical | Task | Completed | 2025-10-06 | 2025-10-07 | 2025-10-06 | 2025-10-07 | 100 |  |
+| DMM2-Eng-PQ-578 | Review & Approval for Hose Bibb Materials | Mechanical | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 17 |
+| DMM2-Eng-PQ-588 | Review & Approval for Exhaust Fans Materials | Mechanical | Task | Completed | 2026-01-25 | 2026-01-25 | 2026-01-25 | 2026-01-25 | 100 |  |
+| DMM2-Eng-PQ-598 | Review & Approval for Chlorine Cylinder Racks Materials | Mechanical | Task | Completed | 2026-01-31 | 2026-02-03 | 2026-01-31 | 2026-02-03 | 100 |  |
+| DMM2-Eng-PQ-608 | Review & Approval for Chlorinators Materials | Mechanical | Task | Completed | 2026-01-12 | 2026-01-12 | 2026-01-12 | 2026-01-12 | 100 |  |
+| DMM2-Eng-PQ-618 | Review & Approval for Discharge Line Analyzer Materials | Mechanical | Task | Completed | 2026-01-31 | 2026-02-03 | 2026-01-31 | 2026-02-03 | 100 |  |
+| DMM2-Eng-PQ-628 | Review & Approval for Emergency shower Materials | Mechanical | Task | Completed | 2026-01-31 | 2026-02-03 | 2026-01-31 | 2026-02-03 | 100 |  |
+| DMM2-Eng-PQ-638 | Review & Approval for Trench Drain Materials | Mechanical | Task | Completed | 2026-08-09 | 2026-08-15 | 2026-08-09 | 2026-08-15 | 100 |  |
+| DMM2-Eng-PQ-648 | Review & Approval for LV Cables Materials | Electrical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-658 | Review & Approval for Metal Ladders Materials | Civil & Architecture | Task | Completed | 2026-05-02 | 2026-05-07 | 2026-05-02 | 2026-05-07 | 100 |  |
+| DMM2-Eng-PQ-668 | Review & Approval for Metal Covers Materials | Civil & Architecture | Task | Completed | 2025-12-14 | 2025-12-18 | 2025-12-14 | 2025-12-18 | 100 |  |
+| DMM2-Eng-PQ-678 | Review & Approval for Internal painting (Acrylic) Materials | Civil & Architecture | Task | Completed | 2026-05-13 | 2026-05-18 | 2026-05-13 | 2026-05-18 | 100 |  |
+| DMM2-Eng-PQ-688 | Review & Approval for Signages Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-698 | Review & Approval for Submersible Pumps Materials | Mechanical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-708 | Review & Approval for Double Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-11-10 | 2025-11-11 | 2025-11-10 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-718 | Review & Approval for Buried Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-11-10 | 2025-11-11 | 2025-11-10 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-728 | Review & Approval for Geotextile Membrane Materials | Mechanical | Task | Completed | 2025-12-04 | 2025-12-07 | 2025-12-04 | 2025-12-07 | 100 |  |
+| DMM2-Eng-PQ-738 | Review & Approval for Non Return Valve (Flap) Materials | Mechanical | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-748 | Review & Approval for Basket Screens Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-12 | 2026-02-07 | 2026-02-12 | 100 |  |
+| DMM2-Eng-PQ-758 | Review & Approval for Odor Control Unit Materials | Mechanical | Task | Completed | 2025-12-03 | 2025-12-06 | 2025-12-03 | 2025-12-06 | 100 |  |
+| DMM2-Eng-PQ-768 | Review & Approval for Surge Tank Materials | Mechanical | Task | Completed | 2026-04-23 | 2026-08-10 | 2026-04-23 | 2026-08-10 | 100 |  |
+| DMM2-Eng-PQ-778 | Review & Approval for JIB Crane Materials | Mechanical | Task | Completed | 2025-11-22 | 2025-11-23 | 2025-11-22 | 2025-11-23 | 100 |  |
+| DMM2-Eng-PQ-788 | Review & Approval for Penstock Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-12 | 2026-02-07 | 2026-02-12 | 100 |  |
+| DMM2-Eng-PQ-798 | Review & Approval for Screening Container Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-12 | 2026-02-07 | 2026-02-12 | 100 |  |
+| DMM2-Eng-PQ-808 | Review & Approval for Scupper Materials | Mechanical | Task | Completed | 2026-02-07 | 2026-02-12 | 2026-02-07 | 2026-02-12 | 100 |  |
+| DMM2-Eng-PQ-818 | Review & Approval for Motor Control Center (MCC) Materials | Electrical | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-828 | Review & Approval for Local Control Panel Materials - Lift | Electrical | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-838 | Review & Approval for Low Voltage Cables Materials | Electrical | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-848 | Review & Approval for Standby Diesel Generator Materials | Electrical | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-858 | Review & Approval for Fuel Pump Materials | Electrical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-868 | Review & Approval for Automatic Transfer (Switch ATS) Materials | Electrical | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-878 | Review & Approval for Under Ground Fuel Tank Materials | Electrical | Task | Completed | 2026-05-09 | 2026-05-12 | 2026-05-09 | 2026-05-12 | 100 |  |
+| DMM2-Eng-PQ-888 | Review & Approval for Displacement Rotary Type Pump Materials | Electrical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-898 | Review & Approval for Electrical Hand Holes Materials | Electrical | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-908 | Review & Approval for Galvanized Steel Pole Materials | Electrical | Task | Completed | 2025-12-24 | 2025-12-29 | 2025-12-24 | 2025-12-29 | 100 |  |
+| DMM2-Eng-PQ-918 | Review & Approval for Surfaced Mounted Light (LED) Materials | Electrical | Task | Completed | 2026-02-05 | 2026-02-15 | 2026-02-05 | 2026-02-15 | 100 |  |
+| DMM2-Eng-PQ-938 | Review & Approval for Process Control Wiring Materials | Electrical | Task | Completed | 2025-12-24 | 2025-12-29 | 2025-12-24 | 2025-12-29 | 100 |  |
+| DMM2-Eng-PQ-948 | Review & Approval for Instrumentation for Process Systems Materials | Electrical | Task | Completed | 2026-01-21 | 2026-01-21 | 2026-01-21 | 2026-01-21 | 100 |  |
+| DMM2-Eng-PQ-958 | Review & Approval for MV Cables Materials | Medium Voltage Network | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Eng-PQ-968 | Review & Approval for Straight Joints, Termination Materials | Medium Voltage Network | Task | Completed | 2025-12-22 | 2025-12-25 | 2025-12-22 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-978 | Review & Approval for Unit Substation Materials | Medium Voltage Network | Task | Completed | 2026-01-15 | 2026-01-17 | 2026-01-15 | 2026-01-17 | 100 |  |
+| DMM2-Eng-PQ-988 | Review & Approval for RMU Materials | Medium Voltage Network | Task | Completed | 2026-01-15 | 2026-01-17 | 2026-01-15 | 2026-01-17 | 100 |  |
+| DMM2-Eng-PQ-998 | Review & Approval for LV Cables Materials | Low Voltage Network | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-1008 | Review & Approval for LV Pillars Materials | Low Voltage Network | Task | Completed | 2026-02-03 | 2026-02-09 | 2026-02-03 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-1018 | Review & Approval for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2026-01-08 | 2026-01-13 | 2026-01-08 | 2026-01-13 | 100 |  |
+| DMM2-Eng-PQ-1028 | Review & Approval for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1038 | Review & Approval for SL Pillars Materials | Street Lighting | Task | Completed | 2026-02-02 | 2026-02-05 | 2026-02-02 | 2026-02-05 | 100 |  |
+| DMM2-Eng-PQ-1048 | Review & Approval for SL Cables Materials | Street Lighting | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-1058 | Review & Approval for SL Poles Materials | Street Lighting | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Eng-PQ-1068 | Review & Approval for SL Luminares Materials | Street Lighting | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Eng-PQ-1078 | Review & Approval for SL Earthing Materials | Street Lighting | Task | Completed | 2026-02-02 | 2026-02-05 | 2026-02-02 | 2026-02-05 | 100 |  |
+| DMM2-Eng-PQ-1088 | Review & Approval for SL Drawpits Materials | Street Lighting | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1098 | Review & Approval for Trees Materials | Landscape Works | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-02-05 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-1108 | Review & Approval for Ornamental Grasses Materials | Landscape Works | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-02-05 | 2026-02-09 | 100 |  |
+| DMM2-Eng-PQ-1118 | Review & Approval for Geotextile Layers Materials | Landscape Works | Task | Completed | 2025-10-25 | 2025-10-30 | 2025-10-24 | 2025-10-30 | 100 |  |
+| DMM2-Eng-PQ-1128 | Review & Approval for Plastic edge Materials | Landscape Works | Task | Completed | 2026-02-05 | 2026-02-21 | 2026-02-05 | 2026-02-21 | 100 |  |
+| DMM2-Eng-PQ-1138 | Review & Approval for Large Shrubs Materials | Landscape Works | Task | Completed | 2026-02-05 | 2026-02-07 | 2026-02-05 | 2026-02-07 | 100 |  |
+| DMM2-Eng-PQ-1148 | Review & Approval for Plants Materials | Landscape Works | Task | Completed | 2026-02-05 | 2026-02-07 | 2026-02-05 | 2026-02-07 | 100 |  |
+| DMM2-Eng-PQ-1158 | Review & Approval for Gravel/Stone Mulch Materials | Landscape Works | Task | Completed | 2026-01-04 | 2026-01-05 | 2026-01-04 | 2026-01-05 | 100 |  |
+| DMM2-Eng-PQ-1168 | Review & Approval for Fences (ZATCA HCIS) Materials | Landscape Works | Task | Completed | 2026-05-12 | 2026-05-16 | 2026-05-12 | 2026-05-16 | 100 |  |
+| DMM2-Eng-PQ-1178 | Review & Approval Prepare & Submit for Fences (MODON) Materials | Landscape Works | Task | Completed | 2025-11-18 | 2025-11-19 | 2025-11-18 | 2025-11-19 | 100 |  |
+| DMM2-Eng-PQ-1188 | Review & Approval for Vehicle Steel Gate Materials | Landscape Works | Task | Completed | 2026-05-12 | 2026-05-16 | 2026-05-12 | 2026-05-16 | 100 |  |
+| DMM2-Eng-PQ-1198 | Review & Approval for Vehicle and Pedestrian Steel Gate Materials | Landscape Works | Task | Completed | 2026-05-12 | 2026-05-16 | 2026-05-12 | 2026-05-16 | 100 |  |
+| DMM2-Eng-PQ-1208 | Review & Approval for Lean Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-1218 | Review & Approval for Stone Coping Materials | Civil & Architecture | Task | Completed | 2025-12-04 | 2025-12-07 | 2025-12-04 | 2025-12-07 | 100 |  |
+| DMM2-Eng-PQ-1228 | Review & Approval for Screed Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-1238 | Review & Approval for Foam Concrete Materials | Civil & Architecture | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-1248 | Review & Approval for Reinforced Concrete Materials | Civil & Architecture | Task | Completed | 2025-11-13 | 2025-11-15 | 2025-11-13 | 2025-11-15 | 100 |  |
+| DMM2-Eng-PQ-1258 | Review & Approval for Vapor Retarders Materials | Civil & Architecture | Task | Completed | 2025-12-09 | 2025-12-11 | 2025-12-09 | 2025-12-11 | 100 |  |
+| DMM2-Eng-PQ-1268 | Review & Approval for Board Insulation Materials | Civil & Architecture | Task | Completed | 2025-12-09 | 2025-12-11 | 2025-12-09 | 2025-12-11 | 100 |  |
+| DMM2-Eng-PQ-1278 | Review & Approval for Fluid-Applied Water Proofing Paint Materials | Civil & Architecture | Task | Completed | 2026-05-10 | 2026-05-16 | 2026-05-10 | 2026-05-16 | 100 |  |
+| DMM2-Eng-PQ-1288 | Review & Approval for Water proofing Membrane Materials | Civil & Architecture | Task | Completed | 2025-12-04 | 2025-12-07 | 2025-12-04 | 2025-12-07 | 100 |  |
+| DMM2-Eng-PQ-1298 | Review & Approval for Concrete Masonry Materials | Civil & Architecture | Task | Completed | 2026-05-16 | 2026-05-18 | 2026-05-16 | 2026-05-18 | 100 |  |
+| DMM2-Eng-PQ-1308 | Review & Approval for Porcelain Flooring Tiles Materials | Civil & Architecture | Task | Completed | 2026-08-08 | 2026-08-10 | 2026-08-08 | 2026-08-10 | 100 |  |
+| DMM2-Eng-PQ-1318 | Review & Approval for gypsum Board Suspended Ceiling Materials | Civil & Architecture | Task | Completed | 2026-01-19 | 2026-01-19 | 2026-01-19 | 2026-01-19 | 100 |  |
+| DMM2-Eng-PQ-1328 | Review & Approval for Painting Materials | Civil & Architecture | Task | Completed | 2026-04-28 | 2026-05-05 | 2026-04-28 | 2026-05-05 | 100 |  |
+| DMM2-Eng-PQ-1338 | Review & Approval for Raised Floor System Materials | Civil & Architecture | Task | Completed | 2026-08-12 | 2026-08-13 | 2026-08-12 | 2026-08-13 | 100 |  |
+| DMM2-Eng-PQ-1348 | Review & Approval for Steel Doors Materials | Civil & Architecture | Task | Completed | 2026-05-13 | 2026-05-18 | 2026-05-13 | 2026-05-18 | 100 |  |
+| DMM2-Eng-PQ-1358 | Review & Approval for Wood Doors Materials | Civil & Architecture | Task | Completed | 2026-01-10 | 2026-01-11 | 2026-01-10 | 2026-01-11 | 100 |  |
+| DMM2-Eng-PQ-1368 | Review & Approval for Aluminum Windows Materials | Civil & Architecture | Task | Completed | 2026-04-22 | 2026-04-28 | 2026-04-22 | 2026-04-28 | 100 |  |
+| DMM2-Eng-PQ-1378 | Review & Approval for Exhaust Axial Fans Materials | Mechanical | Task | Completed | 2026-08-30 | 2026-09-08 | 2026-08-30 | 2026-09-08 | 100 |  |
+| DMM2-Eng-PQ-1388 | Review & Approval for uPVC Pipes Materials | Mechanical | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1398 | Review & Approval for PPR Pipes Materials | Mechanical | Task | Completed | 2026-01-19 | 2026-01-19 | 2026-01-19 | 2026-01-19 | 100 |  |
+| DMM2-Eng-PQ-1408 | Review & Approval for DX Wall Mounted Split/AC Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-1418 | Review & Approval for Scupper Materials | Mechanical | Task | Completed | 2026-07-20 | 2026-07-22 | 2026-07-20 | 2026-07-22 | 100 |  |
+| DMM2-Eng-PQ-1428 | Review & Approval for Clean out Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-22 |  |  | 0 | 8 |
+| DMM2-Eng-PQ-1438 | Review & Approval for Floor Drain Materials | Mechanical | Task | Not Started | 2026-09-24 | 2026-09-28 |  |  | 0 | 8 |
+| DMM2-Eng-PQ-1448 | Review & Approval for Electrical Water Heater Materials | Mechanical | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 8 |
+| DMM2-Eng-PQ-1458 | Review & Approval for Manhole Materials | Mechanical | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1468 | Review & Approval for Shower Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-1478 | Review & Approval for Toilet Materials | Mechanical | Task | Not Started | 2026-09-21 | 2026-09-28 |  |  | 0 | 14 |
+| DMM2-Eng-PQ-1488 | Review & Approval for Semi Pedestal Sink Materials | Mechanical | Task | Not Started | 2026-09-24 | 2026-09-30 |  |  | 0 | 12 |
+| DMM2-Eng-PQ-1498 | Review & Approval for Fire Extinguishers (CO2 & Powder) Materials | Mechanical | Task | Completed | 2025-10-01 | 2025-10-02 | 2025-10-01 | 2025-10-02 | 100 |  |
+| DMM2-Eng-PQ-1508 | Review & Approval for Panelboards Materials | Electrical | Task | Completed | 2026-02-25 | 2026-05-02 | 2026-02-25 | 2026-05-02 | 100 |  |
+| DMM2-Eng-PQ-1518 | Review & Approval for Low Voltage Cable Materials | Electrical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-1528 | Review & Approval for Lighting Materials | Electrical | Task | Completed | 2026-05-07 | 2026-05-12 | 2026-05-07 | 2026-05-12 | 100 |  |
+| DMM2-Eng-PQ-1538 | Review & Approval for Wiring Devices Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-1548 | Review & Approval for Ground Wires, Rods, Pits, Clamping Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-1558 | Review & Approval for Enclosed Switches and Circuit Breakers Materials | Electrical | Task | Completed | 2026-01-11 | 2026-01-12 | 2026-01-11 | 2026-01-12 | 100 |  |
+| DMM2-Eng-PQ-1568 | Review & Approval for Fire Alarm System Materials | Electrical | Task | Completed | 2025-12-25 | 2025-12-30 | 2025-12-25 | 2025-12-30 | 100 |  |
+| DMM2-Eng-PQ-1578 | Review & Approval for Data and Voice System Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-1588 | Review & Approval for Data Cabinet Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-1598 | Review & Approval for Data/ Voice RJ45 Outlet Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 18 |
+| DMM2-Eng-PQ-1608 | Review & Approval for PC Workstation Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 16 |
+| DMM2-Eng-PQ-1618 | Review & Approval for 50 inch Screen Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 16 |
+| DMM2-Proc-PO-01 | PR & PO for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-10-18 | 2025-10-23 | 2025-10-18 | 2025-10-23 | 100 |  |
+| DMM2-Proc-PO-02 | PR & PO for Agg. Base Coarse | Earth & Road Works | Task | Completed | 2025-10-16 | 2025-10-21 | 2025-10-16 | 2025-10-21 | 100 |  |
+| DMM2-Proc-PO-03 | PR & PO for Asphalt Materials | Earth & Road Works | Task | Completed | 2025-11-12 | 2025-11-18 | 2025-11-12 | 2025-11-18 | 100 |  |
+| DMM2-Proc-PO-04 | PR & PO for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-10-09 | 2025-10-15 | 2025-10-09 | 2025-10-15 | 100 |  |
+| DMM2-Proc-PO-05 | PR & PO for Curbstone Materials | Earth & Road Works | Task | Completed | 2026-02-05 | 2026-02-07 | 2026-02-05 | 2026-02-07 | 100 |  |
+| DMM2-Proc-PO-06 | PR & PO for Interlock Materials | Earth & Road Works | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| DMM2-Proc-PO-07 | PR & PO for Pavement Markings Materials | Earth & Road Works | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 20 |
+| DMM2-Proc-PO-08 | PR & PO for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Completed | 2026-02-04 | 2026-02-05 | 2026-02-04 | 2026-02-05 | 100 |  |
+| DMM2-Proc-PO-09 | PR & PO for Traffic Signs Materials | Earth & Road Works | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 20 |
+| DMM2-Proc-PO-010 | PR & PO for ground Mounted Information Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 8 |
+| DMM2-Proc-PO-011 | PR & PO for GRP Pipes Materials | Storm Network | Task | Completed | 2025-10-14 | 2025-10-19 | 2025-10-14 | 2025-10-19 | 100 |  |
+| DMM2-Proc-PO-012 | PR & PO for Steel Reinforcement Materials | Storm Network | Task | Completed | 2025-10-27 | 2025-10-29 | 2025-10-27 | 2025-10-29 | 100 |  |
+| DMM2-Proc-PO-013 | PR & PO for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Proc-PO-014 | PR & PO for Concrete Chambers & Catch Basin Materials | Storm Network | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Proc-PO-015 | PR & PO for uPVC Pipes Materials | Storm Network | Task | Completed | 2025-10-27 | 2025-11-03 | 2025-10-27 | 2025-11-03 | 100 |  |
+| DMM2-Proc-PO-016 | PR & PO for HDPE Pipes Materials | Sewerage Network | Task | Completed | 2025-10-12 | 2025-10-18 | 2025-10-12 | 2025-10-18 | 100 |  |
+| DMM2-Proc-PO-017 | PR & PO for Valves Chambers Materials | Sewerage Network | Task | Completed | 2026-04-09 | 2026-04-11 | 2026-04-09 | 2026-04-11 | 100 |  |
+| DMM2-Proc-PO-018 | PR & PO for Valves Materials | Sewerage Network | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| DMM2-Proc-PO-019 | PR & PO for Discharge Chamber Materials | Sewerage Network | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 92 |
+| DMM2-Proc-PO-020 | PR & PO for HDPE Pipes Materials | Potable Network | Task | Completed | 2025-10-12 | 2025-10-19 | 2025-10-12 | 2025-10-19 | 100 |  |
+| DMM2-Proc-PO-021 | PR & PO for Valves Materials | Potable Network | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| DMM2-Proc-PO-022 | PR & PO for Valves Chambers Materials | Potable Network | Task | Completed | 2026-04-09 | 2026-04-11 | 2026-04-09 | 2026-04-11 | 100 |  |
+| DMM2-Proc-PO-023 | PR & PO for Flow Meter Materials | Potable Network | Task | Completed | 2025-11-15 | 2025-11-20 | 2025-11-14 | 2025-11-20 | 100 |  |
+| DMM2-Proc-PO-024 | PR & PO for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-10-11 | 2025-10-16 | 2025-10-11 | 2025-10-16 | 100 |  |
+| DMM2-Proc-PO-025 | PR & PO for Solenoid Primary Control Valves Materials | TSE Network | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-02-24 | 2026-02-28 | 100 |  |
+| DMM2-Proc-PO-026 | PR & PO for Valves Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-20 | 2026-01-13 | 2026-01-20 | 100 |  |
+| DMM2-Proc-PO-027 | PR & PO for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2025-10-09 | 2025-10-16 | 2025-10-09 | 2025-10-16 | 100 |  |
+| DMM2-Proc-PO-028 | PR & PO for Valves Materials | Fire Fighting Network | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| DMM2-Proc-PO-029 | PR & PO for Valves Chambers Materials | Fire Fighting Network | Task | Completed | 2026-04-09 | 2026-04-11 | 2026-04-09 | 2026-04-11 | 100 |  |
+| DMM2-Proc-PO-030 | PR & PO for Stairs Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 3 |
+| DMM2-Proc-PO-031 | PR & PO for CMU Walls Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 17 |
+| DMM2-Proc-PO-032 | PR & PO for Stainless Steel Ladder Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 3 |
+| DMM2-Proc-PO-033 | PR & PO for Steel shutter Door Materials | Civil & Architecture | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 23 |
+| DMM2-Proc-PO-034 | PR & PO for Metal Railing Materials | Civil & Architecture | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 3 |
+| DMM2-Proc-PO-035 | PR & PO for Gravel Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 52 |
+| DMM2-Proc-PO-036 | PR & PO for Handrail Materials | Civil & Architecture | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 3 |
+| DMM2-Proc-PO-037 | PR & PO for Water Pumps Materials | Mechanical | Task | Completed | 2025-10-29 | 2025-11-09 | 2025-10-29 | 2025-11-09 | 100 |  |
+| DMM2-Proc-PO-038 | PR & PO for Fire Pumps Materials | Mechanical | Task | Completed | 2025-11-02 | 2025-11-12 | 2025-11-02 | 2025-11-12 | 100 |  |
+| DMM2-Proc-PO-039 | PR & PO for Butterfly Valve Materials | Mechanical | Task | Completed | 2026-01-26 | 2026-01-26 | 2026-01-26 | 2026-01-26 | 100 |  |
+| DMM2-Proc-PO-040 | PR & PO for OverHead Crane Materials | Mechanical | Task | Completed | 2026-01-06 | 2026-01-07 | 2026-01-06 | 2026-01-07 | 100 |  |
+| DMM2-Proc-PO-041 | PR & PO for Strainers Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 4 |
+| DMM2-Proc-PO-042 | PR & PO for Sand Trap Louver Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 4 |
+| DMM2-Proc-PO-043 | PR & PO for FM200 Supression System Materials | Mechanical | Task | Completed | 2025-11-02 | 2025-11-13 | 2025-11-02 | 2025-11-13 | 100 |  |
+| DMM2-Proc-PO-044 | PR & PO for Hose Bibb Materials | Mechanical | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 17 |
+| DMM2-Proc-PO-045 | PR & PO for Exhaust Fans Materials | Mechanical | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 4 |
+| DMM2-Proc-PO-046 | PR & PO for Chlorine Cylinder Racks Materials | Mechanical | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 4 |
+| DMM2-Proc-PO-047 | PR & PO for Chlorinators Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 13 |
+| DMM2-Proc-PO-048 | PR & PO for Discharge Line Analyzer Materials | Mechanical | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 13 |
+| DMM2-Proc-PO-049 | PR & PO for Emergency shower Materials | Mechanical | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 17 |
+| DMM2-Proc-PO-050 | PR & PO for Trench Drain Materials | Mechanical | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 40 |
+| DMM2-Proc-PO-051 | PR & PO for Switches and Circuit Breakers Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 57 |
+| DMM2-Proc-PO-052 | PR & PO for Metal Ladders Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 21 |
+| DMM2-Proc-PO-053 | PR & PO for Metal Covers Materials | Civil & Architecture | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 34 |
+| DMM2-Proc-PO-054 | PR & PO for Internal painting (Acrylic) Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 21 |
+| DMM2-Proc-PO-055 | PR & PO for Signages Materials | Civil & Architecture | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 33 |
+| DMM2-Proc-PO-056 | PR & PO for Submersible Pumps Materials | Mechanical | Task | Completed | 2025-10-30 | 2025-11-10 | 2025-10-30 | 2025-11-10 | 100 |  |
+| DMM2-Proc-PO-057 | PR & PO for Double Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-10-30 | 2025-11-10 | 2025-10-30 | 2025-11-10 | 100 |  |
+| DMM2-Proc-PO-058 | PR & PO for Buried Flanged DI Pipes Materials | Mechanical | Task | Completed | 2025-10-30 | 2025-11-13 | 2025-10-30 | 2025-11-13 | 100 |  |
+| DMM2-Proc-PO-059 | PR & PO for Geotextile Membrane Materials | Mechanical | Task | Completed | 2025-11-08 | 2025-11-09 | 2025-11-08 | 2025-11-09 | 100 |  |
+| DMM2-Proc-PO-060 | PR & PO for Non Return Valve (Flap) Materials | Mechanical | Task | Completed | 2026-01-19 | 2026-01-19 | 2026-01-19 | 2026-01-19 | 100 |  |
+| DMM2-Proc-PO-061 | PR & PO for Basket Screens Materials | Mechanical | Task | Completed | 2026-01-03 | 2026-01-03 | 2026-01-03 | 2026-01-03 | 100 |  |
+| DMM2-Proc-PO-062 | PR & PO for Odor Control Unit Materials | Mechanical | Task | Completed | 2026-01-01 | 2026-01-03 | 2026-01-01 | 2026-01-03 | 100 |  |
+| DMM2-Proc-PO-063 | PR & PO for Surge Tank Materials | Mechanical | Task | Completed | 2026-08-30 | 2026-09-03 | 2026-08-30 | 2026-09-03 | 100 |  |
+| DMM2-Proc-PO-064 | PR & PO for JIB Crane Materials | Mechanical | Task | Completed | 2025-12-10 | 2025-12-11 | 2025-12-10 | 2025-12-11 | 100 |  |
+| DMM2-Proc-PO-065 | PR & PO for Penstock Materials | Mechanical | Task | Completed | 2026-08-19 | 2026-08-20 | 2026-08-19 | 2026-08-20 | 100 |  |
+| DMM2-Proc-PO-066 | PR & PO for Screening Container Materials | Mechanical | Task | Completed | 2026-08-16 | 2026-08-17 | 2026-08-16 | 2026-08-17 | 100 |  |
+| DMM2-Proc-PO-067 | PR & PO for Scupper Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 27 |
+| DMM2-Proc-PO-068 | PR & PO for Motor Control Center (MCC) Materials | Electrical | Task | Completed | 2025-12-20 | 2025-12-20 | 2025-12-20 | 2025-12-20 | 100 |  |
+| DMM2-Proc-PO-069 | PR & PO for Local Control Panel Materials | Electrical | Task | Completed | 2025-12-29 | 2025-12-30 | 2025-12-29 | 2025-12-30 | 100 |  |
+| DMM2-Proc-PO-070 | PR & PO for Low Voltage Cables Materials | Electrical | Task | Completed | 2025-12-23 | 2025-12-24 | 2025-12-23 | 2025-12-24 | 100 |  |
+| DMM2-Proc-PO-071 | PR & PO for Standby Diesel Generator Materials | Electrical | Task | Completed | 2025-12-29 | 2026-01-01 | 2025-12-29 | 2026-01-01 | 100 |  |
+| DMM2-Proc-PO-072 | PR & PO for Fuel Pump Materials | Electrical | Task | Completed | 2025-10-26 | 2025-11-05 | 2025-10-26 | 2025-11-05 | 100 |  |
+| DMM2-Proc-PO-073 | PR & PO for Automatic Transfer (Switch ATS) Materials | Electrical | Task | Completed | 2026-01-10 | 2026-01-11 | 2026-01-10 | 2026-01-11 | 100 |  |
+| DMM2-Proc-PO-074 | PR & PO for Under Ground Fuel Tank Materials | Electrical | Task | Completed | 2026-06-02 | 2026-06-02 | 2026-06-02 | 2026-06-02 | 100 |  |
+| DMM2-Proc-PO-075 | PR & PO for Displacement Rotary Type Pump Materials | Electrical | Task | Completed | 2025-10-28 | 2025-11-09 | 2025-10-28 | 2025-11-09 | 100 |  |
+| DMM2-Proc-PO-076 | PR & PO for Electrical Hand Holes Materials | Electrical | Task | Completed | 2025-12-08 | 2025-12-09 | 2025-12-08 | 2025-12-09 | 100 |  |
+| DMM2-Proc-PO-077 | PR & PO for Galvanized Steel Pole Materials | Electrical | Task | Completed | 2025-12-31 | 2025-12-31 | 2025-12-31 | 2025-12-31 | 100 |  |
+| DMM2-Proc-PO-078 | PR & PO for Surfaced Mounted Light (LED) Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 33 |
+| DMM2-Proc-PO-079 | PR & PO for PLC System Materials | Electrical | Task | Completed | 2025-12-28 | 2025-12-29 | 2025-12-28 | 2025-12-29 | 100 |  |
+| DMM2-Proc-PO-080 | PR & PO for Process Control Wiring Materials | Electrical | Task | Completed | 2025-12-14 | 2025-12-15 | 2025-12-14 | 2025-12-15 | 100 |  |
+| DMM2-Proc-PO-081 | PR & PO for Instrumentation for Process Systems Materials | Electrical | Task | Completed | 2026-01-26 | 2026-01-26 | 2026-01-26 | 2026-01-26 | 100 |  |
+| DMM2-Proc-PO-082 | PR & PO for MV Cables Materials | Medium Voltage Network | Task | Completed | 2025-12-25 | 2025-12-27 | 2025-12-25 | 2025-12-27 | 100 |  |
+| DMM2-Proc-PO-083 | PR & PO for Straight Joints, Termination Materials | Medium Voltage Network | Task | Completed | 2026-01-27 | 2026-02-03 | 2026-01-27 | 2026-02-03 | 100 |  |
+| DMM2-Proc-PO-084 | PR & PO for Unit Substation Materials | Medium Voltage Network | Task | Completed | 2026-01-05 | 2026-01-06 | 2026-01-05 | 2026-01-06 | 100 |  |
+| DMM2-Proc-PO-085 | PR & PO for RMU Materials | Medium Voltage Network | Task | Completed | 2026-01-08 | 2026-01-10 | 2026-01-08 | 2026-01-10 | 100 |  |
+| DMM2-Proc-PO-086 | PR & PO for LV Cables Materials | Low Voltage Network | Task | Completed | 2025-12-24 | 2025-12-27 | 2025-12-24 | 2025-12-27 | 100 |  |
+| DMM2-Proc-PO-087 | PR & PO for LV Pillars Materials | Low Voltage Network | Task | Completed | 2026-02-04 | 2026-02-12 | 2026-02-04 | 2026-02-12 | 100 |  |
+| DMM2-Proc-PO-088 | PR & PO for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2025-12-16 | 2025-12-17 | 2025-12-16 | 2025-12-17 | 100 |  |
+| DMM2-Proc-PO-089 | PR & PO for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2025-12-29 | 2025-12-31 | 2025-12-29 | 2025-12-31 | 100 |  |
+| DMM2-Proc-PO-090 | PR & PO for SL Pillars Materials | Street Lighting | Task | Completed | 2026-02-04 | 2026-02-12 | 2026-02-04 | 2026-02-12 | 100 |  |
+| DMM2-Proc-PO-091 | PR & PO for SL Cables Materials | Street Lighting | Task | Completed | 2025-12-24 | 2025-12-27 | 2025-12-24 | 2025-12-27 | 100 |  |
+| DMM2-Proc-PO-092 | PR & PO for SL Poles Materials | Street Lighting | Task | Completed | 2025-12-17 | 2025-12-22 | 2025-12-17 | 2025-12-22 | 100 |  |
+| DMM2-Proc-PO-093 | PR & PO for SL Luminares Materials | Street Lighting | Task | Completed | 2025-12-24 | 2025-12-29 | 2025-12-24 | 2025-12-29 | 100 |  |
+| DMM2-Proc-PO-094 | PR & PO for SL Earthing Materials | Street Lighting | Task | Completed | 2026-03-25 | 2026-04-06 | 2026-03-25 | 2026-04-06 | 100 |  |
+| DMM2-Proc-PO-095 | PR & PO for SL Drawpits Materials | Street Lighting | Task | Completed | 2026-03-29 | 2026-04-04 | 2026-03-29 | 2026-04-04 | 100 |  |
+| DMM2-Proc-PO-096 | PR & PO for Trees Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-097 | PR & PO for Ornamental Grasses Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-098 | PR & PO for Geotextile Layers Materials | Landscape Works | Task | Completed | 2025-12-09 | 2025-12-10 | 2025-12-09 | 2025-12-10 | 100 |  |
+| DMM2-Proc-PO-099 | PR & PO for Plastic edge Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-0100 | PR & PO for Large Shrubs Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-0101 | PR & PO for Plants Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-0102 | PR & PO for Gravel/Stone Mulch Materials | Landscape Works | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| DMM2-Proc-PO-0103 | PR & PO for Fences (ZATCA HCIS) Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 62 |
+| DMM2-Proc-PO-0104 | PR & PO Prepare & Submit for Fences (MODON) Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 52 |
+| DMM2-Proc-PO-0105 | PR & PO for Vehicle Steel Gate Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 42 |
+| DMM2-Proc-PO-0106 | PR & PO for Vehicle and Pedestrian Steel Gate Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 8 |
+| DMM2-Proc-PO-0107 | PR & PO for Lean Concrete Materials | Civil & Architecture | Task | Completed | 2026-02-04 | 2026-02-05 | 2026-02-04 | 2026-02-05 | 100 |  |
+| DMM2-Proc-PO-0108 | PR & PO for Stone Coping Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 33 |
+| DMM2-Proc-PO-0109 | PR & PO for Screed Concrete Materials | Civil & Architecture | Task | Completed | 2026-02-02 | 2026-02-14 | 2026-02-02 | 2026-02-14 | 100 |  |
+| DMM2-Proc-PO-0110 | PR & PO for Foam Concrete Materials | Civil & Architecture | Task | Completed | 2026-02-05 | 2026-02-12 | 2026-02-05 | 2026-02-12 | 100 |  |
+| DMM2-Proc-PO-0111 | PR & PO for Reinforced Concrete Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 21 |
+| DMM2-Proc-PO-0112 | PR & PO for Vapor Retarders Materials | Civil & Architecture | Task | Completed | 2025-10-25 | 2025-11-04 | 2025-10-24 | 2025-11-04 | 100 |  |
+| DMM2-Proc-PO-0113 | PR & PO for Board Insulation Materials | Civil & Architecture | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 21 |
+| DMM2-Proc-PO-0114 | PR & PO for Fluid-Applied Water Proofing Paint Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 44 |
+| DMM2-Proc-PO-0115 | PR & PO for Water proofing Membrane Materials | Civil & Architecture | Task | Completed | 2025-10-25 | 2025-11-04 | 2025-10-24 | 2025-11-04 | 100 |  |
+| DMM2-Proc-PO-0116 | PR & PO for Concrete Masonry Materials | Civil & Architecture | Task | Completed | 2026-02-14 | 2026-02-21 | 2026-02-14 | 2026-02-21 | 100 |  |
+| DMM2-Proc-PO-0117 | PR & PO for Porcelain Flooring Tiles Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 3 |
+| DMM2-Proc-PO-0118 | PR & PO for gypsum Board Suspended Ceiling Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 33 |
+| DMM2-Proc-PO-0119 | PR & PO for Painting Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 21 |
+| DMM2-Proc-PO-0120 | PR & PO for Raised Floor System Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 46 |
+| DMM2-Proc-PO-0121 | PR & PO for Steel Doors Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 44 |
+| DMM2-Proc-PO-0122 | PR & PO for Wood Doors Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 49 |
+| DMM2-Proc-PO-0123 | PR & PO for Aluminum Windows Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 39 |
+| DMM2-Proc-PO-0124 | PR & PO for Exhaust Axial Fans Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 36 |
+| DMM2-Proc-PO-0125 | PR & PO for uPVC Pipes Materials | Mechanical | Task | Completed | 2025-12-14 | 2025-12-18 | 2025-12-14 | 2025-12-18 | 100 |  |
+| DMM2-Proc-PO-0126 | PR & PO for PPR Pipes Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 13 |
+| DMM2-Proc-PO-0127 | PR & PO for DX Wall Mounted Split/AC Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 36 |
+| DMM2-Proc-PO-0128 | PR & PO for Scupper Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 17 |
+| DMM2-Proc-PO-0129 | PR & PO for Clean out Materials | Mechanical | Task | Not Started | 2026-09-24 | 2026-09-24 |  |  | 0 | 16 |
+| DMM2-Proc-PO-0130 | PR & PO for Floor Drain Materials | Mechanical | Task | Completed | 2026-10-19 | 2026-10-20 | 2026-08-30 | 2026-08-31 | 100 |  |
+| DMM2-Proc-PO-0131 | PR & PO for Electrical Water Heater Materials | Mechanical | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 10 |
+| DMM2-Proc-PO-0132 | PR & PO for Manhole Materials | Mechanical | Task | Completed | 2025-12-04 | 2025-12-08 | 2025-12-04 | 2025-12-08 | 100 |  |
+| DMM2-Proc-PO-0133 | PR & PO for Shower Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 40 |
+| DMM2-Proc-PO-0134 | PR & PO for Toilet Materials | Mechanical | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 35 |
+| DMM2-Proc-PO-0135 | PR & PO for Semi Pedestal Sink Materials | Mechanical | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 36 |
+| DMM2-Proc-PO-0136 | PR & PO for Fire Extinguishers (CO2 & Powder) Materials | Mechanical | Task | Completed | 2025-12-06 | 2025-12-08 | 2025-12-06 | 2025-12-08 | 100 |  |
+| DMM2-Proc-PO-0137 | PR & PO for Panelboards Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 38 |
+| DMM2-Proc-PO-0138 | PR & PO for Low Voltage Cable Materials | Electrical | Task | Completed | 2025-12-16 | 2025-12-27 | 2025-12-16 | 2025-12-27 | 100 |  |
+| DMM2-Proc-PO-0139 | PR & PO for Lighting Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 33 |
+| DMM2-Proc-PO-0140 | PR & PO for Wiring Devices Materials | Electrical | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 29 |
+| DMM2-Proc-PO-0141 | PR & PO for Ground Wires, Rods, Pits, Clamping Materials | Electrical | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| DMM2-Proc-PO-0142 | PR & PO for Enclosed Switches and Circuit Breakers Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 36 |
+| DMM2-Proc-PO-0143 | PR & PO for Fire Alarm System Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 3 |
+| DMM2-Proc-PO-0145 | PR & PO for Data Cabinet Materials | Electrical | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 34 |
+| DMM2-Proc-PO-0146 | PR & PO for Data/ Voice RJ45 Outlet Materials | Electrical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 34 |
+| DMM2-Proc-PO-0147 | PR & PO for PC Workstation Materials | Electrical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 39 |
+| DMM2-Proc-PO-0148 | PR & PO for 50 inch Screen Materials | Electrical | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 41 |
+| DMM2-Eng-SD-28 | Prepare & Submit | Mechanical | Task | Completed | 2025-10-25 | 2025-11-13 | 2025-10-25 | 2025-11-13 | 100 |  |
+| DMM2-Eng-SD-38 | Review & Approval | Mechanical | Task | Completed | 2025-11-13 | 2025-11-19 | 2025-11-13 | 2025-11-19 | 100 |  |
+| DMM2-Eng-SD-48 | Prepare & Submit | Electrical | Task | Completed | 2025-11-10 | 2025-12-10 | 2025-11-10 | 2025-12-10 | 100 |  |
+| DMM2-Eng-SD-58 | Review & Approval | Electrical | Task | Completed | 2025-11-13 | 2025-12-25 | 2025-11-13 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-1628 | Review & Approval for GRP Pipes Materials | Sewerage Network | Task | Completed | 2025-10-05 | 2025-10-06 | 2025-10-05 | 2025-10-06 | 100 |  |
+| DMM2-Eng-PQ-1638 | Review & Approval for Inlet Manholes Materials | Sewerage Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1648 | Prepare & Submit for Dripper Materials | TSE Network | Task | Completed | 2026-02-18 | 2026-02-21 | 2026-02-18 | 2026-02-22 | 100 |  |
+| DMM2-Eng-PQ-1658 | Prepare & Submit for Bubbler Materials | TSE Network | Task | Completed | 2026-02-18 | 2026-02-21 | 2026-02-18 | 2026-02-22 | 100 |  |
+| DMM2-Eng-PQ-1668 | Prepare & Submit for Pull Box Materials | TSE Network | Task | Completed | 2026-02-18 | 2026-02-21 | 2026-02-18 | 2026-02-22 | 100 |  |
+| DMM2-Eng-PQ-1678 | Prepare & Submit for Two wire decoder cable 12 awg Materials | TSE Network | Task | Completed | 2026-02-18 | 2026-02-21 | 2026-02-18 | 2026-02-22 | 100 |  |
+| DMM2-Eng-PQ-1688 | Review & Approval for Dripper Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-14 | 2026-01-13 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-1698 | Review & Approval for Bubbler Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-14 | 2026-01-13 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-1708 | Review & Approval for Pull Box Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-14 | 2026-01-13 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-1718 | Review & Approval for Two Wire Decoder Cable 12 awg Materials | TSE Network | Task | Completed | 2026-01-13 | 2026-01-14 | 2026-01-13 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-1728 | Review & Approval for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2025-09-09 | 2025-09-10 | 2025-09-09 | 2025-09-10 | 100 |  |
+| DMM2-Eng-PQ-1738 | Review & Approval for Flow Meter Materials | Fire Fighting Network | Task | Completed | 2025-12-13 | 2025-12-13 | 2025-12-13 | 2025-12-13 | 100 |  |
+| DMM2-Eng-PQ-1748 | Review & Approval for Flow Meter Chamber Materials | Fire Fighting Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1758 | Review & Approval for Flow Meter Chamber Materials | Potable Network | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1768 | Review & Approval for Submersible Pumps Materials | Mechanical | Task | Completed | 2025-10-28 | 2025-10-29 | 2025-10-28 | 2025-10-29 | 100 |  |
+| DMM2-Eng-PQ-1778 | Review & Approval for DI Pipes Materials | Mechanical | Task | Completed | 2025-11-10 | 2025-11-11 | 2025-11-10 | 2025-11-11 | 100 |  |
+| DMM2-Eng-PQ-1788 | Review & Approval for Gate Valves Materials | Mechanical | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-1798 | Review & Approval for Non Return (Flap) Valves Materials | Mechanical | Task | Completed | 2025-09-06 | 2025-09-07 | 2025-09-06 | 2025-09-07 | 100 |  |
+| DMM2-Eng-PQ-1808 | Review & Approval for Electromagnetic Flow Meters Materials | Mechanical | Task | Completed | 2025-12-21 | 2025-12-25 | 2025-12-21 | 2025-12-25 | 100 |  |
+| DMM2-Eng-PQ-1818 | Review & Approval for Surge Tank Materials | Mechanical | Task | Completed | 2026-01-14 | 2026-01-14 | 2026-01-14 | 2026-01-14 | 100 |  |
+| DMM2-Eng-PQ-1828 | Review & Approval for Fans Materials | Mechanical | Task | Completed | 2026-01-25 | 2026-01-26 | 2026-01-25 | 2026-01-26 | 100 |  |
+| DMM2-Eng-PQ-1838 | Review & Approval for Louvers Materials | Mechanical | Task | Completed | 2026-08-16 | 2026-08-17 | 2026-08-16 | 2026-08-17 | 100 |  |
+| DMM2-Eng-PQ-1848 | Review & Approval for Switches and Circuit Breakers Materials | Electrical | Task | Completed | 2026-01-10 | 2026-01-13 | 2026-01-10 | 2026-01-13 | 100 |  |
+| DMM2-Eng-PQ-1858 | Review & Approval for Motor Control Center (MCC) Materials | Electrical | Task | Completed | 2025-12-17 | 2025-12-22 | 2025-12-17 | 2025-12-22 | 100 |  |
+| DMM2-Eng-PQ-1868 | Review & Approval for Local Control Panel Materials - Pump | Electrical | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-1878 | Review & Approval for Panelboards Materials | Electrical | Task | Completed | 2025-12-17 | 2025-12-21 | 2025-12-17 | 2025-12-21 | 100 |  |
+| DMM2-Eng-PQ-1888 | Review & Approval for Generators Materials | Electrical | Task | Completed | 2025-11-11 | 2025-11-12 | 2025-11-11 | 2025-11-12 | 100 |  |
+| DMM2-Eng-PQ-1898 | Review & Approval for Addressable Fire Alarm System Materials | Electrical | Task | Completed | 2025-10-08 | 2025-10-09 | 2025-10-08 | 2025-10-09 | 100 |  |
+| DMM2-Eng-PQ-1908 | Review & Approval for PLC System Materials | Electrical | Task | Completed | 2026-01-21 | 2026-01-22 | 2026-01-21 | 2026-01-22 | 100 |  |
+| DMM2-Eng-PQ-1918 | Prepare & Submit for Concrete Materials | Earth & Road Works | Task | Completed | 2025-10-20 | 2025-10-20 | 2025-10-20 | 2025-10-20 | 100 |  |
+| DMM2-Eng-PQ-1928 | Review & Approval for Concrete Materials | Earth & Road Works | Task | Completed | 2025-10-20 | 2025-10-21 | 2025-10-20 | 2025-10-21 | 100 |  |
+| DMM2-Eng-PQ-1938 | Review & Approval for Automatic Transfer Switch ATS panel Materials | Electrical | Task | Completed | 2025-12-17 | 2025-12-18 | 2025-12-17 | 2025-12-18 | 100 |  |
+| DMM2-Cons-Surv-Z01 | Control Points, Benchmarks & Coordinations - Zone 01 | Zonewise Survey Works | Task | Completed | 2025-09-06 | 2025-09-14 | 2025-09-06 | 2025-09-14 | 100 |  |
+| DMM2-Cons-Surv-Z02 | Control Points, Benchmarks & Coordinations - Zone 02 | Zonewise Survey Works | Task | Completed | 2025-09-22 | 2025-09-29 | 2025-09-22 | 2025-09-29 | 100 |  |
+| DMM2-Cons-Surv-Z03 | Control Points, Benchmarks & Coordinations - Zone 03 | Zonewise Survey Works | Task | Completed | 2025-10-12 | 2025-10-18 | 2025-10-12 | 2025-10-18 | 100 |  |
+| DMM2-Cons-Surv-Z04 | Control Points, Benchmarks & Coordinations - Zone 04 | Zonewise Survey Works | Task | Completed | 2025-10-25 | 2025-11-01 | 2025-10-25 | 2025-11-01 | 100 |  |
+| B5.33 31 00.01.021 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-18 | 2025-12-20 | 2025-12-18 | 2025-12-20 | 100 |  |
+| B5.33 31 00.01.022 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-20 | 2025-12-22 | 2025-12-20 | 2025-12-22 | 100 |  |
+| B5.33 31 00.01.023 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-23 | 2025-12-23 | 2025-12-23 | 2025-12-24 | 100 |  |
+| B5.33 31 00.01.024 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-25 | 2025-12-27 | 2025-12-25 | 2025-12-27 | 100 |  |
+| B5.33 31 00.01.025 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-29 | 2026-01-04 | 2025-12-29 | 2026-01-04 | 100 |  |
+| B5.33 31 00.02.021 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2025-11-11 | 2025-12-31 | 2025-11-11 | 2025-12-31 | 100 |  |
+| B5.33 31 00.02.022 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-06 | 2025-12-31 | 2025-12-06 | 2025-12-31 | 100 |  |
+| B5.33 31 00.02.023 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-09 | 2026-01-14 | 2025-12-09 | 2026-01-14 | 100 |  |
+| B5.33 31 00.02.024 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-14 | 2026-03-11 | 2025-12-14 | 2026-03-11 | 100 |  |
+| B5.33 31 00.02.025 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-25 | 2026-03-04 | 2025-12-25 | 2026-03-04 | 100 |  |
+| B5.33 31 00.02.031 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-04 | 2026-01-11 | 2026-01-04 | 2026-01-11 | 100 |  |
+| B5.33 31 00.02.032 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-06 | 2026-01-12 | 2026-01-06 | 2026-01-12 | 100 |  |
+| B5.33 31 00.02.033 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-08 | 2026-02-11 | 2026-01-08 | 2026-02-11 | 100 |  |
+| B5.33 31 00.02.034 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-10 | 2026-03-14 | 2026-01-10 | 2026-03-14 | 100 |  |
+| B5.33 31 00.02.035 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-12 | 2026-03-11 | 2026-01-12 | 2026-03-11 | 100 |  |
+| B5.33 31 00.02.041 | Excavation | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-05 | 2026-01-12 | 2026-01-05 | 2026-01-12 | 100 |  |
+| B5.33 31 00.02.042 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-07 | 2026-01-13 | 2026-01-07 | 2026-01-13 | 100 |  |
+| B5.33 31 00.02.043 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-08 | 2026-01-15 | 2026-01-08 | 2026-01-15 | 100 |  |
+| B5.33 31 00.02.044 | Embedment & Test | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-10 | 2026-03-15 | 2026-01-10 | 2026-03-15 | 100 |  |
+| B5.33 31 00.02.045 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-17 | 2026-03-14 | 2026-01-17 | 2026-03-14 | 100 |  |
+| B5.33 31 23.021 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-08 | 2026-09-19 | 2026-04-08 |  | 0 | 93 |
+| B5.33 31 23.022 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-09 | 2026-09-17 | 2026-05-09 |  | 0 | 93 |
+| B5.33 31 23.023 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 0 | 93 |
+| B5.33 31 23.024 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-17 | 2026-09-20 | 2026-06-17 |  | 0 | 92 |
+| B5.33 31 23.025 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-22 | 2026-09-21 | 2026-06-22 |  | 0 | 111 |
+| B5.33 31 00.02.02 1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-24 | 2026-04-01 | 2026-03-24 | 2026-04-01 | 100 |  |
+| B5.33 31 00.02.02 2 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-29 | 2026-04-07 | 2026-03-29 | 2026-04-07 | 100 |  |
+| B5.33 31 00.02.02 3 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-31 | 2026-04-09 | 2026-03-31 | 2026-04-09 | 100 |  |
+| B5.33 31 00.02.02 4 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-05-03 | 2026-04-01 | 2026-05-03 | 100 |  |
+| B5.33 31 00.02.02 5 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-06 | 2026-09-21 | 2026-04-06 |  | 7.30880409599994 | 110 |
+| B5.33 31 00.02.05.1 | Excavation | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-04 | 2026-03-18 | 2026-02-04 | 2026-03-22 | 100 |  |
+| B5.33 31 00.02.05.2 | Sand Bedding | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-07 | 2026-03-25 | 2026-02-07 | 2026-03-25 | 100 |  |
+| B5.33 31 00.02.05.3 | Pipe Laying | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-08 | 2026-03-28 | 2026-02-08 | 2026-03-28 | 100 |  |
+| B5.33 31 00.02.05.4 | Embedment & Test | Depth From 4.5m to 5.5m | Task | Completed | 2026-04-02 | 2026-05-13 | 2026-04-02 | 2026-05-13 | 100 |  |
+| B5.33 31 00.02.05.5 | Backfilling & Warrning Tape | Depth From 4.5m to 5.5m | Task | In Progress | 2026-04-05 | 2026-09-21 | 2026-04-05 |  | 8.85915647999994 | 110 |
+| B5.33 31 00.01.02.20 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-15 | 2026-04-16 | 2026-04-15 | 2026-04-16 | 100 |  |
+| B5.33 31 00.01.02.24 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-18 | 2026-04-19 | 2026-04-18 | 2026-04-19 | 100 |  |
+| B5.33 31 00.01.02.28 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-02 | 2026-09-19 | 2026-04-02 |  | 10.50624 | 113.3 |
+| B5.33 31 00.01.02.32 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-06 | 2026-09-20 | 2026-04-06 |  | 10.4205828095999 | 111 |
+| B5.33 31 00.01.02.36 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-11 | 2026-09-21 | 2026-04-10 |  | 10.4205828095999 | 110 |
+| B5.33 31 00.01.02.22 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-18 | 2026-04-19 | 2026-04-18 | 2026-04-19 | 100 |  |
+| B5.33 31 00.01.02.26 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-20 | 2026-04-20 | 2026-04-20 | 2026-04-20 | 100 |  |
+| B5.33 31 00.01.02.30 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-06 | 2026-05-14 | 2026-05-06 | 2026-05-14 | 100 |  |
+| B5.33 31 00.01.02.34 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-09 | 2026-09-20 | 2026-05-09 |  | 10.4205828095999 | 85 |
+| B5.33 31 00.01.02.38 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-11 | 2026-09-21 | 2026-05-11 |  | 10.4205828095999 | 75 |
+| B5.33 31 23.01-1.20 | Excavation | Depth From 0.0m to 1.5m | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 90 |
+| B5.33 31 23.01-1.22 | Sand Bedding | Depth From 0.0m to 1.5m | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 90 |
+| B5.33 31 23.01-1.24 | Pipe Laying | Depth From 0.0m to 1.5m | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 90 |
+| B5.33 31 23.01-1.26 | Embedment & Test | Depth From 0.0m to 1.5m | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 90 |
+| B5.33 31 23.01-1.28 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | Not Started | 2026-10-11 | 2026-10-18 |  |  | 0 | 84 |
+| B5.33 31 00.01.1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-11 | 2026-02-12 | 2026-02-11 | 2026-02-12 | 100 |  |
+| B5.33 31 00.01.9 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-14 | 2026-02-15 | 2026-02-14 | 2026-02-15 | 100 |  |
+| B5.33 31 00.01.17 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-16 | 2026-02-16 | 2026-02-16 | 2026-02-16 | 100 |  |
+| B5.33 31 00.01.25 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-03 | 2026-09-20 | 2026-05-03 |  | 9.95328 | 111 |
+| B5.33 31 00.01.33 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-05 | 2026-09-21 | 2026-05-05 |  | 9.95328 | 110 |
+| B5.33 31 00.01.3 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-08 | 2026-02-10 | 2026-02-08 | 2026-02-10 | 100 |  |
+| B5.33 31 00.01.11 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-02-11 | 2026-02-11 | 2026-02-11 | 100 |  |
+| B5.33 31 00.01.19 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-12 | 2026-02-14 | 2026-02-12 | 2026-02-14 | 100 |  |
+| B5.33 31 00.01.27 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-03 | 2026-09-20 | 2026-05-03 |  | 9.95328 | 111 |
+| B5.33 31 00.01.35 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-11 | 2026-09-21 | 2026-05-11 |  | 9.95328 | 111 |
+| B5.33 31 00.01.5 | Excavation | Depth From 3.5m to 4.5m | Task | Completed | 2026-02-10 | 2026-02-12 | 2026-02-10 | 2026-02-12 | 100 |  |
+| B5.33 31 00.01.13 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Completed | 2026-02-12 | 2026-02-14 | 2026-02-12 | 2026-02-14 | 100 |  |
+| B5.33 31 00.01.21 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Completed | 2026-02-15 | 2026-02-16 | 2026-02-15 | 2026-02-16 | 100 |  |
+| B5.33 31 00.01.29 | Embedment & Test | Depth From 3.5m to 4.5m | Task | In Progress | 2026-05-04 | 2026-09-20 | 2026-05-04 |  | 9.95328 | 111 |
+| B5.33 31 00.01.37 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Completed | 2026-08-15 | 2026-08-18 | 2026-08-15 | 2026-08-18 | 100 |  |
+| B5.33 31 00.01.7 | Excavation | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-09 | 2026-02-10 | 2026-02-09 | 2026-02-10 | 100 |  |
+| B5.33 31 00.01.15 | Sand Bedding | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-11 | 2026-02-12 | 2026-02-11 | 2026-02-12 | 100 |  |
+| B5.33 31 00.01.23 | Pipe Laying | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-14 | 2026-02-14 | 2026-02-14 | 2026-02-14 | 100 |  |
+| B5.33 31 00.01.31 | Embedment & Test | Depth From 4.5m to 5.5m | Task | In Progress | 2026-05-09 | 2026-09-20 | 2026-05-09 |  | 9.95328 | 112.3 |
+| B5.33 31 00.01.39 | Backfilling & Warrning Tape | Depth From 4.5m to 5.5m | Task | In Progress | 2026-05-11 | 2026-09-21 | 2026-05-11 |  | 9.95328 | 111 |
+| B5.33 31 00.01.02.1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-24 | 2026-03-08 | 2026-01-24 | 2026-03-08 | 100 |  |
+| B5.33 31 00.01.02.13 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-27 | 2026-03-15 | 2026-01-27 | 2026-03-15 | 100 |  |
+| B5.33 31 00.01.02.25 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-28 | 2026-03-18 | 2026-01-28 | 2026-03-22 | 100 |  |
+| B5.33 31 00.01.02.37 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-31 | 2026-03-29 | 2026-01-31 | 2026-03-29 | 100 |  |
+| B5.33 31 00.01.02.49 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-04 | 2026-05-23 | 2026-04-04 | 2026-05-23 | 100 |  |
+| B5.33 31 00.01.02.3 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-26 | 2026-04-04 | 2026-01-26 | 2026-04-04 | 100 |  |
+| B5.33 31 00.01.02.15 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-28 | 2026-04-06 | 2026-01-28 | 2026-04-06 | 100 |  |
+| B5.33 31 00.01.02.27 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-31 | 2026-04-09 | 2026-01-31 | 2026-04-09 | 100 |  |
+| B5.33 31 00.01.02.39 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-01 | 2026-04-18 | 2026-02-01 | 2026-04-18 | 100 |  |
+| B5.33 31 00.01.02.51 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-09 | 2026-06-06 | 2026-05-09 | 2026-06-06 | 100 |  |
+| B5.33 31 00.01.02.5 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-26 | 2026-03-07 | 2026-02-26 | 2026-03-07 | 100 |  |
+| B5.33 31 00.01.02.17 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-02 | 2026-03-14 | 2026-03-02 | 2026-03-14 | 100 |  |
+| B5.33 31 00.01.02.29 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-03 | 2026-03-18 | 2026-03-03 | 2026-03-21 | 100 |  |
+| B5.33 31 00.01.02.41 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-05-20 | 2026-04-01 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.53 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-06 | 2026-06-03 | 2026-04-06 | 2026-06-03 | 100 |  |
+| B5.33 31 00.01.02.7 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-21 | 2026-05-20 | 2026-01-21 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.19 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-24 | 2026-05-20 | 2026-01-24 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.31 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-26 | 2026-05-20 | 2026-01-26 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.43 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-28 | 2026-06-03 | 2026-01-28 | 2026-06-03 | 100 |  |
+| B5.33 31 00.01.02.55 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-07 | 2026-06-08 | 2026-05-07 | 2026-06-08 | 100 |  |
+| B5.33 31 00.01.02.9 | Excavation | Depth From 3.5m to 4.5m | Task | Completed | 2026-03-05 | 2026-05-20 | 2026-03-05 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.21 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Completed | 2026-03-08 | 2026-05-20 | 2026-03-08 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.33 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Completed | 2026-03-09 | 2026-05-20 | 2026-03-09 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.45 | Embedment & Test | Depth From 3.5m to 4.5m | Task | Completed | 2026-04-30 | 2026-05-20 | 2026-04-30 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.57 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Completed | 2026-05-03 | 2026-05-20 | 2026-05-03 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.11 | Excavation | Depth From 4.5m to 5.5m | Task | Completed | 2026-03-05 | 2026-05-20 | 2026-03-05 | 2026-05-20 | 100 |  |
+| B5.33 31 00.01.02.23 | Sand Bedding | Depth From 4.5m to 5.5m | Task | Completed | 2026-03-08 | 2026-05-17 | 2026-03-08 | 2026-05-17 | 100 |  |
+| B5.33 31 00.01.02.35 | Pipe Laying | Depth From 4.5m to 5.5m | Task | Completed | 2026-03-09 | 2026-05-23 | 2026-03-09 | 2026-05-23 | 100 |  |
+| B5.33 31 00.01.02.47 | Embedment & Test | Depth From 4.5m to 5.5m | Task | Completed | 2026-04-29 | 2026-06-03 | 2026-04-29 | 2026-06-03 | 100 |  |
+| B5.33 31 00.01.02.59 | Backfilling & Warrning Tape | Depth From 4.5m to 5.5m | Task | Completed | 2026-05-02 | 2026-06-06 | 2026-05-02 | 2026-06-06 | 100 |  |
+| B5.33 31 00.01.0211 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-15 | 2026-04-16 | 2026-04-15 | 2026-04-16 | 100 |  |
+| B5.33 31 00.01.0215 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-18 | 2026-04-19 | 2026-04-18 | 2026-04-19 | 100 |  |
+| B5.33 31 00.01.0219 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-19 | 2026-04-20 | 2026-04-19 | 2026-04-20 | 100 |  |
+| B5.33 31 00.01.02113 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-21 | 2026-04-21 | 2026-04-21 | 2026-04-21 | 100 |  |
+| B5.33 31 00.01.02117 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-03 | 2026-05-21 | 2026-05-03 | 2026-05-21 | 100 |  |
+| B5.33 31 00.01.0213 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-12 | 2026-04-14 | 2026-04-12 | 2026-04-14 | 100 |  |
+| B5.33 31 00.01.0217 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-15 | 2026-04-18 | 2026-04-15 | 2026-04-18 | 100 |  |
+| B5.33 31 00.01.02111 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-19 | 2026-04-20 | 2026-04-19 | 2026-04-20 | 100 |  |
+| B5.33 31 00.01.02115 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-21 | 2026-04-21 | 2026-04-21 | 2026-04-21 | 100 |  |
+| B5.33 31 00.01.02119 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-04 | 2026-08-27 | 2026-05-04 | 2026-08-27 | 100 |  |
+| B5.33 31 00.01.0210 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-20 | 2026-05-21 | 2026-05-20 | 2026-05-21 | 100 |  |
+| B5.33 31 00.01.0218 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-23 | 2026-05-24 | 2026-05-23 | 2026-05-24 | 100 |  |
+| B5.33 31 00.01.0226 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-07-08 | 2026-05-25 | 2026-07-08 | 100 |  |
+| B5.33 31 00.01.0234 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-01 | 2026-07-09 | 2026-06-01 | 2026-07-09 | 100 |  |
+| B5.33 31 00.01.0242 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-10 | 2026-07-11 | 2026-06-10 | 2026-07-11 | 100 |  |
+| B5.33 31 00.01.0212 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-23 | 2026-05-24 | 2026-05-23 | 2026-05-24 | 100 |  |
+| B5.33 31 00.01.0220 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-25 | 2026-05-31 | 2026-05-25 | 2026-05-31 | 100 |  |
+| B5.33 31 00.01.0228 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-01 | 2026-07-08 | 2026-06-01 | 2026-07-08 | 100 |  |
+| B5.33 31 00.01.0236 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-24 | 2026-07-11 | 2026-06-24 | 2026-07-11 | 100 |  |
+| B5.33 31 00.01.0244 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-29 | 2026-07-12 | 2026-06-29 | 2026-07-12 | 100 |  |
+| B5.33 31 00.01.0214 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-24 | 2026-07-01 | 2026-06-24 | 2026-07-01 | 100 |  |
+| B5.33 31 00.01.0222 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-27 | 2026-08-27 | 2026-06-27 | 2026-08-27 | 100 |  |
+| B5.33 31 00.01.0230 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-29 | 2026-08-23 | 2026-06-29 | 2026-08-23 | 100 |  |
+| B5.33 31 00.01.0238 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-07-01 | 2026-09-20 | 2026-07-01 |  | 4.6061568 | 112.2 |
+| B5.33 31 00.01.0246 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-07-04 | 2026-08-30 | 2026-07-04 | 2026-08-30 | 100 |  |
+| B5.33 31 00.01.0216 | Excavation | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-27 | 2026-08-25 | 2026-06-27 | 2026-08-25 | 100 |  |
+| B5.33 31 00.01.0224 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-29 | 2026-08-29 | 2026-06-29 | 2026-08-29 | 100 |  |
+| B5.33 31 00.01.0232 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Completed | 2026-07-01 | 2026-08-26 | 2026-07-01 | 2026-08-26 | 100 |  |
+| B5.33 31 00.01.0240 | Embedment & Test | Depth From 3.5m to 4.5m | Task | In Progress | 2026-07-02 | 2026-09-20 | 2026-07-02 |  | 4.42368 | 112 |
+| B5.33 31 00.01.0248 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Completed | 2026-07-06 | 2026-08-31 | 2026-07-06 | 2026-08-31 | 100 |  |
+| B6.33 42 11.021 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-15 | 2025-12-18 | 2025-12-15 | 2025-12-18 | 100 |  |
+| B6.33 42 11.022 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-18 | 2025-12-21 | 2025-12-18 | 2025-12-21 | 100 |  |
+| B6.33 42 11.023 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-21 | 2026-01-14 | 2025-12-21 | 2026-01-14 | 100 |  |
+| B6.33 42 11.024 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-22 | 2026-01-15 | 2025-12-22 | 2026-01-15 | 100 |  |
+| B6.33 42 11.025 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-24 | 2026-03-12 | 2025-12-24 | 2026-03-12 | 100 |  |
+| B6.33 42 11.041 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-18 | 2026-01-14 | 2025-12-18 | 2026-01-14 | 100 |  |
+| B6.33 42 11.042 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-21 | 2026-01-17 | 2025-12-21 | 2026-01-17 | 100 |  |
+| B6.33 42 11.043 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-24 | 2026-01-19 | 2025-12-24 | 2026-01-19 | 100 |  |
+| B6.33 42 11.044 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-27 | 2026-03-11 | 2025-12-27 | 2026-03-11 | 100 |  |
+| B6.33 42 11.045 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-29 | 2026-03-18 | 2025-12-29 | 2026-03-18 | 100 |  |
+| B6.33 42 11.051 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-03 | 2026-01-14 | 2026-01-03 | 2026-01-14 | 100 |  |
+| B6.33 42 11.052 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-06 | 2026-01-17 | 2026-01-06 | 2026-01-17 | 100 |  |
+| B6.33 42 11.053 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-07 | 2026-02-14 | 2026-01-07 | 2026-02-14 | 100 |  |
+| B6.33 42 11.054 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-10 | 2026-03-18 | 2026-01-10 | 2026-03-19 | 100 |  |
+| B6.33 42 11.055 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-13 | 2026-03-18 | 2026-01-13 | 2026-03-22 | 100 |  |
+| B6.33 42 11.0401 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-10 | 2026-01-12 | 2026-01-10 | 2026-01-12 | 100 |  |
+| B6.33 42 11.0402 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-12 | 2026-01-13 | 2026-01-12 | 2026-01-13 | 100 |  |
+| B6.33 42 11.0403 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-13 | 2026-01-15 | 2026-01-13 | 2026-01-15 | 100 |  |
+| B6.33 42 11.0404 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-21 | 2026-03-25 | 2026-01-21 | 2026-03-25 | 100 |  |
+| B6.33 42 11.0405 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-26 | 2026-03-30 | 2026-01-26 | 2026-03-30 | 100 |  |
+| B6.33 42 11.111 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-06 | 2026-01-10 | 2026-01-06 | 2026-01-10 | 100 |  |
+| B6.33 42 11.112 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-08 | 2026-01-11 | 2026-01-08 | 2026-01-11 | 100 |  |
+| B6.33 42 11.113 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-10 | 2026-01-13 | 2026-01-10 | 2026-01-13 | 100 |  |
+| B6.33 42 11.114 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-21 | 2026-03-18 | 2026-01-21 | 2026-03-18 | 100 |  |
+| B6.33 42 11.115 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-26 | 2026-03-16 | 2026-01-26 | 2026-03-16 | 100 |  |
+| B6.33 42 11.26.1 | Excavation | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 13 |
+| B6.33 42 11.26.2 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 73 |
+| B6.33 42 11.26.3 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 73 |
+| B6.33 42 11.26.4 | Embedment & Test | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 73 |
+| B6.33 42 11.26.5 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-17 | 2026-10-22 |  |  | 0 | 73 |
+| B6.33 42 11.30.1 | Excavation | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 13 |
+| B6.33 42 11.30.2 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 75 |
+| B6.33 42 11.30.3 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 75 |
+| B6.33 42 11.30.4 | Embedment & Test | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-15 | 2026-10-20 |  |  | 0 | 75 |
+| B6.33 42 11.30.5 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-21 | 2026-10-27 |  |  | 0 | 75 |
+| B6.33 42 11.29.1 | Excavation | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 13 |
+| B6.33 42 11.29.2 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 72 |
+| B6.33 42 11.29.3 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 72 |
+| B6.33 42 11.29.4 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 72 |
+| B6.33 42 11.29.5 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-25 | 2026-10-31 |  |  | 0 | 72 |
+| B6.33 42 11.33.1 | Excavation | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 13 |
+| B6.33 42 11.33.2 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 70 |
+| B6.33 42 11.33.3 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 70 |
+| B6.33 42 11.33.4 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-22 | 2026-10-26 |  |  | 0 | 70 |
+| B6.33 42 11.33.5 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-27 | 2026-11-02 |  |  | 0 | 70 |
+| B6.33 42 11.34.1 | Excavation | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 13 |
+| B6.33 42 11.34.2 | Sand Bedding | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 72 |
+| B6.33 42 11.34.3 | Pipe Laying | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 72 |
+| B6.33 42 11.34.4 | Embedment & Test | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 72 |
+| B6.33 42 11.34.5 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | Not Started | 2026-11-03 | 2026-11-09 |  |  | 0 | 70 |
+| B6.33 42 11.011 | Excavation | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-08 | 2026-05-10 | 2026-04-08 | 2026-05-10 | 100 |  |
+| B6.33 42 11.012 | Sand Bedding | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-15 | 2026-05-13 | 2026-04-15 | 2026-05-13 | 100 |  |
+| B6.33 42 11.013 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 71.1587519999998 | 113.7 |
+| B6.33 42 11.014 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 71.1587519999998 | 113.4 |
+| B6.33 42 11.015 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 71.1587519999998 | 113.4 |
+| B6.33 42 11.02.1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-04 | 2026-05-09 | 2026-04-04 | 2026-05-09 | 100 |  |
+| B6.33 42 11.02.2 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-11 | 2026-05-11 | 2026-04-11 | 2026-05-11 | 100 |  |
+| B6.33 42 11.02.3 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-18 | 2026-05-13 | 2026-04-18 | 2026-05-13 | 100 |  |
+| B6.33 42 11.02.4 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-21 | 2026-09-17 | 2026-04-21 |  | 69.1526807999998 | 113.2 |
+| B6.33 42 11.02.5 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-22 | 2026-09-19 | 2026-04-22 |  | 69.1526807999998 | 112.9 |
+| B6.33 42 11.13.1 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-12 | 2026-09-17 | 2026-04-12 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.2 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.3 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.4 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 70.3449683999998 | 113.2 |
+| B6.33 42 11.13.5 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-28 | 2026-09-19 | 2026-04-28 |  | 70.3449683999998 | 112.9 |
+| B6.33 42 11.02.02 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-18 | 2026-03-12 | 2026-02-18 | 2026-03-13 | 100 |  |
+| B6.33 42 11.02.03 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-21 | 2026-03-18 | 2026-02-21 | 2026-03-20 | 100 |  |
+| B6.33 42 11.02.04 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-23 | 2026-03-26 | 2026-02-23 | 2026-03-27 | 100 |  |
+| B6.33 42 11.02.05 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-02 | 2026-04-20 | 2026-04-02 | 2026-04-20 | 100 |  |
+| B6.33 42 11.02.06 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-07 | 2026-05-20 | 2026-04-07 | 2026-05-20 | 100 |  |
+| B6.33 42 11.04.02 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-24 | 2026-04-01 | 2026-03-24 | 2026-04-01 | 100 |  |
+| B6.33 42 11.04.03 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-26 | 2026-04-01 | 2026-03-26 | 2026-04-01 | 100 |  |
+| B6.33 42 11.04.04 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-29 | 2026-04-01 | 2026-03-29 | 2026-04-01 | 100 |  |
+| B6.33 42 11.04.05 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-30 | 2026-04-01 | 2026-03-30 | 2026-04-01 | 100 |  |
+| B6.33 42 11.04.06 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-06 | 2026-06-23 | 2026-04-06 | 2026-06-23 | 100 |  |
+| B6.33 42 11.08.02 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-26 | 2026-03-28 | 2026-03-26 | 2026-03-28 | 100 |  |
+| B6.33 42 11.08.03 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-29 | 2026-03-30 | 2026-03-29 | 2026-03-30 | 100 |  |
+| B6.33 42 11.08.04 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-31 | 2026-04-01 | 2026-03-31 | 2026-04-01 | 100 |  |
+| B6.33 42 11.08.05 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-01 | 2026-04-14 | 2026-04-01 | 2026-04-14 | 100 |  |
+| B6.33 42 11.08.06 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-04 | 2026-05-05 | 2026-04-04 | 2026-05-05 | 100 |  |
+| B6.33 42 11.11.02 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-06 | 2026-05-10 | 2026-04-06 | 2026-05-10 | 100 |  |
+| B6.33 42 11.11.03 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-09 | 2026-05-12 | 2026-04-09 | 2026-05-12 | 100 |  |
+| B6.33 42 11.11.04 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-11 | 2026-05-14 | 2026-04-11 | 2026-05-14 | 100 |  |
+| B6.33 42 11.11.05 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-13 | 2026-05-17 | 2026-04-13 | 2026-05-17 | 100 |  |
+| B6.33 42 11.11.06 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-18 | 2026-06-24 | 2026-04-18 | 2026-06-24 | 100 |  |
+| B6.33 42 11.02 1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-14 | 2026-04-14 | 2026-03-13 | 2026-04-14 | 100 |  |
+| B6.33 42 11.02 2 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-15 | 2026-04-21 | 2026-03-15 | 2026-04-21 | 100 |  |
+| B6.33 42 11.02 3 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-16 | 2026-04-28 | 2026-03-16 | 2026-04-28 | 100 |  |
+| B6.33 42 11.02 4 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-05-02 | 2026-04-01 | 2026-05-02 | 100 |  |
+| B6.33 42 11.02 5 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-05 | 2026-09-19 | 2026-04-05 |  | 69.1526807999998 | 70 |
+| B6.33 42 11.01-101 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-05 | 2026-02-25 | 2026-02-05 | 2026-02-25 | 100 |  |
+| B6.33 42 11.01-107 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-07 | 2026-02-26 | 2026-02-07 | 2026-02-26 | 100 |  |
+| B6.33 42 11.01-1013 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-10 | 2026-02-28 | 2026-02-10 | 2026-02-28 | 100 |  |
+| B6.33 42 11.01-1019 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-04-12 | 2026-04-08 | 2026-04-12 | 100 |  |
+| B6.33 42 11.01-1025 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-11 | 2026-04-18 | 2026-04-11 | 2026-04-18 | 100 |  |
+| B6.33 42 11.01-102 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-08 | 2026-02-28 | 2026-02-08 | 2026-02-28 | 100 |  |
+| B6.33 42 11.01-108 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-10 | 2026-03-01 | 2026-02-10 | 2026-03-01 | 100 |  |
+| B6.33 42 11.01-1014 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-11 | 2026-03-02 | 2026-02-11 | 2026-03-02 | 100 |  |
+| B6.33 42 11.01-1020 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-04-11 | 2026-04-08 | 2026-04-11 | 100 |  |
+| B6.33 42 11.01-1026 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-16 | 2026-04-21 | 2026-04-16 | 2026-04-21 | 100 |  |
+| B6.33 42 11.01-103 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-04-09 | 2026-04-08 | 2026-04-09 | 100 |  |
+| B6.33 42 11.01-109 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-11 | 2026-04-12 | 2026-04-11 | 2026-04-12 | 100 |  |
+| B6.33 42 11.01-1015 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-13 | 2026-04-14 | 2026-04-13 | 2026-04-14 | 100 |  |
+| B6.33 42 11.01-1021 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-29 | 2026-05-02 | 2026-04-29 | 2026-05-02 | 100 |  |
+| B6.33 42 11.01-1027 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-30 | 2026-05-04 | 2026-04-30 | 2026-05-04 | 100 |  |
+| B6.33 42 11.01-104 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-26 | 2026-02-28 | 2026-02-26 | 2026-02-28 | 100 |  |
+| B6.33 42 11.01-1010 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-28 | 2026-03-01 | 2026-02-28 | 2026-03-01 | 100 |  |
+| B6.33 42 11.01-1016 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-01 | 2026-03-02 | 2026-03-01 | 2026-03-02 | 100 |  |
+| B6.33 42 11.01-1022 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-29 | 2026-05-03 | 2026-04-29 | 2026-05-03 | 100 |  |
+| B6.33 42 11.01-1028 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-02 | 2026-05-04 | 2026-05-02 | 2026-05-04 | 100 |  |
+| B6.33 42 11.01-105 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-15 | 2026-06-17 | 2026-04-15 | 2026-06-17 | 100 |  |
+| B6.33 42 11.01-1011 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-18 | 2026-06-20 | 2026-04-18 | 2026-06-20 | 100 |  |
+| B6.33 42 11.01-1017 | Pipe Laying | Depth From 2.5m to 3.5m | Task | In Progress | 2026-04-21 | 2026-09-17 | 2026-04-21 |  | 68.796 | 113.7 |
+| B6.33 42 11.01-1023 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-03 | 2026-09-17 | 2026-06-03 |  | 68.796 | 113.2 |
+| B6.33 42 11.01-1029 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-08 | 2026-09-19 | 2026-06-08 |  | 68.796 | 112.9 |
+| B6.33 42 11.03-11 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-19 | 2026-09-17 | 2026-08-19 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-14 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-22 | 2026-09-17 | 2026-08-22 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-17 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-24 | 2026-09-17 | 2026-08-24 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-110 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 108.7 |
+| B6.33 42 11.03-113 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-25 | 2026-09-19 | 2026-08-25 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-12 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-10 | 2026-09-17 | 2026-08-10 |  | 59.535 | 52.7 |
+| B6.33 42 11.03-15 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-13 | 2026-09-17 | 2026-08-13 |  | 59.535 | 52.7 |
+| B6.33 42 11.03-18 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-15 | 2026-09-17 | 2026-08-15 |  | 59.535 | 52.7 |
+| B6.33 42 11.03-111 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 52.7 |
+| B6.33 42 11.03-114 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-19 | 2026-09-19 | 2026-08-19 |  | 59.535 | 52.7 |
+| B6.33 42 11.03-13 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-12 | 2026-09-17 | 2026-08-12 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-16 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-16 | 2026-09-17 | 2026-08-16 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-19 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-19 | 2026-09-17 | 2026-08-19 |  | 59.535 | 108.7 |
+| B6.33 42 11.03-112 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 108.7 |
+| B6.33 42 11.03-115 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-23 | 2026-09-19 | 2026-08-23 |  | 59.535 | 108.7 |
+| B6.33 42 11.31-1 1 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-08-13 | 2026-08-16 | 2026-08-13 | 2026-08-16 | 100 |  |
+| B6.33 42 11.31-1 3 | Sand Bedding | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-16 | 2026-09-17 | 2026-08-16 |  | 67.473 | 113.7 |
+| B6.33 42 11.31-1 5 | Pipe Laying | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-17 | 2026-09-17 | 2026-08-17 |  | 39.69 | 113.7 |
+| B6.33 42 11.31-1 7 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-20 | 2026-09-17 | 2026-08-20 |  | 67.473 | 113.2 |
+| B6.33 42 11.31-1 9 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-23 | 2026-09-19 | 2026-08-23 |  | 67.473 | 112.9 |
+| B6.33 42 11.31-1 2 | Excavation | Depth From 3.5m to 4.5m | Task | Completed | 2026-08-11 | 2026-08-17 | 2026-08-11 | 2026-08-17 | 100 |  |
+| B6.33 42 11.31-1 4 | Sand Bedding | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-15 | 2026-09-17 | 2026-08-15 |  | 67.473 | 113.7 |
+| B6.33 42 11.31-1 6 | Pipe Laying | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-16 | 2026-09-17 | 2026-08-16 |  | 67.473 | 113.7 |
+| B6.33 42 11.31-1 8 | Embedment & Test | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-20 | 2026-09-17 | 2026-08-20 |  | 67.473 | 113.2 |
+| B6.33 42 11.31-1 10 | Backfilling & Warrning Tape | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-25 | 2026-09-17 | 2026-08-25 |  | 67.473 | 113.1 |
+| B6.33 42 11.27-1.1 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-07 | 2026-03-05 | 2026-02-06 | 2026-03-05 | 100 |  |
+| B6.33 42 11.27-1.3 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-08 | 2026-03-05 | 2026-02-08 | 2026-03-05 | 100 |  |
+| B6.33 42 11.27-1.5 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-03-05 | 2026-02-11 | 2026-03-05 | 100 |  |
+| B6.33 42 11.27-1.7 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-05 | 2026-05-20 | 2026-03-05 | 2026-05-20 | 100 |  |
+| B6.33 42 11.27-1.9 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-28 | 2026-05-21 | 2026-03-28 | 2026-05-21 | 100 |  |
+| B6.33 42 11.27-1.2 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-08 | 2026-03-04 | 2026-02-08 | 2026-03-04 | 100 |  |
+| B6.33 42 11.27-1.4 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-03-04 | 2026-02-11 | 2026-03-04 | 100 |  |
+| B6.33 42 11.27-1.6 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-14 | 2026-03-04 | 2026-02-13 | 2026-03-04 | 100 |  |
+| B6.33 42 11.27-1.8 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-04 | 2026-05-20 | 2026-03-04 | 2026-05-20 | 100 |  |
+| B6.33 42 11.27-1.10 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-16 | 2026-05-20 | 2026-03-16 | 2026-05-20 | 100 |  |
+| B6.33 42 11.01-1.1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-11 | 2026-02-12 | 2026-02-11 | 2026-02-12 | 100 |  |
+| B6.33 42 11.01-1.3 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-12 | 2026-02-14 | 2026-02-12 | 2026-02-14 | 100 |  |
+| B6.33 42 11.01-1.5 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-15 | 2026-02-16 | 2026-02-15 | 2026-02-16 | 100 |  |
+| B6.33 42 11.01-1.7 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-02 | 2026-09-19 | 2026-05-02 |  | 47.2463832959999 | 112.4 |
+| B6.33 42 11.01-1.9 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-05 | 2026-09-19 | 2026-05-05 |  | 47.2463832959999 | 112.2 |
+| B6.33 42 11.34-1.1 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-02-14 | 2026-02-11 | 2026-02-14 | 100 |  |
+| B6.33 42 11.34-1.3 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-15 | 2026-02-17 | 2026-02-15 | 2026-02-17 | 100 |  |
+| B6.33 42 11.34-1.5 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-16 | 2026-02-17 | 2026-02-16 | 2026-02-17 | 100 |  |
+| B6.33 42 11.34-1.7 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-21 | 2026-02-23 | 2026-02-21 | 2026-02-23 | 100 |  |
+| B6.33 42 11.34-1.9 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-13 | 2026-05-17 | 2026-04-13 | 2026-05-17 | 100 |  |
+| B6.33 42 11.34-1.11 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-04 | 2026-03-05 | 2026-03-04 | 2026-03-05 | 100 |  |
+| B6.33 42 11.34-1.13 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-07 | 2026-03-08 | 2026-03-07 | 2026-03-08 | 100 |  |
+| B6.33 42 11.34-1.15 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-08 | 2026-03-16 | 2026-03-08 | 2026-03-16 | 100 |  |
+| B6.33 42 11.34-1.17 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-06 | 2026-05-20 | 2026-05-06 | 2026-05-20 | 100 |  |
+| B6.33 42 11.34-1.19 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-11 | 2026-05-24 | 2026-05-11 | 2026-05-24 | 100 |  |
+| B6.33 42 11.05-1.1 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-18 | 2026-05-03 | 2026-01-18 | 2026-05-03 | 100 |  |
+| B6.33 42 11.05-1.15 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-21 | 2026-05-10 | 2026-01-21 | 2026-05-10 | 100 |  |
+| B6.33 42 11.05-1.29 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-24 | 2026-05-17 | 2026-01-24 | 2026-05-17 | 100 |  |
+| B6.33 42 11.05-1.43 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-27 | 2026-05-24 | 2026-01-27 | 2026-05-24 | 100 |  |
+| B6.33 42 11.05-1.57 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-10 | 2026-06-04 | 2026-03-10 | 2026-06-04 | 100 |  |
+| B6.33 42 11.05-1.3 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-17 | 2026-06-03 | 2026-01-17 | 2026-06-03 | 100 |  |
+| B6.33 42 11.05-1.17 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-21 | 2026-05-10 | 2026-01-21 | 2026-05-10 | 100 |  |
+| B6.33 42 11.05-1.31 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-22 | 2026-05-17 | 2026-01-22 | 2026-05-17 | 100 |  |
+| B6.33 42 11.05-1.45 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-24 | 2026-05-24 | 2026-01-24 | 2026-05-24 | 100 |  |
+| B6.33 42 11.05-1.59 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-04 | 2026-06-03 | 2026-05-04 | 2026-06-03 | 100 |  |
+| B6.33 42 11.05-1.5 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-01-07 | 2026-09-17 | 2026-01-07 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.19 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-01-10 | 2026-09-17 | 2026-01-10 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.33 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-01-12 | 2026-09-17 | 2026-01-12 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.47 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-01-17 | 2026-09-17 | 2026-01-16 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.61 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 69.552 | 113.3 |
+| B6.33 42 11.05-1.7 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-02-02 | 2026-09-17 | 2026-02-02 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.21 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-02-04 | 2026-09-17 | 2026-02-04 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.35 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-02-07 | 2026-09-17 | 2026-02-07 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.49 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-02-08 | 2026-09-17 | 2026-02-08 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.63 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 69.552 | 113.3 |
+| B6.33 42 11.05-1.9 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-17 | 2026-04-15 | 2026-01-17 | 2026-04-15 | 100 |  |
+| B6.33 42 11.05-1.23 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-20 | 2026-04-18 | 2026-01-20 | 2026-04-18 | 100 |  |
+| B6.33 42 11.05-1.37 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-01-24 | 2026-04-19 | 2026-01-24 | 2026-04-19 | 100 |  |
+| B6.33 42 11.05-1.51 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-20 | 2026-04-21 | 2026-04-20 | 2026-04-21 | 100 |  |
+| B6.33 42 11.05-1.65 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-27 | 2026-04-29 | 2026-04-27 | 2026-04-29 | 100 |  |
+| B6.33 42 11.05-1.11 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-03 | 2026-05-07 | 2026-05-03 | 2026-05-07 | 100 |  |
+| B6.33 42 11.05-1.25 | Sand Bedding | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-06 | 2026-05-21 | 2026-05-06 | 2026-05-21 | 100 |  |
+| B6.33 42 11.05-1.39 | Pipe Laying | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-13 | 2026-06-01 | 2026-05-13 | 2026-06-01 | 100 |  |
+| B6.33 42 11.05-1.53 | Embedment & Test | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-02 | 2026-06-04 | 2026-06-02 | 2026-06-04 | 100 |  |
+| B6.33 42 11.05-1.67 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-06 | 2026-06-08 | 2026-06-06 | 2026-06-08 | 100 |  |
+| B6.33 42 11.05-1.13 | Excavation | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-06 | 2026-06-07 | 2026-06-06 | 2026-06-07 | 100 |  |
+| B6.33 42 11.05-1.27 | Sand Bedding | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.41 | Pipe Laying | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-20 | 2026-09-17 | 2026-06-20 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.55 | Embedment & Test | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-21 | 2026-09-17 | 2026-06-21 |  | 69.552 | 113 |
+| B6.33 42 11.05-1.69 | Backfilling & Warrning Tape | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-23 | 2026-09-17 | 2026-06-23 |  | 69.552 | 113 |
+| B6.33 42 11.01-110 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-14 | 2026-04-22 | 2026-04-14 | 2026-04-22 | 100 |  |
+| B6.33 42 11.01-116 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-16 | 2026-05-06 | 2026-04-16 | 2026-05-06 | 100 |  |
+| B6.33 42 11.01-122 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-19 | 2026-05-13 | 2026-04-19 | 2026-05-13 | 100 |  |
+| B6.33 42 11.01-128 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-06 | 2026-05-20 | 2026-05-06 | 2026-05-20 | 100 |  |
+| B6.33 42 11.01-134 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-10 | 2026-09-19 | 2026-05-10 |  | 67.0224602879997 | 112.2 |
+| B6.33 42 11.01-112 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-16 | 2026-04-25 | 2026-04-16 | 2026-04-25 | 100 |  |
+| B6.33 42 11.01-118 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 67.0224602879997 | 113 |
+| B6.33 42 11.01-124 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 67.0224602879997 | 113 |
+| B6.33 42 11.01-130 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-06 | 2026-09-17 | 2026-05-06 |  | 67.0224602879997 | 113 |
+| B6.33 42 11.01-136 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-11 | 2026-09-17 | 2026-05-11 |  | 67.0224602879997 | 113 |
+| B6.33 42 11.01-114 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-22 | 2026-04-27 | 2026-04-22 | 2026-04-27 | 100 |  |
+| B6.33 42 11.01-120 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-25 | 2026-08-20 | 2026-04-25 | 2026-08-20 | 100 |  |
+| B6.33 42 11.01-126 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-28 | 2026-08-22 | 2026-04-28 | 2026-08-22 | 100 |  |
+| B6.33 42 11.01-132 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-06 | 2026-09-19 | 2026-08-06 |  | 34.1789111999999 | 112.2 |
+| B6.33 42 11.01-138 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-08-09 | 2026-08-24 | 2026-08-09 | 2026-08-24 | 100 |  |
+| B6.33 42 11.01-1.10 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B6.33 42 11.01-1.18 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B6.33 42 11.01-1.26 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-07-01 | 2026-05-25 | 2026-07-01 | 100 |  |
+| B6.33 42 11.01-1.34 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-07-08 | 2026-05-25 | 2026-07-08 | 100 |  |
+| B6.33 42 11.01-1.42 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-07-09 | 2026-05-25 | 2026-07-09 | 100 |  |
+| B6.33 42 11.01-1.12 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B6.33 42 11.01-1.20 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-31 | 2026-06-01 | 2026-05-31 | 2026-06-01 | 100 |  |
+| B6.33 42 11.01-1.28 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-31 | 2026-07-11 | 2026-05-31 | 2026-07-11 | 100 |  |
+| B6.33 42 11.01-1.36 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-01 | 2026-07-12 | 2026-06-01 | 2026-07-12 | 100 |  |
+| B6.33 42 11.01-1.44 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-02 | 2026-07-14 | 2026-06-02 | 2026-07-14 | 100 |  |
+| B6.33 42 11.01-1.14 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-06-01 | 2026-05-25 | 2026-06-01 | 100 |  |
+| B6.33 42 11.01-1.22 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-25 | 2026-06-03 | 2026-05-25 | 2026-06-03 | 100 |  |
+| B6.33 42 11.01-1.30 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-31 | 2026-09-17 | 2026-05-26 |  | 71.064 | 113 |
+| B6.33 42 11.01-1.38 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-01 | 2026-09-17 | 2026-06-01 |  | 67.473 | 113 |
+| B6.33 42 11.01-1.46 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-02 | 2026-09-17 | 2026-06-02 |  | 6.3504 | 113.1 |
+| B6.33 42 11.01-1.16 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-01 | 2026-06-03 | 2026-06-01 | 2026-06-03 | 100 |  |
+| B6.33 42 11.01-1.24 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-03 | 2026-06-06 | 2026-06-03 | 2026-06-06 | 100 |  |
+| B6.33 42 11.01-1.32 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-06 | 2026-09-17 | 2026-06-06 |  | 69.0606 | 113 |
+| B6.33 42 11.01-1.40 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 59.6143799999999 | 113 |
+| B6.33 42 11.01-1.48 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-13 | 2026-09-19 | 2026-06-13 |  | 59.6143799999999 | 112.7 |
+| B3.33 14 13.01.011 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-01 | 2026-04-01 | 2026-02-01 | 2026-04-01 | 100 |  |
+| B3.33 14 13.01.012 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-14 | 2026-04-02 | 2026-02-14 | 2026-04-02 | 100 |  |
+| B3.33 14 13.01.013 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-16 | 2026-04-05 | 2026-02-16 | 2026-04-05 | 100 |  |
+| B3.33 14 13.01.014 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-12 | 2026-05-20 | 2026-04-12 | 2026-05-20 | 100 |  |
+| B3.33 14 13.01.015 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-23 | 2026-06-24 | 2026-04-23 | 2026-06-24 | 100 |  |
+| B3.33 14 13.01.021 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-02 | 2026-04-14 | 2026-02-02 | 2026-04-14 | 100 |  |
+| B3.33 14 13.01.022 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-19 | 2026-04-15 | 2026-02-19 | 2026-04-15 | 100 |  |
+| B3.33 14 13.01.023 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-23 | 2026-05-23 | 2026-02-22 | 2026-05-23 | 100 |  |
+| B3.33 14 13.01.024 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-03-07 | 2026-05-24 | 2026-03-06 | 2026-05-24 | 100 |  |
+| B3.33 14 13.01.025 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-03-11 | 2026-06-28 | 2026-03-11 | 2026-06-28 | 100 |  |
+| B3.33 14 11.01.011 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-03 | 2026-09-17 | 2026-06-03 |  | 0 | 113 |
+| B3.33 14 11.01.012 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 0 | 113 |
+| B3.33 14 11.01.013 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 0 | 113 |
+| B3.33 14 11.01.014 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-15 | 2026-09-20 | 2026-06-15 |  | 0 | 111 |
+| B3.33 14 11.01.015 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-18 | 2026-09-21 | 2026-06-18 |  | 0 | 109 |
+| B3.33 14 11.01.021 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-03 | 2026-09-19 | 2026-06-03 |  | 0 | 110 |
+| B3.33 14 11.01.022 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 0 | 110 |
+| B3.33 14 11.01.023 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-13 | 2026-09-19 | 2026-06-13 |  | 0 | 110 |
+| B3.33 14 11.01.024 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-15 | 2026-09-20 | 2026-06-15 |  | 0 | 109 |
+| B3.33 14 11.01.025 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-18 | 2026-09-21 | 2026-06-18 |  | 0 | 110 |
+| B3.33 14 13.01.01.1 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-18 | 2026-09-17 | 2026-05-18 |  | 72.4965333333331 | 113 |
+| B3.33 14 13.01.01.2 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 75.0999999999998 | 113 |
+| B3.33 14 13.01.01.3 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 72.4965333333331 | 113 |
+| B3.33 14 13.01.01.4 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 72.4965333333331 | 113 |
+| B3.33 14 13.01.01.5 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-03 | 2026-09-17 | 2026-05-03 |  | 72.4965333333331 | 113 |
+| B3.33 14 13.01.02.1 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 81.6587333333331 | 67 |
+| B3.33 14 13.01.02.2 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 81.6587333333331 | 105 |
+| B3.33 14 13.01.02.3 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 81.6587333333331 | 105 |
+| B3.33 14 13.01.02.4 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-04 | 2026-09-17 | 2026-04-03 |  | 81.6587333333331 | 105 |
+| B3.33 14 13.01.02.5 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-08 | 2026-09-17 | 2026-04-08 |  | 81.6587333333331 | 102 |
+| B3.33 14 13.01.02 1 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-05 | 2026-05-11 | 2026-05-05 | 2026-05-11 | 100 |  |
+| B3.33 14 13.01.02 2 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-12 | 2026-05-16 | 2026-05-12 | 2026-05-16 | 100 |  |
+| B3.33 14 13.01.02 3 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-16 | 2026-05-17 | 2026-05-16 | 2026-05-17 | 100 |  |
+| B3.33 14 13.01.02 4 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-17 | 2026-05-18 | 2026-05-17 | 2026-05-18 | 100 |  |
+| B3.33 14 13.01.02 5 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-18 | 2026-05-24 | 2026-05-18 | 2026-05-24 | 100 |  |
+| B3.33 14 11.01.0110 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-09 | 2026-06-16 | 2026-04-09 | 2026-06-16 | 100 |  |
+| B3.33 14 11.01.0112 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-11 | 2026-06-17 | 2026-04-11 | 2026-06-17 | 100 |  |
+| B3.33 14 11.01.0114 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-13 | 2026-09-09 | 2026-04-13 | 2026-09-09 | 100 |  |
+| B3.33 14 11.01.0116 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-27 | 2026-09-12 | 2026-04-27 | 2026-09-12 | 100 |  |
+| B3.33 14 11.01.0118 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-29 | 2026-09-17 | 2026-04-29 |  | 76.4517999999997 | 113.8 |
+| B3.33 14 13.01.0101 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-05 | 2026-02-07 | 2026-02-05 | 2026-02-07 | 100 |  |
+| B3.33 14 13.01.0105 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| B3.33 14 13.01.0109 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-15 | 2026-05-20 | 2026-04-15 | 2026-05-20 | 100 |  |
+| B3.33 14 13.01.01013 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-22 | 2026-05-21 | 2026-04-22 | 2026-05-21 | 100 |  |
+| B3.33 14 13.01.01017 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 66.8590266666665 | 95.3 |
+| B3.33 14 13.01.0103 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-01 | 2026-05-20 | 2026-02-01 | 2026-05-20 | 100 |  |
+| B3.33 14 13.01.0107 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-03 | 2026-05-20 | 2026-02-03 | 2026-05-20 | 100 |  |
+| B3.33 14 13.01.01011 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-16 | 2026-09-16 | 2026-04-16 |  | 91.121333333333 | 96 |
+| B3.33 14 13.01.01015 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-18 | 2026-09-16 | 2026-04-18 |  | 91.121333333333 | 96 |
+| B3.33 14 13.01.01019 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-28 | 2026-09-16 | 2026-04-28 |  | 91.121333333333 | 96 |
+| B3.33 14 13-91 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 72 | 56 |
+| B3.33 14 13-95 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-20 | 2026-09-17 | 2026-06-20 |  | 72 | 113 |
+| B3.33 14 13-99 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 72 | 113 |
+| B3.33 14 13-103 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-25 | 2026-09-17 | 2026-06-25 |  | 72 | 113 |
+| B3.33 14 13-107 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 72 | 113 |
+| B3.33 14 13-93 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 72 | 56 |
+| B3.33 14 13-97 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 72 | 113 |
+| B3.33 14 13-101 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 72 | 113 |
+| B3.33 14 13-105 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 72 | 113 |
+| B3.33 14 13-109 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 72 | 113.6 |
+| B3.33 14 13-191 | Excavation | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 56 |
+| B3.33 14 13-193 | Sand Bedding | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 71 |
+| B3.33 14 13-195 | Pipe Laying | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 71 |
+| B3.33 14 13-197 | Embedment & Test | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 71 |
+| B3.33 14 13-199 | Backfilling & Warrning Tape | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-19 | 2026-10-22 |  |  | 0 | 71 |
+| B3.33 14 13-1091 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-03 | 2026-05-06 | 2026-02-03 | 2026-05-06 | 100 |  |
+| B3.33 14 13-1095 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-05 | 2026-05-13 | 2026-02-05 | 2026-05-13 | 100 |  |
+| B3.33 14 13-1099 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-28 | 2026-05-20 | 2026-02-28 | 2026-05-20 | 100 |  |
+| B3.33 14 13-10103 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-20 | 2026-09-17 | 2026-05-20 |  | 71.25 | 113.8 |
+| B3.33 14 13-10107 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 71.25 | 90 |
+| B3.33 14 13-1093 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-02-05 | 2026-09-17 | 2026-02-05 |  | 84.1119999999997 | 20 |
+| B3.33 14 13-1097 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-02-07 | 2026-09-17 | 2026-02-07 |  | 84.1119999999997 | 96 |
+| B3.33 14 13-10101 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-02 | 2026-09-17 | 2026-04-02 |  | 84.1119999999997 | 96 |
+| B3.33 14 13-10105 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 84.1119999999997 | 96 |
+| B3.33 14 13-10109 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 84.1119999999997 | 96 |
+| B3.33 14 13-1191 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-11 | 2026-09-17 | 2026-04-11 |  | 79 | 112.5 |
+| B3.33 14 13-1195 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-13 | 2026-09-17 | 2026-04-13 |  | 79 | 112.5 |
+| B3.33 14 13-1199 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 79 | 112.5 |
+| B3.33 14 13-11103 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 79 | 112.5 |
+| B3.33 14 13-11107 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-11 | 2026-09-17 | 2026-05-11 |  | 79 | 113.9 |
+| B3.33 14 13-1193 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-13 | 2026-09-17 | 2026-04-13 |  | 79 | 113 |
+| B3.33 14 13-1197 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 79 | 113 |
+| B3.33 14 13-11101 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 79 | 113 |
+| B3.33 14 13-11105 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 79 | 112.5 |
+| B3.33 14 13-11109 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-05-10 | 2026-09-17 | 2026-05-10 |  | 79 | 112.5 |
+| B3.33 14 13.01.0191 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B3.33 14 13.01.0195 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B3.33 14 13.01.0199 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-25 | 2026-09-17 | 2026-05-25 |  | 80 | 113 |
+| B3.33 14 13.01.01103 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-06 | 2026-09-17 | 2026-06-06 |  | 80 | 113 |
+| B3.33 14 13.01.01107 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-10 | 2026-09-16 | 2026-06-10 |  | 80 | 71 |
+| B3.33 14 13.01.0193 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B3.33 14 13.01.0197 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-25 | 2026-06-01 | 2026-05-25 | 2026-06-01 | 100 |  |
+| B3.33 14 13.01.01101 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-01 | 2026-09-17 | 2026-06-01 |  | 80 | 113 |
+| B3.33 14 13.01.01105 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-06 | 2026-09-17 | 2026-06-06 |  | 80 | 113 |
+| B3.33 14 13.01.01109 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-10 | 2026-09-16 | 2026-06-10 |  | 80 | 71 |
+| B3.1. 33 14 13.011 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-02 | 2026-04-15 | 2026-02-02 | 2026-04-15 | 100 |  |
+| B3.1. 33 14 13.012 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-09 | 2026-04-22 | 2026-02-09 | 2026-04-22 | 100 |  |
+| B3.1. 33 14 13.013 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-11 | 2026-04-09 | 2026-02-11 | 2026-04-09 | 100 |  |
+| B3.1. 33 14 13.014 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-08 | 2026-04-12 | 2026-04-08 | 2026-04-12 | 100 |  |
+| B3.1. 33 14 13.015 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 95 | 112 |
+| B3.1. 33 14 13.021 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-02 | 2026-04-01 | 2026-02-02 | 2026-04-01 | 100 |  |
+| B3.1. 33 14 13.022 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-10 | 2026-04-04 | 2026-02-10 | 2026-04-04 | 100 |  |
+| B3.1. 33 14 13.023 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-12 | 2026-04-05 | 2026-02-12 | 2026-04-05 | 100 |  |
+| B3.1. 33 14 13.024 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-29 | 2026-06-24 | 2026-04-29 | 2026-06-24 | 100 |  |
+| B3.1. 33 14 13.025 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-05-04 | 2026-09-17 | 2026-05-04 |  | 95 | 112 |
+| B3.1. 33 14 13.01 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 90 | 69 |
+| B3.1. 33 14 13.02 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 90 | 69 |
+| B3.1. 33 14 13.03 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-02 | 2026-09-17 | 2026-05-01 |  | 90 | 69 |
+| B3.1. 33 14 13.04 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-10 | 2026-09-17 | 2026-05-10 |  | 84 | 102 |
+| B3.1. 33 14 13.05 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-16 | 2026-09-17 | 2026-05-16 |  | 84 | 102 |
+| B3.1. 33 14 13.2 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 90 | 69 |
+| B3.1. 33 14 13.3 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-04-27 | 2026-09-17 | 2026-04-27 |  | 90 | 69 |
+| B3.1. 33 14 13.4 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-05-03 | 2026-09-17 | 2026-05-03 |  | 84 | 69 |
+| B3.1. 33 14 13.5 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-05-10 | 2026-09-17 | 2026-05-10 |  | 84 | 102 |
+| B3.1. 33 14 13.6 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-05-16 | 2026-09-17 | 2026-05-15 |  | 84 | 102 |
+| B3.1. 33 14 13.22 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-02 | 2026-09-17 | 2026-05-01 |  | 0 | 69 |
+| B3.1. 33 14 13.23 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-03 | 2026-09-17 | 2026-05-03 |  | 0 | 69 |
+| B3.1. 33 14 13.24 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-06 | 2026-09-17 | 2026-05-06 |  | 0 | 69 |
+| B3.1. 33 14 13.25 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-10 | 2026-09-20 | 2026-05-10 |  | 0 | 71 |
+| B3.1. 33 14 13.26 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-16 | 2026-09-21 | 2026-05-15 |  | 0 | 63 |
+| B3.1. 33 14 13.01 1 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-03 | 2026-09-17 | 2026-06-03 |  | 89 | 64 |
+| B3.1. 33 14 13.01 2 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 89 | 64 |
+| B3.1. 33 14 13.01 3 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 89 | 64 |
+| B3.1. 33 14 13.01 4 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-20 | 2026-09-17 | 2026-06-20 |  | 89 | 67 |
+| B3.1. 33 14 13.01 5 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 89 | 87 |
+| B3.1. 33 14 13.0110 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-19 | 2026-06-14 | 2026-04-19 | 2026-06-14 | 100 |  |
+| B3.1. 33 14 13.0112 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-21 | 2026-06-16 | 2026-04-21 | 2026-06-16 | 100 |  |
+| B3.1. 33 14 13.0114 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-23 | 2026-09-09 | 2026-04-23 | 2026-09-09 | 100 |  |
+| B3.1. 33 14 13.0116 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-25 | 2026-09-12 | 2026-04-25 | 2026-09-12 | 100 |  |
+| B3.1. 33 14 13.0118 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-30 | 2026-09-14 | 2026-04-30 | 2026-09-14 | 100 |  |
+| B3.1. 33 14 13.01.10 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-08-22 | 2026-09-17 | 2026-08-22 |  | 94.5 | 44 |
+| B3.1. 33 14 13.01.14 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-08-25 | 2026-09-17 | 2026-08-25 |  | 89 | 44 |
+| B3.1. 33 14 13.01.18 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-08-29 | 2026-09-17 | 2026-08-29 |  | 89 | 44 |
+| B3.1. 33 14 13.01.22 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-09-01 | 2026-09-17 | 2026-09-01 |  | 89 | 82 |
+| B3.1. 33 14 13.01.26 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Not Started | 2026-09-21 | 2026-09-29 |  |  | 0 | 82 |
+| B3.1. 33 14 13.01.12 | Excavation | Depth: 1.51m - 2.5m | Task | In Progress | 2026-09-01 | 2026-09-17 | 2026-09-01 |  | 91 | 44 |
+| B3.1. 33 14 13.01.16 | Sand Bedding | Depth: 1.51m - 2.5m | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 89 | 44 |
+| B3.1. 33 14 13.01.20 | Pipe Laying | Depth: 1.51m - 2.5m | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 89 | 44 |
+| B3.1. 33 14 13.01.24 | Embedment & Test | Depth: 1.51m - 2.5m | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 89 | 82 |
+| B3.1. 33 14 13.01.28 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Not Started | 2026-09-21 | 2026-09-29 |  |  | 0 | 82 |
+| B3.1. 33 14 13-4 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-04 | 2026-03-26 | 2026-02-04 | 2026-03-26 | 100 |  |
+| B3.1. 33 14 13-8 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-08 | 2026-03-28 | 2026-02-08 | 2026-03-28 | 100 |  |
+| B3.1. 33 14 13-12 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-11 | 2026-03-30 | 2026-02-11 | 2026-03-30 | 100 |  |
+| B3.1. 33 14 13-16 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-05 | 2026-04-07 | 2026-04-05 | 2026-04-07 | 100 |  |
+| B3.1. 33 14 13-20 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-09 | 2026-06-15 | 2026-06-09 | 2026-06-15 | 100 |  |
+| B3.1. 33 14 13-6 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-03 | 2026-05-20 | 2026-02-03 | 2026-05-20 | 100 |  |
+| B3.1. 33 14 13-10 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-07 | 2026-05-23 | 2026-02-07 | 2026-05-23 | 100 |  |
+| B3.1. 33 14 13-14 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-10 | 2026-05-25 | 2026-02-10 | 2026-05-25 | 100 |  |
+| B3.1. 33 14 13-18 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-02 | 2026-05-31 | 2026-05-02 | 2026-05-31 | 100 |  |
+| B3.1. 33 14 13-22 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-10 | 2026-06-01 | 2026-05-10 | 2026-06-01 | 100 |  |
+| B3.1. 33 14 13-1191 | Excavation | Depth: 0.0m - 1.5m | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1195 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Not Started | 2026-09-26 | 2026-09-29 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1199 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 56 |
+| B3.1. 33 14 13-11103 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Not Started | 2026-10-05 | 2026-10-11 |  |  | 0 | 56 |
+| B3.1. 33 14 13-11107 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1193 | Excavation | Depth: 1.51m - 2.5m | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1197 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Not Started | 2026-09-26 | 2026-09-29 |  |  | 0 | 56 |
+| B3.1. 33 14 13-11101 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 56 |
+| B3.1. 33 14 13-11105 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Not Started | 2026-10-05 | 2026-10-11 |  |  | 0 | 56 |
+| B3.1. 33 14 13-11109 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | 66 |
+| B3.1. 33 14 13-119 | Excavation | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1111 | Sand Bedding | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1113 | Pipe Laying | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-17 | 2026-10-20 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1115 | Embedment & Test | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-21 | 2026-10-27 |  |  | 0 | 56 |
+| B3.1. 33 14 13-1117 | Backfilling & Warrning Tape | Depth: 0.51m - 1.5m | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 56 |
+| B3.1. 33 14 13-09 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-05 | 2026-03-18 | 2026-02-05 | 2026-03-23 | 100 |  |
+| B3.1. 33 14 13-013 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-07 | 2026-03-26 | 2026-02-07 | 2026-03-26 | 100 |  |
+| B3.1. 33 14 13-017 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-07 | 2026-03-28 | 2026-02-07 | 2026-03-28 | 100 |  |
+| B3.1. 33 14 13-021 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-24 | 2026-04-01 | 2026-03-24 | 2026-04-01 | 100 |  |
+| B3.1. 33 14 13-025 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-01 | 2026-04-06 | 2026-04-01 | 2026-04-06 | 100 |  |
+| B3.1. 33 14 13-011 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-05 | 2026-08-23 | 2026-02-05 | 2026-08-23 | 100 |  |
+| B3.1. 33 14 13-015 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-07 | 2026-08-25 | 2026-02-07 | 2026-08-25 | 100 |  |
+| B3.1. 33 14 13-019 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-02-07 | 2026-08-27 | 2026-02-07 | 2026-08-27 | 100 |  |
+| B3.1. 33 14 13-023 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-04-13 | 2026-08-31 | 2026-04-13 | 2026-08-31 | 100 |  |
+| B3.1. 33 14 13-027 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-04 | 2026-08-30 | 2026-05-04 | 2026-08-30 | 100 |  |
+| B3.1. 33 14 13-0190 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B3.1. 33 14 13-0194 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B3.1. 33 14 13-0198 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-05-25 | 2026-08-27 | 2026-05-25 | 2026-08-27 | 100 |  |
+| B3.1. 33 14 13-01102 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-10 | 2026-08-31 | 2026-06-10 | 2026-08-31 | 100 |  |
+| B3.1. 33 14 13-01106 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-13 | 2026-08-30 | 2026-06-13 | 2026-08-30 | 100 |  |
+| B3.1. 33 14 13-0192 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B3.1. 33 14 13-0196 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-05-25 | 2026-06-01 | 2026-05-25 | 2026-06-01 | 100 |  |
+| B3.1. 33 14 13-01100 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-13 | 2026-08-27 | 2026-06-13 | 2026-08-27 | 100 |  |
+| B3.1. 33 14 13-01104 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-10 | 2026-08-31 | 2026-06-10 | 2026-08-31 | 100 |  |
+| B3.1. 33 14 13-01108 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-15 | 2026-08-30 | 2026-06-15 | 2026-08-30 | 100 |  |
+| B3.1. 33 14 13..1 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-13 | 2026-08-23 | 2026-06-13 | 2026-08-23 | 100 |  |
+| B3.1. 33 14 13..5 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-14 | 2026-08-25 | 2026-06-14 | 2026-08-25 | 100 |  |
+| B3.1. 33 14 13..9 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-17 | 2026-08-27 | 2026-06-17 | 2026-08-27 | 100 |  |
+| B3.1. 33 14 13..13 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-20 | 2026-08-31 | 2026-06-20 | 2026-08-31 | 100 |  |
+| B3.1. 33 14 13..17 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-06-23 | 2026-08-30 | 2026-06-23 | 2026-08-30 | 100 |  |
+| B3.1. 33 14 13..3 | Excavation | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-14 | 2026-08-23 | 2026-06-14 | 2026-08-23 | 100 |  |
+| B3.1. 33 14 13..7 | Sand Bedding | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-16 | 2026-08-25 | 2026-06-16 | 2026-08-25 | 100 |  |
+| B3.1. 33 14 13..11 | Pipe Laying | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-23 | 2026-08-27 | 2026-06-23 | 2026-08-27 | 100 |  |
+| B3.1. 33 14 13..15 | Embedment & Test | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-27 | 2026-08-31 | 2026-06-26 | 2026-08-31 | 100 |  |
+| B3.1. 33 14 13..19 | Backfilling & Warrning Tape | Depth: 1.51m - 2.5m | Task | Completed | 2026-06-30 | 2026-08-30 | 2026-06-30 | 2026-08-30 | 100 |  |
+| B4.33 14 13.071 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-02 | 2026-03-12 | 2026-03-02 | 2026-03-13 | 100 |  |
+| B4.33 14 13.072 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-04 | 2026-03-18 | 2026-03-04 | 2026-03-20 | 100 |  |
+| B4.33 14 13.073 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-07 | 2026-03-30 | 2026-03-07 | 2026-03-30 | 100 |  |
+| B4.33 14 13.074 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-26 | 2026-04-08 | 2026-03-26 | 2026-04-08 | 100 |  |
+| B4.33 14 13.075 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-28 | 2026-05-20 | 2026-03-28 | 2026-05-20 | 100 |  |
+| B4.33 14 13.061 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-07 | 2026-03-26 | 2026-03-07 | 2026-03-26 | 100 |  |
+| B4.33 14 13.062 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-09 | 2026-03-29 | 2026-03-09 | 2026-03-29 | 100 |  |
+| B4.33 14 13.063 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-11 | 2026-03-31 | 2026-03-11 | 2026-03-31 | 100 |  |
+| B4.33 14 13.064 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-15 | 2026-05-23 | 2026-04-15 | 2026-05-23 | 100 |  |
+| B4.33 14 13.065 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-22 | 2026-05-24 | 2026-04-22 | 2026-05-24 | 100 |  |
+| B4.33 14 13.081 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 21.5 | 34.4 |
+| B4.33 14 13.082 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 21.5 | 34.4 |
+| B4.33 14 13.083 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-09-14 | 2026-09-17 | 2026-09-14 |  | 21.5 | 34.4 |
+| B4.33 14 13.084 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-09-15 | 2026-09-20 | 2026-09-15 |  | 21.5 | 32.9 |
+| B4.33 14 13.085 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Not Started | 2026-09-21 | 2026-09-29 |  |  | 0 | 32.9 |
+| B4.33 14 13.0110 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-04 | 2026-09-19 | 2026-06-04 |  | 17.885 | 25 |
+| B4.33 14 13.0112 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 17.885 | 25 |
+| B4.33 14 13.0114 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-09 | 2026-09-17 | 2026-06-09 |  | 17.885 | 25 |
+| B4.33 14 13.0116 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-14 | 2026-09-20 | 2026-06-14 |  | 17.885 | 108 |
+| B4.33 14 13.0118 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-20 | 2026-09-21 | 2026-06-19 |  | 17.885 | 98.9 |
+| B4.33 14 13.01-0190 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-09 | 2026-03-01 | 2026-02-09 | 2026-03-01 | 100 |  |
+| B4.33 14 13.01-0192 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-19 | 2026-03-02 | 2026-02-19 | 2026-03-02 | 100 |  |
+| B4.33 14 13.01-0194 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-24 | 2026-03-07 | 2026-02-24 | 2026-03-07 | 100 |  |
+| B4.33 14 13.01-0196 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-01 | 2026-09-20 | 2026-03-01 |  | 18.7749999999999 | 8.8 |
+| B4.33 14 13.01-0198 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-04 | 2026-09-21 | 2026-03-04 |  | 18.7749999999999 | 5 |
+| B4.33 14 13.01-0191 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-05 | 2026-04-09 | 2026-04-05 | 2026-04-09 | 100 |  |
+| B4.33 14 13.01-0193 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-06 | 2026-05-21 | 2026-04-06 | 2026-05-21 | 100 |  |
+| B4.33 14 13.01-0195 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-12 | 2026-09-17 | 2026-04-12 |  | 20.75 | 42.4 |
+| B4.33 14 13.01-0197 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-05 | 2026-09-20 | 2026-05-05 |  | 20.75 | 94.8 |
+| B4.33 14 13.01-0199 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-09 | 2026-09-20 | 2026-05-09 |  | 20.75 | 94.0 |
+| B4.33 14 13.01-018 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-04 | 2026-05-02 | 2026-02-04 | 2026-05-02 | 100 |  |
+| B4.33 14 13.01-0112 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-05 | 2026-05-09 | 2026-02-05 | 2026-05-09 | 100 |  |
+| B4.33 14 13.01-0116 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-24 | 2026-06-13 | 2026-03-24 | 2026-06-13 | 100 |  |
+| B4.33 14 13.01-0120 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-29 | 2026-09-20 | 2026-04-29 |  | 20.0266666666666 | 49.8 |
+| B4.33 14 13.01-0124 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-03 | 2026-09-20 | 2026-05-03 |  | 20.0266666666666 | 38 |
+| B4.33 14 13.01-0110 | Excavation | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-04 | 2026-03-25 | 2026-02-04 | 2026-03-25 | 100 |  |
+| B4.33 14 13.01-0114 | Sand Bedding | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-05 | 2026-03-28 | 2026-02-05 | 2026-03-28 | 100 |  |
+| B4.33 14 13.01-0118 | Pipe Laying | Depth: 0.0m - 1.5m | Task | Completed | 2026-02-23 | 2026-03-31 | 2026-02-22 | 2026-03-31 | 100 |  |
+| B4.33 14 13.01-0122 | Embedment & Test | Depth: 0.0m - 1.5m | Task | Completed | 2026-03-14 | 2026-04-02 | 2026-03-13 | 2026-04-02 | 100 |  |
+| B4.33 14 13.01-0126 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | Completed | 2026-04-01 | 2026-04-06 | 2026-04-01 | 2026-04-06 | 100 |  |
+| B5.33 05 13.012 | Blinding Conc, & RC Base | Depth From 0.0m to 1.5m | Task | Completed | 2026-02-25 | 2026-02-26 | 2026-02-25 | 2026-02-26 | 100 |  |
+| B5.33 05 13.013 | Manhole Installation | Depth From 0.0m to 1.5m | Task | Completed | 2026-03-18 | 2026-03-28 | 2026-03-18 | 2026-03-28 | 100 |  |
+| B5.33 05 13.014 | Test, Internal Finishing, Benching & Cover | Depth From 0.0m to 1.5m | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113 |
+| B5.33 05 13.011 | Excavation & Compaction | Depth From 0.0m to 1.5m | Task | Completed | 2025-11-12 | 2026-01-07 | 2025-11-12 | 2026-01-07 | 100 |  |
+| B5.33 05 13.015 | Backfilling | Depth From 0.0m to 1.5m | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.022 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-25 | 2026-02-28 | 2026-02-25 | 2026-02-28 | 100 |  |
+| B5.33 05 13.023 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-04-02 | 2026-04-01 | 2026-04-02 | 100 |  |
+| B5.33 05 13.024 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113.0 |
+| B5.33 05 13.021 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-18 | 2026-01-14 | 2025-12-18 | 2026-01-14 | 100 |  |
+| B5.33 05 13.025 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.032 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-28 | 2026-03-02 | 2026-02-28 | 2026-03-02 | 100 |  |
+| B5.33 05 13.033 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-08 | 2026-04-09 | 2026-04-08 | 2026-04-09 | 100 |  |
+| B5.33 05 13.034 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113.0 |
+| B5.33 05 13.031 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2025-12-21 | 2026-01-18 | 2025-12-21 | 2026-01-18 | 100 |  |
+| B5.33 05 13.035 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.042 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m Backdrop | Task | Completed | 2026-04-15 | 2026-04-18 | 2026-04-15 | 2026-04-18 | 100 |  |
+| B5.33 05 13.043 | Manhole Installation | Depth From 2.5m to 3.5m Backdrop | Task | Completed | 2026-04-18 | 2026-06-25 | 2026-04-18 | 2026-06-25 | 100 |  |
+| B5.33 05 13.044 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m Backdrop | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113.0 |
+| B5.33 05 13.041 | Excavation & Compaction | Depth From 2.5m to 3.5m Backdrop | Task | Completed | 2026-01-07 | 2026-01-08 | 2026-01-07 | 2026-01-08 | 100 |  |
+| B5.33 05 13.045 | Backfilling | Depth From 2.5m to 3.5m Backdrop | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.062 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-04-29 | 2026-05-23 | 2026-04-29 | 2026-05-23 | 100 |  |
+| B5.33 05 13.063 | Manhole Installation | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-04-30 | 2026-05-24 | 2026-04-30 | 2026-05-24 | 100 |  |
+| B5.33 05 13.064 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m Backdrop | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113.0 |
+| B5.33 05 13.061 | Excavation & Compaction | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-01-05 | 2026-01-06 | 2026-01-05 | 2026-01-06 | 100 |  |
+| B5.33 05 13.065 | Backfilling | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.052 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Completed | 2026-03-04 | 2026-03-05 | 2026-03-04 | 2026-03-05 | 100 |  |
+| B5.33 05 13.053 | Manhole Installation | Depth From 3.5m to 4.5m | Task | Completed | 2026-04-22 | 2026-04-27 | 2026-04-22 | 2026-04-27 | 100 |  |
+| B5.33 05 13.054 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | In Progress | 2026-06-03 | 2026-09-20 | 2026-06-03 |  | 43.2 | 113.0 |
+| B5.33 05 13.051 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-03 | 2026-01-04 | 2026-01-03 | 2026-01-04 | 100 |  |
+| B5.33 05 13.055 | Backfilling | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-11 | 2026-06-17 | 2026-06-11 | 2026-06-17 | 100 |  |
+| B5.33 05 13.01 2 | Blinding Conc, & RC Base | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-29 | 2026-05-23 | 2026-04-29 | 2026-05-23 | 100 |  |
+| B5.33 05 13.01 3 | Manhole Installation | Depth From 0.0m to 1.5m | Task | Completed | 2026-05-24 | 2026-05-25 | 2026-05-24 | 2026-05-25 | 100 |  |
+| B5.33 05 13.01 4 | Test, Internal Finishing, Benching & Cover | Depth From 0.0m to 1.5m | Task | In Progress | 2026-06-17 | 2026-09-19 | 2026-06-17 |  | 41.14272 | 113.4 |
+| B5.33 05 13.01 1 | Excavation & Compaction | Depth From 0.0m to 1.5m | Task | Completed | 2026-03-29 | 2026-03-31 | 2026-03-29 | 2026-03-31 | 100 |  |
+| B5.33 05 13.01 5 | Backfilling | Depth From 0.0m to 1.5m | Task | In Progress | 2026-06-21 | 2026-09-20 | 2026-06-21 |  | 41.14272 | 112.9 |
+| B5.33 05 13.02 2 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-29 | 2026-09-19 | 2026-04-29 |  | 41.14272 | 113 |
+| B5.33 05 13.02 3 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 41.14272 | 114.5 |
+| B5.33 05 13.02 4 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-14 | 2026-09-19 | 2026-06-14 |  | 41.14272 | 113.4 |
+| B5.33 05 13.02 1 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-24 | 2026-03-24 | 2026-03-22 | 2026-03-24 | 100 |  |
+| B5.33 05 13.02 5 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-21 | 2026-09-20 | 2026-06-21 |  | 41.14272 | 107.9 |
+| B6.33 05 39.01.587 | Blinding Conc, & RC Base | Depth From 4.5m to 5.5m | Task | Completed | 2026-04-13 | 2026-05-20 | 2026-04-13 | 2026-05-20 | 100 |  |
+| B6.33 05 39.01.597 | Manhole Installation | Depth From 4.5m to 5.5m | Task | Completed | 2026-04-20 | 2026-05-23 | 2026-04-20 | 2026-05-23 | 100 |  |
+| B6.33 05 39.01.607 | Test, Internal Finishing, Benching & Cover | Depth From 4.5m to 5.5m | Task | In Progress | 2026-06-06 | 2026-09-19 | 2026-06-06 |  | 40.32 | 113.4 |
+| B6.33 05 39.01.577 | Excavation & Compaction | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-07 | 2026-02-08 | 2026-02-07 | 2026-02-08 | 100 |  |
+| B6.33 05 39.01.617 | Backfilling | Depth From 4.5m to 5.5m | Task | In Progress | 2026-06-20 | 2026-09-20 | 2026-06-20 |  | 40.32 | 112.9 |
+| B6.33 05 39.01.637 | Blinding Conc, & RC Base | Depth From 5.5m to 6.5m | Task | Completed | 2026-04-29 | 2026-05-02 | 2026-04-29 | 2026-05-02 | 100 |  |
+| B6.33 05 39.01.647 | Manhole Installation | Depth From 5.5m to 6.5m | Task | Completed | 2026-05-03 | 2026-05-11 | 2026-05-03 | 2026-05-11 | 100 |  |
+| B6.33 05 39.01.657 | Test, Internal Finishing, Benching & Cover | Depth From 5.5m to 6.5m | Task | In Progress | 2026-06-06 | 2026-09-20 | 2026-06-06 |  | 24 | 113.0 |
+| B6.33 05 39.01.627 | Excavation & Compaction | Depth From 5.5m to 6.5m | Task | Completed | 2026-03-02 | 2026-03-05 | 2026-03-02 | 2026-03-05 | 100 |  |
+| B6.33 05 39.01.667 | Backfilling | Depth From 5.5m to 6.5m | Task | In Progress | 2026-06-21 | 2026-09-20 | 2026-06-21 |  | 38.4 | 112.9 |
+| B6.33 05 39.01.687 | Blinding Conc, & RC Base | Depth From 5.5m to 6.5m Backdrop | Task | In Progress | 2026-05-23 | 2026-09-19 | 2026-05-23 |  | 36 | 114.0 |
+| B6.33 05 39.01.697 | Manhole Installation | Depth From 5.5m to 6.5m Backdrop | Task | In Progress | 2026-05-31 | 2026-09-17 | 2026-05-31 |  | 36 | 114 |
+| B6.33 05 39.01.707 | Test, Internal Finishing, Benching & Cover | Depth From 5.5m to 6.5m Backdrop | Task | In Progress | 2026-06-18 | 2026-09-20 | 2026-06-18 |  | 36 | 112.5 |
+| B6.33 05 39.01.677 | Excavation & Compaction | Depth From 5.5m to 6.5m Backdrop | Task | Completed | 2026-05-20 | 2026-05-21 | 2026-05-20 | 2026-05-21 | 100 |  |
+| B6.33 05 39.01.717 | Backfilling | Depth From 5.5m to 6.5m Backdrop | Task | In Progress | 2026-06-20 | 2026-09-21 | 2026-06-20 |  | 36 | 112.0 |
+| B6.33 05 39.01.737 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-06 | 2026-05-10 | 2026-05-06 | 2026-05-10 | 100 |  |
+| B6.33 05 39.01.747 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-10 | 2026-09-17 | 2026-05-10 |  | 45.2282239999998 | 114 |
+| B6.33 05 39.01.757 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-08 | 2026-09-19 | 2026-06-08 |  | 45.2282239999998 | 113.4 |
+| B6.33 05 39.01.727 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-06 | 2026-04-09 | 2026-04-06 | 2026-04-09 | 100 |  |
+| B6.33 05 39.01.767 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-11 | 2026-09-21 | 2026-06-11 |  | 45.2282239999998 | 101 |
+| B6.33 05 39.01.787 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-06 | 2026-07-29 | 2026-05-06 | 2026-07-29 | 100 |  |
+| B6.33 05 39.01.797 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-10 | 2026-09-17 | 2026-05-10 |  | 45.2282239999998 | 114 |
+| B6.33 05 39.01.807 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-14 | 2026-09-19 | 2026-06-14 |  | 45.2282239999998 | 98.4 |
+| B6.33 05 39.01.777 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-26 | 2026-04-27 | 2026-04-26 | 2026-04-27 | 100 |  |
+| B6.33 05 39.01.817 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-18 | 2026-09-20 | 2026-06-18 |  | 45.2282239999998 | 65 |
+| B6.33 05 39.01.837 | Blinding Conc, & RC Base | Depth From 0.0m to 1.5m | Task | In Progress | 2026-08-01 | 2026-09-19 | 2026-08-01 |  | 36 | 114.0 |
+| B6.33 05 39.01.847 | Manhole Installation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-08-03 | 2026-09-17 | 2026-08-03 |  | 36 | 114.5 |
+| B6.33 05 39.01.857 | Test, Internal Finishing, Benching & Cover | Depth From 0.0m to 1.5m | Task | In Progress | 2026-08-04 | 2026-09-19 | 2026-08-04 |  | 36 | 98.4 |
+| B6.33 05 39.01.827 | Excavation & Compaction | Depth From 0.0m to 1.5m | Task | Completed | 2026-02-14 | 2026-02-15 | 2026-02-14 | 2026-02-15 | 100 |  |
+| B6.33 05 39.01.867 | Backfilling | Depth From 0.0m to 1.5m | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 98.4 |
+| B6.33 05 39.01.887 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-19 | 2026-09-19 | 2026-08-19 |  | 36 | 114.0 |
+| B6.33 05 39.01.897 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-23 | 2026-09-17 | 2026-08-23 |  | 36 | 100.5 |
+| B6.33 05 39.01.907 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-17 | 2026-09-22 |  |  | 0 | 100.5 |
+| B6.33 05 39.01.877 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-10 | 2026-02-10 | 2026-02-10 | 2026-02-10 | 100 |  |
+| B6.33 05 39.01.917 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-24 | 2026-09-20 | 2026-08-24 |  | 36 | 98.4 |
+| B6.33 05 39.01.937 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-19 | 2026-09-19 | 2026-08-19 |  | 36 | 114.0 |
+| B6.33 05 39.01.947 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-20 | 2026-09-17 | 2026-08-20 |  | 36 | 105.5 |
+| B6.33 05 39.01.957 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Not Started | 2026-09-17 | 2026-09-22 |  |  | 0 | 105.5 |
+| B6.33 05 39.01.927 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-02-11 | 2026-02-11 | 2026-02-11 | 100 |  |
+| B6.33 05 39.01.967 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-23 | 2026-09-20 | 2026-08-23 |  | 36 | 105.5 |
+| B6.33 05 39.01.987 | Blinding Conc, & RC Base | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-02 | 2026-09-19 | 2026-08-02 |  | 36 | 114.0 |
+| B6.33 05 39.01.997 | Manhole Installation | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-04 | 2026-09-17 | 2026-08-04 |  | 36 | 114.5 |
+| B6.33 05 39.01.1007 | Test, Internal Finishing, Benching & Cover | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-08 | 2026-09-19 | 2026-08-08 |  | 36 | 108.4 |
+| B6.33 05 39.01.977 | Excavation & Compaction | Depth From 4.5m to 5.5m | Task | Completed | 2026-02-15 | 2026-02-16 | 2026-02-15 | 2026-02-16 | 100 |  |
+| B6.33 05 39.01.1017 | Backfilling | Depth From 4.5m to 5.5m | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 92 |
+| B6.33 05 39.01.1387 | Blinding Conc, & RC Base | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-01 | 2026-04-04 | 2026-04-01 | 2026-04-04 | 100 |  |
+| B6.33 05 39.01.1397 | Manhole Installation | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-05 | 2026-04-06 | 2026-04-05 | 2026-04-06 | 100 |  |
+| B6.33 05 39.01.1407 | Test, Internal Finishing, Benching & Cover | Depth From 0.0m to 1.5m | Task | In Progress | 2026-06-17 | 2026-09-19 | 2026-06-17 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1377 | Excavation & Compaction | Depth From 0.0m to 1.5m | Task | Completed | 2026-02-04 | 2026-02-05 | 2026-02-04 | 2026-02-05 | 100 |  |
+| B6.33 05 39.01.1417 | Backfilling | Depth From 0.0m to 1.5m | Task | Completed | 2026-06-22 | 2026-07-02 | 2026-06-22 | 2026-07-02 | 100 |  |
+| B6.33 05 39.01.1437 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B6.33 05 39.01.1447 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 43.2 | 114 |
+| B6.33 05 39.01.1457 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-18 | 2026-09-19 | 2026-06-18 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1427 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-09 | 2026-02-10 | 2026-02-09 | 2026-02-10 | 100 |  |
+| B6.33 05 39.01.1467 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-23 | 2026-08-29 | 2026-06-23 | 2026-08-29 | 100 |  |
+| B6.33 05 39.01.1487 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-05 | 2026-04-08 | 2026-04-05 | 2026-04-08 | 100 |  |
+| B6.33 05 39.01.1497 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-20 | 2026-09-17 | 2026-05-20 |  | 43.2 | 114 |
+| B6.33 05 39.01.1507 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-18 | 2026-09-19 | 2026-06-18 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1477 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-18 | 2026-02-19 | 2026-02-18 | 2026-02-19 | 100 |  |
+| B6.33 05 39.01.1517 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-23 | 2026-08-29 | 2026-06-23 | 2026-08-29 | 100 |  |
+| B6.33 05 39.01.1537 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Completed | 2026-05-20 | 2026-07-01 | 2026-05-20 | 2026-07-01 | 100 |  |
+| B6.33 05 39.01.1547 | Manhole Installation | Depth From 3.5m to 4.5m | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 43.2 | 114 |
+| B6.33 05 39.01.1557 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | In Progress | 2026-06-17 | 2026-09-19 | 2026-06-17 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1527 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Completed | 2026-02-23 | 2026-02-23 | 2026-02-22 | 2026-02-23 | 100 |  |
+| B6.33 05 39.01.1567 | Backfilling | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-22 | 2026-08-30 | 2026-06-22 | 2026-08-30 | 100 |  |
+| B6.33 05 39.01.1587 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-06-06 | 2026-06-08 | 2026-06-06 | 2026-06-08 | 100 |  |
+| B6.33 05 39.01.1597 | Manhole Installation | Depth From 3.5m to 4.5m Backdrop | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 43.2 | 114.9 |
+| B6.33 05 39.01.1607 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m Backdrop | Task | In Progress | 2026-06-20 | 2026-09-19 | 2026-06-20 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1577 | Excavation & Compaction | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-06-03 | 2026-06-04 | 2026-06-03 | 2026-06-04 | 100 |  |
+| B6.33 05 39.01.1617 | Backfilling | Depth From 3.5m to 4.5m Backdrop | Task | Completed | 2026-06-22 | 2026-08-30 | 2026-06-22 | 2026-08-30 | 100 |  |
+| B6.33 05 39.01.1637 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B6.33 05 39.01.1647 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-31 | 2026-08-19 | 2026-05-31 | 2026-08-19 | 100 |  |
+| B6.33 05 39.01.1657 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-07-08 | 2026-09-19 | 2026-07-08 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1627 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-20 | 2026-05-21 | 2026-05-20 | 2026-05-21 | 100 |  |
+| B6.33 05 39.01.1667 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-07-13 | 2026-08-22 | 2026-07-13 | 2026-08-22 | 100 |  |
+| B6.33 05 39.01.1687 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B6.33 05 39.01.1697 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 43.2 | 114 |
+| B6.33 05 39.01.1707 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-07-09 | 2026-09-19 | 2026-07-09 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1677 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-16 | 2026-04-18 | 2026-04-16 | 2026-04-18 | 100 |  |
+| B6.33 05 39.01.1717 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-07-14 | 2026-08-31 | 2026-07-14 | 2026-08-31 | 100 |  |
+| B6.33 05 39.01.1737 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-03 | 2026-08-25 | 2026-06-03 | 2026-08-25 | 100 |  |
+| B6.33 05 39.01.1747 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-08 | 2026-08-26 | 2026-06-08 | 2026-08-26 | 100 |  |
+| B6.33 05 39.01.1757 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-10 | 2026-09-19 | 2026-06-10 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1727 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-11 | 2026-08-22 | 2026-05-11 | 2026-08-22 | 100 |  |
+| B6.33 05 39.01.1767 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-15 | 2026-08-31 | 2026-06-15 | 2026-08-31 | 100 |  |
+| B6.33 05 39.01.1787 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-06 | 2026-07-05 | 2026-06-06 | 2026-07-05 | 100 |  |
+| B6.33 05 39.01.1797 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-11 | 2026-07-07 | 2026-06-11 | 2026-07-07 | 100 |  |
+| B6.33 05 39.01.1807 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-13 | 2026-07-09 | 2026-06-13 | 2026-07-09 | 100 |  |
+| B6.33 05 39.01.1777 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-03 | 2026-07-02 | 2026-06-03 | 2026-07-02 | 100 |  |
+| B6.33 05 39.01.1817 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-15 | 2026-07-11 | 2026-06-15 | 2026-07-11 | 100 |  |
+| B6.33 05 39.01.1837 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-24 | 2026-08-25 | 2026-06-24 | 2026-08-25 | 100 |  |
+| B6.33 05 39.01.1847 | Manhole Installation | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-27 | 2026-08-27 | 2026-06-27 | 2026-08-27 | 100 |  |
+| B6.33 05 39.01.1857 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | In Progress | 2026-06-28 | 2026-09-19 | 2026-06-28 |  | 45.6 | 113.8 |
+| B6.33 05 39.01.1827 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-21 | 2026-08-23 | 2026-06-21 | 2026-08-23 | 100 |  |
+| B6.33 05 39.01.1867 | Backfilling | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-30 | 2026-08-31 | 2026-06-30 | 2026-08-31 | 100 |  |
+| B6.33 05 13.012 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-18 | 2026-03-18 | 2026-03-18 | 2026-03-19 | 100 |  |
+| B6.33 05 13.013 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-10 | 2026-06-24 | 2026-06-10 | 2026-06-24 | 100 |  |
+| B6.33 05 13.014 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 90 | 113 |
+| B6.33 05 13.011 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2025-12-27 | 2025-12-28 | 2025-12-27 | 2025-12-28 | 100 |  |
+| B6.33 05 13.015 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-21 | 2026-07-02 | 2026-06-21 | 2026-07-02 | 100 |  |
+| B6.33 05 13.022 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-04 | 2026-03-05 | 2026-03-04 | 2026-03-05 | 100 |  |
+| B6.33 05 13.023 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-07 | 2026-03-07 | 2026-03-07 | 2026-03-07 | 100 |  |
+| B6.33 05 13.024 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 90 | 113 |
+| B6.33 05 13.021 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-01-08 | 2026-01-10 | 2026-01-08 | 2026-01-10 | 100 |  |
+| B6.33 05 13.025 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-03 | 2026-07-04 | 2026-06-03 | 2026-07-04 | 100 |  |
+| B6.33 05 13.042 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-14 | 2026-03-28 | 2026-03-14 | 2026-03-28 | 100 |  |
+| B6.33 05 13.043 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-10 | 2026-06-25 | 2026-06-10 | 2026-06-25 | 100 |  |
+| B6.33 05 13.044 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 90 | 113 |
+| B6.33 05 13.041 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-04 | 2026-03-25 | 2026-03-04 | 2026-03-25 | 100 |  |
+| B6.33 05 13.045 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-22 | 2026-06-29 | 2026-06-22 | 2026-06-29 | 100 |  |
+| B6.33 05 13.052 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-15 | 2026-03-18 | 2026-03-15 | 2026-03-18 | 100 |  |
+| B6.33 05 13.053 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-24 | 2026-03-25 | 2026-03-24 | 2026-03-25 | 100 |  |
+| B6.33 05 13.054 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 90 | 113 |
+| B6.33 05 13.051 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-07 | 2026-03-15 | 2026-03-07 | 2026-03-15 | 100 |  |
+| B6.33 05 13.055 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-07-02 | 2026-07-07 | 2026-07-02 | 2026-07-07 | 100 |  |
+| B6.33 05 13.072 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-04 | 2026-04-06 | 2026-04-04 | 2026-04-06 | 100 |  |
+| B6.33 05 13.073 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-10 | 2026-07-01 | 2026-06-10 | 2026-07-01 | 100 |  |
+| B6.33 05 13.074 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 90 | 113 |
+| B6.33 05 13.071 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| B6.33 05 13.075 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-21 | 2026-07-04 | 2026-06-21 | 2026-07-04 | 100 |  |
+| B6.33 05 13.082 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-10 | 2026-06-13 | 2026-06-10 | 2026-06-13 | 100 |  |
+| B6.33 05 13.083 | Manhole Installation | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-14 | 2026-07-01 | 2026-06-14 | 2026-07-01 | 100 |  |
+| B6.33 05 13.084 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 90 | 113 |
+| B6.33 05 13.081 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-29 | 2026-01-31 | 2026-01-29 | 2026-01-31 | 100 |  |
+| B6.33 05 13.085 | Backfilling | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-20 | 2026-07-06 | 2026-06-20 | 2026-07-06 | 100 |  |
+| B6.33 05 13.07.2 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-22 | 2026-10-26 |  |  | 0 | 25 |
+| B6.33 05 13.07.3 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 25 |
+| B6.33 05 13.07.4 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 25 |
+| B6.33 05 13.07.1 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 13 |
+| B6.33 05 13.07.5 | Backfilling | Depth From 2.5m to 3.5m | Task | Not Started | 2026-11-05 | 2026-11-10 |  |  | 0 | 25 |
+| B6.33 05 13.08.2 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-26 | 2026-10-29 |  |  | 0 | 21 |
+| B6.33 05 13.08.3 | Manhole Installation | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 21 |
+| B6.33 05 13.08.4 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | Not Started | 2026-11-03 | 2026-11-09 |  |  | 0 | 21 |
+| B6.33 05 13.08.1 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 13 |
+| B6.33 05 13.08.5 | Backfilling | Depth From 3.5m to 4.5m | Task | Not Started | 2026-11-10 | 2026-11-15 |  |  | 0 | 21 |
+| B6.33 05 13.09.2 | Blinding Conc, & RC Base | Depth From 4.5m to 5.5m | Task | Not Started | 2026-10-29 | 2026-11-02 |  |  | 0 | 22 |
+| B6.33 05 13.09.3 | Manhole Installation | Depth From 4.5m to 5.5m | Task | Not Started | 2026-11-03 | 2026-11-07 |  |  | 0 | 22 |
+| B6.33 05 13.09.4 | Test, Internal Finishing, Benching & Cover | Depth From 4.5m to 5.5m | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | 22 |
+| B6.33 05 13.09.1 | Excavation & Compaction | Depth From 4.5m to 5.5m | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 13 |
+| B6.33 05 13.09.5 | Backfilling | Depth From 4.5m to 5.5m | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 21 |
+| B6.33 05 13.01.03 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-02 | 2026-05-06 | 2026-05-01 | 2026-05-06 | 100 |  |
+| B6.33 05 13.01.04 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-06 | 2026-09-16 | 2026-06-06 |  | 85 | 114 |
+| B6.33 05 13.01.05 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-13 |  | 85 | 114 |
+| B6.33 05 13.01.02 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-26 | 2026-02-28 | 2026-02-26 | 2026-02-28 | 100 |  |
+| B6.33 05 13.01.06 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-20 | 2026-09-16 | 2026-06-20 |  | 85 | 114 |
+| B6.33 05 13.05.03 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-06 | 2026-09-16 | 2026-06-06 |  | 92 | 114 |
+| B6.33 05 13.05.04 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-13 |  | 92 | 114 |
+| B6.33 05 13.05.05 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-20 | 2026-09-16 | 2026-06-20 |  | 92 | 114 |
+| B6.33 05 13.05.02 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-03-08 | 2026-03-09 | 2026-03-08 | 2026-03-09 | 100 |  |
+| B6.33 05 13.05.06 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-21 | 2026-09-16 | 2026-06-21 |  | 92 | 65 |
+| B6.33 05 13.07.03 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-13 |  | 85 | 114 |
+| B6.33 05 13.07.04 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-20 | 2026-09-16 | 2026-06-20 |  | 85 | 114 |
+| B6.33 05 13.07.05 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-22 | 2026-09-16 | 2026-06-22 |  | 85 | 114 |
+| B6.33 05 13.07.02 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-06 | 2026-09-16 | 2026-06-06 |  | 85 | 114 |
+| B6.33 05 13.07.06 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 85 | 65 |
+| B6.33 05 13.01 2 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-05-04 | 2026-05-21 | 2026-05-04 | 2026-05-21 | 100 |  |
+| B6.33 05 13.01 3 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-09 | 2026-09-16 | 2026-06-09 |  | 78.85 | 114 |
+| B6.33 05 13.01 4 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-11 | 2026-09-16 | 2026-06-11 |  | 78.85 | 114 |
+| B6.33 05 13.01 1 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-04-04 | 2026-04-01 | 2026-04-04 | 100 |  |
+| B6.33 05 13.01 5 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-15 | 2026-09-16 | 2026-06-15 |  | 78.85 | 114 |
+| B6.33 05 13.07 2 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-09 | 2026-09-16 | 2026-06-09 |  | 78.85 | 114 |
+| B6.33 05 13.07 3 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-14 | 2026-09-16 | 2026-06-14 |  | 80 | 114 |
+| B6.33 05 13.07 4 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-13 |  | 88 | 114 |
+| B6.33 05 13.07 1 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-04-04 | 2026-04-06 | 2026-04-04 | 2026-04-06 | 100 |  |
+| B6.33 05 13.07 5 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-17 | 2026-09-16 | 2026-06-17 |  | 80 | 114 |
+| B6.33 05 39.01.2937 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-04-09 | 2026-04-08 | 2026-04-09 | 100 |  |
+| B6.33 05 39.01.2947 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-01 | 2026-09-16 | 2026-06-01 |  | 91 | 114 |
+| B6.33 05 39.01.2957 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-03 | 2026-09-16 | 2026-06-03 |  | 91 | 114 |
+| B6.33 05 39.01.2927 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-08 | 2026-02-26 | 2026-02-08 | 2026-02-26 | 100 |  |
+| B6.33 05 39.01.2967 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-08 | 2026-09-16 | 2026-06-08 |  | 91 | 114 |
+| B6.33 05 39.01.3037 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-08 | 2026-09-16 | 2026-06-08 |  | 91 | 114 |
+| B6.33 05 39.01.3047 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-15 | 2026-09-16 | 2026-06-15 |  | 91 | 114 |
+| B6.33 05 39.01.3057 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-22 | 2026-09-16 | 2026-06-22 |  | 91 | 114 |
+| B6.33 05 39.01.3027 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-09 | 2026-02-26 | 2026-02-09 | 2026-02-26 | 100 |  |
+| B6.33 05 39.01.3067 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 91 | 114 |
+| B6.33 05 39.01.3137 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-08 | 2026-09-16 | 2026-06-08 |  | 88.33 | 114 |
+| B6.33 05 39.01.3147 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-22 | 2026-09-16 | 2026-06-22 |  | 88.33 | 114 |
+| B6.33 05 39.01.3157 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 88.33 | 114 |
+| B6.33 05 39.01.3127 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-26 | 2026-03-01 | 2026-02-26 | 2026-03-01 | 100 |  |
+| B6.33 05 39.01.3167 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 88.33 | 114 |
+| B6.33 05 13.04-14 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-17 | 2026-09-16 | 2026-08-17 |  | 50 | 114 |
+| B6.33 05 13.04-17 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-19 | 2026-09-16 | 2026-08-19 |  | 50 | 109 |
+| B6.33 05 13.04-110 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 109 |
+| B6.33 05 13.04-11 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-15 | 2026-09-16 | 2026-08-15 |  | 50 | 114 |
+| B6.33 05 13.04-113 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-08-24 | 2026-09-17 | 2026-08-24 |  | 50 | 109 |
+| B6.33 05 39.01.3337 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-19 | 2026-09-16 | 2026-08-19 |  | 75 | 114 |
+| B6.33 05 39.01.3347 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-23 | 2026-09-16 | 2026-08-23 |  | 75 | 109 |
+| B6.33 05 39.01.3357 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 109 |
+| B6.33 05 39.01.3327 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-08-15 | 2026-08-16 | 2026-08-15 | 2026-08-16 | 100 |  |
+| B6.33 05 39.01.3367 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-24 | 2026-09-17 | 2026-08-24 |  | 75 | 109 |
+| B6.33 05 39.01.3387 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-22 | 2026-09-16 | 2026-08-22 |  | 75 | 114 |
+| B6.33 05 39.01.3397 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-23 | 2026-09-16 | 2026-08-23 |  | 75 | 109 |
+| B6.33 05 39.01.3407 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 109 |
+| B6.33 05 39.01.3377 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-19 | 2026-09-16 | 2026-08-19 |  | 75 | 114 |
+| B6.33 05 39.01.3417 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-25 | 2026-09-17 | 2026-08-25 |  | 75 | 109 |
+| B6.33 05 39.01.3437 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-16 | 2026-09-16 | 2026-08-16 |  | 75 | 114 |
+| B6.33 05 39.01.3447 | Manhole Installation | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-19 | 2026-09-16 | 2026-08-19 |  | 75 | 109 |
+| B6.33 05 39.01.3457 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 109 |
+| B6.33 05 39.01.3427 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-13 | 2026-09-16 | 2026-08-13 |  | 75 | 114 |
+| B6.33 05 39.01.3467 | Backfilling | Depth From 3.5m to 4.5m | Task | In Progress | 2026-08-23 | 2026-09-16 | 2026-08-23 |  | 75 | 109 |
+| B6.33 05 39.01.3487 | Blinding Conc, & RC Base | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-13 | 2026-09-16 | 2026-08-13 |  | 75 | 114 |
+| B6.33 05 39.01.3497 | Manhole Installation | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-17 | 2026-09-16 | 2026-08-17 |  | 75 | 109 |
+| B6.33 05 39.01.3507 | Test, Internal Finishing, Benching & Cover | Depth From 4.5m to 5.5m | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 109 |
+| B6.33 05 39.01.3477 | Excavation & Compaction | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-10 | 2026-09-16 | 2026-08-10 |  | 75 | 43 |
+| B6.33 05 39.01.3517 | Backfilling | Depth From 4.5m to 5.5m | Task | In Progress | 2026-08-20 | 2026-09-16 | 2026-08-20 |  | 75 | 109 |
+| B6.33 05 39.01.3537 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B6.33 05 39.01.3547 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 80.1066666666664 | 113 |
+| B6.33 05 39.01.3557 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 80 | 113 |
+| B6.33 05 39.01.3527 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-11 | 2026-02-12 | 2026-02-11 | 2026-02-12 | 100 |  |
+| B6.33 05 39.01.3567 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 80.1066666666664 | 113 |
+| B6.33 05 39.01.3587 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-24 | 2026-09-17 | 2026-06-24 |  | 83 | 113 |
+| B6.33 05 39.01.3597 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-28 | 2026-09-17 | 2026-06-28 |  | 83 | 56 |
+| B6.33 05 39.01.3607 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-20 | 2026-09-26 |  |  | 0 | 56 |
+| B6.33 05 39.01.3577 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-12 | 2026-02-14 | 2026-02-12 | 2026-02-14 | 100 |  |
+| B6.33 05 39.01.3617 | Backfilling | Depth From 1.5m to 2.5m | Task | Not Started | 2026-09-27 | 2026-10-03 |  |  | 0 | 56 |
+| B6.33 05 39.01.3687 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-05 | 2026-09-17 | 2026-08-05 |  | 83 | 113 |
+| B6.33 05 39.01.3697 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-09 | 2026-09-17 | 2026-08-09 |  | 83 | 108 |
+| B6.33 05 39.01.3707 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | Not Started | 2026-09-20 | 2026-09-26 |  |  | 0 | 108 |
+| B6.33 05 39.01.3677 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-15 | 2026-02-17 | 2026-02-15 | 2026-02-17 | 100 |  |
+| B6.33 05 39.01.3717 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-17 | 2026-09-17 | 2026-08-17 |  | 83 | 108 |
+| B6.33 05 39.01.3737 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-23 | 2026-05-25 | 2026-05-23 | 2026-05-25 | 100 |  |
+| B6.33 05 39.01.3747 | Manhole Installation | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 54 | 113 |
+| B6.33 05 39.01.3757 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-08 | 2026-09-19 | 2026-06-08 |  | 33.33 | 112.3 |
+| B6.33 05 39.01.3727 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-20 | 2026-05-21 | 2026-05-20 | 2026-05-21 | 100 |  |
+| B6.33 05 39.01.3767 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-08-06 | 2026-09-17 | 2026-08-06 |  | 83 | 113 |
+| B6.33 05 39.01.3787 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-17 | 2026-08-19 | 2026-06-17 | 2026-08-19 | 100 |  |
+| B6.33 05 39.01.3797 | Manhole Installation | Depth From 1.5m to 2.5m | Task | Completed | 2026-06-21 | 2026-08-19 | 2026-06-21 | 2026-08-19 | 100 |  |
+| B6.33 05 39.01.3807 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-23 | 2026-09-17 | 2026-06-23 |  | 97 | 113 |
+| B6.33 05 39.01.3777 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-16 | 2026-02-17 | 2026-02-16 | 2026-02-17 | 100 |  |
+| B6.33 05 39.01.3817 | Backfilling | Depth From 1.5m to 2.5m | Task | Completed | 2026-07-11 | 2026-08-20 | 2026-07-11 | 2026-08-20 | 100 |  |
+| B6.33 05 39.01.3887 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-29 | 2026-05-02 | 2026-04-29 | 2026-05-02 | 100 |  |
+| B6.33 05 39.01.3897 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 97 | 113 |
+| B6.33 05 39.01.3907 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-20 | 2026-09-17 | 2026-06-20 |  | 97 | 113 |
+| B6.33 05 39.01.3877 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-18 | 2026-02-19 | 2026-02-18 | 2026-02-19 | 100 |  |
+| B6.33 05 39.01.3917 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 97 | 92 |
+| B6.33 05 39.01.3937 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-08 | 2026-08-20 | 2026-06-08 | 2026-08-20 | 100 |  |
+| B6.33 05 39.01.3947 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-10 | 2026-08-19 | 2026-06-10 | 2026-08-19 | 100 |  |
+| B6.33 05 39.01.3957 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 97 | 113 |
+| B6.33 05 39.01.3927 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-02-21 | 2026-02-21 | 2026-02-20 | 2026-02-21 | 100 |  |
+| B6.33 05 39.01.3967 | Backfilling | Depth From 2.5m to 3.5m | Task | Completed | 2026-06-15 | 2026-08-20 | 2026-06-15 | 2026-08-20 | 100 |  |
+| B6.33 05 39.01.3987 | Blinding Conc, & RC Base | Depth From 1.5m to 2.5m | Task | In Progress | 2026-07-06 | 2026-09-17 | 2026-07-06 |  | 97 | 113 |
+| B6.33 05 39.01.3997 | Manhole Installation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-07-08 | 2026-09-17 | 2026-07-08 |  | 97 | 113 |
+| B6.33 05 39.01.4007 | Test, Internal Finishing, Benching & Cover | Depth From 1.5m to 2.5m | Task | In Progress | 2026-07-09 | 2026-09-17 | 2026-07-09 |  | 97 | 113 |
+| B6.33 05 39.01.3977 | Excavation & Compaction | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 97 | 113 |
+| B6.33 05 39.01.4017 | Backfilling | Depth From 1.5m to 2.5m | Task | In Progress | 2026-07-11 | 2026-09-17 | 2026-07-11 |  | 97 | 113 |
+| B6.33 05 39.01.4237 | Blinding Conc, & RC Base | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-06 | 2026-06-09 | 2026-05-06 | 2026-06-09 | 100 |  |
+| B6.33 05 39.01.4247 | Manhole Installation | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-09 | 2026-08-05 | 2026-05-09 | 2026-08-05 | 100 |  |
+| B6.33 05 39.01.4257 | Test, Internal Finishing, Benching & Cover | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-25 | 2026-09-17 | 2026-06-25 |  | 97 | 113 |
+| B6.33 05 39.01.4227 | Excavation & Compaction | Depth From 2.5m to 3.5m | Task | Completed | 2026-05-03 | 2026-06-06 | 2026-05-03 | 2026-06-06 | 100 |  |
+| B6.33 05 39.01.4267 | Backfilling | Depth From 2.5m to 3.5m | Task | In Progress | 2026-06-28 | 2026-09-17 | 2026-06-28 |  | 97 | 113 |
+| B3.33 14 19.01.28 | Foundations | Air Valves in Chambers | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 93 |
+| B3.33 14 19.01.32 | Chamber Curing, Finishing & Steel Cover | Air Valves in Chambers | Task | Not Started | 2026-10-05 | 2026-10-08 |  |  | 0 | 93 |
+| B3.33 14 19.01.26 | Land Adjustment & Compaction | Air Valves in Chambers | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 92 |
+| B3.33 14 19.01.30 | Chambers Walls Conc Cast In Situ | Air Valves in Chambers | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 93 |
+| B3.33 14 19.01.33 | Valve & Fitting Installation | Air Valves in Chambers | Task | Not Started | 2026-10-11 | 2026-10-14 |  |  | 0 | 92 |
+| B3.33 14 19.01.53 | Foundations | Washout Valves in Chambers | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 86 |
+| B3.33 14 19.01.73 | Chamber Curing, Finishing & Steel Cover | Washout Valves in Chambers | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 86 |
+| B3.33 14 19.01.43 | Land Adjustment & Compaction | Washout Valves in Chambers | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 86 |
+| B3.33 14 19.01.63 | Chambers Walls Conc Cast In Situ | Washout Valves in Chambers | Task | Not Started | 2026-09-24 | 2026-09-28 |  |  | 0 | 86 |
+| B3.33 14 19.01.83 | Valve & Fitting Installation | Washout Valves in Chambers | Task | Not Started | 2026-10-06 | 2026-10-10 |  |  | 0 | 84 |
+| T&C-Sew-01 | Testing & Commissioning for Sewerage Network | Sewerage Network | Task | Not Started | 2026-11-16 | 2026-11-22 |  |  | 0 | 14 |
+| T&C-Strm-01 | Testing & Commissioning for Storm Network | Storm Network | Task | Not Started | 2026-11-24 | 2026-11-30 |  |  | 0 | 13 |
+| T&C-Pot-01 | Testing & Commissioning for Potable Network | Potable Network | Task | Not Started | 2026-11-24 | 2026-12-01 |  |  | 0 | 13 |
+| T&C-TSE-01 | Testing & Commissioning for TSE Network | TSE Network | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 13 |
+| T&C-FF-01 | Testing & Commissioning for Fire Fighting Network | Fire Fighting Network | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 13 |
+| T&C-MV-01 | Testing & Commissioning for Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | 3 |
+| T&C-LV-01 | Testing & Commissioning for Low Voltage Network | Low Voltage Network | Task | Not Started | 2026-11-28 | 2026-11-30 |  |  | 0 | 5 |
+| T&C-Telecom-01 | Testing & Commissioning for Telecommunication Network | Telecommunication Network | Task | Not Started | 2026-12-01 | 2026-12-07 |  |  | 0 | 10 |
+| T&C-SL-01 | Testing & Commissioning for Street Lighting Network | Street Lighting | Task | Not Started | 2026-11-23 | 2026-11-29 |  |  | 0 | 17 |
+| Clsout.13.2.1.1 | Punch List | Snagging | Task | Not Started | 2026-12-22 | 2026-12-26 |  |  | 0 | 0 |
+| Clsout.13.2.1.2 | Rectifying / Closing | Snagging | Task | Not Started | 2026-12-27 | 2027-01-12 |  |  | 0 | 0 |
+| Clsout.13.2.1.4 | Desnagging | Snagging | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | 0 |
+| Clsout.13.2.1.7 | Demobilization of Manpower | Demobilization | Task | Not Started | 2027-01-16 | 2027-01-19 |  |  | 0 | 0 |
+| Clsout.13.2.1.8 | Demobilization of Equipments | Demobilization | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | 0 |
+| Clsout.13.2.1.9 | Demoblization of Offices & Facilities & Site Clean-up | Demobilization | Task | Not Started | 2027-01-21 | 2027-01-27 |  |  | 0 | 0 |
+| Clsout.13.2.1.10 | Restoration Of Ground Surfaces | Demobilization | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | 2 |
+| Clsout.13.2.1.11 | Project Handing Over | Handing Over | Task | Not Started | 2027-01-28 | 2027-01-29 |  |  | 0 | 0 |
+| Close.Asblt.01-1 | AS-Built Drawings Submittal - Sewerage Network | Sewerage Network | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 16 |
+| Close.Asblt.01-2 | AS-Built Drawings Submittal - Storm Network | Storm Network | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 16 |
+| Close.Asblt.01-3 | AS-Built Drawings Submittal - Potable Network | Potable Network | Task | Not Started | 2026-12-23 | 2026-12-27 |  |  | 0 | 16 |
+| Close.Asblt.01-4 | AS-Built Drawings Submittal - TSE Network | TSE Network | Task | Not Started | 2026-12-27 | 2026-12-30 |  |  | 0 | 13 |
+| Close.Asblt.01-5 | AS-Built Drawings Submittal - Fire Fighting Network | Fire Fighting Network | Task | Not Started | 2026-12-06 | 2026-12-09 |  |  | 0 | 25 |
+| Close.Asblt.01-6 | AS-Built Drawings Submittal - Potable Water Pump Station - Civil & Arch | Potable Water Pump Station | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 22 |
+| Close.MV.Asblt.01-8 | AS-Built Drawings Submittal - Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 20 |
+| Close.LV.Asblt.01-9 | AS-Built Drawings Submittal - Low Voltage Network | Low Voltage Network | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 20 |
+| Close.Tele.Asblt.01 | AS-Built Drawings Submittal - Telecommunication Network | Telecommunication Network | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | 26 |
+| Close.SL.Asblt.01-11 | AS-Built Drawings Submittal - Street Lighting | Street Lighting | Task | Not Started | 2026-12-01 | 2026-12-05 |  |  | 0 | 29 |
+| Clsout.13.2.1.131 | O & M Manuals Submittals | Sewerage Network | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 14 |
+| Clsout.13.2.1.141 | O & M Manuals Submittals | Storm Network | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 14 |
+| Clsout.13.2.1.151 | O & M Manuals Submittals | Potable Network | Task | Not Started | 2026-12-19 | 2026-12-20 |  |  | 0 | 14 |
+| Clsout.13.2.1.161 | O & M Manuals Submittals | TSE Network | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | 13 |
+| Clsout.13.2.1.171 | O & M Manuals Submittals | Fire Fighting Network | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 14 |
+| Clsout.13.2.1.181 | O & M Manuals Submittals | Potable Water Pump Station | Task | Not Started | 2026-12-02 | 2026-12-03 |  |  | 0 | 15 |
+| Clsout.13.2.1.191 | O & M Manuals Submittals | Sewer Lift Station | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 9 |
+| Clsout.13.2.1.201 | O & M Manuals Submittals | Medium Voltage Network | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | 3 |
+| Clsout.13.2.1.211 | O & M Manuals Submittals | Low Voltage Network | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 3 |
+| Clsout.13.2.1.221 | O & M Manuals Submittals | Telecommunication Network | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 3 |
+| Clsout.13.2.1.231 | O & M Manuals Submittals | Street Lighting | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 3 |
+| Clsout.13.2.1.241 | Operational Spare Parts & Guarantee Certificates/Docs. | Sewerage Network | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 14 |
+| Clsout.13.2.1.251 | Operational Spare Parts & Guarantee Certificates/Docs. | Storm Network | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 14 |
+| Clsout.13.2.1.261 | Operational Spare Parts & Guarantee Certificates/Docs. | Potable Network | Task | Not Started | 2026-12-19 | 2026-12-20 |  |  | 0 | 14 |
+| Clsout.13.2.1.271 | Operational Spare Parts & Guarantee Certificates/Docs. | TSE Network | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | 13 |
+| Clsout.13.2.1.281 | Operational Spare Parts & Guarantee Certificates/Docs. | Fire Fighting Network | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 14 |
+| Clsout.13.2.1.291 | Operational Spare Parts & Guarantee Certificates/Docs. | Potable Water Pump Station | Task | Not Started | 2026-12-02 | 2026-12-03 |  |  | 0 | 7 |
+| Clsout.13.2.1.301 | Operational Spare Parts & Guarantee Certificates/Docs. | Sewer Lift Station | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 3 |
+| Clsout.13.2.1.311 | Operational Spare Parts & Guarantee Certificates/Docs. | Street Lighting | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | 25 |
+| Clsout.13.2.1.321 | Operational Spare Parts & Guarantee Certificates/Docs. | Telecommunication Network | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 3 |
+| Clsout.13.2.1.341 | Operational Spare Parts & Guarantee Certificates/Docs. | Low Voltage Network | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 3 |
+| Clsout.13.2.1.351 | Operational Spare Parts & Guarantee Certificates/Docs. | Medium Voltage Network | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | 3 |
+| Close.Asblt.01-21 | AS-Built Drawings Submittal - Potable Water Pump Station - Mech | Potable Water Pump Station | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 34 |
+| Close.Asblt.01-31 | AS-Built Drawings Submittal - Potable Water Pump Station - Elec. | Potable Water Pump Station | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 34 |
+| Close.Asblt.01-41 | AS-Built Drawings Submittal - Sewer Lift Station - Civil & Arch | Sewer Lift Station | Task | Not Started | 2026-12-09 | 2026-12-13 |  |  | 0 | 20 |
+| Close.Asblt.01-51 | AS-Built Drawings Submittal - Sewer Lift Station - Mech | Sewer Lift Station | Task | Not Started | 2026-12-09 | 2026-12-13 |  |  | 0 | 20 |
+| Close.Asblt.01-61 | AS-Built Drawings Submittal - Sewer Lift Station - Elec. | Sewer Lift Station | Task | Not Started | 2026-12-09 | 2026-12-13 |  |  | 0 | 20 |
+| B5.33 05 63.012 | Blinding Conc, & RC Base | Discharge Chamber | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 88 |
+| B5.33 05 63.013 | Chamber Installation | Discharge Chamber | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 84 |
+| B5.33 05 63.014 | Test, Internal Finishing, Benching & Cover | Discharge Chamber | Task | Not Started | 2026-10-06 | 2026-10-10 |  |  | 0 | 91 |
+| B5.33 05 63.011 | Excavation & Compaction | Discharge Chamber | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 88 |
+| B5.33 05 63.015 | Backfilling | Discharge Chamber | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 84 |
+| B3.33 14 19.01.1 | Burried Isolation Valve Installation | Gate Valves | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 0 | 108 |
+| B3.33 14 19.01.7 | Spindle & Surface Box | Gate Valves | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 108 |
+| B3.33 14 19.01.93 | Burried Isolation Valve Installation | Gate Valves | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 112 |
+| B3.33 14 19.01.103 | Spindle & Surface Box | Gate Valves | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 112 |
+| B5..33 31 16.011 | Excavation | Sewerage Plot Connection | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 93 |
+| B5..33 31 16.012 | Sand Bedding | Sewerage Plot Connection | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 93 |
+| B5..33 31 16.013 | Pipe Laying, Fittings | Sewerage Plot Connection | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 93 |
+| B5..33 31 16.014 | Embedment & Test | Sewerage Plot Connection | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 93 |
+| B5..33 31 16.015 | Backfilling & Warrning Tape | Sewerage Plot Connection | Task | Not Started | 2026-10-04 | 2026-10-08 |  |  | 0 | 93 |
+| B6.33 05 63.073 | Blinding Conc. | Single | Task | Completed | 2026-05-21 | 2026-05-24 | 2026-05-21 | 2026-05-24 | 100 |  |
+| B6.33 05 63.074 | Catch Basin Installation | Single | Task | Completed | 2026-05-24 | 2026-06-23 | 2026-05-24 | 2026-06-23 | 100 |  |
+| B6.33 05 63.071 | Excavation, Compaction & Vapour Barrier | Single | Task | Completed | 2026-03-24 | 2026-05-21 | 2026-03-23 | 2026-05-21 | 100 |  |
+| B6.33 05 63.072 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 90 | 113 |
+| B6.33 42 11.351000 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | Completed | 2026-04-01 | 2026-04-11 | 2026-04-01 | 2026-04-11 | 100 |  |
+| B6.33 42 11.351010 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-04 | 2026-03-09 | 2026-03-04 | 2026-03-09 | 100 |  |
+| B6.33 42 11.361000 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | Completed | 2026-06-02 | 2026-08-25 | 2026-06-02 | 2026-08-25 | 100 |  |
+| B6.33 42 11.361010 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-04-12 | 2026-08-18 | 2026-04-12 | 2026-08-18 | 100 |  |
+| B6.33 05 63.083 | Blinding Conc. | Double | Task | Completed | 2026-08-01 | 2026-08-27 | 2026-08-01 | 2026-08-27 | 100 |  |
+| B6.33 05 63.084 | Catch Basin Installation | Double | Task | Completed | 2026-08-02 | 2026-08-30 | 2026-08-02 | 2026-08-30 | 100 |  |
+| B6.33 05 63.081 | Excavation, Compaction & Vapour Barrier | Double | Task | Completed | 2026-07-29 | 2026-08-24 | 2026-07-29 | 2026-08-24 | 100 |  |
+| B6.33 05 63.082 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | In Progress | 2026-08-03 | 2026-09-17 | 2026-08-03 |  | 90 | 0 |
+| B6.33 05 63.07.2 | Blinding Conc. | Single | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 4.7619 | 113 |
+| B6.33 05 63.07.3 | Catch Basin Installation | Single | Task | In Progress | 2026-06-03 | 2026-09-19 | 2026-06-03 |  | 4.7619 | 112 |
+| B6.33 05 63.07.1 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-05-23 | 2026-09-17 | 2026-05-22 |  | 4.7619 | 13 |
+| B6.33 05 63.07.4 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | Not Started | 2026-11-25 | 2026-11-30 |  |  | 0 | 13 |
+| B6.33 05 40.01.140 | Blinding Conc. | Single | Task | In Progress | 2026-06-07 | 2026-09-16 | 2026-06-07 |  | 75 | 114 |
+| B6.33 05 40.01.150 | Catch Basin Installation | Single | Task | In Progress | 2026-06-10 | 2026-09-16 | 2026-06-10 |  | 75 | 114 |
+| B6.33 05 40.01.130 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-06 | 2026-09-16 | 2026-06-06 |  | 75 | 104 |
+| B6.33 05 40.01.160 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-20 | 2026-09-16 | 2026-06-20 |  | 75 | 114 |
+| B6.33 05 40.01.180 | Blinding Conc. | Single | Task | In Progress | 2026-05-06 | 2026-09-16 | 2026-05-06 |  | 90 | 114 |
+| B6.33 05 40.01.190 | Catch Basin Installation | Single | Task | In Progress | 2026-05-31 | 2026-09-16 | 2026-05-30 |  | 90 | 114 |
+| B6.33 05 40.01.170 | Excavation, Compaction & Vapour Barrier | Single | Task | Completed | 2026-05-03 | 2026-05-13 | 2026-05-03 | 2026-05-13 | 100 |  |
+| B6.33 05 40.01.200 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-05-31 | 2026-09-16 | 2026-05-27 |  | 90 | 1 |
+| B6.33 05 40.01.220 | Blinding Conc. | Single | Task | In Progress | 2026-06-09 | 2026-09-16 | 2026-06-09 |  | 80 | 114 |
+| B6.33 05 40.01.230 | Catch Basin Installation | Single | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-13 |  | 80 | 114 |
+| B6.33 05 40.01.210 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-07 | 2026-09-16 | 2026-06-07 |  | 80 | 104 |
+| B6.33 05 40.01.240 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-18 | 2026-09-16 | 2026-06-18 |  | 80 | 75 |
+| B6.33 05 40.01.260 | Blinding Conc. | Single | Task | In Progress | 2026-06-22 | 2026-09-16 | 2026-06-22 |  | 91 | 114 |
+| B6.33 05 40.01.270 | Catch Basin Installation | Single | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 91 | 114 |
+| B6.33 05 40.01.250 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-08 | 2026-09-16 | 2026-06-08 |  | 91 | 114 |
+| B6.33 05 40.01.280 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-23 | 2026-09-16 | 2026-06-23 |  | 91 | 114 |
+| B6.33 05 40.01.300 | Blinding Conc. | Single | Task | In Progress | 2026-07-25 | 2026-09-16 | 2026-07-24 |  | 67 | 114 |
+| B6.33 05 40.01.310 | Catch Basin Installation | Single | Task | In Progress | 2026-07-26 | 2026-09-16 | 2026-07-26 |  | 67 | 114 |
+| B6.33 05 40.01.290 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-07-22 | 2026-09-16 | 2026-07-22 |  | 67 | 114 |
+| B6.33 05 40.01.320 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-08-06 | 2026-09-17 | 2026-08-06 |  | 67 | 82 |
+| B6.33 05 40.01.340 | Blinding Conc. | Single | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 43 |
+| B6.33 05 40.01.350 | Catch Basin Installation | Single | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 43 |
+| B6.33 05 40.01.330 | Excavation, Compaction & Vapour Barrier | Single | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 43 |
+| B6.33 05 40.01.360 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | Not Started | 2026-10-13 | 2026-10-19 |  |  | 0 | 43 |
+| B6.33 05 40.01.380 | Blinding Conc. | Single | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 80 | 113 |
+| B6.33 05 40.01.390 | Catch Basin Installation | Single | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 80 | 113 |
+| B6.33 05 40.01.370 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 80 | 103 |
+| B6.33 05 40.01.400 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-18 | 2026-09-16 | 2026-06-18 |  | 80 | 7 |
+| B6.33 05 40.01.420 | Blinding Conc. | Single | Task | In Progress | 2026-06-27 | 2026-09-17 | 2026-06-27 |  | 62.5 | 113 |
+| B6.33 05 40.01.430 | Catch Basin Installation | Single | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 62.5 | 113.9 |
+| B6.33 05 40.01.410 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-24 | 2026-09-17 | 2026-06-24 |  | 62.5 | 113 |
+| B6.33 05 40.01.440 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-07-02 | 2026-09-17 | 2026-07-02 |  | 62.5 | 63.1 |
+| B6.33 05 40.01.460 | Blinding Conc. | Single | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 67 | 113 |
+| B6.33 05 40.01.470 | Catch Basin Installation | Single | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 05 40.01.450 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 67 | 113 |
+| B6.33 05 40.01.480 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | Not Started | 2026-09-20 | 2026-09-27 |  |  | 0 | 0 |
+| B6.33 05 40.01.500 | Blinding Conc. | Single | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 80 | 113 |
+| B6.33 05 40.01.510 | Catch Basin Installation | Single | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 80 | 113 |
+| B6.33 05 40.01.490 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 80 | 113 |
+| B6.33 05 40.01.520 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-10 | 2026-09-16 | 2026-06-10 |  | 80 | 11 |
+| B6.33 05 40.01.540 | Blinding Conc. | Single | Task | In Progress | 2026-06-20 | 2026-09-17 | 2026-06-20 |  | 79 | 113 |
+| B6.33 05 40.01.550 | Catch Basin Installation | Single | Task | In Progress | 2026-06-22 | 2026-09-17 | 2026-06-22 |  | 79 | 113 |
+| B6.33 05 40.01.530 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 79 | 113 |
+| B6.33 05 40.01.560 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 79 | 57.9 |
+| B6.33 05 40.01.580 | Blinding Conc. | Single | Task | In Progress | 2026-06-13 | 2026-09-17 | 2026-06-13 |  | 92.6 | 113 |
+| B6.33 05 40.01.590 | Catch Basin Installation | Single | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 92.6 | 113 |
+| B6.33 05 40.01.570 | Excavation, Compaction & Vapour Barrier | Single | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 92.6 | 113 |
+| B6.33 05 40.01.600 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 92.6 | 113 |
+| B6.33 05 40.01.620 | Blinding Conc. | Single | Task | Completed | 2026-06-13 | 2026-06-14 | 2026-06-13 | 2026-06-14 | 100 |  |
+| B6.33 05 40.01.630 | Catch Basin Installation | Single | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 91 | 113 |
+| B6.33 05 40.01.610 | Excavation, Compaction & Vapour Barrier | Single | Task | Completed | 2026-06-10 | 2026-06-10 | 2026-06-10 | 2026-06-10 | 100 |  |
+| B6.33 05 40.01.640 | Backfilling, DI Frame & Grate Cover Fixing | Single | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 91 | 30 |
+| B6.33 05 63.08.2 | Blinding Conc. | Double | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 13 |
+| B6.33 05 63.08.3 | Catch Basin Installation | Double | Task | Not Started | 2026-11-05 | 2026-11-09 |  |  | 0 | 13 |
+| B6.33 05 63.08.1 | Excavation, Compaction & Vapour Barrier | Double | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 13 |
+| B6.33 05 63.08.4 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-11-19 | 2026-11-24 |  |  | 0 | 13 |
+| B6.33 05 40.01.700 | Blinding Conc. | Double | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 104 |
+| B6.33 05 40.01.710 | Catch Basin Installation | Double | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 104 |
+| B6.33 05 40.01.690 | Excavation, Compaction & Vapour Barrier | Double | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 104 |
+| B6.33 05 40.01.720 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-19 | 2026-09-27 |  |  | 0 | 57.9 |
+| B6.33 05 40.01.740 | Blinding Conc. | Double | Task | In Progress | 2026-05-13 | 2026-09-16 | 2026-05-13 |  | 85 | 114 |
+| B6.33 05 40.01.750 | Catch Basin Installation | Double | Task | In Progress | 2026-05-25 | 2026-09-16 | 2026-05-25 |  | 85 | 114 |
+| B6.33 05 40.01.730 | Excavation, Compaction & Vapour Barrier | Double | Task | In Progress | 2026-05-11 | 2026-09-16 | 2026-05-11 |  | 85 | 114 |
+| B6.33 05 40.01.760 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | In Progress | 2026-05-17 | 2026-09-16 | 2026-05-17 |  | 85 | 70 |
+| B6.33 05 40.01.780 | Blinding Conc. | Double | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 104 |
+| B6.33 05 40.01.790 | Catch Basin Installation | Double | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 104 |
+| B6.33 05 40.01.770 | Excavation, Compaction & Vapour Barrier | Double | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 104 |
+| B6.33 05 40.01.800 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-19 | 2026-09-27 |  |  | 0 | 68.9 |
+| B6.33 05 40.01.820 | Blinding Conc. | Double | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 44 |
+| B6.33 05 40.01.830 | Catch Basin Installation | Double | Task | Not Started | 2026-10-01 | 2026-10-05 |  |  | 0 | 43 |
+| B6.33 05 40.01.810 | Excavation, Compaction & Vapour Barrier | Double | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 44 |
+| B6.33 05 40.01.840 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-10-20 | 2026-10-26 |  |  | 0 | 43 |
+| B6.33 05 40.01.860 | Blinding Conc. | Double | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 103 |
+| B6.33 05 40.01.870 | Catch Basin Installation | Double | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 103 |
+| B6.33 05 40.01.850 | Excavation, Compaction & Vapour Barrier | Double | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 103 |
+| B6.33 05 40.01.880 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 3 |
+| B6.33 05 40.01.900 | Blinding Conc. | Double | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 62.5 | 113 |
+| B6.33 05 40.01.910 | Catch Basin Installation | Double | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 62.5 | 39.9 |
+| B6.33 05 40.01.890 | Excavation, Compaction & Vapour Barrier | Double | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 62.5 | 113 |
+| B6.33 05 40.01.920 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-19 | 2026-09-27 |  |  | 0 | 39.9 |
+| B6.33 05 40.01.940 | Blinding Conc. | Double | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 44 | 113.9 |
+| B6.33 05 40.01.950 | Catch Basin Installation | Double | Task | In Progress | 2026-09-14 | 2026-09-17 | 2026-09-14 |  | 44 | 113.3 |
+| B6.33 05 40.01.930 | Excavation, Compaction & Vapour Barrier | Double | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 44 | 113.9 |
+| B6.33 05 40.01.960 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 7 |
+| B6.33 05 40.01.980 | Blinding Conc. | Double | Task | In Progress | 2026-08-25 | 2026-09-17 | 2026-08-25 |  | 62.5 | 113 |
+| B6.33 05 40.01.990 | Catch Basin Installation | Double | Task | In Progress | 2026-08-26 | 2026-09-17 | 2026-08-26 |  | 62.5 | 68.9 |
+| B6.33 05 40.01.970 | Excavation, Compaction & Vapour Barrier | Double | Task | In Progress | 2026-08-23 | 2026-09-17 | 2026-08-23 |  | 62.5 | 113 |
+| B6.33 05 40.01.1000 | Backfilling, DI Frame & Grate Cover Fixing | Double | Task | Not Started | 2026-09-19 | 2026-09-27 |  |  | 0 | 68.9 |
+| B6.33 42 11.35.11 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-01 | 2026-09-17 | 2026-06-01 |  | 3.81023618976 | 113 |
+| B6.33 42 11.35.12 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-06-01 | 2026-06-14 | 2026-06-01 | 2026-06-14 | 100 |  |
+| B6.33 42 11.35-11 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 113.9 |
+| B6.33 42 11.35-12 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 113.9 |
+| B6.33 42 11.35-101 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-06 | 2026-09-17 | 2026-06-06 |  | 83.4624 | 113.9 |
+| B6.33 42 11.35-102 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-04-19 | 2026-09-16 | 2026-04-19 |  | 50 | 114 |
+| B6.33 42 11.35 1 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-02 | 2026-09-17 | 2026-06-02 |  | 68.04 | 113.9 |
+| B6.33 42 11.35 2 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 68.04 | 113.9 |
+| B6.33 42 11.35-131 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-04-02 | 2026-09-16 | 2026-04-02 |  | 50 | 114 |
+| B6.33 42 11.35-132 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-04-05 | 2026-09-16 | 2026-04-05 |  | 50 | 114 |
+| B6.33 42 11.35-1 1 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-07-30 | 2026-09-17 | 2026-07-30 |  | 60.7824 | 113.9 |
+| B6.33 42 11.35-1 2 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-08-01 | 2026-09-17 | 2026-08-01 |  | 60.7824 | 113.9 |
+| B6.33 42 11.35-1.1 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 43 |
+| B6.33 42 11.35-1.2 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-08-09 | 2026-09-17 | 2026-08-09 |  | 45.36 | 97 |
+| B6.33 42 11.35-1.20 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 103 |
+| B6.33 42 11.35-1.22 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-05 | 2026-03-12 | 2026-03-05 | 2026-03-12 | 100 |  |
+| B6.33 42 11.35-18 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-07-05 | 2026-09-17 | 2026-07-05 |  | 56.7 | 113 |
+| B6.33 42 11.35-120 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-09 | 2026-03-14 | 2026-03-09 | 2026-03-14 | 100 |  |
+| B6.33 42 11.35-110 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 42 11.35-122 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-11 | 2026-03-12 | 2026-03-11 | 2026-03-13 | 100 |  |
+| B6.33 42 11.35-112 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | Completed | 2026-06-07 | 2026-06-08 | 2026-06-07 | 2026-06-08 | 100 |  |
+| B6.33 42 11.35-124 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-09 | 2026-03-16 | 2026-03-09 | 2026-03-16 | 100 |  |
+| B6.33 42 11.35-114 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 81.648 | 113 |
+| B6.33 42 11.35-126 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-02 | 2026-03-08 | 2026-03-02 | 2026-03-08 | 100 |  |
+| B6.33 42 11.35-116 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 87.0912 | 113 |
+| B6.33 42 11.35-128 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | Completed | 2026-03-12 | 2026-03-14 | 2026-03-12 | 2026-03-14 | 100 |  |
+| B6.33 42 11.35-118 | Catch Basin Opening Prep. | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 42 11.35-130 | Fittings & Pipe Installation | ?300 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 42 11.36.11 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 13 |
+| B6.33 42 11.36.12 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 13 |
+| B6.33 42 11.36-11 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 104 |
+| B6.33 42 11.36-12 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 57.9 |
+| B6.33 42 11.36-111 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-06 | 2026-09-17 | 2026-06-06 |  | 83.4624 | 113.9 |
+| B6.33 42 11.36-112 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-04-29 | 2026-09-17 | 2026-04-29 |  | 83.4624 | 113.9 |
+| B6.33 42 11.36 1 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-09 | 2026-09-17 | 2026-06-09 |  | 68.04 | 104 |
+| B6.33 42 11.36 2 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 68.9 |
+| B6.33 42 11.36-121 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 82.5552 | 113.9 |
+| B6.33 42 11.36-122 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-23 | 2026-09-17 | 2026-06-23 |  | 67 | 113 |
+| B6.33 42 11.36-1 1 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-08-01 | 2026-09-17 | 2026-08-01 |  | 60.7824 | 113.9 |
+| B6.33 42 11.36-1 2 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-08-03 | 2026-09-17 | 2026-08-03 |  | 60.7824 | 113.9 |
+| B6.33 42 11.36-1.1 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 43 |
+| B6.33 42 11.36-1.2 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-08-12 | 2026-09-17 | 2026-08-12 |  | 36.288 | 43 |
+| B6.33 42 11.36-1.20 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 68.04 | 113 |
+| B6.33 42 11.36-1.22 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-07 | 2026-03-15 | 2026-03-07 | 2026-03-15 | 100 |  |
+| B6.33 42 11.36-181 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-07-07 | 2026-09-17 | 2026-07-07 |  | 56.7 | 113 |
+| B6.33 42 11.36-193 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-09 | 2026-03-14 | 2026-03-09 | 2026-03-14 | 100 |  |
+| B6.33 42 11.36-183 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 42 11.36-195 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-11 | 2026-03-12 | 2026-03-11 | 2026-03-13 | 100 |  |
+| B6.33 42 11.36-185 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-09-02 | 2026-09-17 | 2026-09-02 |  | 60.7824 | 113 |
+| B6.33 42 11.36-197 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-09 | 2026-03-16 | 2026-03-09 | 2026-03-16 | 100 |  |
+| B6.33 42 11.36-187 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 81.648 | 113 |
+| B6.33 42 11.36-199 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-02 | 2026-03-08 | 2026-03-02 | 2026-03-08 | 100 |  |
+| B6.33 42 11.36-189 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 87.0912 | 113 |
+| B6.33 42 11.36-1101 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | Completed | 2026-03-12 | 2026-03-14 | 2026-03-12 | 2026-03-14 | 100 |  |
+| B6.33 42 11.36-191 | Catch Basin Opening Prep. | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 42 11.36-1103 | Fittings & Pipe Installation | ?400 From 0.0 to 1.5m | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 67 | 113 |
+| B6.33 05 63.011 | Shuttering, Steel Fixing, CJ & Water Stop | Size 3.0 x 3.0 m, depth 1.5 to 2.5 | Task | Completed | 2026-09-07 | 2026-09-10 | 2026-09-07 | 2026-09-10 | 100 |  |
+| B6.33 05 63.012 | Cocrete Cast for Chamber & Curing | Size 3.0 x 3.0 m, depth 1.5 to 2.5 | Task | In Progress | 2026-09-02 | 2026-09-17 | 2026-09-02 |  | 75 | 51 |
+| B6.33 05 63.013 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 3.0 x 3.0 m, depth 1.5 to 2.5 | Task | Not Started | 2026-09-20 | 2026-09-28 |  |  | 0 | 51 |
+| B6.33 05 63.014 | Waterproofing Tanking Membrane & Protection | Size 3.0 x 3.0 m, depth 1.5 to 2.5 | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 51 |
+| B6.33 05 63.021 | Shuttering, Steel Fixing, CJ & Water Stop | Size 3.0 x 1.5 m, depth 1.5 to 2.5 | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 75 | 113.5 |
+| B6.33 05 63.022 | Cocrete Cast for Chamber & Curing | Size 3.0 x 1.5 m, depth 1.5 to 2.5 | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 75 | 57.5 |
+| B6.33 05 63.023 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 3.0 x 1.5 m, depth 1.5 to 2.5 | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 57.5 |
+| B6.33 05 63.024 | Waterproofing Tanking Membrane & Protection | Size 3.0 x 1.5 m, depth 1.5 to 2.5 | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 51 |
+| B6.33 05 63.031 | Shuttering, Steel Fixing, CJ & Water Stop | Size 2.5 x 1.5 m, depth 1.5 to 2.5 | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 75 | 113.5 |
+| B6.33 05 63.032 | Cocrete Cast for Chamber & Curing | Size 2.5 x 1.5 m, depth 1.5 to 2.5 | Task | In Progress | 2026-09-12 | 2026-09-16 | 2026-09-12 |  | 75 | 63 |
+| B6.33 05 63.033 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 2.5 x 1.5 m, depth 1.5 to 2.5 | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 62.5 |
+| B6.33 05 63.034 | Waterproofing Tanking Membrane & Protection | Size 2.5 x 1.5 m, depth 1.5 to 2.5 | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 51 |
+| B6.33 05 63.041 | Shuttering, Steel Fixing, CJ & Water Stop | Size 2.0 x 1.5 m, depth 2.5 to 3.5 | Task | Completed | 2026-09-03 | 2026-09-10 | 2026-09-03 | 2026-09-10 | 100 |  |
+| B6.33 05 63.042 | Cocrete Cast for Chamber & Curing | Size 2.0 x 1.5 m, depth 2.5 to 3.5 | Task | In Progress | 2026-09-10 | 2026-09-16 | 2026-09-10 |  | 75 | 55 |
+| B6.33 05 63.043 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 2.0 x 1.5 m, depth 2.5 to 3.5 | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 54.5 |
+| B6.33 05 63.044 | Waterproofing Tanking Membrane & Protection | Size 2.0 x 1.5 m, depth 2.5 to 3.5 | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 51 |
+| B6.33 05 63.051 | Shuttering, Steel Fixing, CJ & Water Stop | Size 1.5 x 1.5 m, depth 2.5 to 3.5 | Task | Completed | 2026-09-07 | 2026-09-12 | 2026-09-07 | 2026-09-12 | 100 |  |
+| B6.33 05 63.052 | Cocrete Cast for Chamber & Curing | Size 1.5 x 1.5 m, depth 2.5 to 3.5 | Task | Completed | 2026-09-12 | 2026-09-13 | 2026-09-12 | 2026-09-13 | 100 |  |
+| B6.33 05 63.053 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 1.5 x 1.5 m, depth 2.5 to 3.5 | Task | Not Started | 2026-10-08 | 2026-10-14 |  |  | 0 | 47.4 |
+| B6.33 05 63.054 | Waterproofing Tanking Membrane & Protection | Size 1.5 x 1.5 m, depth 2.5 to 3.5 | Task | Not Started | 2026-09-21 | 2026-09-27 |  |  | 0 | 47.4 |
+| B6.33 05 63.061 | Shuttering, Steel Fixing, CJ & Water Stop | Size 1.5 x 1.5 m, depth 3.5 to 4.5 | Task | Completed | 2026-09-14 | 2026-09-15 | 2026-09-14 | 2026-09-15 | 100 |  |
+| B6.33 05 63.062 | Cocrete Cast for Chamber & Curing | Size 1.5 x 1.5 m, depth 3.5 to 4.5 | Task | Completed | 2026-09-09 | 2026-09-13 | 2026-09-09 | 2026-09-13 | 100 |  |
+| B6.33 05 63.063 | Cast Iron Steps Installation, Epoxy Paint & Internal Finishing | Size 1.5 x 1.5 m, depth 3.5 to 4.5 | Task | Not Started | 2026-10-08 | 2026-10-14 |  |  | 0 | 47.4 |
+| B6.33 05 63.064 | Waterproofing Tanking Membrane & Protection | Size 1.5 x 1.5 m, depth 3.5 to 4.5 | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 47.4 |
+| B3.2.31 23 16.01 | Excavation | Earthworks & Substructure | Task | Completed | 2025-12-07 | 2026-02-15 | 2025-12-07 | 2026-02-15 | 100 |  |
+| B3.2.03 30 00.01 | Footings & Ground Beams Construction | Earthworks & Substructure | Task | Completed | 2026-02-24 | 2026-05-02 | 2026-02-24 | 2026-05-02 | 100 |  |
+| B3.2.32 11 23.01.7 | 100mm Lean Concrete under Foundations | Earthworks & Substructure | Task | Completed | 2026-05-07 | 2026-05-17 | 2026-05-07 | 2026-05-17 | 100 |  |
+| B3.2.32 11 23.01.5 | Aggregate Base Course below Slab on Grade | Earthworks & Substructure | Task | Completed | 2026-05-02 | 2026-05-05 | 2026-05-02 | 2026-05-05 | 100 |  |
+| B3.2.32 11 23.01.9 | 50mm Lean Concrete under Slab on Grade | Earthworks & Substructure | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B3.2.32 11 23.01.11 | Vapor Retarders below Slab on Grade | Earthworks & Substructure | Task | Completed | 2026-07-29 | 2026-07-30 | 2026-07-29 | 2026-07-30 | 100 |  |
+| B3.2.32 11 23.01.15 | Waterproofing Paint below Slab on Grade | Earthworks & Substructure | Task | Completed | 2026-08-01 | 2026-08-03 | 2026-08-01 | 2026-08-03 | 100 |  |
+| B3.2.32 11 23.01.19 | Slab on Grade & Ground Beams Pouring | Earthworks & Substructure | Task | Completed | 2026-08-02 | 2026-08-04 | 2026-08-02 | 2026-08-04 | 100 |  |
+| B3.2.32 11 23.01.25 | Reinforced Concrete Walls & Columns | Superstructure | Task | Completed | 2026-06-24 | 2026-07-25 | 2026-06-24 | 2026-07-25 | 100 |  |
+| B3.2.32 11 23.01.39 | Roof Slab & Beams Construction | Superstructure | Task | In Progress | 2026-08-05 | 2026-09-16 | 2026-08-05 |  | 75 | 28 |
+| B3.2.32 11 23.01.27 | CMU (Concrete Masonry Unit) Walls Construction | Superstructure | Task | In Progress | 2026-08-27 | 2026-09-17 | 2026-08-27 |  | 75 | 35 |
+| B3.2.32 11 23.01.49 | Waterproofing Membrane for Roof | Building Envelope & Waterproofing | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 46 |
+| B3.2.32 11 23.01.21 | Sloped Screed for Roof | Building Envelope & Waterproofing | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 48 |
+| B3.2.32 11 23.01.29 | Geotextile Membrane for Roof | Building Envelope & Waterproofing | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 48 |
+| B3.2.32 11 23.01.41 | 50mm Foam Concrete for Roof | Building Envelope & Waterproofing | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 48 |
+| B3.2.32 11 23.01.51 | Gravel for Roof | Building Envelope & Waterproofing | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 48 |
+| B3.2.32 11 23.01.69 | Stone Copping Installation | Building Envelope & Waterproofing | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 48 |
+| B3.2.32 11 23.01.43 | External Plastering | Building Envelope & Waterproofing | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 30 |
+| B3.2.32 11 23.01.45 | Internal Plastering | Interior Finishes & Fixed Installations | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 18 |
+| B3.2.32 11 23.01.71 | Internal Painting (Acrylic/Emulsion) | Interior Finishes & Fixed Installations | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 12 |
+| B3.2.32 11 23.01.91 | Epoxy Paint for Floors & Non-Toxic Epoxy for Tank | Interior Finishes & Fixed Installations | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 12 |
+| B3.2.32 11 23.01.31 | Lean Concrete for Equipment Pads | Interior Finishes & Fixed Installations | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 29 |
+| B3.2.32 11 23.01.33 | Stairs Construction | Interior Finishes & Fixed Installations | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 18 |
+| B3.2.32 11 23.01.53 | Overhead Crane Installation | Mechanical & Piping Rough-In | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 18 |
+| B3.2.32 11 23.01.73 | Surge Tank | Mechanical & Piping Rough-In | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.93 | Control Panel | Mechanical & Piping Rough-In | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.81 | Water Pump - Vertical multistage cintrifugal pump | Pumps | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 22 |
+| B3.2.32 11 23.01.99 | Fire Pump - split case cintrifugal pump | Pumps | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 22 |
+| B3.2.32 11 23.01.111 | Fire Pump - Vertical multistage cintrifugal (jockey) pump | Pumps | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 22 |
+| B3.2.32 11 23.01.123 | Submersible pump | Pumps | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 22 |
+| B3.2.32 11 23.01.83 | Chlorine Cylinder racks | Chlorination System | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 4 |
+| B3.2.32 11 23.01.101 | Chlorinators | Chlorination System | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 4 |
+| B3.2.32 11 23.01.113 | Discharge Line Analyzer | Chlorination System | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 4 |
+| B3.2.32 11 23.01.137 | Control Panel | Chlorination System | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.125 | Motive Water Pumps (Injection) | Chlorination System | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 4 |
+| B3.2.32 11 23.01.127 | Motive Water Pumps (Water) | Chlorination System | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 4 |
+| B3.2.32 11 23.01.147 | Double Flanged DI Pipe ?60 mm | Double Flanged DI Pipes | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 9 |
+| B3.2.32 11 23.01.155 | Double Flanged DI Pipe ?80 mm | Double Flanged DI Pipes | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.161 | Double Flanged DI Pipe ?100 mm | Double Flanged DI Pipes | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.169 | Double Flanged DI Pipe ?200 mm | Double Flanged DI Pipes | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.179 | Double Flanged DI Pipe ?300 mm | Double Flanged DI Pipes | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.185 | Double Flanged DI Pipe ?350 mm | Double Flanged DI Pipes | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.157 | Manually operated Gate Valve DN60 | Gate Valves | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 19 |
+| B3.2.32 11 23.01.163 | Manually operated Gate Valve DN80 | Gate Valves | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.171 | Manually operated Gate Valve DN100 | Gate Valves | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 17 |
+| B3.2.32 11 23.01.181 | Manually operated Gate Valve DN200 | Gate Valves | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.193 | Manually operated Gate Valve DN350 | Gate Valves | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 15 |
+| B3.2.32 11 23.01.165 | Non return Valve DN60 | Non Return Valves | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 19 |
+| B3.2.32 11 23.01.187 | Non return Valve DN300 | Non Return Valves | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 15 |
+| B3.2.32 11 23.01.189 | Butterfly Valve DN200 | Butterfly Valves | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.195 | Butterfly Valve DN300 | Butterfly Valves | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.173 | Electromagnetic Flowmeter DN80, PN16 | Flowmeters | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.197 | Electromagnetic Flowmeter DN200, PN16 | Flowmeters | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 13 |
+| B3.2.32 11 23.01.55 | Roof Mounted Fans | Fans | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 22 |
+| B3.2.32 11 23.01.85 | Exhaust Axial Fan | Fans | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.103 | DX wall mounted Split/AC | AC Units | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.115 | FM200 system for Electrcal Room - First Fix | FM200 System | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.13 | Buried DI Pipe ?80 mm | Buried Pipes | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.17 | Buried DI Pipe ?100 mm | Buried Pipes | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.23 | Buried DI Pipe ?200 mm | Buried Pipes | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.37 | Buried DI Pipe ?300 mm | Buried Pipes | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.57 | Buried DI Pipe ?350 mm | Buried Pipes | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.87 | uPVC Pipes ?110mm | uPVC | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.105 | Trench drain | Drains | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.117 | Scupper ?110mm | Drains | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.129 | Manholes | Drains | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.35 | Standby Diesel Generator | Generator | Task | Not Started | 2026-09-16 | 2026-09-21 |  |  | 0 | 43 |
+| B3.2.32 11 23.01.67 | Automatic Transfer Switch ATS | ATS | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 31 |
+| B3.2.32 11 23.01.47 | Underground Fuel Tank | Fuel Tank | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 43 |
+| B3.2.32 11 23.01.89 | MCC Installation | Motor Control Center (MCC) | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 31 |
+| B3.2.32 11 23.01.139 | Manually Operated Fuel Pump | Pumps | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 34 |
+| B3.2.32 11 23.01.149 | Positive Displacement Rotary Type Pump | Pumps | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 34 |
+| B3.2.32 11 23.01.145 | 4x1Cx 630mm2 Cu/XLPE//PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.153 | 4Cx 10mm2 Cu/XLPE/SWA/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.159 | 4/Cx35mm²+1Cx16mm² | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.167 | 4/Cx6mm² Cu/XLPE/PVC + 1Cx6mm² Cu/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.175 | 4Cx 25mm2 + 1Cx16mm2 Cu/XLPE/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.177 | 3Cx 6mm2 Cu/XLPE/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.183 | 4Cx 25mm2 + 1Cx11mm2 Cu/XLPE/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.191 | 3Cx 6mm2 Cu/XLPE/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.201 | 4Cx 10mm2 + 1Cx10mm2 Cu/XLPE/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.205 | 4Cx 6mm2 Cu/XLPE/SWA/PVC | Cable Tray, Conduit Installation & Power Cable Pulling | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.207 | 7m Single Arm Galvanized Steel Pole | Poles | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.211 | HIGHBAY LED 76 WATTS, IP65, 230V, 60HZ, 12000 LUMENS | Fixtures (LEDs) | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.215 | HIGHBAY LED 76 WATTS, IP65, 230V, 60HZ, 12000 LUMENS | Fixtures (LEDs) | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.221 | Surfaced Mounted Light, IP65, 230V, 60Hz, 4200 Lumens | Fixtures (LEDs) | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.225 | Surfaced Mounted Light, IP65, 230V, 60Hz, 4200 lumens | Fixtures (LEDs) | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.229 | WALL MOUNTED LED FLOODLIGHT, IP65, 230V, 60HZ, 4300 LUMENS | Fixtures (LEDs) | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.233 | WALL MOUNTED BULK HEAD OUTDOOR LED, IP65,230V 60 HZ | Fixtures (LEDs) | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.237 | EMERGENCY EXIT SIGN (CEILING OR WALL MOUNTED) IP65,230V 60 HZ | Fixtures (LEDs) | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.239 | 13A SINGLE SWITCH SOCKET OUTLET (WEATHER PROOF) | Wiring Devices | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.241 | 13A DOUBLE SWITCH SOCKET OUTLET | Wiring Devices | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.243 | 13A SINGLE SWITCH SOCKET OUTLET | Wiring Devices | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.245 | 13A SPUR OUTLET | Wiring Devices | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.247 | INDUSTRIAL SOCKET OUTLET, 400V, 3P, 60HZ, WITH GROUNDING | Wiring Devices | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.249 | Install Grounding and Lightning System | Grounding & Lightning System | Task | Not Started | 2026-11-25 | 2026-11-26 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.219 | PLC Installation | Control & Instrumentation | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.223 | Data Cabinet including all devices 12U | Control & Instrumentation | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.227 | Data/ voice RJ45 outlet include CAT6A cable | Control & Instrumentation | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.231 | Instrumentation for Process Systems (Field Instruments) | Control & Instrumentation | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.235 | Process Control Wiring | Control Cable Pulling & Termination | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.59 | Steel Door SD1 For chlorination size (2000x2300)mm | Door & Louver Installation | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 29 |
+| B3.2.32 11 23.01.75 | Steel Door SD1 size (2000x2550)mm | Door & Louver Installation | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 29 |
+| B3.2.32 11 23.01.95 | Steel Door SD2 size (900x2200)mm | Door & Louver Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 28 |
+| B3.2.32 11 23.01.107 | 90 mins fire rated Steel Door SD3 size (1000x2200)mm | Door & Louver Installation | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 28 |
+| B3.2.32 11 23.01.135 | Backfilling around structures | Engineering Backfilling | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 35 |
+| B3.2.32 11 23.01.61 | 5m External Galvanized Steel Ladder | Ladders | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.119 | Sand trap louver 1500mm x 1500mm | Door & Louver Installation | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 28 |
+| B3.2.32 11 23.01.131 | Louver 3400mm x 2800mm | Door & Louver Installation | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 28 |
+| B3.2.32 11 23.01.77 | 3m External Galvanized Steel Ladder | Ladders | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.97 | 4.3m External Galvanized Steel Ladder - Potable Water Tank | Ladders | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.109 | 4.5m External Stainless Steel A36 Ladder | Ladders | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.121 | 4.3m External Galvanized Steel Ladder - Chlorination | Ladders | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.133 | Handrail with approximate height 1.1m | Handrails | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.141 | Aluminum exterior signage size (300x150)mm | Signage | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 20 |
+| B3.2.32 11 23.01.151 | Aluminum interior signage size (300x150)mm | Signage | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 12 |
+| B3.2.32 11 23.01.143 | Steel shutter Door SD4 size (3200x3000)mm | Door & Louver Installation | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 28 |
+| B3.2.32 11 23.01.199 | PPR Pipes with ?25mm | PPR Pipes | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.203 | PPR Pipes with ?32mm | PPR Pipes | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.209 | PPR Pipes with ?40mm | PPR Pipes | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.213 | Hose Bibb Installation | PPR Pipes | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 7 |
+| B3.2.32 11 23.01.217 | Emergency Shower Installation | PPR Pipes | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-508 | Manuf. & Delivery for GRP Pipes Materials | Storm Network | Task | Completed | 2025-11-24 | 2026-01-03 | 2025-11-24 | 2026-01-03 | 100 |  |
+| DMM2-Proc-Delv-528 | Manuf. & Delivery for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-12-20 | 2026-03-07 | 2025-12-20 | 2026-03-07 | 100 |  |
+| DMM2-Proc-Delv-538 | Manuf. & Delivery for Catch Basin Materials | Storm Network | Task | Completed | 2025-12-27 | 2026-05-25 | 2025-12-27 | 2026-05-25 | 100 |  |
+| DMM2-Proc-Delv-598 | Manuf. & Delivery for HDPE Pipes Materials | Potable Network | Task | Completed | 2025-12-03 | 2026-03-26 | 2025-12-03 | 2026-03-26 | 100 |  |
+| DMM2-Proc-Delv-608 | Manuf. & Delivery for Valves Materials | Potable Network | Task | Completed | 2026-02-07 | 2026-02-24 | 2026-02-07 | 2026-02-24 | 100 |  |
+| DMM2-Proc-Delv-618 | Manuf. & Delivery for Valves Chambers Materials | Potable Network | Task | In Progress | 2026-05-10 | 2026-09-20 | 2026-05-10 |  | 75 | 112 |
+| DMM2-Proc-Delv-638 | Manuf. & Delivery for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-11-27 | 2026-04-18 | 2025-11-27 | 2026-04-18 | 100 |  |
+| DMM2-Proc-Delv-648 | Manuf. & Delivery for Solenoid Primary Control Valves Materials | TSE Network | Task | Not Started | 2026-09-16 | 2026-10-10 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-658 | Manuf. & Delivery for Valves Materials | TSE Network | Task | Completed | 2026-02-28 | 2026-03-02 | 2026-02-28 | 2026-03-02 | 100 |  |
+| DMM2-Proc-Delv-668 | Manuf. & Delivery for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2025-11-11 | 2026-03-18 | 2025-11-11 | 2026-03-18 | 100 |  |
+| DMM2-Proc-Delv-678 | Manuf. & Delivery for Valves Materials | Fire Fighting Network | Task | Completed | 2026-02-28 | 2026-03-02 | 2026-02-28 | 2026-03-02 | 100 |  |
+| DMM2-Proc-Delv-688 | Manuf. & Delivery for Valves Chambers Materials | Fire Fighting Network | Task | Completed | 2026-02-28 | 2026-04-12 | 2026-02-28 | 2026-04-12 | 100 |  |
+| DMM2-Proc-Delv-1218 | Manuf. & Delivery for MV Cables Materials | Medium Voltage Network | Task | Completed | 2025-12-28 | 2026-01-04 | 2025-12-28 | 2026-01-04 | 100 |  |
+| DMM2-Proc-Delv-1258 | Manuf. & Delivery for LV Cables Materials | Low Voltage Network | Task | Completed | 2025-12-28 | 2026-04-15 | 2025-12-28 | 2026-04-15 | 100 |  |
+| DMM2-Proc-Delv-1278 | Manuf. & Delivery for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2026-02-01 | 2026-02-02 | 2026-02-01 | 2026-02-02 | 100 |  |
+| DMM2-Proc-Delv-1288 | Manuf. & Delivery for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2026-03-04 | 2026-03-31 | 2026-03-04 | 2026-03-31 | 100 |  |
+| DMM2-Proc-Delv-1308 | Manuf. & Delivery for SL Cables Materials | Street Lighting | Task | Completed | 2025-12-28 | 2026-04-15 | 2025-12-28 | 2026-04-15 | 100 |  |
+| DMM2-Proc-Delv-1318 | Manuf. & Delivery for SL Poles Materials | Street Lighting | Task | Completed | 2025-12-28 | 2026-04-04 | 2025-12-28 | 2026-04-04 | 100 |  |
+| DMM2-Proc-Delv-1328 | Manuf. & Delivery for SL Luminares Materials | Street Lighting | Task | In Progress | 2025-12-28 | 2026-09-20 | 2025-12-28 |  | 80 | 112 |
+| DMM2-Proc-Delv-1888 | Manuf. & Delivery for GRP Pipes Materials | Sewerage Network | Task | Completed | 2025-11-24 | 2025-12-27 | 2025-11-24 | 2025-12-27 | 100 |  |
+| DMM2-Proc-Delv-1898 | Manuf. & Delivery for Inlet Manholes Materials | Sewerage Network | Task | Completed | 2025-12-20 | 2026-02-16 | 2025-12-20 | 2026-02-16 | 100 |  |
+| DMM2-Proc-Delv-1958 | Manuf. & Delivery for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2025-10-11 | 2026-04-11 | 2025-10-11 | 2026-04-11 | 100 |  |
+| DMM2-Proc-Delv-2248 | Manuf. & Delivery for GRP Pipes Materials | Storm Network | Task | Completed | 2025-12-15 | 2026-02-18 | 2025-12-15 | 2026-02-18 | 100 |  |
+| DMM2-Proc-Delv-2268 | Manuf. & Delivery for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-12-28 | 2026-03-30 | 2025-12-28 | 2026-03-30 | 100 |  |
+| DMM2-Proc-Delv-2278 | Manuf. & Delivery for Concrete Chambers & Catch Basin Materials | Storm Network | Task | Completed | 2025-12-28 | 2026-05-25 | 2025-12-28 | 2026-05-25 | 100 |  |
+| DMM2-Proc-Delv-2298 | Manuf. & Delivery for HDPE Pipes Materials | Sewerage Network | Task | Completed | 2025-12-16 | 2026-03-09 | 2025-12-16 | 2026-03-09 | 100 |  |
+| DMM2-Proc-Delv-2308 | Manuf. & Delivery for Valves Chambers Materials | Sewerage Network | Task | Not Started | 2026-09-22 | 2026-10-10 |  |  | 0 | 92 |
+| DMM2-Proc-Delv-2318 | Manuf. & Delivery for Valves Materials | Sewerage Network | Task | Completed | 2026-02-01 | 2026-03-29 | 2026-02-01 | 2026-03-29 | 100 |  |
+| DMM2-Proc-Delv-2328 | Manuf. & Delivery for Discharge Chamber Materials | Sewerage Network | Task | In Progress | 2025-12-28 | 2026-09-28 | 2025-12-28 |  | 0 | 84 |
+| DMM2-Proc-Delv-2338 | Manuf. & Delivery for HDPE Pipes Materials | Potable Network | Task | Completed | 2026-02-03 | 2026-03-07 | 2026-02-03 | 2026-03-07 | 100 |  |
+| DMM2-Proc-Delv-2348 | Manuf. & Delivery for Valves Materials | Potable Network | Task | Completed | 2026-02-21 | 2026-02-23 | 2026-02-21 | 2026-02-23 | 100 |  |
+| DMM2-Proc-Delv-2358 | Manuf. & Delivery for Valves Chambers Materials | Potable Network | Task | Completed | 2026-05-21 | 2026-06-01 | 2026-05-21 | 2026-06-01 | 100 |  |
+| DMM2-Proc-Delv-2368 | Manuf. & Delivery for Flow Meter Materials | Potable Network | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-2378 | Manuf. & Delivery for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-12-08 | 2026-04-12 | 2025-12-08 | 2026-04-12 | 100 |  |
+| DMM2-Proc-Delv-2388 | Manuf. & Delivery for Solenoid Primary Control Valves Materials | TSE Network | Task | Not Started | 2026-10-11 | 2026-11-02 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-2398 | Manuf. & Delivery for Valves Materials | TSE Network | Task | Completed | 2026-02-15 | 2026-04-13 | 2026-02-15 | 2026-04-13 | 100 |  |
+| DMM2-Proc-Delv-2408 | Manuf. & Delivery for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2026-02-04 | 2026-02-18 | 2026-02-04 | 2026-02-18 | 100 |  |
+| DMM2-Proc-Delv-2418 | Manuf. & Delivery for Valves Materials | Fire Fighting Network | Task | Completed | 2026-02-18 | 2026-02-25 | 2026-02-18 | 2026-02-25 | 100 |  |
+| DMM2-Proc-Delv-2428 | Manuf. & Delivery for Valves Chambers Materials | Fire Fighting Network | Task | In Progress | 2026-06-08 | 2026-09-28 | 2026-06-08 |  | 33.33 | 106 |
+| DMM2-Proc-Delv-2508 | Manuf. & Delivery for Water Pumps Materials | Mechanical | Task | Completed | 2026-02-08 | 2026-08-10 | 2026-02-08 | 2026-08-10 | 100 |  |
+| DMM2-Proc-Delv-2518 | Manuf. & Delivery for Fire Pumps Materials | Mechanical | Task | In Progress | 2026-03-25 | 2026-09-27 | 2026-03-25 |  | 80 | 29 |
+| DMM2-Proc-Delv-2528 | Manuf. & Delivery for Butterfly Valve Materials | Mechanical | Task | In Progress | 2026-06-17 | 2026-10-03 | 2026-06-17 |  | 80 | 18 |
+| DMM2-Proc-Delv-2538 | Manuf. & Delivery for OverHead Crane Materials | Mechanical | Task | In Progress | 2026-06-07 | 2026-09-30 | 2026-06-07 |  | 80 | 18 |
+| DMM2-Proc-Delv-2648 | Manuf. & Delivery for LV Cables Materials | Electrical | Task | In Progress | 2026-04-22 | 2026-09-21 | 2026-04-22 |  | 80 | 7 |
+| DMM2-Proc-Delv-2958 | Manuf. & Delivery for MV Cables Materials | Medium Voltage Network | Task | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| DMM2-Proc-Delv-2978 | Manuf. & Delivery for Unit Substation Materials | Medium Voltage Network | Task | In Progress | 2026-01-14 | 2026-09-28 | 2026-01-14 |  | 90 | 106 |
+| DMM2-Proc-Delv-2988 | Manuf. & Delivery for RMU Materials | Medium Voltage Network | Task | In Progress | 2026-01-14 | 2026-09-28 | 2026-01-14 |  | 90 | 106 |
+| DMM2-Proc-Delv-2998 | Manuf. & Delivery for LV Cables Materials | Low Voltage Network | Task | Completed | 2026-03-25 | 2026-09-12 | 2026-03-25 | 2026-09-12 | 100 |  |
+| DMM2-Proc-Delv-3018 | Manuf. & Delivery for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2026-01-21 | 2026-02-01 | 2026-01-21 | 2026-02-01 | 100 |  |
+| DMM2-Proc-Delv-3028 | Manuf. & Delivery for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2026-03-08 | 2026-04-12 | 2026-03-08 | 2026-04-12 | 100 |  |
+| DMM2-Proc-Delv-3038 | Manuf. & Delivery for SL Pillars Materials | Street Lighting | Task | In Progress | 2026-03-24 | 2026-10-10 | 2026-03-24 |  | 80.1066666666664 | 96 |
+| DMM2-Proc-Delv-3048 | Manuf. & Delivery for SL Cables Materials | Street Lighting | Task | Completed | 2026-03-25 | 2026-09-13 | 2026-03-25 | 2026-09-13 | 100 |  |
+| DMM2-Proc-Delv-3058 | Manuf. & Delivery for SL Poles Materials | Street Lighting | Task | Completed | 2026-02-18 | 2026-04-08 | 2026-02-18 | 2026-04-08 | 100 |  |
+| DMM2-Proc-Delv-3068 | Manuf. & Delivery for SL Luminares Materials | Street Lighting | Task | In Progress | 2025-12-28 | 2026-09-20 | 2025-12-28 |  | 80.1066666666664 | 112 |
+| DMM2-Proc-Delv-3628 | Manuf. & Delivery for GRP Pipes Materials | Sewerage Network | Task | Completed | 2025-12-25 | 2026-03-08 | 2025-12-25 | 2026-03-08 | 100 |  |
+| DMM2-Proc-Delv-3638 | Manuf. & Delivery for Inlet Manholes Materials | Sewerage Network | Task | Completed | 2025-12-28 | 2026-03-02 | 2025-12-28 | 2026-03-02 | 100 |  |
+| DMM2-Proc-Delv-3648 | Manuf. & Delivery for Flow Meter Chamber Materials | Potable Network | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-3698 | Manuf. & Delivery for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2026-03-05 | 2026-04-02 | 2026-03-05 | 2026-04-02 | 100 |  |
+| DMM2-Proc-Delv-3728 | Manuf. & Delivery for Submersible Pumps Materials | Mechanical | Task | Completed | 2026-06-03 | 2026-08-10 | 2026-06-03 | 2026-08-10 | 100 |  |
+| DMM2-Proc-Delv-3738 | Manuf. & Delivery for DI Pipes Materials | Mechanical | Task | In Progress | 2026-06-24 | 2026-09-22 | 2026-06-24 |  | 80 | 13 |
+| DMM2-Proc-Delv-3748 | Manuf. & Delivery for Gate Valves Materials | Mechanical | Task | Completed | 2026-04-09 | 2026-04-28 | 2026-04-09 | 2026-04-28 | 100 |  |
+| DMM2-Proc-Delv-3758 | Manuf. & Delivery for Non Return (Flap) Materials | Mechanical | Task | In Progress | 2026-06-23 | 2026-10-03 | 2026-06-23 |  | 80 | 7 |
+| DMM2-Proc-Delv-3768 | Manuf. & Delivery for Electromagnetic Flow Meters Materials | Mechanical | Task | In Progress | 2026-06-20 | 2026-10-03 | 2026-06-20 |  | 80 | 40 |
+| DMM2-Proc-Delv-3778 | Manuf. & Delivery for Surge Tank Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-10-15 |  |  | 0 | 13 |
+| DMM2-Proc-Delv-3808 | Manuf. & Delivery for Motor Control Center (MCC) Materials | Electrical | Task | In Progress | 2026-02-21 | 2026-09-27 | 2026-02-21 |  | 80 | 25 |
+| DMM2-Proc-Delv-3828 | Manuf. & Delivery for Local Control Panel Materials | Electrical | Task | In Progress | 2026-05-16 | 2026-09-21 | 2026-05-15 |  | 80 | 33.8 |
+| DMM2-Proc-Delv-3838 | Manuf. & Delivery for Panelboards Materials | Electrical | Task | Not Started | 2026-10-08 | 2026-10-26 |  |  | 0 | 10 |
+| DMM2-Proc-Delv-3848 | Manuf. & Delivery for Generators Materials | Electrical | Task | Completed | 2026-04-14 | 2026-04-15 | 2026-04-14 | 2026-04-15 | 100 |  |
+| DMM2-Proc-Delv-3858 | Manuf. & Delivery for Addressable Fire Alarm System Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-10-15 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-3868 | Manuf. & Delivery for PLC System Materials | Electrical | Task | In Progress | 2026-02-18 | 2026-09-30 | 2026-02-18 |  | 80 | 46 |
+| DMM2-Proc-Delv-3878 | Manuf. & Delivery for Automatic Transfer Switch ATS panel Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-10-08 |  |  | 0 | 31 |
+| DMM2-Proc-Delv-3988 | Manuf. & Delivery for GRP Pipes Materials | Storm Network | Task | Completed | 2025-12-21 | 2026-03-24 | 2025-12-21 | 2026-03-24 | 100 |  |
+| DMM2-Proc-Delv-4008 | Manuf. & Delivery for Inlet Manholes Materials | Storm Network | Task | Completed | 2025-12-28 | 2026-04-09 | 2025-12-28 | 2026-04-09 | 100 |  |
+| DMM2-Proc-Delv-4018 | Manuf. & Delivery for Concrete Chambers & Catch Basin Materials | Storm Network | Task | Completed | 2025-12-28 | 2026-08-26 | 2025-12-28 | 2026-08-26 | 100 |  |
+| DMM2-Proc-Delv-4038 | Manuf. & Delivery for HDPE Pipes Materials | Sewerage Network | Task | In Progress | 2025-12-11 | 2026-10-08 | 2025-12-11 |  | 0 | 97 |
+| DMM2-Proc-Delv-4048 | Manuf. & Delivery for Valves Chambers Materials | Sewerage Network | Task | Not Started | 2026-09-16 | 2026-10-04 |  |  | 0 | 96 |
+| DMM2-Proc-Delv-4058 | Manuf. & Delivery for Valves Materials | Sewerage Network | Task | Not Started | 2026-09-16 | 2026-10-04 |  |  | 0 | 75 |
+| DMM2-Proc-Delv-4078 | Manuf. & Delivery for HDPE Pipes Materials | Potable Network | Task | Completed | 2025-11-29 | 2026-04-09 | 2025-11-28 | 2026-04-09 | 100 |  |
+| DMM2-Proc-Delv-4088 | Manuf. & Delivery for Valves Materials | Potable Network | Task | Completed | 2026-03-01 | 2026-03-18 | 2026-03-01 | 2026-03-18 | 100 |  |
+| DMM2-Proc-Delv-4098 | Manuf. & Delivery for Valves Chambers Materials | Potable Network | Task | In Progress | 2026-05-16 | 2026-09-19 | 2026-05-15 |  | 80 | 113 |
+| DMM2-Proc-Delv-4118 | Manuf. & Delivery for HDPE Pipes Materials | TSE Network | Task | Completed | 2025-12-07 | 2026-03-26 | 2025-12-07 | 2026-03-26 | 100 |  |
+| DMM2-Proc-Delv-4128 | Manuf. & Delivery for Solenoid Primary Control Valves Materials | TSE Network | Task | Not Started | 2026-10-22 | 2026-11-02 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-4138 | Manuf. & Delivery for Valves Materials | TSE Network | Task | Completed | 2026-03-07 | 2026-04-13 | 2026-03-06 | 2026-04-13 | 100 |  |
+| DMM2-Proc-Delv-4148 | Manuf. & Delivery for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2025-11-29 | 2026-03-28 | 2025-11-28 | 2026-03-28 | 100 |  |
+| DMM2-Proc-Delv-4158 | Manuf. & Delivery for Valves Materials | Fire Fighting Network | Task | Completed | 2026-04-06 | 2026-04-13 | 2026-04-06 | 2026-04-13 | 100 |  |
+| DMM2-Proc-Delv-4168 | Manuf. & Delivery for Valves Chambers Materials | Fire Fighting Network | Task | In Progress | 2026-05-13 | 2026-09-17 | 2026-05-13 |  | 80 | 114 |
+| DMM2-Proc-Delv-4438 | Manuf. & Delivery for Submersible Pumps Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-10-11 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-4448 | Manuf. & Delivery for Double Flanged DI Pipes Materials | Mechanical | Task | In Progress | 2025-12-27 | 2026-10-10 | 2025-12-26 |  | 0 | 13 |
+| DMM2-Proc-Delv-4458 | Manuf. & Delivery for Buried Flanged DI Pipes Materials | Mechanical | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 13 |
+| DMM2-Proc-Delv-4478 | Manuf. & Delivery for Non Return Valve (Flap) Materials | Mechanical | Task | In Progress | 2026-01-24 | 2026-10-10 | 2026-01-24 |  | 0 | 22 |
+| DMM2-Proc-Delv-4488 | Manuf. & Delivery for Basket Screens Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-10-10 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-4498 | Manuf. & Delivery for Odor Control Unit Materials | Mechanical | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-4508 | Manuf. & Delivery for Surge Tank Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-10-21 |  |  | 0 | 14 |
+| DMM2-Proc-Delv-4518 | Manuf. & Delivery for JIB Crane Materials | Mechanical | Task | In Progress | 2025-12-24 | 2026-10-21 | 2025-12-24 |  | 46.7822933333332 | 20 |
+| DMM2-Proc-Delv-4558 | Manuf. & Delivery for Motor Control Center (MCC) Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-4568 | Manuf. & Delivery for Local Control Panel Materials | Electrical | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-4578 | Manuf. & Delivery for Low Voltage Cables Materials | Electrical | Task | In Progress | 2026-04-05 | 2026-10-04 | 2026-04-05 |  | 50 | 35 |
+| DMM2-Proc-Delv-4588 | Manuf. & Delivery for Standby Diesel Generator Materials | Electrical | Task | Completed | 2026-04-14 | 2026-04-15 | 2026-04-14 | 2026-04-15 | 100 |  |
+| DMM2-Proc-Delv-4598 | Manuf. & Delivery for Fuel Pump Materials | Electrical | Task | In Progress | 2026-05-05 | 2026-10-10 | 2026-05-05 |  | 50 | 21 |
+| DMM2-Proc-Delv-4608 | Manuf. & Delivery for Automatic Transfer (Switch ATS) Materials | Electrical | Task | In Progress | 2026-01-05 | 2026-11-02 | 2026-01-05 |  | 0 | 20 |
+| DMM2-Proc-Delv-4628 | Manuf. & Delivery for Displacement Rotary Type Pump Materials | Electrical | Task | In Progress | 2026-01-14 | 2026-10-14 | 2026-01-14 |  | 42.5566666666665 | 11 |
+| DMM2-Proc-Delv-4668 | Manuf. & Delivery for PLC System Materials | Electrical | Task | In Progress | 2026-02-28 | 2026-10-04 | 2026-02-28 |  | 80 | 41 |
+| DMM2-Proc-Delv-4698 | Manuf. & Delivery for MV Cables Materials | Medium Voltage Network | Task | Completed | 2026-01-06 | 2026-01-17 | 2026-01-06 | 2026-01-17 | 100 |  |
+| DMM2-Proc-Delv-4718 | Manuf. & Delivery for Unit Substation Materials | Medium Voltage Network | Task | In Progress | 2026-04-19 | 2026-10-10 | 2026-04-19 |  | 80.1066666666664 | 96 |
+| DMM2-Proc-Delv-4728 | Manuf. & Delivery for RMU Materials | Medium Voltage Network | Task | In Progress | 2026-04-18 | 2026-10-10 | 2026-04-17 |  | 80.1066666666664 | 96 |
+| DMM2-Proc-Delv-4738 | Manuf. & Delivery for LV Cables Materials | Low Voltage Network | Task | Completed | 2026-03-11 | 2026-09-10 | 2026-03-11 | 2026-09-10 | 100 |  |
+| DMM2-Proc-Delv-4748 | Manuf. & Delivery for LV Pillars Materials | Low Voltage Network | Task | In Progress | 2026-04-14 | 2026-10-10 | 2026-04-14 |  | 80.1066666666664 | 70 |
+| DMM2-Proc-Delv-4758 | Manuf. & Delivery for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2026-01-21 | 2026-02-01 | 2026-01-21 | 2026-02-01 | 100 |  |
+| DMM2-Proc-Delv-4768 | Manuf. & Delivery for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2026-03-15 | 2026-04-05 | 2026-03-15 | 2026-04-05 | 100 |  |
+| DMM2-Proc-Delv-4778 | Manuf. & Delivery for SL Pillars Materials | Street Lighting | Task | In Progress | 2026-03-26 | 2026-10-10 | 2026-03-26 |  | 90 | 96 |
+| DMM2-Proc-Delv-4788 | Manuf. & Delivery for SL Cables Materials | Street Lighting | Task | In Progress | 2026-04-08 | 2026-09-28 | 2026-04-08 |  | 90 | 106 |
+| DMM2-Proc-Delv-4798 | Manuf. & Delivery for SL Poles Materials | Street Lighting | Task | In Progress | 2026-02-10 | 2026-09-28 | 2026-02-10 |  | 90 | 106 |
+| DMM2-Proc-Delv-4808 | Manuf. & Delivery for SL Luminares Materials | Street Lighting | Task | In Progress | 2026-04-12 | 2026-09-28 | 2026-04-12 |  | 90 | 106 |
+| DMM2-Proc-Delv-5368 | Manuf. & Delivery for GRP Pipes Materials | Sewerage Network | Task | Completed | 2025-11-24 | 2026-03-02 | 2025-11-24 | 2026-03-02 | 100 |  |
+| DMM2-Proc-Delv-5378 | Manuf. & Delivery for Inlet Manholes Materials | Sewerage Network | Task | Completed | 2025-12-28 | 2026-03-03 | 2025-12-28 | 2026-03-03 | 100 |  |
+| DMM2-Proc-Delv-5438 | Manuf. & Delivery for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2026-04-22 | 2026-05-20 | 2026-04-22 | 2026-05-20 | 100 |  |
+| DMM2-Proc-Delv-5728 | Manuf. & Delivery for GRP Pipes Materials | Storm Network | Task | Completed | 2026-01-26 | 2026-03-12 | 2026-01-26 | 2026-03-12 | 100 |  |
+| DMM2-Proc-Delv-5748 | Manuf. & Delivery for Inlet Manholes Materials | Storm Network | Task | In Progress | 2026-03-30 | 2026-09-28 | 2026-03-30 |  | 90 | 45 |
+| DMM2-Proc-Delv-5758 | Manuf. & Delivery for Concrete Chambers & Catch Basin Materials | Storm Network | Task | In Progress | 2026-04-16 | 2026-10-04 | 2026-04-16 |  | 40.0533333333332 | 40 |
+| DMM2-Proc-Delv-5818 | Manuf. & Delivery for HDPE Pipes Materials | Potable Network | Task | Completed | 2026-01-31 | 2026-04-26 | 2026-01-31 | 2026-04-26 | 100 |  |
+| DMM2-Proc-Delv-5828 | Manuf. & Delivery for Valves Materials | Potable Network | Task | Completed | 2026-03-09 | 2026-06-07 | 2026-03-09 | 2026-06-07 | 100 |  |
+| DMM2-Proc-Delv-5838 | Manuf. & Delivery for Valves Chambers Materials | Potable Network | Task | In Progress | 2026-06-10 | 2026-09-19 | 2026-06-10 |  | 80 | 113 |
+| DMM2-Proc-Delv-5858 | Manuf. & Delivery for HDPE Pipes Materials | TSE Network | Task | In Progress | 2025-12-09 | 2026-09-28 | 2025-12-09 |  | 90 | 11 |
+| DMM2-Proc-Delv-5868 | Manuf. & Delivery for Solenoid Primary Control Valves Materials | TSE Network | Task | Not Started | 2026-09-16 | 2026-10-15 |  |  | 0 | 44 |
+| DMM2-Proc-Delv-5878 | Manuf. & Delivery for Valves Materials | TSE Network | Task | In Progress | 2026-03-18 | 2026-09-28 | 2026-03-18 |  | 80 | 114 |
+| DMM2-Proc-Delv-5888 | Manuf. & Delivery for HDPE Pipes Materials | Fire Fighting Network | Task | Completed | 2026-02-05 | 2026-04-23 | 2026-02-05 | 2026-04-23 | 100 |  |
+| DMM2-Proc-Delv-5898 | Manuf. & Delivery for Valves Materials | Fire Fighting Network | Task | Completed | 2026-02-08 | 2026-03-16 | 2026-02-08 | 2026-03-16 | 100 |  |
+| DMM2-Proc-Delv-5908 | Manuf. & Delivery for Valves Chambers Materials | Fire Fighting Network | Task | In Progress | 2026-06-10 | 2026-09-19 | 2026-06-10 |  | 80 | 87 |
+| DMM2-Proc-Delv-6438 | Manuf. & Delivery for MV Cables Materials | Medium Voltage Network | Task | Completed | 2026-01-15 | 2026-01-17 | 2026-01-15 | 2026-01-17 | 100 |  |
+| DMM2-Proc-Delv-6458 | Manuf. & Delivery for Unit Substation Materials | Medium Voltage Network | Task | In Progress | 2026-02-09 | 2026-10-10 | 2026-02-09 |  | 80.1066666666664 | 93 |
+| DMM2-Proc-Delv-6468 | Manuf. & Delivery for RMU Materials | Medium Voltage Network | Task | In Progress | 2026-02-09 | 2026-10-10 | 2026-02-09 |  | 80.1066666666664 | 26 |
+| DMM2-Proc-Delv-6478 | Manuf. & Delivery for LV Cables Materials | Low Voltage Network | Task | Completed | 2026-04-25 | 2026-09-10 | 2026-04-25 | 2026-09-10 | 100 |  |
+| DMM2-Proc-Delv-6498 | Manuf. & Delivery for HDPE Ducts Materials | Telecommunication Network | Task | Completed | 2026-01-21 | 2026-02-01 | 2026-01-21 | 2026-02-01 | 100 |  |
+| DMM2-Proc-Delv-6508 | Manuf. & Delivery for Manholes Type 1&2 Materials | Telecommunication Network | Task | Completed | 2026-04-13 | 2026-04-15 | 2026-04-13 | 2026-04-15 | 100 |  |
+| DMM2-Proc-Delv-6518 | Manuf. & Delivery for SL Pillars Materials | Street Lighting | Task | In Progress | 2026-07-19 | 2026-10-10 | 2026-07-19 |  | 50 | 87 |
+| DMM2-Proc-Delv-6528 | Manuf. & Delivery for SL Cables Materials | Street Lighting | Task | Completed | 2026-02-17 | 2026-09-12 | 2026-02-17 | 2026-09-12 | 100 |  |
+| DMM2-Proc-Delv-6538 | Manuf. & Delivery for SL Poles Materials | Street Lighting | Task | In Progress | 2026-02-14 | 2026-09-28 | 2026-02-13 |  | 90 | 106 |
+| DMM2-Proc-Delv-6548 | Manuf. & Delivery for SL Luminares Materials | Street Lighting | Task | In Progress | 2026-02-03 | 2026-09-28 | 2026-02-03 |  | 90 | 90 |
+| DMM2-Proc-Delv-7108 | Manuf. & Delivery for GRP Pipes Materials | Sewerage Network | Task | Completed | 2026-01-10 | 2026-04-16 | 2026-01-10 | 2026-04-16 | 100 |  |
+| DMM2-Proc-Delv-7118 | Manuf. & Delivery for Inlet Manholes Materials | Sewerage Network | Task | Completed | 2026-03-04 | 2026-03-11 | 2026-03-04 | 2026-03-11 | 100 |  |
+| DMM2-Proc-Delv-7178 | Manuf. & Delivery for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2026-04-01 | 2026-06-04 | 2026-04-01 | 2026-06-04 | 100 |  |
+| B5.1.31 23 16.01.1 | Excavation for wet well & Chambers | Site Preparation & Initial Earthworks | Task | Completed | 2025-12-07 | 2026-05-09 | 2025-12-07 | 2026-05-09 | 100 |  |
+| B5.1.31 23 16.01.3 | Embankment Backfiling | Site Preparation & Initial Earthworks | Task | Completed | 2026-05-04 | 2026-05-13 | 2026-05-04 | 2026-05-13 | 100 |  |
+| B5.1.31 23 16.01.7 | 100 mm thickness lean concrete | Sub-Structure & Foundations | Task | Completed | 2026-05-10 | 2026-05-13 | 2026-05-10 | 2026-05-13 | 100 |  |
+| B5.1.31 23 16.01.9 | Footings for wet well & Chambers | Sub-Structure & Foundations | Task | In Progress | 2026-07-01 | 2026-09-20 | 2026-07-01 |  | 30 | 14 |
+| B5.1.31 23 16.01.11 | Slab on grade and ground beams | Sub-Structure & Foundations | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.13 | Reinforced Concrete Walls | Underground Concrete Structures & Waterproofing | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.15 | Water proofing Membrane with protection board | Underground Concrete Structures & Waterproofing | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.21 | Backfilling around underground chambers | Underground Concrete Structures & Waterproofing | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.17 | Reinforced Concrete Columns | Superstructure - Control Room & Roof Slabs | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.23 | Concrete masonry unit (200mm) walls | Superstructure - Control Room & Roof Slabs | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.27 | Roof Slab for wet well & Chambers | Superstructure - Control Room & Roof Slabs | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.39 | Water proofing Membrane for roof | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.55 | Vapor retarders for roof | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.71 | Geotextile membrane | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.89 | Gravel for Control Room Roof | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.99 | 50mm slab on grade | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.107 | Stone copping 30mm thickness | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.29 | External plastering | Waterproofing, Roofing & External Enclosure | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 32 |
+| B5.1.31 23 16.01.31 | Sloped screed for internal floors for wet well and valve chamber | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.41 | Sloped screed for internal floors for Screening chamber | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 19 |
+| B5.1.31 23 16.01.43 | Epoxy paint for internal side and floors for wet well and valve chamber | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.57 | Epoxy paint for internal side and floors for Screening chamber | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 19 |
+| B5.1.31 23 16.01.73 | Stainless steel A36 ladders for screening chamber for screening chamber, wet well & valve chamber | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 21 |
+| B5.1.31 23 16.01.91 | Stainless steel A36 covers | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 21 |
+| B5.1.31 23 16.01.101 | Medium duty lockable D.I. cover | Internal Chamber Works (Wet Well, Valve, Screening) | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.45 | Internal plastering | Control Room Internal Finishes | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.19 | Vapor retarders below slab on grade | Control Room Internal Finishes | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.25 | Water proofing Paint below slab on grade | Control Room Internal Finishes | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 31 |
+| B5.1.31 23 16.01.59 | Internal painting (Acrylic) | Control Room Internal Finishes | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.61 | External painting | Control Room Internal Finishes | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 17 |
+| B5.1.31 23 16.01.75 | Steel Door SD1 | Control Room Internal Finishes | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 18 |
+| B5.1.31 23 16.01.47 | JIB Crane installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 20 |
+| B5.1.31 23 16.01.63 | Submersible - wet installed pump installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.33 | Buried ductile iron pipes installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.65 | Manually operated Gate Valve DN150 installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.77 | Non-return Valve DN150 installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.79 | Basket screens | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.93 | Odor Control Unit | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.103 | Surge Tank | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.109 | Electrically operated penstock installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.49 | Double flanged ductile iron pipe installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.95 | Screening container | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.111 | Scupper installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 19 |
+| B5.1.31 23 16.01.115 | DX wall mounted Split/AC installation | Mechanical & Process Equipment Installation | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.119 | Fire extinguishers (CO2, Powder) placement | Mechanical & Process Equipment Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.97 | Aluminum signage | Control Room Internal Finishes | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 13 |
+| B5.1.31 23 16.01.5 | Grounding and lightning system | Electrical & Control Systems | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 38 |
+| B5.1.31 23 16.01.35 | 4Cx 95mm2 Cable from SEC/Generator to ATS and MCC-SPS | Electrical & Control Systems | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 27 |
+| B5.1.31 23 16.01.81 | MCC - 160AT/250AF, 400V, 3PH, 60HZ | Electrical & Control Systems | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 14 |
+| B5.1. 26 32 12 .03 | ATS | Electrical & Control Systems | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.105 | DB-SPS Panel | Electrical & Control Systems | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.113 | ELP Panels | Electrical & Control Systems | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.51 | Standby Diesel Generator Set installation | Electrical & Control Systems | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.67 | 2.084m3 capacity underground fuel tank installation | Electrical & Control Systems | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.83 | Manually operated fuel pump installation | Electrical & Control Systems | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 14 |
+| B5.1.31 23 16.01.121 | 4Cx 10mm2 Cu/XLPE/SWA/PVC from MCC-SPS to  ELP | LV Cables | Task | Not Started | 2026-11-02 | 2026-11-02 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.123 | 4Cx 35mm2 + 1Cx16mm2 SUBMERGED RUBBER | LV Cables | Task | Not Started | 2026-11-02 | 2026-11-02 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.125 | 4Cx 10mm2 + 1Cx10mm2 Cu/XLPE/PVC FROM MCC-SPS to DB-SPS | LV Cables | Task | Not Started | 2026-11-02 | 2026-11-02 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.127 | 4Cx 10mm2 + 1Cx10mm2 Cu/XLPE/PVC FROM MCC-SPS to Penstok | LV Cables | Task | Not Started | 2026-11-02 | 2026-11-02 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.129 | 4Cx 10mm2 + 1Cx10mm2 Cu/XLPE/PVC FROM MCC-SPS to Odor Control Unit | LV Cables | Task | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.131 | 4Cx 6mm2 + 1Cx6mm2 Cu/XLPE/PVC FROM MCC-SPS to the mechanical bar screen | LV Cables | Task | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.133 | 3Cx 6mm2 Cu/XLPE/PVC FROM MCC-SPS to the two fuel pumps. | LV Cables | Task | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.135 | 4Cx 6mm2 + 1Cx6mm2 Cu/XLPE/PVC FROM MCC-SPS to the mechanical crane | LV Cables | Task | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.137 | Surfaced Mounted Light | Electrical & Control Systems | Task | Not Started | 2026-11-04 | 2026-11-04 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.139 | 7-meter single arm light pole | Electrical & Control Systems | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.141 | Socket Outlets installation | Electrical & Control Systems | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.143 | Fire Alarm System | Electrical & Control Systems | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.145 | PLC system | Electrical & Control Systems | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.147 | Process Control Wiring | Electrical & Control Systems | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.149 | Instrumentation for Process Systems | Electrical & Control Systems | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 11 |
+| B5.1.31 23 16.01.37 | Precast Concrete curbstone - Type K1 | External Works & Site Finishing | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 26 |
+| B5.1.31 23 16.01.85 | Steel fence (ZATCA HCIS) including Steel gate size (7*2.7)m | External Works & Site Finishing | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 26 |
+| B5.1.31 23 16.01.53 | Electrical Hand Hole (EHH-1) 600mm x 600mm x 800mm | External Works & Site Finishing | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 26 |
+| B5.1.31 23 16.01.69 | Precast Concrete curbstone - Type K4 | External Works & Site Finishing | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 26 |
+| B5.1.31 23 16.01.87 | Electrical Hand Hole (EHH-2) 400mm x 400mm x 600mm | External Works & Site Finishing | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 26 |
+| B5.1.31 23 16.01.117 | Isolator/disconnect switches installation | Electrical & Control Systems | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 14 |
+| DMM2-Mob-34 | Site Delivery | Site Facilities and Offices | Task | Completed | 2025-07-30 | 2025-07-30 | 2025-07-30 | 2025-07-30 | 100 |  |
+| DMM2-Eng-PQ-1948 | Prepare & Submit for Firehydrant Materials | Fire Fighting Network | Task | Completed | 2025-08-31 | 2025-09-01 | 2025-08-31 | 2025-09-01 | 100 |  |
+| DMM2-Eng-PQ-1958 | Prepare & Submit for Valves Materials | Mechanical | Task | Completed | 2025-08-31 | 2025-09-14 | 2025-08-31 | 2025-09-14 | 100 |  |
+| DMM2-Eng-PQ-1968 | Prepare & Submit for Electromagnetic Flow Meters | Mechanical | Task | Completed | 2025-12-11 | 2025-12-20 | 2025-12-11 | 2025-12-20 | 100 |  |
+| DMM2-Eng-PQ-1978 | Prepare & Submit for Fans Materials | Mechanical | Task | Completed | 2026-01-21 | 2026-01-24 | 2026-01-21 | 2026-01-24 | 100 |  |
+| DMM2-Eng-PQ-1988 | Prepare & Submit for Louvers Materials | Mechanical | Task | Completed | 2026-07-07 | 2026-07-11 | 2026-07-07 | 2026-07-11 | 100 |  |
+| DMM2-Eng-PQ-1998 | Prepare & Submit for Addressable Fire Alarm System Materials | Electrical | Task | Completed | 2025-09-24 | 2025-09-25 | 2025-09-24 | 2025-09-25 | 100 |  |
+| DMM2-Proc-PO-148 | PR & PO for Concrete Materials | Earth & Road Works | Task | Completed | 2026-02-04 | 2026-02-08 | 2026-02-04 | 2026-02-08 | 100 |  |
+| DMM2-Proc-PO-158 | PR & PO for Fire Hydrant Materials | Fire Fighting Network | Task | Completed | 2025-09-25 | 2025-10-02 | 2025-09-25 | 2025-10-02 | 100 |  |
+| DMM2-Proc-PO-168 | PR & PO for Gate Valves Materials | Mechanical | Task | Completed | 2026-01-10 | 2026-01-11 | 2026-01-10 | 2026-01-11 | 100 |  |
+| DMM2-Proc-PO-178 | PR & PO for Electromagnetic Flow Meters | Mechanical | Task | Completed | 2026-01-17 | 2026-01-26 | 2026-01-17 | 2026-01-26 | 100 |  |
+| DMM2-Proc-PO-188 | PR & PO for Fans Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 22 |
+| DMM2-Proc-PO-198 | PR & PO for Louvers Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 42 |
+| DMM2-Proc-PO-208 | PR & PO for Addressable Fire Alarm Materials | Electrical | Task | Completed | 2026-01-03 | 2026-01-03 | 2026-01-03 | 2026-01-03 | 100 |  |
+| B1.2.32 11 26.01.1 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-05-17 | 2026-09-22 | 2026-05-17 |  | 92 | 46 |
+| B1.2.32 12 16.01.1 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-24 | 2026-09-29 |  |  | 0 | 46 |
+| B1.2.32 16.13.01.1 | Curb Stone, Type K1 | Installation | Task | In Progress | 2026-09-14 | 2026-09-17 | 2026-09-14 |  | 10 | 42.8 |
+| B1.2.32 16.13.03.1 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 42.8 |
+| B1.2.32 16.13.041 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 42.8 |
+| B1.2.32 14 13.13.1 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 22.8 |
+| B1.2.32 17 23.01.1 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 55 |
+| B1.2.32 17 23.02.1 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 55 |
+| B1.2.10 14 53.011 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-01 | 2026-10-06 |  |  | 0 | 27.8 |
+| B1.2.10 14 53.021 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 27.8 |
+| B1.2.10 14 14.01.1 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 27.8 |
+| B1.2.32 12 19.13.01 | Speed Tables | Miscellaneous | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 55 |
+| T&C-Sew-1 | Testing & Commissioning for Sewerage Network | Sewerage Network | Task | Not Started | 2026-11-23 | 2026-11-29 |  |  | 0 | 14 |
+| T&C-Strm-1 | Testing & Commissioning for Storm Network | Storm Network | Task | Not Started | 2026-12-01 | 2026-12-08 |  |  | 0 | 20 |
+| T&C-Pot-1 | Testing & Commissioning for Potable Network | Potable Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 22 |
+| T&C-TSE-1 | Testing & Commissioning for TSE Network | TSE Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 13 |
+| T&C-FF-1 | Testing & Commissioning for Fire Fighting Network | Fire Fighting Network | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 25 |
+| T&C-PumpS-3 | Testing & Commissioning for PLC System | Potable Water Pump Station | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 3 |
+| T&C-MV-1 | Testing & Commissioning for Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 3 |
+| T&C-LV-1 | Testing & Commissioning for Low Voltage Network | Low Voltage Network | Task | Not Started | 2026-12-01 | 2026-12-03 |  |  | 0 | 5 |
+| T&C-Telecom-1 | Testing & Commissioning for Telecommunication Network | Telecommunication Network | Task | Not Started | 2026-12-05 | 2026-12-10 |  |  | 0 | 7 |
+| T&C-SL-1 | Testing & Commissioning for Street Lighting Network | Street Lighting | Task | Not Started | 2026-11-23 | 2026-11-29 |  |  | 0 | 17 |
+| T&C-PumpS-13 | Testing & Commissioning for Process Control Wiring | Potable Water Pump Station | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 3 |
+| T&C-PumpS-23 | Testing & Commissioning for Instrumentation for Process Systems | Potable Water Pump Station | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 3 |
+| T&C-Sew-11 | Testing & Commissioning for Sewerage Network | Sewerage Network | Task | Not Started | 2026-11-30 | 2026-12-06 |  |  | 0 | 14 |
+| T&C-Strm-11 | Testing & Commissioning for Storm Network | Storm Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 20 |
+| T&C-Pot-11 | Testing & Commissioning for Potable Network | Potable Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 22 |
+| T&C-TSE-11 | Testing & Commissioning for TSE Network | TSE Network | Task | Not Started | 2026-12-09 | 2026-12-16 |  |  | 0 | 13 |
+| T&C-FF-11 | Testing & Commissioning for Fire Fighting Network | Fire Fighting Network | Task | Not Started | 2026-12-02 | 2026-12-05 |  |  | 0 | 25 |
+| T&C-LiftS-33 | Testing & Commissioning for PLC System | Sewer Lift Station | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 3 |
+| T&C-MV-11 | Testing & Commissioning for Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 3 |
+| T&C-LV-11 | Testing & Commissioning for Low Voltage Network | Low Voltage Network | Task | Not Started | 2026-12-05 | 2026-12-07 |  |  | 0 | 5 |
+| T&C-Telecom-11 | Testing & Commissioning for Telecommunication Network | Telecommunication Network | Task | Not Started | 2026-12-05 | 2026-12-10 |  |  | 0 | 7 |
+| T&C-SL-11 | Testing & Commissioning for Street Lighting Network | Street Lighting | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 17 |
+| T&C-LiftS-43 | Testing & Commissioning for Process Control Wiring | Sewer Lift Station | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 3 |
+| T&C-LiftS-53 | Testing & Commissioning for Instrumentation for Process Systems | Sewer Lift Station | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 3 |
+| T&C-Sew-21 | Testing & Commissioning for Sewerage Network | Sewerage Network | Task | Not Started | 2026-12-07 | 2026-12-13 |  |  | 0 | 14 |
+| T&C-Strm-21 | Testing & Commissioning for Storm Network | Storm Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 20 |
+| T&C-Pot-21 | Testing & Commissioning for Potable Network | Potable Network | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 22 |
+| T&C-TSE-21 | Testing & Commissioning for TSE Network | TSE Network | Task | Not Started | 2026-12-17 | 2026-12-23 |  |  | 0 | 13 |
+| T&C-FF-21 | Testing & Commissioning for Fire Fighting Network | Fire Fighting Network | Task | Not Started | 2026-11-28 | 2026-12-05 |  |  | 0 | 25 |
+| T&C-MV-21 | Testing & Commissioning for Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2026-12-07 | 2026-12-10 |  |  | 0 | 3 |
+| T&C-LV-21 | Testing & Commissioning for Low Voltage Network | Low Voltage Network | Task | Not Started | 2026-12-08 | 2026-12-10 |  |  | 0 | 5 |
+| T&C-Telecom-21 | Testing & Commissioning for Telecommunication Network | Telecommunication Network | Task | Not Started | 2026-12-05 | 2026-12-10 |  |  | 0 | 7 |
+| T&C-SL-21 | Testing & Commissioning for Street Lighting Network | Street Lighting | Task | Not Started | 2026-11-23 | 2026-11-30 |  |  | 0 | 16 |
+| B8.31 23 16.011 | Excavation | Substructure & Foundation | Task | Completed | 2026-02-09 | 2026-06-18 | 2026-02-09 | 2026-06-18 | 100 |  |
+| B8.31 23 16.013 | Aggregate base course | Substructure & Foundation | Task | Completed | 2026-09-02 | 2026-09-05 | 2026-09-02 | 2026-09-05 | 100 |  |
+| B8.31 23 16.015 | Water proofing Paint below slab on grade | Substructure & Foundation | Task | Completed | 2026-07-04 | 2026-07-05 | 2026-07-04 | 2026-07-06 | 100 |  |
+| B8.31 23 16.017 | 100 mm thickness lean concrete under the foundation | Substructure & Foundation | Task | Completed | 2026-07-02 | 2026-07-02 | 2026-07-02 | 2026-07-04 | 100 |  |
+| B8.31 23 16.019 | Footings | Substructure & Foundation | Task | Completed | 2026-07-06 | 2026-07-06 | 2026-07-06 | 2026-07-06 | 100 |  |
+| B8.31 23 16.0111 | Vapor retarders | Substructure & Foundation | Task | Completed | 2026-06-29 | 2026-07-01 | 2026-06-29 | 2026-07-01 | 100 |  |
+| B8.31 23 16.0113 | 50 mm thickness lean concrete under slab on grade | Slab on Grade | Task | Completed | 2026-07-05 | 2026-07-05 | 2026-07-05 | 2026-07-05 | 100 |  |
+| B8.31 23 16.0139 | Slab on grade | Slab on Grade | Task | Completed | 2026-08-22 | 2026-08-27 | 2026-08-22 | 2026-08-27 | 100 |  |
+| B8.31 23 16.0117 | uPVC pipes ?160mm | Underground Utilities | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 8 |
+| B8.31 23 16.0119 | uPVC pipes ?110mm | Underground Utilities | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 8 |
+| B8.31 23 16.0121 | uPVC pipes ?75mm | Underground Utilities | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 8 |
+| B8.31 23 16.0123 | uPVC pipes ?50mm | Underground Utilities | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 8 |
+| B8.31 23 16.0125 | PPR pipes ?32mm | Underground Utilities | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 8 |
+| B8.31 23 16.0127 | PPR pipes ?25mm | Underground Utilities | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 8 |
+| B8.31 23 16.0129 | PPR pipes ?20mm | Underground Utilities | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 8 |
+| B8.31 23 16.0131 | Scupper ?110mm | Underground Utilities | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 8 |
+| B8.31 23 16.0133 | Clean out ?110mm | Underground Utilities | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 8 |
+| B8.31 23 16.0135 | Floor drain | Underground Utilities | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 8 |
+| B8.31 23 16.0137 | Manhole, dimensions 600mmX600mm | Underground Utilities | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 8 |
+| B8.31 23 16.0115 | Gravel | Underground Utilities | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 8 |
+| B8.31 23 16.0141 | Reinforced Concrete columns | Superstructure - Walls & Columns | Task | Completed | 2026-09-09 | 2026-09-12 | 2026-09-09 | 2026-09-12 | 100 |  |
+| B8.31 23 16.0143 | Concrete masonry unit, 200mm thick wall | Superstructure - Walls & Columns | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 8 |
+| B8.31 23 16.0145 | Concrete masonry unit, 150mm thick wall | Superstructure - Walls & Columns | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 8 |
+| B8.31 23 16.0147 | Roof Slab and beams | Superstructure - Roof | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 43 |
+| B8.31 23 16.0153 | Sloped screed for roof | Superstructure - Roof | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 43 |
+| B8.31 23 16.0187 | Water proofing Membrane for roof | Superstructure - Roof | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 43 |
+| B8.31 23 16.01135 | Water proofing Membrane with protection board | Superstructure - Roof | Task | Not Started | 2026-11-11 | 2026-11-11 |  |  | 0 | 8 |
+| B8.31 23 16.01111 | 50mm Extruded polystyrene insulation for roof | Superstructure - Roof | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 43 |
+| B8.31 23 16.01145 | 50mm foam concrete for roof layers | Superstructure - Roof | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 8 |
+| B8.31 23 16.01149 | Stone coping 30mm thickness | Superstructure - Roof | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 8 |
+| B8.31 23 16.0149 | Aluminum window W01 size (1.3m x 1.4m) | Enclosure & Weatherproofing | Task | Not Started | 2026-10-18 | 2026-10-18 |  |  | 0 | 18 |
+| B8.31 23 16.0155 | Aluminum window W02 size (0.6m x 0.9m) | Enclosure & Weatherproofing | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 18 |
+| B8.31 23 16.0189 | External plastering | Enclosure & Weatherproofing | Task | Not Started | 2026-10-21 | 2026-10-25 |  |  | 0 | 18 |
+| B8.31 23 16.01113 | Water proofing Membrane with 50mm screed protection | Enclosure & Weatherproofing | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 18 |
+| B8.31 23 16.01137 | External painting | Enclosure & Weatherproofing | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 18 |
+| B8.31 23 16.0157 | Cementitious Water proofing for wet areas | Interior & MEP | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 8 |
+| B8.31 23 16.0151 | Internal plastering | Interior & MEP | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 8 |
+| B8.31 23 16.0159 | DX wall mounted Split/AC | Mechanical | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 17 |
+| B8.31 23 16.0191 | EF-01 Exhaust axial fan | Mechanical | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 17 |
+| B8.31 23 16.0161 | Electrical Water Heater 50L | Plumbing & Electrical | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 17 |
+| B8.31 23 16.0163 | DB-MGR Panel | Plumbing & Electrical | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 17 |
+| B8.31 23 16.0193 | 4Cx 6mm2 + 1Cx6mm2 Cu/XLPE/PVC FROM KWHM to DB-MGR | Plumbing & Electrical | Task | Not Started | 2026-11-24 | 2026-11-25 |  |  | 0 | 8 |
+| B8.31 23 16.0165 | Grounding and lightning system | Plumbing & Electrical | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 17 |
+| B8.31 23 16.0167 | Fire alarm system | Plumbing & Electrical | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 17 |
+| B8.31 23 16.0169 | Data/ voice RJ45 outlet include CAT6A cable | Plumbing & Electrical | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 8 |
+| B8.31 23 16.0171 | RJ45 connector include CAT6A cable for security cameras | Plumbing & Electrical | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | 8 |
+| B8.31 23 16.0173 | Switch 20A, 1P, 60Hz Isolator/disconnect switches | Plumbing & Electrical | Task | Not Started | 2026-11-22 | 2026-11-23 |  |  | 0 | 8 |
+| B8.31 23 16.0175 | DB-GR Panel | Plumbing & Electrical | Task | Not Started | 2026-11-24 | 2026-11-25 |  |  | 0 | 8 |
+| B8.31 23 16.0177 | 20A DOUBLE POLE SWITCH | Plumbing & Electrical | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 13 |
+| B8.31 23 16.0179 | 13A SPUR OUTLET, For guard room 1&2 | Plumbing & Electrical | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 13 |
+| B8.31 23 16.0181 | 13A SINGLE SWITCH SOCKET OUTLET | Plumbing & Electrical | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 10 |
+| B8.31 23 16.0183 | 13A DOUBLE SWITCH SOCKET OUTLET | Plumbing & Electrical | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 10 |
+| B8.31 23 16.0185 | Internal painting | Interior Finishes | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 10 |
+| B8.31 23 16.0195 | Porcelain flooring tiles size (600x600) | Interior Finishes | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 8 |
+| B8.31 23 16.0197 | Ceramic wall tiles size (300x300) mm | Interior Finishes | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 8 |
+| B8.31 23 16.01115 | Porcelain skirting 100mm height | Interior Finishes | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 9 |
+| B8.31 23 16.01117 | Raised floor finish | Interior Finishes | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 18 |
+| B8.31 23 16.0199 | Gypsum board ceiling, including paint | Interior Finishes | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 10 |
+| B8.31 23 16.01139 | Steel Door SD1 | Install Doors | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 9 |
+| B8.31 23 16.01141 | Wood Door TD1 | Install Doors | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 9 |
+| B8.31 23 16.01143 | Wood Door TD2 | Install Doors | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 9 |
+| B8.31 23 16.01119 | Toilet | Install Sanitarywares | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 8 |
+| B8.31 23 16.01121 | Shower | Install Sanitarywares | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 8 |
+| B8.31 23 16.01123 | Semi pedestal sink | Install Sanitarywares | Task | Not Started | 2026-11-10 | 2026-11-10 |  |  | 0 | 8 |
+| B8.31 23 16.01125 | ROUND RECESSED LED 11.5 WATTS, IP20 | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 9 |
+| B8.31 23 16.01127 | ROUND RECESSED LED 11.5 WATTS, IP20, with Emergency | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 9 |
+| B8.31 23 16.01129 | ROUND RECESSED LED 11.5 WATTS, IP44 | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 9 |
+| B8.31 23 16.01147 | WALL MOUNTED BULK HEAD OUTDOOR LED 15 WATTS, IP65 | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 18 |
+| B8.31 23 16.01131 | Data Cabinet including all devices 12U | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 10 |
+| B8.31 23 16.01101 | 50-inch screen | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 10 |
+| B8.31 23 16.01133 | PC workstation | Install Final Electrical & Tech Components | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 10 |
+| B8.31 23 16.01103 | CO2 fire extinguishers | Install Fire Equipments | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 10 |
+| B8.31 23 16.01105 | Powder fire extinguishers | Install Fire Equipments | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 10 |
+| B8.31 23 16.01107 | Porcelain flooring tiles size (300x300) | Interior Finishes | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 8 |
+| B8.31 23 16.01109 | Porcelain flooring tiles size (500x500) | Interior Finishes | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 8 |
+| B7.32 93 43.02 | Cassia Glauca | Trees | Task | Not Started | 2026-11-07 | 2026-11-12 |  |  | 0 | 20.8 |
+| B7.32 31 26.021 | Earthwork | Steel fence (MODON) | Task | In Progress | 2026-05-14 | 2026-09-17 | 2026-05-14 |  | 70 | 22.8 |
+| B7.32 31 26.022 | Foundation | Steel fence (MODON) | Task | In Progress | 2026-05-17 | 2026-09-17 | 2026-05-17 |  | 70 | 40.8 |
+| B7.32 31 26.023 | Fence Installation | Steel fence (MODON) | Task | Not Started | 2026-09-21 | 2026-09-30 |  |  | 0 | 40.8 |
+| B7.32 31 26.03.021 | Earthwork | Size (1.6x 2.7)m | Task | Not Started | 2026-09-28 | 2026-10-04 |  |  | 0 | 22.8 |
+| B7.32 31 26.03.022 | Foundation | Size (1.6x 2.7)m | Task | Not Started | 2026-10-04 | 2026-10-10 |  |  | 0 | 27.8 |
+| B7.32 31 26.03.023 | Gate Installation | Size (1.6x 2.7)m | Task | Not Started | 2026-10-10 | 2026-10-15 |  |  | 0 | 27.8 |
+| B7.32 31 26.03.041 | Earthwork | Size (4.5x 2.7)m | Task | Not Started | 2026-10-04 | 2026-10-10 |  |  | 0 | 22.8 |
+| B7.32 31 26.03.042 | Foundation | Size (4.5x 2.7)m | Task | Not Started | 2026-10-10 | 2026-10-15 |  |  | 0 | 22.8 |
+| B7.32 31 26.03.043 | Gate Installation | Size (4.5x 2.7)m | Task | Not Started | 2026-10-15 | 2026-10-21 |  |  | 0 | 22.8 |
+| B7.32 93 43.04 | Delonix Regia | Trees | Task | Not Started | 2026-12-05 | 2026-12-07 |  |  | 0 | 10 |
+| B7.32 93 43.06 | Schinus Molle | Trees | Task | Not Started | 2026-12-05 | 2026-12-07 |  |  | 0 | 10 |
+| B7.32 93 43.04.10 | Earthwork | Size (4.35x 2.7)m | Task | Not Started | 2026-11-05 | 2026-11-10 |  |  | 0 | 8 |
+| B7.32 93 43.04.46 | Foundation | Size (4.35x 2.7)m | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 8 |
+| B7.32 93 43.04.52 | Gate Installation | Size (4.35x 2.7)m | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 8 |
+| B7.32 93 43.04.12 | Earthwork | Steel fence (MODON) | Task | Not Started | 2026-10-05 | 2026-10-12 |  |  | 0 | 28.8 |
+| B7.32 93 43.04.48 | Foundation | Steel fence (MODON) | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 8 |
+| B7.32 93 43.04.54 | Fence Installation | Steel fence (MODON) | Task | Not Started | 2026-12-05 | 2026-12-07 |  |  | 0 | 12 |
+| B7.32 93 43.04.14 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 28.8 |
+| B7.32 93 43.04.50 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-12 | 2026-11-18 |  |  | 0 | 8 |
+| B7.32 93 43.04.56 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-12-10 | 2026-12-16 |  |  | 0 | 6.8 |
+| B7.32 93 43.04.16 | Earthwork | Steel fence (MODON) | Task | Not Started | 2026-11-08 | 2026-11-11 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.18 | Foundation | Steel fence (MODON) | Task | Not Started | 2026-11-30 | 2026-12-03 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.20 | Fence Installation | Steel fence (MODON) | Task | Not Started | 2026-12-03 | 2026-12-10 |  |  | 0 | 6.8 |
+| B7.32 93 43.04.22 | Earthwork | Size (4.1x 2.7)m | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.24 | Foundation | Size (4.1x 2.7)m | Task | Not Started | 2026-12-03 | 2026-12-07 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.26 | Gate Installation | Size (4.1x 2.7)m | Task | Not Started | 2026-12-07 | 2026-12-13 |  |  | 0 | 1.8 |
+| B7.32 93 43.04.28 | Earthwork | Size (3.35x 2.7)m | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.30 | Foundation | Size (3.35x 2.7)m | Task | Not Started | 2026-12-07 | 2026-12-10 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.32 | Gate Installation | Size (3.35x 2.7)m | Task | Not Started | 2026-12-10 | 2026-12-16 |  |  | 0 | 1.8 |
+| B7.32 93 43.04.34 | Earthwork | Size (4.35x 2.7)m | Task | Not Started | 2026-11-19 | 2026-11-23 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.36 | Foundation | Size (4.35x 2.7)m | Task | Not Started | 2026-12-10 | 2026-12-14 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.38 | Gate Installation | Size (4.35x 2.7)m | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.40 | Earthwork | Size (3.25x 2.7)m | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.42 | Foundation | Size (3.25x 2.7)m | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.44 | Gate Installation | Size (3.25x 2.7)m | Task | Not Started | 2026-12-17 | 2026-12-21 |  |  | 0 | 0.8 |
+| B7.32 93 43.04.44.10 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 12.8 |
+| B7.32 93 43.04.44.12 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-19 | 2026-10-26 |  |  | 0 | 12.8 |
+| B7.32 93 43.04.44.14 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-26 | 2026-11-02 |  |  | 0 | 12.8 |
+| B7.32 93 43.02.10 | Ceratonia Siliqua | Trees | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 17.8 |
+| B7.32 93 43.02.12 | Milettia pinnata/ Pongamia glabra | Trees | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 17.8 |
+| B7.32 93 43.02.14 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-29 | 2026-11-04 |  |  | 0 | 13.8 |
+| B7.32 93 43.02.16 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-04 | 2026-11-10 |  |  | 0 | 16.8 |
+| B7.32 93 43.02.18 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-10 | 2026-11-16 |  |  | 0 | 16.8 |
+| B7.32 93 43.02.20 | Earthwork | Steel fence (MODON) | Task | Not Started | 2026-11-04 | 2026-11-10 |  |  | 0 | 13.8 |
+| B7.32 93 43.02.22 | Foundation | Steel fence (MODON) | Task | Not Started | 2026-11-10 | 2026-11-16 |  |  | 0 | 13.8 |
+| B7.32 93 43.02.24 | Fence Installation | Steel fence (MODON) | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 13.8 |
+| B7.32 31 26.01-4 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-15 | 2026-10-21 |  |  | 0 | 4 |
+| B7.32 31 26.01-6 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-22 | 2026-10-28 |  |  | 0 | 4 |
+| B7.32 31 26.01-8 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-29 | 2026-11-05 |  |  | 0 | 4 |
+| B7.32 31 26.01-1 | Earthwork | Steel fence (ZATCA HCIS) | Task | In Progress | 2026-08-15 | 2026-09-22 | 2026-08-15 |  | 0 | 79 |
+| B7.32 31 26.01-3 | Foundation | Steel fence (ZATCA HCIS) | Task | In Progress | 2026-08-17 | 2026-09-26 | 2026-08-17 |  | 0 | 41 |
+| B7.32 31 26.01-5 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-07 | 2026-11-15 |  |  | 0 | 4 |
+| B7.32 31 26.01-19 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-13 | 2026-10-19 |  |  | 0 | 5 |
+| B7.32 31 26.01-111 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-20 | 2026-10-27 |  |  | 0 | 6 |
+| B7.32 31 26.01-113 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-28 | 2026-11-03 |  |  | 0 | 6 |
+| B7.32 31 26.01-190 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-20 | 2026-10-26 |  |  | 0 | 5 |
+| B7.32 31 26.01-192 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-27 | 2026-11-02 |  |  | 0 | 5 |
+| B7.32 31 26.01-194 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-03 | 2026-11-10 |  |  | 0 | 5 |
+| B7.32 93 43.07 | Tamarindus indica | Trees | Task | Not Started | 2026-12-06 | 2026-12-12 |  |  | 0 | 3.8 |
+| B7.32 31 26.01-191 | Earthwork | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-10-26 | 2026-11-01 |  |  | 0 | 5 |
+| B7.32 31 26.01-193 | Foundation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-02 | 2026-11-08 |  |  | 0 | 5 |
+| B7.32 31 26.01-195 | Fence Installation | Steel fence (ZATCA HCIS) | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 5 |
+| B7.32 93 43.02-191 | Tamarindus indica | Trees | Task | Not Started | 2026-12-06 | 2026-12-12 |  |  | 0 | 3.8 |
+| B7.32 93 43.03 | Tamarindus indica | Trees | Task | Not Started | 2026-12-12 | 2026-12-17 |  |  | 0 | 3.8 |
+| B7.32 93 33.01 | Dodonaea viscosa | Large Shrubs | Task | Not Started | 2026-10-26 | 2026-11-01 |  |  | 0 | 20.8 |
+| B7.32 93 33.02 | Leucophyllun Frutescens | Large Shrubs | Task | Not Started | 2026-11-01 | 2026-11-07 |  |  | 0 | 20.8 |
+| B7.32 93 33.03 | Tecomaria Capensis | Large Shrubs | Task | Not Started | 2026-12-12 | 2026-12-17 |  |  | 0 | 3.8 |
+| B7.32 93 13.01 | Pennisetum setaceum | Ornamental Grasses | Task | Not Started | 2026-12-12 | 2026-12-17 |  |  | 0 | 3.8 |
+| B7.32 91 00.01.01 | 75mm thickness for shrubs and grasses | Miscellaneous | Task | Not Started | 2026-11-30 | 2026-12-06 |  |  | 0 | 3.8 |
+| B7.32 91 00.01.02 | 75mm thickness for trees | Miscellaneous | Task | Not Started | 2026-11-30 | 2026-12-06 |  |  | 0 | 3.8 |
+| B7.32 91 00.01 | Plastic edge | Miscellaneous | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 7 |
+| B7.32 91 00.02.01 | Grey gravel bed - 30-50 mm diameter (G1) | Miscellaneous | Task | Not Started | 2026-11-30 | 2026-12-06 |  |  | 0 | 3.8 |
+| B7.32 91 00.02.02 | Grey gravel bed - 12-25 mm diameter (G2) | Miscellaneous | Task | Not Started | 2026-12-06 | 2026-12-12 |  |  | 0 | 3.8 |
+| B7.32 91 00.01.2 | 75mm thickness for shrubs and grasses | Miscellaneous | Task | Not Started | 2026-10-19 | 2026-10-26 |  |  | 0 | 20.8 |
+| B7.32 91 00.01.12 | 75mm thickness for trees | Miscellaneous | Task | Not Started | 2026-10-26 | 2026-11-01 |  |  | 0 | 20.8 |
+| B7.32 91 00.1 | Plastic edge | Miscellaneous | Task | Not Started | 2026-10-05 | 2026-10-11 |  |  | 0 | 33.8 |
+| B7.32 91 00.02.2 | Grey gravel bed - 30-50 mm diameter (G1) | Miscellaneous | Task | Not Started | 2026-10-05 | 2026-10-12 |  |  | 0 | 12.8 |
+| B7.32 91 00.02.12 | Grey gravel bed - 12-25 mm diameter (G2) | Miscellaneous | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 12.8 |
+| B1.1.02 41 00.01 | Removal of curbstone | Demolishing and Site Clearing | Task | Completed | 2026-05-09 | 2026-05-12 | 2026-05-09 | 2026-05-12 | 100 |  |
+| B1.1.02 41 00.02 | Removal of bituminous concrete wearing course | Demolishing and Site Clearing | Task | Completed | 2026-04-06 | 2026-04-09 | 2026-04-06 | 2026-04-10 | 100 |  |
+| B1.1.02 41 00.03 | Removal of concrete protection | Demolishing and Site Clearing | Task | Completed | 2026-01-17 | 2026-01-20 | 2026-01-17 | 2026-01-20 | 100 |  |
+| B1.1.02 41 00.04 | Removal of riprap | Demolishing and Site Clearing | Task | Completed | 2026-04-15 | 2026-04-21 | 2026-04-15 | 2026-04-21 | 100 |  |
+| B1.1.02 41 00.06 | Removal of culvert's wing walls | Demolishing and Site Clearing | Task | Completed | 2026-06-08 | 2026-06-15 | 2026-06-08 | 2026-06-15 | 100 |  |
+| B1.1.02 41 00.08 | Selective Tree Removal | Demolishing and Site Clearing | Task | Completed | 2026-04-06 | 2026-04-09 | 2026-04-06 | 2026-04-09 | 100 |  |
+| B1.1.02 41 00.09 | Dismantling and relocation of existing inlets | Demolishing and Site Clearing | Task | Completed | 2026-03-07 | 2026-04-11 | 2026-03-06 | 2026-04-11 | 100 |  |
+| B1.1.02 41 00.10 | Dismantling and level adjustment for storm manholes | Demolishing and Site Clearing | Task | Completed | 2026-05-31 | 2026-06-01 | 2026-05-31 | 2026-06-01 | 100 |  |
+| B1.1.02 41 00.05 | Removal of traffic signs | Demolishing and Site Clearing | Task | Completed | 2026-06-08 | 2026-06-15 | 2026-06-08 | 2026-06-15 | 100 |  |
+| B1.1.02 41 00.20 | Removal of curbstone | Demolishing and Site Clearing | Task | Completed | 2026-05-16 | 2026-05-19 | 2026-05-16 | 2026-05-19 | 100 |  |
+| B1.1.02 41 00.30 | Removal of bituminous concrete wearing course | Demolishing and Site Clearing | Task | Completed | 2026-05-20 | 2026-05-24 | 2026-05-20 | 2026-05-24 | 100 |  |
+| B1.1.02 41 00.40 | Removal of concrete protection | Demolishing and Site Clearing | Task | Completed | 2026-05-21 | 2026-06-01 | 2026-05-21 | 2026-06-01 | 100 |  |
+| B1.1.02 41 00.50 | Removal of riprap | Demolishing and Site Clearing | Task | Completed | 2026-04-22 | 2026-04-28 | 2026-04-22 | 2026-04-28 | 100 |  |
+| B1.1.02 41 00.60 | Removal of culvert's wing walls | Demolishing and Site Clearing | Task | Completed | 2026-03-07 | 2026-03-12 | 2026-03-06 | 2026-03-12 | 100 |  |
+| B1.1.02 41 00.70 | Selective Tree Removal | Demolishing and Site Clearing | Task | Completed | 2026-06-17 | 2026-06-20 | 2026-06-17 | 2026-06-20 | 100 |  |
+| B1.1.02 41 00.90 | Dismantling and relocation of existing inlets | Demolishing and Site Clearing | Task | Completed | 2026-03-07 | 2026-04-13 | 2026-03-07 | 2026-04-13 | 100 |  |
+| B1.1.02 41 00.100 | Dismantling and level adjustment for storm manholes | Demolishing and Site Clearing | Task | Completed | 2026-06-17 | 2026-06-22 | 2026-06-17 | 2026-06-22 | 100 |  |
+| B1.1.02 41 00.80 | Removal of traffic signs | Demolishing and Site Clearing | Task | Completed | 2026-06-21 | 2026-06-22 | 2026-06-21 | 2026-06-22 | 100 |  |
+| B1.1.31 23 19.02 | Dewatering | Earthworks & Site Grading | Task | Completed | 2025-09-18 | 2025-10-12 | 2025-09-18 | 2025-10-12 | 100 |  |
+| B6. 33 42 13.011 | Excavation | Box Cul. | Task | Completed | 2026-03-15 | 2026-08-19 | 2026-03-15 | 2026-08-19 | 100 |  |
+| B6. 33 42 13.012 | Lean PC & RC Foundation | Box Cul. | Task | Completed | 2026-05-09 | 2026-09-13 | 2026-05-09 | 2026-09-13 | 100 |  |
+| B6. 33 42 13.013 | Box Reinforced Conc. Walls incl. Water Stop | Box Cul. | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 92 | 113 |
+| B6. 33 42 13.014 | Box Reinforced Conc. Slab | Box Cul. | Task | In Progress | 2026-06-11 | 2026-09-17 | 2026-06-11 |  | 92 | 113 |
+| B6. 33 42 13.015 | Curing & Water Proofing | Box Cul. | Task | In Progress | 2026-09-09 | 2026-09-20 | 2026-09-09 |  | 11 | 47.4 |
+| B6. 33 42 13.016 | Backfilling & Warrning Tape | Box Cul. | Task | Not Started | 2026-10-01 | 2026-10-08 |  |  | 0 | 47.4 |
+| B6. 33 42 13.16 | Excavation | Box Cul. | Task | Completed | 2026-06-01 | 2026-09-09 | 2026-06-01 | 2026-09-09 | 100 |  |
+| B6. 33 42 13.26 | Lean PC & RC Foundation | Box Cul. | Task | Completed | 2026-06-07 | 2026-09-10 | 2026-06-07 | 2026-09-10 | 100 |  |
+| B6. 33 42 13.36 | Box Reinforced Conc. Walls incl. Water Stop | Box Cul. | Task | Completed | 2026-06-10 | 2026-09-14 | 2026-06-10 | 2026-09-14 | 100 |  |
+| B6. 33 42 13.46 | Box Reinforced Conc. Slab | Box Cul. | Task | In Progress | 2026-07-30 | 2026-09-17 | 2026-07-30 |  | 92 | 58 |
+| B6. 33 42 13.56 | Curing & Water Proofing | Box Cul. | Task | In Progress | 2026-08-05 | 2026-09-17 | 2026-08-05 |  | 75 | 51.5 |
+| B6. 33 42 13.66 | Backfilling & Warrning Tape | Box Cul. | Task | Not Started | 2026-09-19 | 2026-09-27 |  |  | 0 | 56.5 |
+| B1.1.31 23 16.02 | Excavation (all types of soil) | Earthworks & Site Grading | Task | In Progress | 2025-10-14 | 2026-09-24 | 2025-10-14 |  | 95 | 109.8 |
+| B1.1.31 23 23.02 | Engineering Backfiling - Arterial Roads | Earthworks & Site Grading | Task | Completed | 2026-02-02 | 2026-03-12 | 2026-02-02 | 2026-03-12 | 100 |  |
+| B1.1.31 23 19.01 | Dewatering | Earthworks & Site Grading | Task | Completed | 2025-09-18 | 2025-10-07 | 2025-09-18 | 2025-10-07 | 100 |  |
+| B1.1.31 23 16.01 | Excavation (all types of soil) | Earthworks & Site Grading | Task | In Progress | 2025-10-09 | 2026-09-20 | 2025-10-09 |  | 92 | 112.0 |
+| B1.1.31 23 23.01 | Engineering Backfiling - Road 01 - Part 01 | Earthworks & Site Grading | Task | Completed | 2025-10-14 | 2025-12-02 | 2025-10-14 | 2025-12-02 | 100 |  |
+| B1.1.31 23 19.2 | Dewatering | Earthworks & Site Grading | Task | Completed | 2025-09-22 | 2025-10-23 | 2025-09-22 | 2025-10-23 | 100 |  |
+| B1.1.31 23 16.2 | Excavation (all types of soil) | Earthworks & Site Grading | Task | Completed | 2025-10-19 | 2026-02-04 | 2025-10-19 | 2026-02-04 | 100 |  |
+| B1.1.31 23 23.2 | Engineering Backfiling - Road 02 | Earthworks & Site Grading | Task | Completed | 2025-10-20 | 2026-02-09 | 2025-10-20 | 2026-02-09 | 100 |  |
+| B1.1.31 23 19.12 | Dewatering | Earthworks & Site Grading | Task | Completed | 2025-11-17 | 2026-05-06 | 2025-11-17 | 2026-05-06 | 100 |  |
+| B1.1.31 23 16.12 | Excavation (all types of soil) | Earthworks & Site Grading | Task | Completed | 2025-11-22 | 2026-01-08 | 2025-11-22 | 2026-01-08 | 100 |  |
+| B1.1.31 23 23.12 | Engineering Backfiling - Road 02 | Earthworks & Site Grading | Task | Completed | 2025-11-22 | 2026-02-04 | 2025-11-22 | 2026-02-04 | 100 |  |
+| B2.31 23 00.02 | Excavation | 4 Way | Task | Completed | 2026-04-30 | 2026-05-02 | 2026-04-30 | 2026-05-02 | 100 |  |
+| B2.33 71 00.02 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Completed | 2026-05-06 | 2026-05-09 | 2026-05-06 | 2026-05-09 | 100 |  |
+| B2.33 71 00.021 | Backfilling & Warrning Tape | 4 Way | Task | In Progress | 2026-06-07 | 2026-09-17 | 2026-06-07 |  | 71 | 57 |
+| 32 16 131 | Excavation | Pre-Installation | Task | In Progress | 2026-09-12 | 2026-09-14 | 2026-09-12 |  | 25 | 45 |
+| B1.2.31 23 23.01.1 | Engineering Backfiling | Earth Works - Roads | Task | Completed | 2025-11-22 | 2025-12-06 | 2025-11-22 | 2025-12-06 | 100 |  |
+| B1.2.32 11 13.01.1 | Subgrade | Earth Layers | Task | In Progress | 2025-12-24 | 2026-09-21 | 2025-12-24 |  | 65 | 111.1 |
+| B1.2.32 11 23.01.1 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-04-29 | 2026-09-22 | 2026-04-29 |  | 90 | 110 |
+| 32 16 132 | PCC | Pre-Installation | Task | In Progress | 2026-09-14 | 2026-09-20 | 2026-09-14 |  | 25 | 45 |
+| 32 16 133 | Haunching | Pre-Installation | Task | In Progress | 2026-09-13 | 2026-09-16 | 2026-09-13 |  | 25 | 45 |
+| 32 16 134 | Finishing, Fareface | Finishing | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 42.8 |
+| 10 14 53.1 | Excavation | Pre-Installation | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 22.8 |
+| 10 14 53.01 | Foundation | Pre-Installation | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 27.8 |
+| B1.2.31 23 16.01.1 | Roadway Excavation | Earth Works - Roads | Task | Completed | 2025-11-27 | 2025-12-01 | 2025-11-27 | 2025-12-01 | 100 |  |
+| B1.2.32 11 26.01.2 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-08-26 | 2026-09-27 | 2026-08-26 |  | 0 | 52 |
+| B1.2.32 12 16.01.2 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 27 |
+| B1.2.32 16.13.01.2 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 27 |
+| B1.2.32 16.13.03.2 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 27 |
+| B1.2.32 16.13.042 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 27 |
+| B1.2.32 14 13.13.2 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 27 |
+| B1.2.32 17 23.01.2 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 42 |
+| B1.2.32 17 23.02.2 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 42 |
+| B1.2.32 12 19.13.02 | Speed Tables | Miscellaneous | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 42 |
+| 32 16 13.0021 | Excavation | Pre-Installation | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 33 |
+| B1.2.31 23 23.01.2 | Embankment Backfiling | Earth Works | Task | In Progress | 2026-01-10 | 2026-10-04 | 2026-01-10 |  | 12 | 103 |
+| B1.2.32 11 13.01.2 | Subgrade | Earth Layers | Task | In Progress | 2026-08-31 | 2026-09-22 | 2026-08-31 |  | 50 | 113 |
+| B1.2.32 11 23.01.2 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-08-17 | 2026-09-24 | 2026-08-17 |  | 22 | 33 |
+| 32 16 13.0024 | PCC | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 39 |
+| 32 16 13.0023 | Haunching | Pre-Installation | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 39 |
+| 32 16 13.0022 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 42 |
+| B2.31 23 00.41 | Excavation | Pre-Installation | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 33 |
+| 10 14 53.02 | Foundation | Pre-Installation | Task | Not Started | 2026-09-26 | 2026-09-27 |  |  | 0 | 33 |
+| B1.2.31 23 16.01.2 | Roadway Excavation | Earth Works | Task | Completed | 2026-01-08 | 2026-03-24 | 2026-01-08 | 2026-03-24 | 100 |  |
+| B1.2.32 11 26.01.3 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-17 | 2026-09-20 |  |  | 0 | 48.6 |
+| B1.2.32 12 16.01.3 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-14 | 2026-11-19 |  |  | 0 | 2.8 |
+| B1.2.32 16.13.01.3 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 61.8 |
+| B1.2.32 16.13.03.3 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 61.8 |
+| B1.2.32 14 13.13.3 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 58 |
+| B1.2.32 17 23.01.3 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-22 | 2026-11-24 |  |  | 0 | 55.8 |
+| B1.2.32 17 23.02.3 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 55.8 |
+| B1.2.10 14 53.013 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 36.8 |
+| B1.2.10 14 53.023 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 36.8 |
+| B1.2.10 14 14.01.3 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 36.8 |
+| B2.31 23 00.61 | Excavation | Pre-Installation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 18.8 |
+| B1.2.31 23 23.01.3 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-16 | 2026-04-07 | 2025-12-16 | 2026-04-07 | 100 |  |
+| B1.2.32 11 13.01.3 | Subgrade | Earth Layers | Task | In Progress | 2026-04-29 | 2026-09-17 | 2026-04-29 |  | 71 | 114 |
+| B1.2.32 11 23.01.3 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-06-24 | 2026-09-17 | 2026-06-24 |  | 28 | 48.6 |
+| B1.2.32 14 13.13.23 | PCC | Pre-Installation | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 61.8 |
+| 32 16 13.003 | Haunching | Pre-Installation | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 61.8 |
+| 32 16 13.03 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 61.8 |
+| B2.31 23 00.71 | Excavation | Pre-Installation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 18.8 |
+| 10 14 53.03 | Foundation | Pre-Installation | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 44.8 |
+| B1.2.31 23 16.01.3 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-07 | 2025-12-10 | 2025-12-07 | 2025-12-10 | 100 |  |
+| B1.2.32 11 26.01.4 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 46 |
+| B1.2.32 12 16.01.4 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-24 | 2026-09-29 |  |  | 0 | 46 |
+| B1.2.32 16.13.01.4 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 25.8 |
+| B1.2.32 16.13.03.4 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 25.8 |
+| B1.2.32 16.13.044 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 25.8 |
+| B1.2.32 14 13.13.4 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 68.9 |
+| B1.2.32 17 23.01.4 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 98 |
+| B1.2.32 17 23.02.4 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 98 |
+| B1.2.10 14 53.014 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 68.9 |
+| B1.2.10 14 14.01.4 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-19 | 2026-11-19 |  |  | 0 | 57 |
+| B2.31 23 00.91 | Excavation | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 25.8 |
+| B1.2.31 23 23.01.4 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-06 | 2026-03-08 | 2025-12-06 | 2026-03-08 | 100 |  |
+| B1.2.32 11 13.01.4 | Subgrade | Earth Layers | Task | In Progress | 2026-02-25 | 2026-09-17 | 2026-02-25 |  | 65 | 49.0 |
+| B1.2.32 11 23.01.4 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 59 | 48.8 |
+| B1.2.32 14 13.13.24 | PCC | Pre-Installation | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 25.8 |
+| 32 16 13.004 | Haunching | Pre-Installation | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 25.8 |
+| 32 16 13.04 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 25.8 |
+| B2.31 23 00.101 | Excavation | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 28.8 |
+| 10 14 53.04 | Foundation | Pre-Installation | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 8 |
+| B1.2.31 23 16.01.4 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-03 | 2026-02-18 | 2025-12-03 | 2026-02-18 | 100 |  |
+| B1.2.32 11 26.01.5 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 43 |
+| B1.2.32 12 16.01.5 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | 2.8 |
+| B1.2.32 16.13.01.5 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-28 | 2026-11-01 |  |  | 0 | 0.8 |
+| B1.2.32 16.13.02.4 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 0.8 |
+| B1.2.32 16.13.03.5 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 0.8 |
+| B1.2.32 16.13.045 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 0.8 |
+| B1.2.32 16.13.05.4 | Transition Curb | Installation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 0.8 |
+| B1.2.32 14 13.13.5 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-27 | 2026-10-31 |  |  | 0 | 55.8 |
+| B1.2.32 17 23.01.5 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 45.8 |
+| B1.2.32 17 23.02.5 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 45.8 |
+| B1.2.10 14 53.015 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-22 | 2026-11-24 |  |  | 0 | 36.8 |
+| B1.2.10 14 53.035 | 1 Sheet Alumenium, Double post | Installation | Task | Not Started | 2026-11-24 | 2026-11-26 |  |  | 0 | 36.8 |
+| B1.2.10 14 14.01.5 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 36.8 |
+| B1.2.10 14 14.025 | Ground mounted, 1 Sheet Alumenium, Double post | Installation | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 36.8 |
+| B2.31 23 00.121 | Excavation | Pre-Installation | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 0.8 |
+| B1.2.31 23 23.01.5 | Embankment Backfiling | Earth Works | Task | Completed | 2025-11-30 | 2025-12-31 | 2025-11-30 | 2025-12-31 | 100 |  |
+| B1.2.32 11 13.01.5 | Subgrade | Earth Layers | Task | In Progress | 2026-02-28 | 2026-09-17 | 2026-02-28 |  | 65 | 43 |
+| B1.2.32 11 23.01.5 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-06-03 | 2026-09-17 | 2026-06-03 |  | 55 | 43 |
+| B1.2.32 14 13.13.25 | PCC | Pre-Installation | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 0.8 |
+| 32 16 13.005 | Haunching | Pre-Installation | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 0.8 |
+| 32 16 13.05 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 0.8 |
+| B2.31 23 00.131 | Excavation | Pre-Installation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 0.8 |
+| 10 14 53.05 | Foundation | Pre-Installation | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 26.8 |
+| B1.2.31 23 16.01.5 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-29 | 2026-04-01 | 2025-11-28 | 2026-04-01 | 100 |  |
+| B1.2.32 11 26.01.6 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 48 |
+| B1.2.32 12 16.01.6 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-02 | 2026-11-08 |  |  | 0 | 12.8 |
+| B1.2.32 16.13.01.6 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 23.8 |
+| B1.2.32 16.13.02.5 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 23.8 |
+| B1.2.32 16.13.03.6 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 23.8 |
+| B1.2.32 16.13.046 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 23.8 |
+| B1.2.32 16.13.05.5 | Transition Curb | Installation | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 23.8 |
+| B1.2.32 14 13.13.6 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 22 |
+| B1.2.32 17 23.01.6 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 58.8 |
+| B1.2.32 17 23.02.6 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 58.8 |
+| B1.2.10 14 53.016 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 73.8 |
+| B1.2.10 14 53.026 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 58.8 |
+| B1.2.10 14 14.01.6 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 57 |
+| B1.2.10 14 14.026 | Ground mounted, 1 Sheet Alumenium, Double post | Installation | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 57 |
+| B2.31 23 00.151 | Excavation | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 12.8 |
+| B1.2.31 23 23.01.6 | Embankment Backfiling | Earth Works | Task | Completed | 2025-11-29 | 2025-12-08 | 2025-11-29 | 2025-12-08 | 100 |  |
+| B1.2.32 11 13.01.6 | Subgrade | Earth Layers | Task | In Progress | 2026-02-08 | 2026-09-17 | 2026-02-08 |  | 65 | 48 |
+| B1.2.32 11 23.01.6 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 14 | 48 |
+| B1.2.32 14 13.13.26 | PCC | Pre-Installation | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 23.8 |
+| 32 16 13.006 | Haunching | Pre-Installation | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 23.8 |
+| 32 16 13.06 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 23.8 |
+| B2.31 23 00.161 | Excavation | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 12.8 |
+| 10 14 53.06 | Foundation | Pre-Installation | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 73.8 |
+| B1.2.31 23 16.01.6 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-26 | 2025-12-06 | 2025-11-26 | 2025-12-06 | 100 |  |
+| B1.2.32 11 26.01.7 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 60 | 53 |
+| B1.2.32 12 16.01.7 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 5.8 |
+| B1.2.32 16.13.01.7 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 65.8 |
+| B1.2.32 16.13.02.6 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 65.8 |
+| B1.2.32 16.13.03.7 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 65.8 |
+| B1.2.32 16.13.047 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 65.8 |
+| B1.2.32 16.13.05.6 | Transition Curb | Installation | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 65.8 |
+| B1.2.32 14 13.13.7 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 58 |
+| B1.2.32 17 23.01.7 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 39.8 |
+| B1.2.32 17 23.02.7 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 39.8 |
+| B1.2.10 14 53.017 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-22 | 2026-11-24 |  |  | 0 | 36.8 |
+| B1.2.32 12 19.13.6 | Wheels stoppers (precast concrete) | Miscellaneous | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 15.8 |
+| B2.31 23 00.181 | Excavation | Pre-Installation | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 13.8 |
+| B1.2.31 23 23.01.7 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-03 | 2026-04-08 | 2025-12-03 | 2026-04-08 | 100 |  |
+| B1.2.32 11 13.01.7 | Subgrade | Earth Layers | Task | In Progress | 2026-03-10 | 2026-09-21 | 2026-03-10 |  | 65 | 111 |
+| B1.2.32 11 23.01.7 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-07 | 2026-09-17 | 2026-05-07 |  | 60 | 114 |
+| B1.2.32 14 13.13.27 | PCC | Pre-Installation | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 65.8 |
+| 32 16 13.007 | Haunching | Pre-Installation | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 65.8 |
+| 32 16 13.07 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 65.8 |
+| B2.31 23 00.191 | Excavation | Pre-Installation | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 13.8 |
+| 10 14 53.07 | Foundation | Pre-Installation | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 54.8 |
+| B1.2.31 23 16.01.7 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-29 | 2026-04-08 | 2025-11-29 | 2026-04-08 | 100 |  |
+| B1.2.32 11 26.01.8 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-06-07 | 2026-09-19 | 2026-06-07 |  | 72 | 0.8 |
+| B1.2.32 12 16.01.8 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-26 | 2026-10-01 |  |  | 0 | 44.8 |
+| B1.2.32 16.13.01.8 | Curb Stone, Type K1 | Installation | Task | In Progress | 2026-09-13 | 2026-09-16 | 2026-09-13 |  | 10 | 114.2 |
+| B1.2.32 14 13.13.8 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 22 |
+| B1.2.32 17 23.01.8 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 94.8 |
+| B1.2.32 17 23.02.8 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 94.8 |
+| B1.2.10 14 53.018 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 97.8 |
+| B1.2.10 14 53.028 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 94.8 |
+| 32 16 13.031 | Excavation | Pre-Installation | Task | In Progress | 2026-09-10 | 2026-09-13 | 2026-09-10 |  | 10 | 114 |
+| B1.2.31 23 23.01.8 | Embankment Backfiling | Earth Works | Task | Completed | 2026-03-30 | 2026-04-06 | 2026-03-30 | 2026-04-06 | 100 |  |
+| B1.2.32 11 13.01.8 | Subgrade | Earth Layers | Task | In Progress | 2026-04-08 | 2026-09-22 | 2026-04-08 |  | 80 | 110 |
+| B1.2.32 11 23.01.8 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-06 | 2026-09-17 | 2026-05-06 |  | 60.576923076923 | 114.0 |
+| 32 16 13.032 | PCC | Pre-Installation | Task | In Progress | 2026-09-12 | 2026-09-14 | 2026-09-12 |  | 10 | 114 |
+| 32 16 13.033 | Haunching | Pre-Installation | Task | In Progress | 2026-09-13 | 2026-09-15 | 2026-09-13 |  | 10 | 114.2 |
+| 32 16 13.08 | Finishing, Fareface | Finishing | Task | In Progress | 2026-09-15 | 2026-09-17 | 2026-09-15 |  | 10 | 50.2 |
+| B2.31 23 00.221 | Excavation | Pre-Installation | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 0.8 |
+| 10 14 53.08 | Foundation | Pre-Installation | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 22.8 |
+| B1.2.31 23 16.01.8 | Roadway Excavation | Earth Works | Task | Completed | 2026-03-24 | 2026-03-26 | 2026-03-24 | 2026-03-26 | 100 |  |
+| B1.2.32 11 26.01.9 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 0.8 |
+| B1.2.32 12 16.01.9 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-04 | 2026-11-10 |  |  | 0 | 10.8 |
+| B1.2.32 16.13.01.9 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 10.8 |
+| B1.2.32 16.13.02.8 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 10.8 |
+| B1.2.32 16.13.03.9 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 10.8 |
+| B1.2.32 16.13.049 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 10.8 |
+| B1.2.32 14 13.13.9 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-20 | 2026-10-24 |  |  | 0 | 0.8 |
+| B1.2.32 17 23.01.9 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 26.8 |
+| B1.2.32 17 23.02.9 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 26.8 |
+| B1.2.10 14 53.019 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 55.8 |
+| B1.2.32 12 19.13.09 | Speed Tables | Miscellaneous | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 26.8 |
+| B2.31 23 00.241 | Excavation | Pre-Installation | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 10.8 |
+| B1.2.31 23 23.01.9 | Embankment Backfiling | Earth Works | Task | Completed | 2026-02-14 | 2026-03-10 | 2026-02-13 | 2026-03-10 | 100 |  |
+| B1.2.32 11 13.01.9 | Subgrade | Earth Layers | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 0.8 |
+| B1.2.32 11 23.01.9 | Aggregate Base Course | Earth Layers | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 0.8 |
+| B1.2.32 14 13.13.29 | PCC | Pre-Installation | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 10.8 |
+| 32 16 13.009 | Haunching | Pre-Installation | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 10.8 |
+| 32 16 13.09 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 10.8 |
+| B2.31 23 00.251 | Excavation | Pre-Installation | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 0.8 |
+| 10 14 53.09 | Foundation | Pre-Installation | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 55.8 |
+| B1.2.31 23 16.01.9 | Roadway Excavation | Earth Works | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 0.8 |
+| B1.2.32 11 26.01.10 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-06-02 | 2026-09-17 | 2026-06-02 |  | 71 | 24 |
+| B1.2.32 12 16.01.10 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-01 | 2026-11-05 |  |  | 0 | 14 |
+| B1.2.32 16.13.01.10 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 14 |
+| B1.2.32 16.13.02.9 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 14 |
+| B1.2.32 16.13.03.10 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 14 |
+| B1.2.32 16.13.0410 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 14 |
+| B1.2.32 16.13.05.9 | Transition Curb | Installation | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 14 |
+| B1.2.32 14 13.13.10 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 4 |
+| B1.2.32 17 23.01.10 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-08 | 2026-11-08 |  |  | 0 | 67 |
+| B1.2.32 17 23.02.10 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-07 | 2026-11-07 |  |  | 0 | 67 |
+| B1.2.10 14 53.0110 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 67 |
+| B2.31 23 00.271 | Excavation | Pre-Installation | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 4 |
+| B1.2.31 23 23.01.10 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-02 | 2026-02-01 | 2025-12-02 | 2026-02-01 | 100 |  |
+| B1.2.32 11 13.01.10 | Subgrade | Earth Layers | Task | In Progress | 2026-01-19 | 2026-09-19 | 2026-01-19 |  | 65 | 113.9 |
+| B1.2.32 11 23.01.10 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-20 | 2026-09-19 | 2026-05-20 |  | 60 | 113.2 |
+| B1.2.32 14 13.13.210 | PCC | Pre-Installation | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 14 |
+| 32 16 13.0010 | Haunching | Pre-Installation | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 14 |
+| 32 16 13.010 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 14 |
+| B2.31 23 00.281 | Excavation | Pre-Installation | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 4 |
+| 10 14 53.010 | Foundation | Pre-Installation | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 86 |
+| B1.2.31 23 16.01.10 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-29 | 2025-12-01 | 2025-11-28 | 2025-12-01 | 100 |  |
+| B1.2.32 11 26.01.11 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-05-23 | 2026-09-17 | 2026-05-23 |  | 69 | 53 |
+| B1.2.32 12 16.01.11 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 53 |
+| B1.2.32 16.13.01.11 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 6 |
+| B1.2.32 16.13.02.10 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-11-09 | 2026-11-09 |  |  | 0 | 6 |
+| B1.2.32 16.13.03.11 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-10 | 2026-11-10 |  |  | 0 | 6 |
+| B1.2.32 16.13.0411 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-11 | 2026-11-11 |  |  | 0 | 6 |
+| B1.2.32 16.13.05.10 | Transition Curb | Installation | Task | Not Started | 2026-11-12 | 2026-11-12 |  |  | 0 | 6 |
+| B1.2.32 14 13.13.11 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| B1.2.32 17 23.01.11 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 94 |
+| B1.2.32 17 23.02.11 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 106 |
+| B1.2.10 14 53.0111 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 71 |
+| B1.2.10 14 14.0211 | Ground mounted, 1 Sheet Alumenium, Double post | Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 71 |
+| B2.31 23 00.301 | Excavation | Pre-Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| B1.2.31 23 23.01.11 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-07 | 2026-05-06 | 2025-12-07 | 2026-05-06 | 100 |  |
+| B1.2.32 11 13.01.11 | Subgrade | Earth Layers | Task | In Progress | 2026-02-18 | 2026-09-17 | 2026-02-18 |  | 65 | 114 |
+| B1.2.32 11 23.01.11 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-20 | 2026-09-17 | 2026-05-20 |  | 52 | 114 |
+| B1.2.32 14 13.13.211 | PCC | Pre-Installation | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 6 |
+| 32 16 13.0011 | Haunching | Pre-Installation | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 6 |
+| 32 16 13.011 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 6 |
+| B2.31 23 00.311 | Excavation | Pre-Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| 10 14 53.011 | Foundation | Pre-Installation | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 71 |
+| B1.2.31 23 16.01.11 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-06 | 2026-05-07 | 2025-12-05 | 2026-05-07 | 100 |  |
+| B1.2.32 11 26.01.12 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-05-24 | 2026-09-17 | 2026-05-24 |  | 74 | 53 |
+| B1.2.32 12 16.01.12 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 4 |
+| B1.2.32 16.13.01.12 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 5 |
+| B1.2.32 16.13.02.11 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-11-05 | 2026-11-05 |  |  | 0 | 5 |
+| B1.2.32 16.13.03.12 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 5 |
+| B1.2.32 16.13.0412 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 5 |
+| B1.2.32 16.13.05.11 | Transition Curb | Installation | Task | Not Started | 2026-11-11 | 2026-11-11 |  |  | 0 | 5 |
+| B1.2.32 14 13.13.12 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 5 |
+| B1.2.32 17 23.01.12 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 55 |
+| B1.2.32 17 23.02.12 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 55 |
+| B1.2.10 14 53.0112 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 55 |
+| B2.31 23 00.331 | Excavation | Pre-Installation | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 5 |
+| B1.2.31 23 23.01.12 | Engineering Backfiling | Earth Works | Task | Completed | 2025-12-11 | 2026-03-15 | 2025-12-11 | 2026-03-15 | 100 |  |
+| B1.2.32 11 13.01.12 | Subgrade | Earth Layers | Task | In Progress | 2026-03-15 | 2026-09-17 | 2026-03-15 |  | 65 | 114 |
+| B1.2.32 11 23.01.12 | Aggregate Base Course | Earth Layers | Task | Completed | 2026-05-21 | 2026-05-24 | 2026-05-21 | 2026-05-24 | 100 |  |
+| B1.2.32 14 13.13.212 | PCC | Pre-Installation | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 5 |
+| 32 16 13.0012 | Haunching | Pre-Installation | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 5 |
+| 32 16 13.012 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 5 |
+| B2.31 23 00.341 | Excavation | Pre-Installation | Task | Not Started | 2026-10-29 | 2026-10-29 |  |  | 0 | 17 |
+| 10 14 53.012 | Foundation | Pre-Installation | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 17 |
+| B1.2.31 23 16.01.12 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-11 | 2026-03-16 | 2025-12-11 | 2026-03-16 | 100 |  |
+| B1.2.32 11 26.01.13 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-07-05 | 2026-09-17 | 2026-07-05 |  | 43 | 50.9 |
+| B1.2.32 12 16.01.13 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 11 |
+| B1.2.32 16.13.01.13 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 20 |
+| B1.2.32 16.13.02.12 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B1.2.32 16.13.03.13 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B1.2.32 16.13.0413 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B1.2.32 16.13.05.12 | Transition Curb | Installation | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B1.2.32 14 13.13.13 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 5 |
+| B1.2.32 17 23.01.13 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 57 |
+| B1.2.32 17 23.02.13 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 57 |
+| B1.2.10 14 53.0113 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 57 |
+| B1.2.10 14 14.01.13 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 57 |
+| B2.31 23 00.361 | Excavation | Pre-Installation | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 5 |
+| B1.2.31 23 23.01.13 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-13 | 2026-05-06 | 2025-12-12 | 2026-05-06 | 100 |  |
+| B1.2.32 11 13.01.13 | Subgrade | Earth Layers | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 82 | 114 |
+| B1.2.32 11 23.01.13 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-06-04 | 2026-09-17 | 2026-06-04 |  | 48 | 115.0 |
+| B1.2.32 14 13.13.213 | PCC | Pre-Installation | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 20 |
+| 32 16 13.0013 | Haunching | Pre-Installation | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 20 |
+| 32 16 13.013 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 20 |
+| B2.31 23 00.371 | Excavation | Pre-Installation | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 5 |
+| 10 14 53.013 | Foundation | Pre-Installation | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 81 |
+| B1.2.31 23 16.01.13 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-13 | 2026-05-06 | 2025-12-12 | 2026-05-06 | 100 |  |
+| B1.2.32 11 26.01.14 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | In Progress | 2026-05-25 | 2026-09-17 | 2026-05-25 |  | 74 | 50 |
+| B1.2.32 12 16.01.14 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-17 | 2026-11-22 |  |  | 0 | 0 |
+| B1.2.32 16.13.01.14 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 0 |
+| B1.2.32 16.13.02.13 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 0 |
+| B1.2.32 16.13.03.14 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 0 |
+| B1.2.32 16.13.0414 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 0 |
+| B1.2.32 16.13.05.13 | Transition Curb | Installation | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 0 |
+| B1.2.32 14 13.13.14 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 58 |
+| B1.2.32 17 23.01.14 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-25 | 2026-11-26 |  |  | 0 | 53 |
+| B1.2.32 17 23.02.14 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 53 |
+| B1.2.10 14 53.0114 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | 53 |
+| B2.31 23 00.391 | Excavation | Pre-Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| B1.2.31 23 23.01.14 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-07 | 2025-12-14 | 2025-12-07 | 2025-12-14 | 100 |  |
+| B1.2.32 11 13.01.14 | Subgrade | Earth Layers | Task | In Progress | 2026-04-01 | 2026-09-17 | 2026-04-01 |  | 65 | 115.0 |
+| B1.2.32 11 23.01.14 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-21 | 2026-09-17 | 2026-05-21 |  | 49 | 114.5 |
+| B1.2.32 14 13.13.214 | PCC | Pre-Installation | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 0 |
+| 32 16 13.0014 | Haunching | Pre-Installation | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 0 |
+| 32 16 13.014 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 0 |
+| B2.31 23 00.401 | Excavation | Pre-Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 73 |
+| 10 14 53.014 | Foundation | Pre-Installation | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 73 |
+| B1.2.31 23 16.01.14 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-07 | 2025-12-11 | 2025-12-07 | 2025-12-12 | 100 |  |
+| B1.2.32 11 26.01.15 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-10-07 | 2026-10-13 |  |  | 0 | 27.5 |
+| B1.2.32 12 16.01.15 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 3 |
+| B1.2.32 16.13.01.15 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 3 |
+| B1.2.32 16.13.02.14 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 3 |
+| B1.2.32 16.13.03.15 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 3 |
+| B1.2.32 16.13.0415 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 3 |
+| B1.2.32 16.13.05.14 | Transition Curb | Installation | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 3 |
+| B1.2.32 14 13.13.15 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 3 |
+| B1.2.32 17 23.01.15 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 25 |
+| B1.2.32 17 23.02.15 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 25 |
+| B1.2.10 14 53.0115 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 27 |
+| B1.2.10 14 53.0215 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 25 |
+| B1.2.10 14 53.0315 | 1 Sheet Alumenium, Double post | Installation | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 25 |
+| B1.2.32 12 19.13.015 | Speed Tables | Miscellaneous | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 25 |
+| B2.31 23 00.421 | Excavation | Pre-Installation | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 3 |
+| B1.2.31 23 23.01.15 | Embankment Backfiling | Earth Works | Task | Completed | 2025-11-22 | 2026-03-08 | 2025-11-22 | 2026-03-08 | 100 |  |
+| B1.2.32 11 13.01.15 | Subgrade | Earth Layers | Task | In Progress | 2026-01-06 | 2026-09-19 | 2026-01-06 |  | 65 | 42.2 |
+| B1.2.32 11 23.01.15 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-06-01 | 2026-09-20 | 2026-06-01 |  | 50 | 41.5 |
+| B1.2.32 14 13.13.215 | PCC | Pre-Installation | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 3 |
+| 32 16 13.0015 | Haunching | Pre-Installation | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 3 |
+| 32 16 13.015 | Finishing, Fareface | Finishing | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 3 |
+| B2.31 23 00.431 | Excavation | Pre-Installation | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 5 |
+| 10 14 53.015 | Foundation | Pre-Installation | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 15 |
+| B1.2.31 23 16.01.15 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-20 | 2025-12-03 | 2025-11-20 | 2025-12-03 | 100 |  |
+| B1.2.32 11 26.01.16 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-17 | 2026-09-20 |  |  | 0 | 48.5 |
+| B1.2.32 12 16.01.16 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 3 |
+| B1.2.32 16.13.01.16 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 30.5 |
+| B1.2.32 16.13.02.15 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 30.5 |
+| B1.2.32 16.13.03.16 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 30.5 |
+| B1.2.32 16.13.0416 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 30.5 |
+| B1.2.32 16.13.05.15 | Transition Curb | Installation | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 30.5 |
+| B1.2.32 14 13.13.16 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-09-17 | 2026-09-21 |  |  | 0 | 30.5 |
+| B1.2.32 17 23.01.16 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | 53 |
+| B1.2.32 17 23.02.16 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-11-22 | 2026-11-23 |  |  | 0 | 56 |
+| B1.2.32 12 19.13.15 | Wheels stoppers (precast concrete) | Miscellaneous | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | 58 |
+| B1.2.32 12 19.13.016 | Speed Tables | Miscellaneous | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | 56 |
+| B2.31 23 00.451 | Excavation | Pre-Installation | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 30.5 |
+| B1.2.31 23 23.01.16 | Embankment Backfiling | Earth Works | Task | Completed | 2025-11-30 | 2026-03-04 | 2025-11-30 | 2026-03-04 | 100 |  |
+| B1.2.32 11 13.01.16 | Subgrade | Earth Layers | Task | In Progress | 2026-01-22 | 2026-09-21 | 2026-01-22 |  | 65 | 111 |
+| B1.2.32 11 23.01.16 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-20 | 2026-09-17 | 2026-05-20 |  | 25 | 30.5 |
+| B1.2.32 14 13.13.216 | PCC | Pre-Installation | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 30.5 |
+| 32 16 13.0016 | Haunching | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 30.5 |
+| 32 16 13.016 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 30.5 |
+| B1.2.31 23 16.01.16 | Roadway Excavation | Earth Works | Task | Completed | 2025-11-29 | 2025-12-02 | 2025-11-28 | 2025-12-02 | 100 |  |
+| B1.2.32 11 26.01.17 | Bituminous Base Course including Prime Coat (MC1) and tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-09-17 | 2026-09-20 |  |  | 0 | 35.7 |
+| B1.2.32 12 16.01.17 | Bituminous concrete Wearing Course, including tack coat (RC2) | Asphalt Layers | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17.7 |
+| B1.2.32 16.13.01.17 | Curb Stone, Type K1 | Installation | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 17.7 |
+| B1.2.32 16.13.02.16 | Dropped Curb, Type K3 | Installation | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 17.7 |
+| B1.2.32 16.13.03.17 | Edge Curb, Type K4 | Installation | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 17.7 |
+| B1.2.32 16.13.0417 | Heel Curb, Type K5 | Installation | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 17.7 |
+| B1.2.32 16.13.05.16 | Transition Curb | Installation | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 17.7 |
+| B1.2.32 14 13.13.17 | 60mm thick - Interlocking Block Pavers | Interlock | Task | Not Started | 2026-09-17 | 2026-09-21 |  |  | 0 | 17.7 |
+| B1.2.32 17 23.01.17 | Retroreflective Thermoplastic White Traffic lines | Pavement Marking | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 88.7 |
+| B1.2.32 17 23.02.17 | Retroreflective Thermoplastic Yellow, Traffic lines | Pavement Marking | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 88.7 |
+| B1.2.32 12 19.13.16 | Wheels stoppers (precast concrete) | Miscellaneous | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 17.7 |
+| B1.2.32 12 19.13.017 | Speed Tables | Miscellaneous | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 88.7 |
+| B2.31 23 00.481 | Excavation | Pre-Installation | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 17.7 |
+| B1.2.31 23 23.01.17 | Embankment Backfiling | Earth Works | Task | Completed | 2025-12-03 | 2026-03-14 | 2025-12-03 | 2026-03-14 | 100 |  |
+| B1.2.32 11 13.01.17 | Subgrade | Earth Layers | Task | In Progress | 2026-01-24 | 2026-09-17 | 2026-01-24 |  | 65 | 115.0 |
+| B1.2.32 11 23.01.17 | Aggregate Base Course | Earth Layers | Task | In Progress | 2026-05-20 | 2026-09-17 | 2026-05-20 |  | 35 | 17.7 |
+| B1.2.32 14 13.13.217 | PCC | Pre-Installation | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 17.7 |
+| 32 16 13.0017 | Haunching | Pre-Installation | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 17.7 |
+| 32 16 13.017 | Finishing, Fareface | Finishing | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 17.7 |
+| B1.2.31 23 16.01.17 | Roadway Excavation | Earth Works | Task | Completed | 2025-12-01 | 2025-12-03 | 2025-12-01 | 2025-12-03 | 100 |  |
+| B2.33 71 49.23.01 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Completed | 2026-09-01 | 2026-09-13 | 2026-09-01 | 2026-09-13 | 100 |  |
+| B2.33 71 49.23.02 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 85 |
+| B2.33 71 49.23.03 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 78 |
+| B2.33 71 49.23.062 | Old Cable Grubbing | Cable Replacement | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 32.9 |
+| B2.33 71 49.23.063 | New Cable Installation | Cable Replacement | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 32.9 |
+| B2.33 71 49.23.064 | Backfilling & Warrning Tape | Cable Replacement | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 32.9 |
+| B2.33 71 49.23.061 | Excavation | Cable Replacement | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 32.9 |
+| B2.1.02 41 00.012 | Old Manholes Grubbing | Demolishing and Site Clearing | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 88 | 114 |
+| B2.1.02 41 00.014 | New Manholes Installation | Demolishing and Site Clearing | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 88 | 43 |
+| B2.1.02 41 00.016 | Backfilling & Warrning Tape | Demolishing and Site Clearing | Task | Not Started | 2026-09-19 | 2026-09-24 |  |  | 0 | 43 |
+| B2.1.02 41 00.011 | Excavation | Demolishing and Site Clearing | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 88 | 114 |
+| B2.1.02 41 00.013 | Old Network Components Grubbing | Demolishing and Site Clearing | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 88 | 114 |
+| B2.1.02 41 00.015 | New Network Components Installation | Demolishing and Site Clearing | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 88 | 103 |
+| B2.1.33 81 26.11 | Excavation | Size (6*50mm) HDPE ducts | Task | Completed | 2026-09-05 | 2026-09-07 | 2026-09-05 | 2026-09-07 | 100 |  |
+| B2.1.33 81 26.12 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Completed | 2026-09-07 | 2026-09-08 | 2026-09-07 | 2026-09-08 | 100 |  |
+| B2.1.33 81 26.13 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 88 | 93 |
+| B2.1.33 81 26.21 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Completed | 2026-09-06 | 2026-09-08 | 2026-09-06 | 2026-09-07 | 100 |  |
+| B2.1.33 81 26.22 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Completed | 2026-09-07 | 2026-09-08 | 2026-09-07 | 2026-09-08 | 100 |  |
+| B2.1.33 81 26.23 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 88 | 109 |
+| B2.1.33 81 26.31 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 88 | 114 |
+| B2.1.33 81 26.32 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 88 | 114 |
+| B2.1.33 81 26.33 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 88 | 114 |
+| B2.1.33 81 26.41 | Excavation | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 88 | 114 |
+| B2.1.33 81 26.42 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 88 | 114 |
+| B2.1.33 81 26.43 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 88 | 110 |
+| B2.1.33 81 26.51 | Excavation | Size (4*32mm) HDPE ducts | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 88 | 114 |
+| B2.1.33 81 26.52 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 88 | 114 |
+| B2.1.33 81 26.53 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 88 | 110 |
+| B2.31 23 00.571 | Excavation | Manhole Type 1 | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 88 | 114 |
+| B2.33 71 00.141 | Manhole Installation | Manhole Type 1 | Task | In Progress | 2026-09-14 | 2026-09-17 | 2026-09-14 |  | 88 | 114 |
+| B2.33 71 00.151 | Backfilling & Warrning Tape | Manhole Type 1 | Task | In Progress | 2026-09-15 | 2026-09-17 | 2026-09-15 |  | 88 | 105 |
+| B2.31 23 00.581 | Excavation | Manhole Type 2 | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 88 | 114 |
+| B2.33 71 00.161 | Manhole Installation | Manhole Type 2 | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 88 | 114 |
+| B2.33 71 00.171 | Backfilling & Warrning Tape | Manhole Type 2 | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 88 | 105 |
+| B2.31 23 00.591 | Excavation | Size (6*50mm) HDPE | Task | Completed | 2026-06-30 | 2026-07-02 | 2026-06-30 | 2026-07-02 | 100 |  |
+| B2.33 71 00.181 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6*50mm) HDPE | Task | Completed | 2026-07-02 | 2026-07-05 | 2026-07-02 | 2026-07-05 | 100 |  |
+| B2.33 71 00.191 | Backfilling & Warrning Tape | Size (6*50mm) HDPE | Task | Completed | 2026-07-11 | 2026-07-15 | 2026-07-10 | 2026-07-15 | 100 |  |
+| B2.31 23 00.601 | Excavation | Size (2*32mm) HDPE | Task | Completed | 2026-07-02 | 2026-07-04 | 2026-07-02 | 2026-07-04 | 100 |  |
+| B2.33 71 00.201 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (2*32mm) HDPE | Task | Completed | 2026-07-04 | 2026-07-08 | 2026-07-04 | 2026-07-08 | 100 |  |
+| B2.33 71 00.211 | Backfilling & Warrning Tape | Size (2*32mm) HDPE | Task | Completed | 2026-07-08 | 2026-07-12 | 2026-07-08 | 2026-07-12 | 100 |  |
+| B2.33 71 16.021 | Excavation | Pole (10 M Single Arm) | Task | In Progress | 2026-08-29 | 2026-09-17 | 2026-08-29 |  | 92 | 27 |
+| B2.26.56.19.01 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 92 | 94 |
+| B2.33 71 16.022 | PC & RC Foundation | Pole (10 M Single Arm) | Task | In Progress | 2026-08-30 | 2026-09-17 | 2026-08-30 |  | 92 | 114 |
+| B2.33 71 16.023 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | In Progress | 2026-08-31 | 2026-09-17 | 2026-08-31 |  | 92 | 114 |
+| B2.33 71 16.025 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 82 |
+| B2.33 71 19 011 | Land Adjustment | Earthing | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 27 |
+| B2.33 71 19 012 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 27 |
+| B2.33 71 19 013 | Backfilling | Earthing | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 27 |
+| B2.33 71 00 02 011 | Excavation | 2 Way | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 75 |
+| B2.33 71 00 02 012 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 80 |
+| B2.33 71 00 02 013 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 80 |
+| B2.33 71 00 02 021 | Excavation | 4 Way | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 75 |
+| B2.33 71 00 02 022 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 75 |
+| B2.33 71 00 02 023 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-21 | 2026-10-25 |  |  | 0 | 72.8 |
+| B2.33 71 16.25 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-28 | 2026-09-29 |  |  | 0 | 27 |
+| B2.26.56.19.1 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 84 |
+| B2.33 71 16.26 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 27 |
+| B2.33 71 16.27 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 27 |
+| B2.33 71 16.28 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 64 |
+| B2.33 71 19 13 | Land Adjustment | Earthing | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 27 |
+| B2.33 71 19 14 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 27 |
+| B2.33 71 19 15 | Backfilling | Earthing | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 27 |
+| B2.33 71 00 02 041 | Excavation | Drawpits | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 80 |
+| B2.33 71 00 02 042 | Drawpits Installation | Drawpits | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 80 |
+| B2.33 71 00 02 043 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 80 |
+| B2.1.02 41 00.17 | Old Poles Grubbing | Relocate Lighting Poles | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 87 |
+| B2.1.02 41 00.18 | Backfilling & Warrning Tape | Relocate Lighting Poles | Task | Not Started | 2026-10-25 | 2026-10-28 |  |  | 0 | 72.8 |
+| B2.1.02 41 00.16 | Excavation (Evacuation Around Poles) | Relocate Lighting Poles | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 87 |
+| B2.1.02 41 00.17a | Poles Transferring & Installation Incl. Foundation | Relocate Lighting Poles | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 87 |
+| B2.33 71 49.23.010 | Cable Pulling | 3C,500mm2 | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 60 | 113.4 |
+| B2.33 71 19 16 | Land Adjustment | 3C,500mm2 | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 68 | 32.9 |
+| B2.33 71 19 17 | Backfilling | 3C,500mm2 | Task | In Progress | 2026-09-14 | 2026-09-20 | 2026-09-14 |  | 20 | 111 |
+| B2.33 71 49.23.64 | Cable Pulling | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-13 | 2026-09-19 | 2026-09-13 |  | 50 | 62.5 |
+| B2.33 71 19 18 | Land Adjustment | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 50 | 114.5 |
+| B2.33 71 19 19 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-09-19 | 2026-09-22 |  |  | 0 | 62.5 |
+| B2.33 71 16.031 | Excavation | Pole (12 M Single Arm) | Task | Completed | 2026-08-26 | 2026-09-08 | 2026-08-26 | 2026-09-08 | 100 |  |
+| B2.33 71 16.034 | Lighting Luminares Inst | Pole (12 M Single Arm) | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 84 | 64 |
+| B2.33 71 16.032 | PC & RC Foundation | Pole (12 M Single Arm) | Task | Completed | 2026-08-29 | 2026-09-09 | 2026-08-29 | 2026-09-09 | 100 |  |
+| B2.33 71 16.033 | Lighting Poles Installation Incl power box, Cables | Pole (12 M Single Arm) | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 84 | 22 |
+| B2.33 71 16.035 | Backfilling, Grouting & Chamfering | Pole (12 M Single Arm) | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 64 |
+| B2.33 71 19 20 | Land Adjustment | Earthing | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 22 |
+| B2.33 71 19 21 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 22 |
+| B2.33 71 19 22 | Backfilling | Earthing | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 22 |
+| B2.33 71 26 03 | Pillars Installation (Internal Wiring) | SL Pillars | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 87 |
+| B2.33 71 00 02 43 | Excavation | 4 Way | Task | Not Started | 2026-10-13 | 2026-10-21 |  |  | 0 | 74 |
+| B2.33 71 00 02 44 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-22 | 2026-10-26 |  |  | 0 | 74 |
+| B2.33 71 00 02 45 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-27 | 2026-10-31 |  |  | 0 | 74 |
+| B2.33 71 49.23.65 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-10-18 | 2026-10-22 |  |  | 0 | 59 |
+| B2.33 71 49.23.66 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 76 |
+| B2.33 71 49.23.67 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 76 |
+| B2.33 71 16.35 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 59 |
+| B2.26.56.19.2 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 61 |
+| B2.33 71 16.36 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 61 |
+| B2.33 71 16.37 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 61 |
+| B2.33 71 16.38 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 62 |
+| B2.33 71 19 23 | Land Adjustment | Earthing | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 62 |
+| B2.33 71 19 24 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 62 |
+| B2.33 71 19 25 | Backfilling | Earthing | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 62 |
+| B2.33 71 49.23.68 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 34 |
+| B2.33 71 49.23.69 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 34 |
+| B2.33 71 49.23.70 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 34 |
+| B2.31 23 00.602 | Excavation | 4 Way | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 34 |
+| B2.33 71 00.212 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-09-20 | 2026-09-28 |  |  | 0 | 34 |
+| B2.33 71 00.213 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-11 | 2026-10-17 |  |  | 0 | 34 |
+| B2.33 71 00 01 1 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 66 |
+| B2.33 71 00 02 46 | Excavation | 2 Way | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 62 |
+| B2.33 71 00 02 47 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 67 |
+| B2.33 71 00 02 48 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 67 |
+| B2.33 71 00 02 49 | Excavation | 4 Way | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 62 |
+| B2.33 71 00 02 50 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 66 |
+| B2.33 71 00 02 51 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 66 |
+| B2.33 71 16.39 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 69 |
+| B2.26.56.19.3 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 69 |
+| B2.33 71 16.40 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 69 |
+| B2.33 71 16.41 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 69 |
+| B2.33 71 16.42 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | 68.9 |
+| B2.33 71 00 02 52 | Excavation | 4 Way | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 62 |
+| B2.33 71 00 02 53 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 62 |
+| B2.33 71 00 02 54 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 67 |
+| B3.33 14 13.02.011 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-10-06 | 2026-10-13 |  |  | 0 | 67 |
+| B3.33 14 13.02.012 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 83 |
+| B3.33 14 13.02.013 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-10-18 | 2026-10-25 |  |  | 0 | 83 |
+| B3.33 14 13.02.13 | Earthwork | Plots and Buildings Crossing | Task | Completed | 2026-05-20 | 2026-05-23 | 2026-05-20 | 2026-05-23 | 100 |  |
+| B3.33 14 13.02.14 | Sand Bedding | Plots and Buildings Crossing | Task | Completed | 2026-05-21 | 2026-05-24 | 2026-05-21 | 2026-05-24 | 100 |  |
+| B3.33 14 13.02.15 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Completed | 2026-05-24 | 2026-05-25 | 2026-05-24 | 2026-05-25 | 100 |  |
+| B3.33 14 19.01.104 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Completed | 2026-02-25 | 2026-04-05 | 2026-02-25 | 2026-04-05 | 100 |  |
+| B3.33 14 19.01.105 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 107 |
+| B3.33 05 63.02.012 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-14 | 2026-06-15 | 2026-06-14 | 2026-06-15 | 100 |  |
+| B3.33 05 63.02.014 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 50 | 94 |
+| B3.33 05 63.02.011 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-11 | 2026-06-14 | 2026-06-11 | 2026-06-14 | 100 |  |
+| B3.33 05 63.02.013 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-15 | 2026-06-15 | 2026-06-15 | 2026-06-15 | 100 |  |
+| B3.33 05 63.02.015 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-26 |  |  | 0 | 94 |
+| B3.33 05 63.02.15 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-09 | 2026-09-12 | 2026-09-09 | 2026-09-12 | 100 |  |
+| B3.33 05 63.02.16 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-14 | 2026-09-15 | 2026-09-14 | 2026-09-15 | 100 |  |
+| B3.33 05 63.02.17 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-08 | 2026-06-27 | 2026-06-08 | 2026-06-27 | 100 |  |
+| B3.33 05 63.02.18 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-13 | 2026-09-13 | 2026-09-13 | 2026-09-13 | 100 |  |
+| B3.33 05 63.02.19 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-21 |  |  | 0 | 70 |
+| B3.33 14 19.01.106 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | In Progress | 2026-05-02 | 2026-09-17 | 2026-05-01 |  | 75 | 102 |
+| B3.33 14 19.01.107 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 102 |
+| B3.33 05 63.02.20 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-24 | 2026-09-28 |  |  | 0 | 82 |
+| B3.33 05 63.02.21 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-04 | 2026-10-08 |  |  | 0 | 82 |
+| B3.33 05 63.02.22 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 67 |
+| B3.33 05 63.02.23 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 82 |
+| B3.33 05 63.02.24 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 82 |
+| B3.33 14 13.02.16 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-09-28 | 2026-10-05 |  |  | 0 | 67 |
+| B3.33 14 13.02.17 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 90 |
+| B3.33 14 13.02.18 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-10-10 | 2026-10-17 |  |  | 0 | 90 |
+| B3.33 14 19.01.108 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Completed | 2026-04-20 | 2026-05-09 | 2026-04-20 | 2026-05-09 | 100 |  |
+| B3.33 14 19.01.109 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 86 |
+| B3.33 05 63.01.012 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 67 |
+| B3.33 05 63.01.014 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-27 | 2026-11-01 |  |  | 0 | 67 |
+| B3.33 05 63.01.011 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 67 |
+| B3.33 05 63.01.013 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-22 | 2026-10-26 |  |  | 0 | 67 |
+| B3.33 05 63.01.015 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 67 |
+| B3.33 14 13.02.19 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-09-16 | 2026-09-21 |  |  | 0 | 89 |
+| B3.33 14 13.02.20 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 89 |
+| B3.33 14 13.02.21 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 89 |
+| B3.33 14 19.01.110 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Completed | 2026-09-02 | 2026-09-12 | 2026-09-02 | 2026-09-12 | 100 |  |
+| B3.33 14 19.01.111 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 107 |
+| B3.33 05 63.01.15 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 86 |
+| B3.33 05 63.01.16 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 86 |
+| B3.33 05 63.01.17 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 67 |
+| B3.33 05 63.01.18 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 86 |
+| B3.33 05 63.01.19 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-13 | 2026-10-18 |  |  | 0 | 86 |
+| B3.33 14 19.01.112 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 75 | 107 |
+| B3.33 14 19.01.113 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 94 |
+| B3.33 05 63.02.25 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 82 |
+| B3.33 05 63.02.26 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-30 | 2026-10-05 |  |  | 0 | 82 |
+| B3.33 05 63.02.27 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 82 |
+| B3.33 05 63.02.28 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-26 | 2026-09-29 |  |  | 0 | 82 |
+| B3.33 05 63.02.29 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-06 | 2026-10-10 |  |  | 0 | 82 |
+| B3.33 14 13.02.22 | Earthwork | Plots and Buildings Crossing | Task | Completed | 2026-04-12 | 2026-04-19 | 2026-04-12 | 2026-04-19 | 100 |  |
+| B3.33 14 13.02.23 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 85 |
+| B3.33 14 13.02.24 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-09-24 | 2026-10-01 |  |  | 0 | 85 |
+| B3.33 05 63.01.20 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 87 |
+| B3.33 05 63.01.21 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 87 |
+| B3.33 05 63.01.22 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 87 |
+| B3.33 05 63.01.23 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-26 | 2026-09-29 |  |  | 0 | 87 |
+| B3.33 05 63.01.24 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-24 | 2026-10-27 |  |  | 0 | 71 |
+| B3.33 14 19.01.114 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 104 |
+| B3.33 14 19.01.115 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 104 |
+| B3.33 05 63.02.30 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 72.5 |
+| B3.33 05 63.02.31 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-26 | 2026-11-01 |  |  | 0 | 72.5 |
+| B3.33 05 63.02.32 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 72.5 |
+| B3.33 05 63.02.33 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 72.5 |
+| B3.33 05 63.02.34 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-08 | 2026-11-12 |  |  | 0 | 67 |
+| B3.33 14 13.02.25 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-09-20 | 2026-09-28 |  |  | 0 | 20 |
+| B3.33 14 13.02.26 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-09-29 | 2026-10-04 |  |  | 0 | 87 |
+| B3.33 14 13.02.27 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-10-05 | 2026-10-12 |  |  | 0 | 87 |
+| B3.33 14 19.01.116 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Completed | 2026-09-02 | 2026-09-07 | 2026-09-02 | 2026-09-07 | 100 |  |
+| B3.33 14 19.01.117 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 113 |
+| B3.33 05 63.02.35 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 50 | 113.5 |
+| B3.33 05 63.02.36 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 50 | 102 |
+| B3.33 05 63.02.37 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-02 | 2026-09-16 | 2026-09-02 |  | 50 | 91 |
+| B3.33 05 63.02.38 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 50 | 113.5 |
+| B3.33 05 63.02.39 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-30 | 2026-10-05 |  |  | 0 | 94 |
+| B3.33 14 13.02.28 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 91 |
+| B3.33 14 13.02.29 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 91 |
+| B3.33 14 13.02.30 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 91 |
+| B3.33 14 19.01.118 | Burried Isolation Valve Installation | Gate valves dia (110) mm | Task | Completed | 2026-05-03 | 2026-05-06 | 2026-05-03 | 2026-05-06 | 100 |  |
+| B3.33 14 19.01.119 | Spindle & Surface Box | Gate valves dia (110) mm | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 94 |
+| B3.33 14 13.02.31 | Earthwork | Plots and Buildings Crossing | Task | Not Started | 2026-09-16 | 2026-09-24 |  |  | 0 | 92 |
+| B3.33 14 13.02.32 | Sand Bedding | Plots and Buildings Crossing | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 92 |
+| B3.33 14 13.02.33 | Tee, Pipe (Crossing) Installation & Backfilling | Plots and Buildings Crossing | Task | Not Started | 2026-09-30 | 2026-10-07 |  |  | 0 | 91 |
+| B3.33 05 63.01.25 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 62.5 | 113.9 |
+| B3.33 05 63.01.26 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 62.5 | 70.5 |
+| B3.33 05 63.01.27 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-07-06 | 2026-09-17 | 2026-07-06 |  | 62.5 | 109 |
+| B3.33 05 63.01.28 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 62.5 | 113.9 |
+| B3.33 05 63.01.29 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-19 | 2026-09-26 |  |  | 0 | 70.5 |
+| B3.33 14 19.01.fm17 | Fixing Flange/Connections | Flow Meter (On Chamber) | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 68 |
+| B3.33 14 19.01.fm16 | RC Conc. Works | Flow Meter (On Chamber) | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 61 |
+| B3.33 14 19.01.fm18 | Flow Meter Installation | Flow Meter (On Chamber) | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 68 |
+| B3.33 14 19.01.120 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-03-05 | 2026-03-31 | 2026-03-05 | 2026-03-31 | 100 |  |
+| B3.33 14 19.01.121 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 67 |
+| B3.33 05 63.02.40 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-13 | 2026-06-14 | 2026-06-13 | 2026-06-14 | 100 |  |
+| B3.33 05 63.02.41 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-06-16 | 2026-09-17 | 2026-06-16 |  | 50 | 63 |
+| B3.33 05 63.02.42 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-10 | 2026-06-11 | 2026-06-10 | 2026-06-11 | 100 |  |
+| B3.33 05 63.02.43 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-15 | 2026-06-15 | 2026-06-15 | 2026-06-15 | 100 |  |
+| B3.33 05 63.02.44 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-28 |  |  | 0 | 63 |
+| B3.33 05 63.01.30 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-09 | 2026-05-11 | 2026-05-09 | 2026-05-11 | 100 |  |
+| B3.33 05 63.01.31 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-17 | 2026-05-18 | 2026-05-17 | 2026-05-18 | 100 |  |
+| B3.33 05 63.01.32 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-02 | 2026-05-07 | 2026-05-02 | 2026-05-07 | 100 |  |
+| B3.33 05 63.01.33 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-14 | 2026-05-16 | 2026-05-14 | 2026-05-16 | 100 |  |
+| B3.33 05 63.01.34 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-18 | 2026-05-19 | 2026-05-18 | 2026-05-19 | 100 |  |
+| B3.33 14 19.01.fh3 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Completed | 2026-04-21 | 2026-05-09 | 2026-04-21 | 2026-05-09 | 100 |  |
+| B3.33 14 19.01.fh2 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Completed | 2026-04-20 | 2026-05-02 | 2026-04-20 | 2026-05-02 | 100 |  |
+| B3.33 14 19.01.fh5 | Backfilling & Compaction | Fire Hydrant | Task | Completed | 2026-04-27 | 2026-05-16 | 2026-04-27 | 2026-05-16 | 100 |  |
+| B3.33 14 19.01.122 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 63 |
+| B3.33 14 19.01.123 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 63 |
+| B3.33 05 63.02.45 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-26 | 2026-10-01 |  |  | 0 | 82.6 |
+| B3.33 05 63.02.46 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-07 | 2026-10-14 |  |  | 0 | 82.6 |
+| B3.33 05 63.02.47 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-26 |  |  | 0 | 82.6 |
+| B3.33 05 63.02.48 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-01 | 2026-10-07 |  |  | 0 | 82.6 |
+| B3.33 05 63.02.49 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-14 | 2026-10-21 |  |  | 0 | 86.6 |
+| B3.33 05 63.01.35 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-30 | 2026-10-06 |  |  | 0 | 82.6 |
+| B3.33 05 63.01.36 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 82.6 |
+| B3.33 05 63.01.37 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-26 | 2026-09-30 |  |  | 0 | 82.6 |
+| B3.33 05 63.01.38 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-06 | 2026-10-12 |  |  | 0 | 82.6 |
+| B3.33 05 63.01.39 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-19 | 2026-10-26 |  |  | 0 | 82.6 |
+| B3.33 14 19.01.fh19 | Firehydrant Fixing/Installation | Fire Hydrant | Task | In Progress | 2026-06-15 | 2026-09-19 | 2026-06-15 |  | 1 | 111.0 |
+| B3.33 14 19.01.fh20 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | In Progress | 2026-06-08 | 2026-09-17 | 2026-06-08 |  | 1 | 82.6 |
+| B3.33 14 19.01.fh21 | Backfilling & Compaction | Fire Hydrant | Task | In Progress | 2026-06-08 | 2026-09-21 | 2026-06-08 |  | 1 | 59 |
+| B3.33 14 19.01.124 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 86 | 77 |
+| B3.33 14 19.01.125 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 63 |
+| B3.33 05 63.01.40 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 67 |
+| B3.33 05 63.01.41 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-13 | 2026-10-19 |  |  | 0 | 63 |
+| B3.33 05 63.01.42 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 67 |
+| B3.33 05 63.01.43 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 67 |
+| B3.33 05 63.01.44 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-20 | 2026-10-26 |  |  | 0 | 63 |
+| B3.33 14 19.01.fh22 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 64 |
+| B3.33 14 19.01.fh23 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 64 |
+| B3.33 14 19.01.fh24 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-10-03 | 2026-10-10 |  |  | 0 | 64 |
+| B3.33 14 19.01.126 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 82 |
+| B3.33 14 19.01.127 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Completed | 2026-08-17 | 2026-09-13 | 2026-08-17 | 2026-09-13 | 100 |  |
+| B3.33 05 63.02.50 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-10 | 2026-09-16 | 2026-09-10 |  | 75 | 113 |
+| B3.33 05 63.02.51 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-14 | 2026-09-16 | 2026-09-14 |  | 75 | 67 |
+| B3.33 05 63.02.52 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-07 | 2026-09-16 | 2026-09-07 |  | 75 | 113 |
+| B3.33 05 63.02.53 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-12 | 2026-09-16 | 2026-09-12 |  | 75 | 113 |
+| B3.33 05 63.02.54 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-27 |  |  | 0 | 67 |
+| B3.33 05 63.01.45 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-09-10 | 2026-09-12 | 2026-09-10 | 2026-09-12 | 100 |  |
+| B3.33 05 63.01.46 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-09-12 | 2026-09-14 | 2026-09-12 | 2026-09-14 | 100 |  |
+| B3.33 05 63.01.47 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-09-07 | 2026-09-08 | 2026-09-07 | 2026-09-08 | 100 |  |
+| B3.33 05 63.01.48 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-09-12 | 2026-09-13 | 2026-09-12 | 2026-09-13 | 100 |  |
+| B3.33 05 63.01.49 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-24 | 2026-10-01 |  |  | 0 | 78.0 |
+| B3.33 14 19.01.fh25 | Firehydrant Fixing/Installation | Fire Hydrant | Task | In Progress | 2026-06-20 | 2026-09-19 | 2026-06-20 |  | 1 | 111.0 |
+| B3.33 14 19.01.fh26 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Completed | 2026-06-09 | 2026-06-13 | 2026-06-09 | 2026-06-13 | 100 |  |
+| B3.33 14 19.01.fh27 | Backfilling & Compaction | Fire Hydrant | Task | In Progress | 2026-06-23 | 2026-09-21 | 2026-06-23 |  | 1 | 78.0 |
+| B3.33 14 19.01.fh28 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 44 |
+| B3.33 14 19.01.fh29 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 44 |
+| B3.33 14 19.01.fh30 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-10-03 | 2026-10-10 |  |  | 0 | 44 |
+| B3.33 14 19.01.128 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-04-29 | 2026-05-24 | 2026-04-29 | 2026-05-24 | 100 |  |
+| B3.33 14 19.01.129 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 97 |
+| B3.33 05 63.02.55 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-27 |  |  | 0 | 59 |
+| B3.33 05 63.02.56 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-04 | 2026-10-10 |  |  | 0 | 59 |
+| B3.33 05 63.02.57 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 59 |
+| B3.33 05 63.02.58 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 59 |
+| B3.33 05 63.02.59 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-11 | 2026-10-17 |  |  | 0 | 59 |
+| B3.33 05 63.01.50 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-27 |  |  | 0 | 59 |
+| B3.33 05 63.01.51 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-04 | 2026-10-10 |  |  | 0 | 59 |
+| B3.33 05 63.01.52 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 59 |
+| B3.33 05 63.01.53 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 59 |
+| B3.33 05 63.01.54 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-11 | 2026-10-17 |  |  | 0 | 59 |
+| B3.33 14 19.01.fh31 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Not Started | 2026-09-21 | 2026-09-27 |  |  | 0 | 87 |
+| B3.33 14 19.01.fh32 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 87 |
+| B3.33 14 19.01.fh33 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 87 |
+| B3.33 05 63.02.60 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 56 |
+| B3.33 05 63.02.61 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-28 | 2026-11-03 |  |  | 0 | 56 |
+| B3.33 05 63.02.62 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 56 |
+| B3.33 05 63.02.63 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-22 | 2026-10-27 |  |  | 0 | 56 |
+| B3.33 05 63.02.64 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-04 | 2026-11-08 |  |  | 0 | 56 |
+| B3.33 14 19.01.fh34 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 82 |
+| B3.33 14 19.01.fh35 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Not Started | 2026-10-05 | 2026-10-08 |  |  | 0 | 82 |
+| B3.33 14 19.01.fh36 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-11-15 | 2026-11-19 |  |  | 0 | 56 |
+| B3.33 05 63.02.65 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-02 | 2026-11-05 |  |  | 0 | 60 |
+| B3.33 05 63.02.66 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 60 |
+| B3.33 05 63.02.67 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-28 | 2026-11-01 |  |  | 0 | 60 |
+| B3.33 05 63.02.68 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | 60 |
+| B3.33 05 63.02.69 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-17 | 2026-11-21 |  |  | 0 | 60 |
+| B3.33 14 19.01.fh37 | Firehydrant Fixing/Installation | Fire Hydrant | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 73 |
+| B3.33 14 19.01.fh38 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | Not Started | 2026-10-21 | 2026-10-25 |  |  | 0 | 73 |
+| B3.33 14 19.01.fh39 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-11-21 | 2026-11-25 |  |  | 0 | 56 |
+| B3.33 14 19.01.130 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-04-01 | 2026-04-04 | 2026-04-01 | 2026-04-04 | 100 |  |
+| B3.33 14 19.01.131 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 72 |
+| B3.33 05 63.02.70 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-26 | 2026-09-30 |  |  | 0 | 87 |
+| B3.33 05 63.02.71 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-07 | 2026-10-13 |  |  | 0 | 87 |
+| B3.33 05 63.02.72 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 87 |
+| B3.33 05 63.02.73 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-01 | 2026-10-06 |  |  | 0 | 87 |
+| B3.33 05 63.02.74 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-14 | 2026-10-20 |  |  | 0 | 87 |
+| B3.33 05 63.01.55 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 50 | 112.5 |
+| B3.33 05 63.01.56 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-07-06 | 2026-09-17 | 2026-07-06 |  | 50 | 112 |
+| B3.33 05 63.01.57 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-06-27 | 2026-06-29 | 2026-06-26 | 2026-06-29 | 100 |  |
+| B3.33 05 63.01.58 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-07-02 | 2026-09-17 | 2026-07-02 |  | 50 | 112.5 |
+| B3.33 05 63.01.59 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-07-09 | 2026-09-17 | 2026-07-09 |  | 50 | 87 |
+| B3.33 14 19.01.fh40 | Firehydrant Fixing/Installation | Fire Hydrant | Task | In Progress | 2026-06-20 | 2026-09-19 | 2026-06-20 |  | 1 | 111.0 |
+| B3.33 14 19.01.fh41 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | In Progress | 2026-06-17 | 2026-09-17 | 2026-06-17 |  | 1 | 112.0 |
+| B3.33 14 19.01.fh42 | Backfilling & Compaction | Fire Hydrant | Task | In Progress | 2026-06-23 | 2026-09-21 | 2026-06-23 |  | 1 | 109.0 |
+| B3.33 14 19.01.132 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-05-16 | 2026-05-17 | 2026-05-15 | 2026-05-17 | 100 |  |
+| B3.33 14 19.01.133 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 67 |
+| B3.33 05 63.02.75 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-12 | 2026-09-14 | 2026-09-12 | 2026-09-14 | 100 |  |
+| B3.33 05 63.02.76 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-15 | 2026-09-15 | 2026-09-15 | 2026-09-15 | 100 |  |
+| B3.33 05 63.02.77 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-09 | 2026-09-10 | 2026-09-09 | 2026-09-10 | 100 |  |
+| B3.33 05 63.02.78 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-09-12 | 2026-09-14 | 2026-09-12 | 2026-09-14 | 100 |  |
+| B3.33 05 63.02.79 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 95 |
+| B3.33 14 19.01.fh43 | Firehydrant Fixing/Installation | Fire Hydrant | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 50 | 80.5 |
+| B3.33 14 19.01.fh44 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | In Progress | 2026-09-09 | 2026-09-16 | 2026-09-09 |  | 50 | 81 |
+| B3.33 14 19.01.fh45 | Backfilling & Compaction | Fire Hydrant | Task | Not Started | 2026-10-11 | 2026-10-18 |  |  | 0 | 64 |
+| B3.33 14 19.01.134 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | In Progress | 2026-07-18 | 2026-09-17 | 2026-07-17 |  | 62.5 | 63 |
+| B3.33 14 19.01.135 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-10-27 | 2026-10-31 |  |  | 0 | 63 |
+| B3.33 05 63.02.80 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-02 | 2026-09-17 | 2026-09-02 |  | 50 | 112.5 |
+| B3.33 05 63.02.81 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 50 | 68 |
+| B3.33 05 63.02.82 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-07-02 | 2026-09-16 | 2026-07-02 |  | 50 | 113 |
+| B3.33 05 63.02.83 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 50 | 112.5 |
+| B3.33 05 63.02.84 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-28 |  |  | 0 | 68 |
+| B3.33 05 63.01.60 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 50 | 112.5 |
+| B3.33 05 63.01.61 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 50 | 68 |
+| B3.33 05 63.01.62 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-07-04 | 2026-09-16 | 2026-07-04 |  | 50 | 113 |
+| B3.33 05 63.01.63 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 50 | 112.5 |
+| B3.33 05 63.01.64 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-09-21 | 2026-09-28 |  |  | 0 | 68 |
+| B3.33 14 19.01.fh46 | Firehydrant Fixing/Installation | Fire Hydrant | Task | In Progress | 2026-07-01 | 2026-09-19 | 2026-07-01 |  | 1 | 111.0 |
+| B3.33 14 19.01.fh47 | Riser Pipe & Flanged Fittings Installation | Fire Hydrant | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 1 | 112.0 |
+| B3.33 14 19.01.fh48 | Backfilling & Compaction | Fire Hydrant | Task | In Progress | 2026-07-20 | 2026-09-21 | 2026-07-20 |  | 1 | 63 |
+| B3.33 14 19.01.fm49 | Fixing Flange/Connections | Flow Meter (On Chamber) | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 61 |
+| B3.33 14 19.01.fm50 | RC Conc. Works | Flow Meter (On Chamber) | Task | Not Started | 2026-09-21 | 2026-09-27 |  |  | 0 | 61 |
+| B3.33 14 19.01.fm51 | Flow Meter Installation | Flow Meter (On Chamber) | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 61 |
+| B3.33 14 19.01.136 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-03-09 | 2026-04-02 | 2026-03-09 | 2026-04-02 | 100 |  |
+| B3.33 14 19.01.137 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 60 |
+| B3.33 05 63.02.85 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-13 | 2026-06-15 | 2026-06-13 | 2026-06-15 | 100 |  |
+| B3.33 05 63.02.86 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | In Progress | 2026-06-15 | 2026-09-17 | 2026-06-15 |  | 50 | 5 |
+| B3.33 05 63.02.87 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-10 | 2026-06-11 | 2026-06-10 | 2026-06-11 | 100 |  |
+| B3.33 05 63.02.88 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Completed | 2026-06-14 | 2026-06-14 | 2026-06-14 | 2026-06-14 | 100 |  |
+| B3.33 05 63.02.89 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-09-20 | 2026-09-26 |  |  | 0 | 5 |
+| B3.33 05 63.01.65 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-06-10 | 2026-09-17 | 2026-06-10 |  | 60 | 113.8 |
+| B3.33 05 63.01.66 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-06-14 | 2026-09-17 | 2026-06-14 |  | 60 | 66.4 |
+| B3.33 05 63.01.67 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Completed | 2026-05-23 | 2026-05-24 | 2026-05-23 | 2026-05-24 | 100 |  |
+| B3.33 05 63.01.68 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | In Progress | 2026-06-11 | 2026-09-17 | 2026-06-11 |  | 60 | 113.8 |
+| B3.33 05 63.01.69 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 25 |
+| B3.33 14 19.01.138 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | In Progress | 2026-07-11 | 2026-09-16 | 2026-07-10 |  | 50 | 8 |
+| B3.33 14 19.01.139 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 8 |
+| B3.33 05 63.02.90 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-26 | 2026-10-29 |  |  | 0 | 28 |
+| B3.33 05 63.02.91 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 28 |
+| B3.33 05 63.02.92 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 28 |
+| B3.33 05 63.02.93 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | 28 |
+| B3.33 05 63.02.94 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 25 |
+| B3.33 14 19.01.140 | Burried Isolation Valve Installation | Gate valves dia (250) mm | Task | Completed | 2026-03-10 | 2026-04-02 | 2026-03-10 | 2026-04-02 | 100 |  |
+| B3.33 14 19.01.141 | Spindle & Surface Box | Gate valves dia (250) mm | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 34 |
+| B3.33 05 63.02.95 | Foundations | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 43 |
+| B3.33 05 63.02.96 | Chamber Curing, Finishing & Steel Cover | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 43 |
+| B3.33 05 63.02.97 | Land Adjustment & Compaction | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 38 |
+| B3.33 05 63.02.98 | Chambers Walls Conc Cast In Situ | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 43 |
+| B3.33 05 63.02.99 | Valve & Fitting Installation | Air valves on less than 315 mm. (In Chamber) | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 25 |
+| B3.33 05 63.01.70 | Foundations | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 38 |
+| B3.33 05 63.01.71 | Chamber Curing, Finishing & Steel Cover | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-22 | 2026-10-27 |  |  | 0 | 38 |
+| B3.33 05 63.01.72 | Land Adjustment & Compaction | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 38 |
+| B3.33 05 63.01.73 | Chambers Walls Conc Cast In Situ | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 38 |
+| B3.33 05 63.01.74 | Valve & Fitting Installation | Washout valves on 110-400 mm. (In Chamber) | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 38 |
+| B3.33 14 19.01.142 | Burried Isolation Valve Installation | Gate valves dia (100) mm | Task | In Progress | 2026-06-13 | 2026-09-16 | 2026-06-12 |  | 50 | 99 |
+| B3.33 14 19.01.143 | Spindle & Surface Box | Gate valves dia (100) mm | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 99 |
+| B4.32 84 13.10 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 25 |
+| B4.32 84 13.03 | Solenoid Valve Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 25 |
+| B4.32 84 13.12 | Bubblers Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 25 |
+| B4.32 84 13.13 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 25 |
+| B4.32 84 13.14 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 29 |
+| B4.32 84 13.15 | Bubblers Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 29 |
+| B4.32 84 13.16 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 25 |
+| B4.32 84 13.17 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 25 |
+| B4.32 84 13.18 | Bubblers Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 25 |
+| B4.32 84 13.19 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 54 |
+| B4.32 84 13.20 | Solenoid Valve Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 54 |
+| B4.32 84 13.21 | Bubblers Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 54 |
+| B4.32 84 13.22 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 54 |
+| B4.32 84 13.23 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 54 |
+| B4.32 84 13.24 | Bubblers Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 54 |
+| B4.32 84 13.25 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 54 |
+| B4.32 84 13.26 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 54 |
+| B4.32 84 13.27 | Bubblers Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 54 |
+| B4.32 84 13.28 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 31 |
+| B4.32 84 13.29 | Solenoid Valve Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 31 |
+| B4.32 84 13.30 | Bubblers Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 25 |
+| B4.32 84 13.31 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 31 |
+| B4.32 84 13.32 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 34 |
+| B4.32 84 13.33 | Bubblers Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 25 |
+| B4.32 84 13.34 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 31 |
+| B4.32 84 13.35 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 31 |
+| B4.32 84 13.36 | Bubblers Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 31 |
+| B4.32 84 13.37 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 42.4 |
+| B4.32 84 13.38 | Solenoid Valve Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 42.4 |
+| B4.32 84 13.39 | Bubblers Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 25 |
+| B4.32 84 13.40 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-22 | 2026-09-27 |  |  | 0 | 42.4 |
+| B4.32 84 13.41 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 42.4 |
+| B4.32 84 13.42 | Bubblers Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 25 |
+| B4.32 84 13.43 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 42.4 |
+| B4.32 84 13.44 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 42.4 |
+| B4.32 84 13.45 | Bubblers Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 25 |
+| B4.32 84 13.062 | Pull Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-19 | 2026-09-22 |  |  | 0 | 42.4 |
+| B4.32 84 13.061 | Pull Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-22 | 2026-09-27 |  |  | 0 | 42.4 |
+| B4.32 84 13.06 | Pull Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 25 |
+| B4.32 84 13.49 | Pull Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 27 |
+| B4.32 84 13.50 | Pull Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 27 |
+| B4.32 84 13.51 | Pull Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 27 |
+| B4.32 84 13.065 | Pull Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-20 | 2026-09-28 |  |  | 0 | 38 |
+| B4.32 84 13.064 | Pull Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 38 |
+| B4.32 84 13.063 | Pull Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 38 |
+| B4.32 84 13.066 | Pull Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 31 |
+| B4.32 84 13.067 | Pull Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 31 |
+| B4.32 84 13.068 | Pull Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 31 |
+| B4.32 84 13.68 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 25 |
+| B4.32 84 13.69 | Solenoid Valve Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 31 |
+| B4.32 84 13.70 | Bubblers Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 31 |
+| B4.32 84 13.71 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 25 |
+| B4.32 84 13.72 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 28 |
+| B4.32 84 13.73 | Bubblers Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 28 |
+| B4.32 84 13.74 | Cable Laying Two-Wire Decoder (12 AWG) | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 25 |
+| B4.32 84 13.75 | Solenoid Valve Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 25 |
+| B4.32 84 13.76 | Bubblers Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 25 |
+| B4.32 84 13.77 | Pull Box Installation | 1 Solenoid valve ?1.0 inch with box | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 31 |
+| B4.32 84 13.78 | Pull Box Installation | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 25 |
+| B4.32 84 13.79 | Pull Box Installation | 1 Solenoid valve ?2.0 inch with box | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 31 |
+| B4.33 14 13.09 | Extra flexible dripline with 3.0LPH | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 31 |
+| B4.32 84 13.04 | Dripper | 1 Solenoid valve ?1.5 inch with box | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 31 |
+| B1.2.10 14 53.317 | 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-09-28 | 2026-09-29 |  |  | 0 | 33 |
+| B1.2.10 14 53.318 | 2 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 33 |
+| B1.2.10 14 14.01.18 | Ground mounted, 1 Sheet Alumenium, Single post | Installation | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 33 |
+| B2.1.33 81 26.54 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.55 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 45.9 |
+| B2.1.33 81 26.56 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 45.9 |
+| B2.1.33 81 26.57 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.58 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 91.9 |
+| B2.1.33 81 26.59 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-05 | 2026-11-09 |  |  | 0 | 66.9 |
+| B2.1.33 81 26.60 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.61 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 91.9 |
+| B2.1.33 81 26.62 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 91.9 |
+| B2.1.33 81 26.63 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-09-30 | 2026-10-04 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.64 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 32.9 |
+| B2.1.33 81 26.65 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 32.9 |
+| B2.1.33 81 26.66 | Excavation | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.67 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-06 | 2026-10-10 |  |  | 0 | 92.9 |
+| B2.1.33 81 26.68 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-09 | 2026-11-12 |  |  | 0 | 66.9 |
+| B2.31 23 00.603 | Excavation | Manhole Type 1 | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 31.9 |
+| B2.33 71 00.214 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 31.9 |
+| B2.33 71 00.215 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 31.9 |
+| B2.31 23 00.604 | Excavation | Manhole Type 2 | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 31.9 |
+| B2.33 71 00.216 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 90.9 |
+| B2.33 71 00.217 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 90.9 |
+| B2.31 23 00.605 | Excavation | Size (6*50mm) HDPE | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 31.9 |
+| B2.33 71 00.218 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6*50mm) HDPE | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 31.9 |
+| B2.33 71 00.219 | Backfilling & Warrning Tape | Size (6*50mm) HDPE | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.69 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.70 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-03 | 2026-11-07 |  |  | 0 | 63.9 |
+| B2.1.33 81 26.71 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | 63.9 |
+| B2.1.33 81 26.78 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.79 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-05 | 2026-11-09 |  |  | 0 | 61.9 |
+| B2.1.33 81 26.80 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-09 | 2026-11-12 |  |  | 0 | 61.9 |
+| B2.1.33 81 26.81 | Excavation | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 59.9 |
+| B2.1.33 81 26.82 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-08 | 2026-11-11 |  |  | 0 | 59.9 |
+| B2.1.33 81 26.83 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-11 | 2026-11-15 |  |  | 0 | 59.9 |
+| B2.31 23 00.607 | Excavation | Manhole Type 2 | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 54.9 |
+| B2.33 71 00.222 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 60.9 |
+| B2.33 71 00.223 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-11-10 | 2026-11-14 |  |  | 0 | 60.9 |
+| B2.31 23 00.608 | Excavation | Size (6*50mm) HDPE | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 54.9 |
+| B2.33 71 00.224 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6*50mm) HDPE | Task | Not Started | 2026-11-10 | 2026-11-14 |  |  | 0 | 61.9 |
+| B2.33 71 00.225 | Backfilling & Warrning Tape | Size (6*50mm) HDPE | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | 61.9 |
+| B2.31 23 00.609 | Excavation | Size (2*32mm) HDPE | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 54.9 |
+| B2.33 71 00.226 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (2*32mm) HDPE | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 64.9 |
+| B2.33 71 00.227 | Backfilling & Warrning Tape | Size (2*32mm) HDPE | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 64.9 |
+| B2.1.33 81 26.84 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-15 | 2026-10-19 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.85 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 71.9 |
+| B2.1.33 81 26.86 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-28 | 2026-11-01 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.87 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.88 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-21 | 2026-10-25 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.89 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-25 | 2026-10-28 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.93 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.94 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 68.9 |
+| B2.1.33 81 26.95 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-25 | 2026-10-28 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.96 | Excavation | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.97 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 72.9 |
+| B2.1.33 81 26.98 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-01 | 2026-11-04 |  |  | 0 | 67.9 |
+| B2.31 23 00.610 | Excavation | Manhole Type 1 | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 31.9 |
+| B2.33 71 00.228 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 66.9 |
+| B2.33 71 00.229 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 66.9 |
+| B2.31 23 00.611 | Excavation | Manhole Type 2 | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 31.9 |
+| B2.33 71 00.230 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 66.9 |
+| B2.33 71 00.231 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 66.9 |
+| B2.31 23 00.613 | Excavation | Size (2*32mm) HDPE | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 31.9 |
+| B2.33 71 00.234 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (2*32mm) HDPE | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 31.9 |
+| B2.33 71 00.235 | Backfilling & Warrning Tape | Size (2*32mm) HDPE | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.99 | Excavation | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-24 | 2026-10-27 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.100 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-27 | 2026-10-31 |  |  | 0 | 66.9 |
+| B2.1.33 81 26.101 | Backfilling & Warrning Tape | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | 66.9 |
+| B2.1.33 81 26.102 | Excavation | Size (6*32mm) HDPE ducts | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 31.9 |
+| B2.1.33 81 26.103 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*32mm) HDPE ducts | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.104 | Backfilling & Warrning Tape | Size (6*32mm) HDPE ducts | Task | Not Started | 2026-11-01 | 2026-11-04 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.105 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.106 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-12 | 2026-11-16 |  |  | 0 | 60.9 |
+| B2.1.33 81 26.107 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 60.9 |
+| B2.1.33 81 26.108 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.109 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-15 | 2026-11-18 |  |  | 0 | 58.9 |
+| B2.1.33 81 26.110 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-18 | 2026-11-21 |  |  | 0 | 58.9 |
+| B2.1.33 81 26.111 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.112 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-17 | 2026-11-21 |  |  | 0 | 56.9 |
+| B2.1.33 81 26.113 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-21 | 2026-11-23 |  |  | 0 | 56.9 |
+| B2.1.33 81 26.114 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.115 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-19 | 2026-11-23 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.116 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.117 | Excavation | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.118 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-22 | 2026-11-23 |  |  | 0 | 56.9 |
+| B2.1.33 81 26.119 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 56.9 |
+| B2.31 23 00.615 | Excavation | Manhole Type 2 | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 54.9 |
+| B2.33 71 00.238 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-11-24 | 2026-11-25 |  |  | 0 | 54.9 |
+| B2.33 71 00.239 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-11-25 | 2026-11-28 |  |  | 0 | 54.9 |
+| B2.31 23 00.616 | Excavation | Size (6*50mm) HDPE | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 58.9 |
+| B2.33 71 00.240 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6*50mm) HDPE | Task | Not Started | 2026-11-15 | 2026-11-18 |  |  | 0 | 58.9 |
+| B2.33 71 00.241 | Backfilling & Warrning Tape | Size (6*50mm) HDPE | Task | Not Started | 2026-11-18 | 2026-11-21 |  |  | 0 | 58.9 |
+| B2.31 23 00.617 | Excavation | Manhole Type 1 | Task | Not Started | 2026-11-22 | 2026-11-23 |  |  | 0 | 54.9 |
+| B2.33 71 00.242 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 54.9 |
+| B2.33 71 00.243 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-11-25 | 2026-11-28 |  |  | 0 | 54.9 |
+| B2.1.33 81 26.120 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 49 |
+| B2.1.33 81 26.121 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 54 |
+| B2.1.33 81 26.122 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 54 |
+| B2.1.33 81 26.123 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 49 |
+| B2.1.33 81 26.124 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 52 |
+| B2.1.33 81 26.125 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 52 |
+| B2.1.33 81 26.126 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 49 |
+| B2.1.33 81 26.127 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 54 |
+| B2.1.33 81 26.128 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 54 |
+| B2.1.33 81 26.129 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-09-28 | 2026-09-29 |  |  | 0 | 49 |
+| B2.1.33 81 26.130 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 52 |
+| B2.1.33 81 26.131 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-11 | 2026-10-14 |  |  | 0 | 45.9 |
+| B2.31 23 00.619 | Excavation | Size (6X50mm+4X32mm) HDPE | Task | Not Started | 2026-09-30 | 2026-10-01 |  |  | 0 | 49 |
+| B2.33 71 00.246 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6X50mm+4X32mm) HDPE | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 50 |
+| B2.33 71 00.247 | Backfilling & Warrning Tape | Size (6X50mm+4X32mm) HDPE | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 50 |
+| B2.31 23 00.620 | Excavation | Manhole Type 1 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 49 |
+| B2.33 71 00.248 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 80 |
+| B2.33 71 00.249 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 80 |
+| B2.31 23 00.621 | Excavation | Size (2*32mm) HDPE | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 49 |
+| B2.33 71 00.250 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (2*32mm) HDPE | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 49 |
+| B2.33 71 00.251 | Backfilling & Warrning Tape | Size (2*32mm) HDPE | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 37 |
+| B2.1.33 81 26.132 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.133 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-08 |  |  | 0 | 76.9 |
+| B2.1.33 81 26.134 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 76.9 |
+| B2.1.33 81 26.135 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.136 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-06 | 2026-10-10 |  |  | 0 | 89.9 |
+| B2.1.33 81 26.137 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 89.9 |
+| B2.1.33 81 26.138 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.139 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-08 | 2026-10-12 |  |  | 0 | 87.9 |
+| B2.1.33 81 26.140 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 87.9 |
+| B2.1.33 81 26.141 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.142 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 79.9 |
+| B2.1.33 81 26.143 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 79.9 |
+| B2.31 23 00.622 | Excavation | Size (6X50mm) HDPE | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 73.9 |
+| B2.33 71 00.252 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6X50mm) HDPE | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 73.9 |
+| B2.33 71 00.253 | Backfilling & Warrning Tape | Size (6X50mm) HDPE | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 73.9 |
+| B2.31 23 00.623 | Excavation | Manhole Type 1 | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 39.9 |
+| B2.33 71 00.254 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 78.9 |
+| B2.33 71 00.255 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 78.9 |
+| B2.1.33 81 26.144 | Excavation | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.145 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 88.9 |
+| B2.1.33 81 26.146 | Backfilling & Warrning Tape | Size (4*32mm) HDPE ducts | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 88.9 |
+| B2.1.33 81 26.147 | Excavation | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.148 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 72.9 |
+| B2.1.33 81 26.149 | Backfilling & Warrning Tape | Size (6*50mm+6*32mm) HDPE ducts | Task | Not Started | 2026-10-15 | 2026-10-19 |  |  | 0 | 72.9 |
+| B2.31 23 00.625 | Excavation | Manhole Type 2 | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 39.9 |
+| B2.33 71 00.258 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 39.9 |
+| B2.33 71 00.259 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-10-21 | 2026-10-25 |  |  | 0 | 39.9 |
+| B2.1.33 81 26.150 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 37 |
+| B2.1.33 81 26.151 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 40 |
+| B2.1.33 81 26.152 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 40 |
+| B2.1.33 81 26.153 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| B2.1.33 81 26.154 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 81 |
+| B2.1.33 81 26.155 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 81 |
+| B2.1.33 81 26.156 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 37 |
+| B2.1.33 81 26.157 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 37 |
+| B2.1.33 81 26.158 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 37 |
+| B2.1.33 81 26.159 | Excavation | Size (2*32mm) HDPE ducts | Task | Completed | 2026-07-02 | 2026-07-05 | 2026-07-02 | 2026-07-05 | 100 |  |
+| B2.1.33 81 26.160 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Completed | 2026-07-04 | 2026-07-07 | 2026-07-04 | 2026-07-07 | 100 |  |
+| B2.1.33 81 26.161 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Completed | 2026-07-05 | 2026-07-11 | 2026-07-05 | 2026-07-11 | 100 |  |
+| B2.31 23 00.626 | Excavation | Size (6X50mm) HDPE | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 77 |
+| B2.33 71 00.260 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6X50mm) HDPE | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 77 |
+| B2.33 71 00.261 | Backfilling & Warrning Tape | Size (6X50mm) HDPE | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 77 |
+| B2.31 23 00.627 | Excavation | Manhole Type 1 | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 38 |
+| B2.33 71 00.262 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 78 |
+| B2.33 71 00.263 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 78 |
+| B2.31 23 00.628 | Excavation | Manhole Type 2 | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 38 |
+| B2.33 71 00.264 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 38 |
+| B2.33 71 00.265 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 37 |
+| B2.1.33 81 26.162 | Excavation | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 45 | 31.9 |
+| B2.1.33 81 26.163 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-15 | 2026-09-17 | 2026-09-15 |  | 45 | 58.9 |
+| B2.1.33 81 26.164 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 45 | 58.9 |
+| B2.1.33 81 26.165 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-15 | 2026-09-17 | 2026-09-15 |  | 45 | 58.9 |
+| B2.1.33 81 26.166 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-13 | 2026-09-14 | 2026-09-13 |  | 45 | 58.9 |
+| B2.1.33 81 26.167 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 45 | 58.9 |
+| B2.1.33 81 26.168 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-10 | 2026-09-12 | 2026-09-10 |  | 45 | 60.9 |
+| B2.1.33 81 26.169 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-12 | 2026-09-13 | 2026-09-12 |  | 45 | 68.9 |
+| B2.1.33 81 26.170 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-13 | 2026-09-14 | 2026-09-13 |  | 45 | 68.9 |
+| B2.1.33 81 26.171 | Excavation | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-12 | 2026-09-13 | 2026-09-12 |  | 45 | 62.9 |
+| B2.1.33 81 26.172 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-13 | 2026-09-14 | 2026-09-13 |  | 45 | 68.9 |
+| B2.1.33 81 26.173 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 45 | 58.9 |
+| B2.31 23 00.629 | Excavation | Size (6X50mm) HDPE | Task | In Progress | 2026-09-12 | 2026-09-13 | 2026-09-12 |  | 45 | 72 |
+| B2.33 71 00.266 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6X50mm) HDPE | Task | In Progress | 2026-09-13 | 2026-09-14 | 2026-09-13 |  | 45 | 72 |
+| B2.33 71 00.267 | Backfilling & Warrning Tape | Size (6X50mm) HDPE | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 45 | 72 |
+| B2.31 23 00.630 | Excavation | Manhole Type 1 | Task | In Progress | 2026-09-09 | 2026-09-10 | 2026-09-09 |  | 67 | 64 |
+| B2.33 71 00.268 | Manhole Installation | Manhole Type 1 | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 67 | 68 |
+| B2.33 71 00.269 | Backfilling & Warrning Tape | Manhole Type 1 | Task | In Progress | 2026-09-14 | 2026-09-17 | 2026-09-14 |  | 67 | 58.9 |
+| B2.31 23 00.631 | Excavation | Manhole Type 2 | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 67 | 66 |
+| B2.33 71 00.270 | Manhole Installation | Manhole Type 2 | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 67 | 68 |
+| B2.33 71 00.271 | Backfilling & Warrning Tape | Manhole Type 2 | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 67 | 68 |
+| B2.1.33 81 26.174 | Excavation | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 70 | 90 |
+| B2.1.33 81 26.175 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | In Progress | 2026-09-07 | 2026-09-17 | 2026-09-07 |  | 70 | 107 |
+| B2.1.33 81 26.176 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 67.9 |
+| B2.1.33 81 26.177 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 70 | 51 |
+| B2.1.33 81 26.178 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 70 | 103 |
+| B2.1.33 81 26.179 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 103 |
+| B2.1.33 81 26.180 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 70 | 51 |
+| B2.1.33 81 26.181 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 70 | 105 |
+| B2.1.33 81 26.182 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 105 |
+| B2.31 23 00.632 | Excavation | Size (6X50mm) HDPE | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 55 |
+| B2.33 71 00.272 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | Size (6X50mm) HDPE | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 103 |
+| B2.33 71 00.273 | Backfilling & Warrning Tape | Size (6X50mm) HDPE | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 59.9 |
+| B2.31 23 00.633 | Excavation | Manhole Type 1 | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 51 |
+| B2.33 71 00.274 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 99 |
+| B2.33 71 00.275 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 99 |
+| B2.31 23 00.634 | Excavation | Manhole Type 2 | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 51 |
+| B2.33 71 00.276 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-09-26 | 2026-09-27 |  |  | 0 | 97 |
+| B2.33 71 00.277 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 97 |
+| B2.1.33 81 26.183 | Excavation | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 20 |
+| B2.1.33 81 26.184 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 30 |
+| B2.1.33 81 26.185 | Backfilling & Warrning Tape | Size (6*50mm) HDPE ducts | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 30 |
+| B2.1.33 81 26.186 | Excavation | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 20 |
+| B2.1.33 81 26.187 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 26 |
+| B2.1.33 81 26.188 | Backfilling & Warrning Tape | Size (6*50mm+2*32mm) HDPE ducts | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 26 |
+| B2.1.33 81 26.189 | Excavation | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 20 |
+| B2.1.33 81 26.190 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 26 |
+| B2.1.33 81 26.191 | Backfilling & Warrning Tape | Size (6*50mm+4*32mm) HDPE ducts | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 26 |
+| B2.1.33 81 26.192 | Excavation | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 20 |
+| B2.1.33 81 26.193 | HDPE Pipe, Shuttering, Steel Fixing & Conc. Cast | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 24 |
+| B2.1.33 81 26.194 | Backfilling & Warrning Tape | Size (2*32mm) HDPE ducts | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 24 |
+| B2.31 23 00.636 | Excavation | Manhole Type 1 | Task | Not Started | 2026-11-10 | 2026-11-11 |  |  | 0 | 20 |
+| B2.33 71 00.280 | Manhole Installation | Manhole Type 1 | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 22 |
+| B2.33 71 00.281 | Backfilling & Warrning Tape | Manhole Type 1 | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 22 |
+| B2.31 23 00.637 | Excavation | Manhole Type 2 | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | 20 |
+| B2.33 71 00.282 | Manhole Installation | Manhole Type 2 | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 20 |
+| B2.33 71 00.283 | Backfilling & Warrning Tape | Manhole Type 2 | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 20 |
+| B2.33 71 00 02 55 | Excavation | Drawpits | Task | Not Started | 2026-10-25 | 2026-10-27 |  |  | 0 | 64 |
+| B2.33 71 00 02 56 | Drawpits Installation | Drawpits | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 64 |
+| B2.33 71 00 02 57 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 64 |
+| B2.33 71 16.43 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 67 |
+| B2.26.56.19.4 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 71 |
+| B2.33 71 16.44 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-24 | 2026-09-27 |  |  | 0 | 71 |
+| B2.33 71 16.45 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 71 |
+| B2.33 71 16.46 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 71 |
+| B2.33 71 16.47 | Excavation | Pole (10 M Double Arm) | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 67 |
+| B2.26.56.19.5 | Lighting Luminares Inst | Pole (10 M Double Arm) | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 67 |
+| B2.33 71 16.48 | PC & RC Foundation | Pole (10 M Double Arm) | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 67 |
+| B2.33 71 16.49 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Double Arm) | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 67 |
+| B2.33 71 16.50 | Backfilling, Grouting & Chamfering | Pole (10 M Double Arm) | Task | Not Started | 2026-10-08 | 2026-10-13 |  |  | 0 | 67 |
+| B2.33 71 00 02 58 | Excavation | 2 Way | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 68.9 |
+| B2.33 71 00 02 59 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 68.9 |
+| B2.33 71 00 02 60 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-24 | 2026-10-27 |  |  | 0 | 68.9 |
+| B2.33 71 00 02 61 | Excavation | Drawpits | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 69.9 |
+| B2.33 71 00 02 62 | Drawpits Installation | Drawpits | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 69.9 |
+| B2.33 71 00 02 63 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 69.9 |
+| B2.33 71 19 26 | Land Adjustment | Earthing | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 83 |
+| B2.33 71 19 27 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 83 |
+| B2.33 71 19 28 | Backfilling | Earthing | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 83 |
+| B2.33 71 16.51 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 83 |
+| B2.26.56.19.6 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 84 |
+| B2.33 71 16.52 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 83 |
+| B2.33 71 16.53 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 83 |
+| B2.33 71 16.54 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 82 |
+| B2.33 71 16.55 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 59 |
+| B2.26.56.19.7 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 64 |
+| B2.33 71 16.56 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 64 |
+| B2.33 71 16.57 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 64 |
+| B2.33 71 16.58 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 64 |
+| B2.33 71 16.59 | Excavation | Pole (10 M Double Arm) | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 59 |
+| B2.26.56.19.8 | Lighting Luminares Inst | Pole (10 M Double Arm) | Task | Not Started | 2026-11-10 | 2026-11-14 |  |  | 0 | 59 |
+| B2.33 71 16.60 | PC & RC Foundation | Pole (10 M Double Arm) | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 59 |
+| B2.33 71 16.61 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Double Arm) | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 59 |
+| B2.33 71 16.62 | Backfilling, Grouting & Chamfering | Pole (10 M Double Arm) | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 59 |
+| B2.33 71 00 02 64 | Excavation | 2 Way | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 82 |
+| B2.33 71 00 02 65 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 103 |
+| B2.33 71 00 02 66 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 64 |
+| B2.33 71 19 29 | Land Adjustment | Earthing | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 61 |
+| B2.33 71 19 30 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 61 |
+| B2.33 71 19 31 | Backfilling | Earthing | Task | Not Started | 2026-11-21 | 2026-11-23 |  |  | 0 | 58 |
+| B2.33 71 00 02 67 | Excavation | 6 Way | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 82 |
+| B2.33 71 00 02 68 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 101 |
+| B2.33 71 00 02 69 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 65 |
+| B2.33 71 00 02 70 | Excavation | Drawpits | Task | Not Started | 2026-09-26 | 2026-09-27 |  |  | 0 | 82 |
+| B2.33 71 00 02 71 | Drawpits Installation | Drawpits | Task | Not Started | 2026-09-28 | 2026-09-29 |  |  | 0 | 82 |
+| B2.33 71 00 02 72 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 82 |
+| B2.33 71 16.63 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 0.8 |
+| B2.26.56.19.9 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 72.8 |
+| B2.33 71 16.64 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 72.8 |
+| B2.33 71 16.65 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-11 | 2026-10-14 |  |  | 0 | 72.8 |
+| B2.33 71 16.66 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 72.8 |
+| B2.33 71 19 32 | Land Adjustment | Earthing | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 0.8 |
+| B2.33 71 19 33 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 86.8 |
+| B2.33 71 19 34 | Backfilling | Earthing | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 65 |
+| B2.33 71 19 35 | Land Adjustment | Earthing | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 69 |
+| B2.33 71 19 36 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 69 |
+| B2.33 71 19 37 | Backfilling | Earthing | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 69 |
+| B2.33 71 16.67 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 5 |
+| B2.26.56.19.10 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 70 |
+| B2.33 71 16.68 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 70 |
+| B2.33 71 16.69 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 70 |
+| B2.33 71 16.70 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 70 |
+| B2.33 71 16.71 | Excavation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-02 | 2026-09-17 | 2026-09-02 |  | 74.36 | 114 |
+| B2.26.56.19.11 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 18 |
+| B2.33 71 16.72 | PC & RC Foundation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 74.36 | 114 |
+| B2.33 71 16.73 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 74.36 | 18 |
+| B2.33 71 16.74 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 18 |
+| B2.33 71 19 38 | Land Adjustment | Earthing | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 5 |
+| B2.33 71 19 39 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 5 |
+| B2.33 71 19 40 | Backfilling | Earthing | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 5 |
+| B2.33 71 16.75 | Excavation | Pole (10 M Double Arm) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 74.36 | 82 |
+| B2.26.56.19.12 | Lighting Luminares Inst | Pole (10 M Double Arm) | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 21 |
+| B2.33 71 16.76 | PC & RC Foundation | Pole (10 M Double Arm) | Task | In Progress | 2026-09-06 | 2026-09-17 | 2026-09-06 |  | 74.36 | 114 |
+| B2.33 71 16.77 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Double Arm) | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 74.36 | 21 |
+| B2.33 71 16.78 | Backfilling, Grouting & Chamfering | Pole (10 M Double Arm) | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 18 |
+| B2.33 71 19 41 | Land Adjustment | Earthing | Task | Not Started | 2026-11-15 | 2026-11-17 |  |  | 0 | 58 |
+| B2.33 71 19 42 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-11-18 | 2026-11-21 |  |  | 0 | 58 |
+| B2.33 71 19 43 | Backfilling | Earthing | Task | Not Started | 2026-11-24 | 2026-11-25 |  |  | 0 | 56 |
+| B2.33 71 16.79 | Excavation | Pole (10 M Double Arm) | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 56 |
+| B2.26.56.19.13 | Lighting Luminares Inst | Pole (10 M Double Arm) | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 56 |
+| B2.33 71 16.80 | PC & RC Foundation | Pole (10 M Double Arm) | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 56 |
+| B2.33 71 16.81 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Double Arm) | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 56 |
+| B2.33 71 16.82 | Backfilling, Grouting & Chamfering | Pole (10 M Double Arm) | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 56 |
+| B2.33 71 16.83 | Excavation | Pole (16 M Double Arm) | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 58 |
+| B2.26.56.19.14 | Lighting Luminares Inst | Pole (16 M Double Arm) | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 58 |
+| B2.33 71 16.84 | PC & RC Foundation | Pole (16 M Double Arm) | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 58 |
+| B2.33 71 16.85 | Lighting Poles Installation Incl power box, Cables | Pole (16 M Double Arm) | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 58 |
+| B2.33 71 16.86 | Backfilling, Grouting & Chamfering | Pole (16 M Double Arm) | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 58 |
+| B2.33 71 16.87 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 0 |
+| B2.26.56.19.15 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| B2.33 71 16.88 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 0 |
+| B2.33 71 16.89 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 0 |
+| B2.33 71 16.90 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 0 |
+| B2.33 71 00 02 73 | Excavation | 2 Way | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 37 |
+| B2.33 71 00 02 74 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 91 |
+| B2.33 71 00 02 75 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 90 |
+| B2.33 71 00 02 76 | Excavation | Drawpits | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 38 |
+| B2.33 71 00 02 77 | Drawpits Installation | Drawpits | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 90 |
+| B2.33 71 00 02 78 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 90 |
+| B2.33 71 16.91 | Excavation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-10 | 2026-09-13 | 2026-09-10 |  | 50 | 20 |
+| B2.26.56.19.16 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 50 | 40 |
+| B2.33 71 16.92 | PC & RC Foundation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-12 | 2026-09-13 | 2026-09-12 |  | 50 | 20 |
+| B2.33 71 16.93 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | In Progress | 2026-09-13 | 2026-09-14 | 2026-09-13 |  | 50 | 20 |
+| B2.33 71 16.94 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 40 |
+| B2.33 71 00 02 79 | Excavation | 4 Way | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 31.9 |
+| B2.33 71 00 02 80 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-09-22 | 2026-09-27 |  |  | 0 | 31.9 |
+| B2.33 71 00 02 81 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-09-27 | 2026-09-30 |  |  | 0 | 31.9 |
+| B2.33 71 19 44 | Land Adjustment | Earthing | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 20 |
+| B2.33 71 19 45 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 36 |
+| B2.33 71 19 46 | Backfilling | Earthing | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 36 |
+| B2.33 71 26 031 | Pillars Installation (Internal Wiring) | SL Pillars | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 92 |
+| B2.33 71 26 034 | Pillars Installation (Internal Wiring) | SL Pillars | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 28 |
+| B2.33 71 00 02 82 | Excavation | Drawpits | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 31.9 |
+| B2.33 71 00 02 83 | Drawpits Installation | Drawpits | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 31.9 |
+| B2.33 71 00 02 84 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 31.9 |
+| B2.33 71 16.95 | Excavation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 92.625 | 114 |
+| B2.26.56.19.17 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 63 |
+| B2.33 71 16.96 | PC & RC Foundation | Pole (10 M Single Arm) | Task | In Progress | 2026-09-12 | 2026-09-17 | 2026-09-12 |  | 92.625 | 114 |
+| B2.33 71 16.97 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | In Progress | 2026-09-14 | 2026-09-16 | 2026-09-14 |  | 92.625 | 60 |
+| B2.33 71 16.98 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 63 |
+| B2.33 71 00 02 85 | Excavation | 4 Way | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 44 | 31.9 |
+| B2.33 71 00 02 86 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | In Progress | 2026-09-12 | 2026-09-20 | 2026-09-12 |  | 44 | 96.6 |
+| B2.33 71 00 02 87 | Backfilling & Warrning Tape | 4 Way | Task | In Progress | 2026-09-15 | 2026-09-19 | 2026-09-15 |  | 44 | 96.6 |
+| B2.33 71 19 47 | Land Adjustment | Earthing | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 54.9 |
+| B2.33 71 19 48 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-09-28 | 2026-09-30 |  |  | 0 | 58.9 |
+| B2.33 71 19 49 | Backfilling | Earthing | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 36 |
+| B2.33 71 00 02 88 | Excavation | Drawpits | Task | Not Started | 2026-09-17 | 2026-09-20 |  |  | 0 | 31.9 |
+| B2.33 71 00 02 89 | Drawpits Installation | Drawpits | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 107.9 |
+| B2.33 71 00 02 90 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 90 |
+| B2.33 71 16.99 | Excavation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 20 |
+| B2.26.56.19.18 | Lighting Luminares Inst | Pole (10 M Single Arm) | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 20 |
+| B2.33 71 16.100 | PC & RC Foundation | Pole (10 M Single Arm) | Task | Not Started | 2026-10-25 | 2026-10-26 |  |  | 0 | 20 |
+| B2.33 71 16.101 | Lighting Poles Installation Incl power box, Cables | Pole (10 M Single Arm) | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 20 |
+| B2.33 71 16.102 | Backfilling, Grouting & Chamfering | Pole (10 M Single Arm) | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 20 |
+| B2.33 71 19 50 | Land Adjustment | Earthing | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 28 |
+| B2.33 71 19 51 | Earth Rods & Conduits | Earthing | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 30 |
+| B2.33 71 19 52 | Backfilling | Earthing | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 30 |
+| B2.33 71 49.23.71 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 71 |
+| B2.33 71 49.23.72 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 71 |
+| B2.33 71 49.23.73 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 71 |
+| B2.31 23 00.638 | Excavation | 2 Way | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 68.9 |
+| B2.33 71 00.284 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-01 | 2026-10-10 |  |  | 0 | 68.9 |
+| B2.33 71 00.285 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-10 | 2026-10-17 |  |  | 0 | 68.9 |
+| B2.31 23 00.639 | Excavation | 4 Way | Task | Not Started | 2026-09-22 | 2026-09-28 |  |  | 0 | 98.9 |
+| B2.33 71 00.286 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 98.9 |
+| B2.33 71 00.287 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-11-01 | 2026-11-04 |  |  | 0 | 74 |
+| B2.33 71 49.23.74 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 85 |
+| B2.33 71 49.23.75 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 85 |
+| B2.33 71 49.23.76 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 76.9 |
+| B2.33 71 49.23.77 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-24 | 2026-09-28 |  |  | 0 | 3 |
+| B2.33 71 49.23.78 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 86 |
+| B2.33 71 49.23.79 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 76.9 |
+| B2.31 23 00.640 | Excavation | 2 Way | Task | Not Started | 2026-10-05 | 2026-10-08 |  |  | 0 | 75 |
+| B2.33 71 00.288 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-10 | 2026-10-17 |  |  | 0 | 83 |
+| B2.33 71 00.289 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 83 |
+| B2.33 71 49.23.83 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-27 | 2026-10-01 |  |  | 0 | 76.9 |
+| B2.33 71 49.23.84 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-01 | 2026-10-05 |  |  | 0 | 76.9 |
+| B2.33 71 49.23.85 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-05 | 2026-10-10 |  |  | 0 | 76.9 |
+| B2.33 71 49.23.86 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 3 |
+| B2.33 71 49.23.87 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 85 |
+| B2.33 71 49.23.88 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-17 | 2026-10-20 |  |  | 0 | 76.9 |
+| B2.31 23 00.641 | Excavation | 2 Way | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 0 |
+| B2.33 71 00.290 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-03 | 2026-10-11 |  |  | 0 | 0 |
+| B2.33 71 00.291 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 0 |
+| B2.33 71 49.23.89 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-16 | 2026-09-20 |  |  | 0 | 78 |
+| B2.33 71 49.23.90 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 78 |
+| B2.33 71 49.23.91 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 78 |
+| B2.31 23 00.642 | Excavation | 2 Way | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 20 |
+| B2.33 71 00.292 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-04 | 2026-10-11 |  |  | 0 | 20 |
+| B2.33 71 00.293 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 20 |
+| B2.31 23 00.643 | Excavation | 2 Way | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 75 | 55 |
+| B2.33 71 00.294 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | In Progress | 2026-09-13 | 2026-09-17 | 2026-09-13 |  | 75 | 109 |
+| B2.33 71 00.295 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 109 |
+| B2.31 23 00.644 | Excavation | 2 Way | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 30 |
+| B2.33 71 00.296 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-09-26 | 2026-10-03 |  |  | 0 | 30 |
+| B2.33 71 00.297 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-04 | 2026-10-10 |  |  | 0 | 30 |
+| B2 33 73 00.01.85 | Installation of Unit Substation 13.8/0.4 K V | Units Substation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 71 |
+| B2 33 73 00.01.81 | Land Adjustment | Units Substation | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 5 |
+| B2 33 73 00.01.83 | Foundation Works & Curing | Units Substation | Task | Not Started | 2026-10-08 | 2026-10-15 |  |  | 0 | 88 |
+| B2 33 73 00.02.85 | Installation of Ring Main Unit RMU, 13.8KV | RMU | Task | Not Started | 2026-10-11 | 2026-10-18 |  |  | 0 | 26 |
+| B2 33 73 00.02.81 | Land Adjustment | RMU | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 5 |
+| B2 33 73 00.02.83 | Foundation Works & Curing | RMU | Task | Not Started | 2026-09-30 | 2026-10-07 |  |  | 0 | 28 |
+| B2 33 73 00.01.19 | Installation of Unit Substation 13.8/0.4 K V | Units Substation | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 71 |
+| B2 33 73 00.01.15 | Land Adjustment | Units Substation | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 85 |
+| B2 33 73 00.01.17 | Foundation Works & Curing | Units Substation | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 88 |
+| B2 33 73 00.02.19 | Installation of Ring Main Unit RMU, 13.8KV | RMU | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 89 |
+| B2 33 73 00.02.15 | Land Adjustment | RMU | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 85 |
+| B2 33 73 00.02.17 | Foundation Works & Curing | RMU | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 88 |
+| B2.33 71 49.23.92 | Cable 13.8 kV Unarmored | 3C,500mm2 | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 3 |
+| B2.33 71 49.23.93 | Straight joints cables | 3C,500mm2 | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 88 |
+| B2.33 71 49.23.94 | Cable Termination | 3C,500mm2 | Task | Not Started | 2026-10-20 | 2026-10-24 |  |  | 0 | 76.9 |
+| B2 33 73 00.01.9 | Installation of Unit Substation 13.8/0.4 K V | Units Substation | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 76 |
+| B2 33 73 00.01.5 | Land Adjustment | Units Substation | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 30 |
+| B2 33 73 00.01.7 | Foundation Works & Curing | Units Substation | Task | Not Started | 2026-10-17 | 2026-10-20 |  |  | 0 | 76 |
+| B2 33 73 00.02.9 | Installation of Ring Main Unit RMU, 13.8KV | RMU | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 77 |
+| B2 33 73 00.02.5 | Land Adjustment | RMU | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 30 |
+| B2 33 73 00.02.7 | Foundation Works & Curing | RMU | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 76 |
+| B2.33 71 49.23.95 | Cable 13.8 kV Unarmored | 3C,50mm2 | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 3 |
+| B2.33 71 49.23.96 | Straight joints cables | 3C,50mm2 | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 86 |
+| B2.33 71 49.23.97 | Cable Termination | 3C,50mm2 | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 71 |
+| B2.33 71 00 01 9 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-18 | 2026-10-21 |  |  | 0 | 71 |
+| B2.33 71 49.23.98 | Old Cable Grubbing | Cable Replacement | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 0.8 |
+| B2.33 71 49.23.99 | New Cable Installation | Cable Replacement | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 0.8 |
+| B2.33 71 49.23.100 | Backfilling & Warrning Tape | Cable Replacement | Task | Not Started | 2026-10-17 | 2026-10-20 |  |  | 0 | 0.8 |
+| B2.33 71 49.23.101 | Excavation | Cable Replacement | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 0.8 |
+| B2.33 71 00 02 97 | Excavation | 2 Way | Task | Completed | 2026-05-11 | 2026-05-14 | 2026-05-11 | 2026-05-14 | 100 |  |
+| B2.33 71 00 02 98 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Completed | 2026-05-16 | 2026-05-18 | 2026-05-16 | 2026-05-18 | 100 |  |
+| B2.33 71 00 02 99 | Backfilling & Warrning Tape | 2 Way | Task | Completed | 2026-05-19 | 2026-06-14 | 2026-05-19 | 2026-06-14 | 100 |  |
+| B2.33 71 00 02 100 | Excavation | 6 Way | Task | Completed | 2026-06-08 | 2026-06-10 | 2026-06-08 | 2026-06-10 | 100 |  |
+| B2.33 71 00 02 101 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | In Progress | 2026-09-09 | 2026-09-14 | 2026-09-09 |  | 0 | 105 |
+| B2.33 71 00 02 102 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-11-05 | 2026-11-08 |  |  | 0 | 65 |
+| B2.33 71 00 01 10 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 44 |
+| B2.33 71 00 01 11 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 5 |
+| B2.33 71 00 02 103 | Excavation | 2 Way | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 92 |
+| B2.33 71 00 02 104 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 96 |
+| B2.33 71 00 02 105 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 66 |
+| B2.33 71 00 02 106 | Excavation | 4 Way | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 92 |
+| B2.33 71 00 02 107 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 97 |
+| B2.33 71 00 02 108 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 66 |
+| B2.33 71 00 02 109 | Excavation | 6 Way | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 92 |
+| B2.33 71 00 02 110 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 92 |
+| B2.33 71 00 02 111 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 92 |
+| B2.33 71 00 01 12 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 101 |
+| B2.33 71 00 02 112 | Excavation | 2 Way | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 75 |
+| B2.33 71 00 02 113 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 89 |
+| B2.33 71 00 02 114 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-11-12 | 2026-11-15 |  |  | 0 | 65 |
+| B2.33 71 00 02 115 | Excavation | 4 Way | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 75 |
+| B2.33 71 00 02 116 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 84 |
+| B2.33 71 00 02 117 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-18 | 2026-10-20 |  |  | 0 | 84 |
+| B2.33 71 00 02 118 | Excavation | 6 Way | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 75 |
+| B2.33 71 00 02 119 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 77 |
+| B2.33 71 00 02 120 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 82 |
+| B2.33 71 00 01 13 | Cable Pulling | 4C,50+1C,25mm2 | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 75 |
+| B2.33 71 00 02 121 | Excavation | 8 Way | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 75 |
+| B2.33 71 00 02 122 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 8 Way | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 75 |
+| B2.33 71 00 02 123 | Backfilling & Warrning Tape | 8 Way | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 80 |
+| B2.33 71 00 01 14 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 3 |
+| B2.33 71 00 02 127 | Excavation | 4 Way | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 37 |
+| B2.33 71 00 02 128 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-06 | 2026-10-08 |  |  | 0 | 85 |
+| B2.33 71 00 02 129 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-11-01 | 2026-11-03 |  |  | 0 | 66 |
+| B2.33 71 00 02 130 | Excavation | 6 Way | Task | Not Started | 2026-09-27 | 2026-09-28 |  |  | 0 | 82 |
+| B2.33 71 00 02 131 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 97 |
+| B2.33 71 00 02 132 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 97 |
+| B2.33 71 00 02 133 | Excavation | 8 Way | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 82 |
+| B2.33 71 00 02 134 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 8 Way | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 95 |
+| B2.33 71 00 02 135 | Backfilling & Warrning Tape | 8 Way | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 95 |
+| B2.33 71 00 01 15 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 3 |
+| B2.33 71 00 01 16 | Cable Pulling | 4C,50+1C,25mm2 | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 3 |
+| B2.33 71 00 02 136 | Excavation | 6 Way | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 39.9 |
+| B2.33 71 00 02 137 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 87.9 |
+| B2.33 71 00 02 138 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 65 |
+| B2.33 71 00 02 139 | Excavation | 8 Way | Task | Not Started | 2026-09-29 | 2026-10-01 |  |  | 0 | 39.9 |
+| B2.33 71 00 02 140 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 8 Way | Task | Not Started | 2026-10-01 | 2026-10-05 |  |  | 0 | 88.9 |
+| B2.33 71 00 02 141 | Backfilling & Warrning Tape | 8 Way | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 65 |
+| B2.33 71 00 02 142 | Excavation | 2 Way | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 82 |
+| B2.33 71 00 02 143 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-09-27 | 2026-09-29 |  |  | 0 | 99 |
+| B2.33 71 00 02 144 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 65 |
+| B2.33 71 00 01 17 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 3 |
+| B2.33 71 00 01 18 | Cable Pulling | 4C,50+1C,25mm2 | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 3 |
+| B2.33 71 00 02 145 | Excavation | 2 Way | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 65 |
+| B2.33 71 00 02 146 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 2 Way | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 65 |
+| B2.33 71 00 02 147 | Backfilling & Warrning Tape | 2 Way | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 65 |
+| B2.33 71 00 02 148 | Excavation | 6 Way | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 68 |
+| B2.33 71 00 02 149 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 6 Way | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 68 |
+| B2.33 71 00 02 150 | Backfilling & Warrning Tape | 6 Way | Task | Not Started | 2026-10-29 | 2026-11-01 |  |  | 0 | 68 |
+| B2.33 71 00 01 19 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 3 |
+| B2.33 71 00 01 20 | Cable Pulling | 4C,50+1C,25mm2 | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 3 |
+| B2.33 71 00 02 151 | Excavation | 4 Way | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 68 |
+| B2.33 71 00 02 152 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 69 |
+| B2.33 71 00 02 153 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 69 |
+| B2.33 71 26 023 | Installation of 0.6/1 KV Low Voltage Distribution Panels | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 30 |
+| B2.33 71 26 021 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-15 | 2026-10-17 |  |  | 0 | 30 |
+| B2.33 71 26 022 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 30 |
+| B2.33 71 26 013 | Installation of 0.6/1 KV Low Voltage Distribution Pillars | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 31 |
+| B2.33 71 26 011 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-18 | 2026-10-19 |  |  | 0 | 30 |
+| B2.33 71 26 012 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 30 |
+| B2.33 71 26 23 | Installation of 0.6/1 KV Low Voltage Distribution Panels | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 35 |
+| B2.33 71 26 24 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 5 |
+| B2.33 71 26 25 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 35 |
+| B2.33 71 26 26 | Installation of 0.6/1 KV Low Voltage Distribution Pillars | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 35 |
+| B2.33 71 26 27 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 5 |
+| B2.33 71 26 28 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 35 |
+| B2.33 71 26 29 | Installation of 0.6/1 KV Low Voltage Distribution Panels | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 35 |
+| B2.33 71 26 30 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 3 |
+| B2.33 71 26 31 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Panels | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 3 |
+| B2.33 71 26 32 | Installation of 0.6/1 KV Low Voltage Distribution Pillars | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 35 |
+| B2.33 71 26 33 | Land Adjustment | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-08 | 2026-10-10 |  |  | 0 | 3 |
+| B2.33 71 26 34 | Foundation Works & Curing | 0.6/1 KV Low Voltage Distribution Pillars | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 3 |
+| DMM2-Eng-PQ-1999 | Prepare & Submit for LV Panels Materials | Low Voltage Network | Task | Completed | 2026-01-15 | 2026-01-15 | 2026-01-15 | 2026-01-15 | 100 |  |
+| DMM2-Eng-PQ-2000 | Review & Approval for LV Panels Materials | Low Voltage Network | Task | Completed | 2026-02-03 | 2026-02-09 | 2026-02-03 | 2026-02-09 | 100 |  |
+| DMM2-Proc-PO-209 | PR & PO for LV Panels Materials | Low Voltage Network | Task | Completed | 2026-02-04 | 2026-02-12 | 2026-02-04 | 2026-02-12 | 100 |  |
+| DMM2-Proc-Delv-7199 | Manuf. & Delivery for LV Panels Materials | Low Voltage Network | Task | In Progress | 2026-04-09 | 2026-10-10 | 2026-04-09 |  | 80.1066666666664 | 70 |
+| B2.33 71 26 033 | Pillars Installation (Internal Wiring) | SL Pillars | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 67 |
+| B2.33 71 26 032 | Pillars Installation (Internal Wiring) | SL Pillars | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 59 |
+| B2.33 71 26 041 | KWH meter mounting a frame installation | SL Pillars | Task | Not Started | 2026-10-13 | 2026-10-14 |  |  | 0 | 87 |
+| B2.33 71 26 042 | KWH meter mounting a frame installation | SL Pillars | Task | Not Started | 2026-10-07 | 2026-10-08 |  |  | 0 | 92 |
+| B2.33 71 26 043 | KWH meter mounting a frame installation | SL Pillars | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 59 |
+| B2.33 71 26 044 | KWH meter mounting a frame installation | SL Pillars | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 59 |
+| B2.33 71 26 045 | KWH meter mounting a frame installation | SL Pillars | Task | Not Started | 2026-11-08 | 2026-11-09 |  |  | 0 | 28 |
+| B2.33 71 16.103 | Excavation | Pole (16 M Double Arm) | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 58 |
+| B2.26.56.19.19 | Lighting Luminares Inst | Pole (16 M Double Arm) | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 58 |
+| B2.33 71 16.104 | PC & RC Foundation | Pole (16 M Double Arm) | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 58 |
+| B2.33 71 16.105 | Lighting Poles Installation Incl power box, Cables | Pole (16 M Double Arm) | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 58 |
+| B2.33 71 16.106 | Backfilling, Grouting & Chamfering | Pole (16 M Double Arm) | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 58 |
+| B2.33 71 00 02 154 | Excavation | 4 Way | Task | Not Started | 2026-10-01 | 2026-10-03 |  |  | 0 | 82 |
+| B2.33 71 00 02 155 | Shuttering, Steel Fixing Incl. UPVC Pipe & Conc. Cast | 4 Way | Task | Not Started | 2026-10-04 | 2026-10-06 |  |  | 0 | 83 |
+| B2.33 71 00 02 156 | Backfilling & Warrning Tape | 4 Way | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 83 |
+| B2.33 71 00 02 157 | Excavation | Drawpits | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 84 |
+| B2.33 71 00 02 158 | Drawpits Installation | Drawpits | Task | Not Started | 2026-10-06 | 2026-10-07 |  |  | 0 | 85 |
+| B2.33 71 00 02 159 | Backfilling & Warrning Tape | Drawpits | Task | Not Started | 2026-10-27 | 2026-10-31 |  |  | 0 | 68.9 |
+| B6.33 42 11.01-106 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-26 | 2026-02-28 | 2026-02-26 | 2026-02-28 | 100 |  |
+| B6.33 42 11.01-1012 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-28 | 2026-03-01 | 2026-02-28 | 2026-03-01 | 100 |  |
+| B6.33 42 11.01-1018 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-02 | 2026-03-02 | 2026-03-02 | 2026-03-02 | 100 |  |
+| B6.33 42 11.01-1024 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-22 | 2026-04-26 | 2026-04-22 | 2026-04-26 | 100 |  |
+| B6.33 42 11.01-1030 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-23 | 2026-04-28 | 2026-04-23 | 2026-04-28 | 100 |  |
+| B3.2.32 11 23.01.1 | FM200 system for Electrcal Room - Second Fix | FM200 System | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.3 | FM200 system for Electrcal Room - Final Fix | FM200 System | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 3 |
+| B3.2.32 11 23.01.63 | Water proofing Membrane with protection board | Interior Finishes & Fixed Installations | Task | Not Started | 2026-10-20 | 2026-10-22 |  |  | 0 | 21 |
+| B3.2.32 11 23.01.65 | Water proofing with 50mm screed protection | Building Envelope & Waterproofing | Task | Not Started | 2026-09-21 | 2026-09-22 |  |  | 0 | 44 |
+| B3.2.32 11 23.01.79 | Stainless steel at top of tank size of 950x950mm | Building Envelope & Waterproofing | Task | Not Started | 2026-09-24 | 2026-09-26 |  |  | 0 | 44 |
+| DMM2-Proc-Delv-7200 | Manuf. & Delivery for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-10-05 | 2025-11-17 | 2025-10-05 | 2025-11-17 | 100 |  |
+| DMM2-Proc-Delv-7201 | Manuf. & Delivery for Agg. Base Coarse | Earth & Road Works | Task | In Progress | 2026-05-03 | 2026-10-22 | 2026-05-03 |  | 90 | 85 |
+| DMM2-Proc-Delv-7202 | Manuf. & Delivery for Asphalt Materials | Earth & Road Works | Task | In Progress | 2026-06-02 | 2026-11-24 | 2026-06-02 |  | 40 | 22 |
+| DMM2-Proc-Delv-7203 | Manuf. & Delivery for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-11-18 | 2026-04-29 | 2025-11-18 | 2026-04-29 | 100 |  |
+| DMM2-Proc-Delv-7204 | Manuf. & Delivery for Curbstone Materials | Earth & Road Works | Task | In Progress | 2026-08-26 | 2026-10-01 | 2026-08-26 |  | 0 | 27 |
+| DMM2-Proc-Delv-7205 | Manuf. & Delivery for Interlock Materials | Earth & Road Works | Task | Not Started | 2026-09-16 | 2026-10-04 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7206 | Manuf. & Delivery for Pavement Markings Materials | Earth & Road Works | Task | Not Started | 2026-10-05 | 2026-10-15 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7207 | Manuf. & Delivery for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-7208 | Manuf. & Delivery for Traffic Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-17 | 2026-10-27 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7209 | Manuf. & Delivery for ground Mounted Information Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-08 | 2026-10-19 |  |  | 0 | 74 |
+| DMM2-Proc-Delv-7213 | Manuf. & Delivery for uPVC Pipes Materials | Storm Network | Task | Completed | 2025-12-07 | 2025-12-18 | 2025-12-07 | 2025-12-18 | 100 |  |
+| DMM2-Proc-Delv-7240 | Manuf. & Delivery for SL Earthing Materials | Street Lighting | Task | Not Started | 2026-09-29 | 2026-10-04 |  |  | 0 | 91 |
+| DMM2-Proc-Delv-7241 | Manuf. & Delivery for SL Drawpits Materials | Street Lighting | Task | Not Started | 2026-10-04 | 2026-10-07 |  |  | 0 | 88 |
+| DMM2-Proc-Delv-7242 | Manuf. & Delivery for Trees Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-10-21 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-7243 | Manuf. & Delivery for Ornamental Grasses Materials | Landscape Works | Task | Not Started | 2026-11-29 | 2026-12-09 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7244 | Manuf. & Delivery for Geotextile Layers Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-10-21 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7245 | Manuf. & Delivery for Plastic edge Materials | Landscape Works | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7246 | Manuf. & Delivery for Large Shrubs Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-30 |  |  | 0 | 39 |
+| DMM2-Proc-Delv-7247 | Manuf. & Delivery for Plants Materials | Landscape Works | Task | Not Started | 2026-11-11 | 2026-11-28 |  |  | 0 | 10 |
+| DMM2-Proc-Delv-7248 | Manuf. & Delivery for Gravel/Stone Mulch Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-10-10 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7249 | Manuf. & Delivery for Fences (ZATCA HCIS) Materials | Landscape Works | Task | Not Started | 2026-11-17 | 2026-11-28 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7250 | Manuf. & Delivery Prepare & Submit for Fences (MODON) Materials | Landscape Works | Task | Not Started | 2026-11-05 | 2026-11-16 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7251 | Manuf. & Delivery for Vehicle Steel Gate Materials | Landscape Works | Task | Not Started | 2026-10-25 | 2026-11-04 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7252 | Manuf. & Delivery for Vehicle and Pedestrian Steel Gate Materials | Landscape Works | Task | Not Started | 2026-09-19 | 2026-10-24 |  |  | 0 | 8 |
+| DMM2-Proc-Delv-7256 | Manuf. & Delivery for Dripper Materials | TSE Network | Task | Not Started | 2026-09-27 | 2026-10-13 |  |  | 0 | 28 |
+| DMM2-Proc-Delv-7257 | Manuf. & Delivery for Bubbler Materials | TSE Network | Task | Not Started | 2026-09-27 | 2026-10-13 |  |  | 0 | 34 |
+| DMM2-Proc-Delv-7258 | Manuf. & Delivery for Pull Box Materials | TSE Network | Task | Not Started | 2026-09-27 | 2026-10-13 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7259 | Manuf. & Delivery for Two Wire Decoder Cable 12 awg Materials | TSE Network | Task | Not Started | 2026-09-27 | 2026-10-13 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-7263 | Manuf. & Delivery for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-10-22 | 2026-03-09 | 2025-10-22 | 2026-03-09 | 100 |  |
+| DMM2-Proc-Delv-7264 | Manuf. & Delivery for Agg. Base Coarse | Earth & Road Works | Task | In Progress | 2026-05-12 | 2026-09-24 | 2026-05-12 |  | 30 | 109 |
+| DMM2-Proc-Delv-7265 | Manuf. & Delivery for Asphalt Materials | Earth & Road Works | Task | Not Started | 2026-10-17 | 2026-10-27 |  |  | 0 | 22 |
+| DMM2-Proc-Delv-7266 | Manuf. & Delivery for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-12-07 | 2026-04-29 | 2025-12-07 | 2026-04-29 | 100 |  |
+| DMM2-Proc-Delv-7267 | Manuf. & Delivery for Curbstone Materials | Earth & Road Works | Task | Not Started | 2026-10-05 | 2026-10-13 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7268 | Manuf. & Delivery for Interlock Materials | Earth & Road Works | Task | Not Started | 2026-10-05 | 2026-10-21 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7269 | Manuf. & Delivery for Pavement Markings Materials | Earth & Road Works | Task | Not Started | 2026-10-17 | 2026-10-27 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7270 | Manuf. & Delivery for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-7271 | Manuf. & Delivery for Traffic Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-28 | 2026-11-08 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7272 | Manuf. & Delivery for ground Mounted Information Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-20 | 2026-10-31 |  |  | 0 | 74 |
+| DMM2-Proc-Delv-7274 | Manuf. & Delivery for Steel Reinforcement Materials | Storm Network | Task | In Progress | 2026-05-20 | 2026-10-07 | 2026-05-20 |  | 40 | 98 |
+| DMM2-Proc-Delv-7277 | Manuf. & Delivery for uPVC Pipes Materials | Storm Network | Task | In Progress | 2025-12-09 | 2026-09-22 | 2025-12-09 |  | 77.75 | 110 |
+| DMM2-Proc-Delv-7292 | Manuf. & Delivery for Stairs Materials | Civil & Architecture | Task | Not Started | 2026-10-04 | 2026-10-12 |  |  | 0 | 18 |
+| DMM2-Proc-Delv-7293 | Manuf. & Delivery for CMU Walls Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7294 | Manuf. & Delivery for Stainless Steel Ladder Materials | Civil & Architecture | Task | Not Started | 2026-09-22 | 2026-10-10 |  |  | 0 | 20 |
+| DMM2-Proc-Delv-7295 | Manuf. & Delivery for Steel shutter Door Materials | Civil & Architecture | Task | Not Started | 2026-10-04 | 2026-10-20 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7296 | Manuf. & Delivery for Metal Railing Materials | Civil & Architecture | Task | Not Started | 2026-10-12 | 2026-10-20 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7297 | Manuf. & Delivery for Gravel Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 52 |
+| DMM2-Proc-Delv-7298 | Manuf. & Delivery for Handrail Materials | Civil & Architecture | Task | Not Started | 2026-09-24 | 2026-10-11 |  |  | 0 | 3 |
+| DMM2-Proc-Delv-7303 | Manuf. & Delivery for Strainers Materials | Mechanical | Task | Not Started | 2026-10-21 | 2026-11-01 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7304 | Manuf. & Delivery for Sand Trap Louver Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-30 |  |  | 0 | 9 |
+| DMM2-Proc-Delv-7305 | Manuf. & Delivery for FM200 Supression System Materials | Mechanical | Task | Not Started | 2026-10-04 | 2026-10-20 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7306 | Manuf. & Delivery for Hose Bibb Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-10-07 |  |  | 0 | 36 |
+| DMM2-Proc-Delv-7307 | Manuf. & Delivery for Exhaust Fans Materials | Mechanical | Task | Not Started | 2026-10-12 | 2026-10-22 |  |  | 0 | 3 |
+| DMM2-Proc-Delv-7308 | Manuf. & Delivery for Chlorine Cylinder Racks Materials | Mechanical | Task | Not Started | 2026-09-27 | 2026-10-19 |  |  | 0 | 4 |
+| DMM2-Proc-Delv-7309 | Manuf. & Delivery for Chlorinators Materials | Mechanical | Task | Not Started | 2026-09-29 | 2026-10-07 |  |  | 0 | 16 |
+| DMM2-Proc-Delv-7310 | Manuf. & Delivery for Discharge Line Analyzer Materials | Mechanical | Task | Not Started | 2026-10-01 | 2026-10-11 |  |  | 0 | 13 |
+| DMM2-Proc-Delv-7311 | Manuf. & Delivery for Emergency shower Materials | Mechanical | Task | Not Started | 2026-10-04 | 2026-10-14 |  |  | 0 | 32 |
+| DMM2-Proc-Delv-7312 | Manuf. & Delivery for Trench Drain Materials | Mechanical | Task | Not Started | 2026-09-26 | 2026-10-01 |  |  | 0 | 40 |
+| DMM2-Proc-Delv-7328 | Manuf. & Delivery for Trees Materials | Landscape Works | Task | Not Started | 2026-10-22 | 2026-11-08 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-7329 | Manuf. & Delivery for Ornamental Grasses Materials | Landscape Works | Task | Not Started | 2026-11-29 | 2026-12-01 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7330 | Manuf. & Delivery for Geotextile Layers Materials | Landscape Works | Task | Not Started | 2026-10-22 | 2026-11-02 |  |  | 0 | 11 |
+| DMM2-Proc-Delv-7331 | Manuf. & Delivery for Plastic edge Materials | Landscape Works | Task | Not Started | 2026-11-11 | 2026-11-22 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7332 | Manuf. & Delivery for Large Shrubs Materials | Landscape Works | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 39 |
+| DMM2-Proc-Delv-7333 | Manuf. & Delivery for Plants Materials | Landscape Works | Task | Not Started | 2026-11-29 | 2026-12-03 |  |  | 0 | 10 |
+| DMM2-Proc-Delv-7334 | Manuf. & Delivery for Gravel/Stone Mulch Materials | Landscape Works | Task | Not Started | 2026-10-22 | 2026-10-29 |  |  | 0 | 7 |
+| DMM2-Proc-Delv-7335 | Manuf. & Delivery for Fences (ZATCA HCIS) Materials | Landscape Works | Task | Not Started | 2026-11-17 | 2026-12-03 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7336 | Manuf. & Delivery for Fences (MODON) Materials | Landscape Works | Task | Not Started | 2026-11-17 | 2026-12-03 |  |  | 0 | 12 |
+| DMM2-Proc-Delv-7337 | Manuf. & Delivery for Vehicle Steel Gate Materials | Landscape Works | Task | Not Started | 2026-11-05 | 2026-11-16 |  |  | 0 | 16 |
+| DMM2-Proc-Delv-7338 | Manuf. & Delivery for Vehicle and Pedestrian Steel Gate Materials | Landscape Works | Task | Not Started | 2026-10-25 | 2026-11-04 |  |  | 0 | 8 |
+| DMM2-Proc-Delv-7339 | Manuf. & Delivery for Stone Coping Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 18 |
+| DMM2-Proc-Delv-7340 | Manuf. & Delivery for Vapor Retarders Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 34 |
+| DMM2-Proc-Delv-7341 | Manuf. & Delivery for Board Insulation Materials | Civil & Architecture | Task | Not Started | 2026-09-29 | 2026-10-06 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7342 | Manuf. & Delivery for Fluid-Applied Water Proofing Paint Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 44 |
+| DMM2-Proc-Delv-7343 | Manuf. & Delivery for Water proofing Membrane Materials | Civil & Architecture | Task | Not Started | 2026-09-16 | 2026-09-21 |  |  | 0 | 46 |
+| DMM2-Proc-Delv-7344 | Manuf. & Delivery for Concrete Masonry Materials | Civil & Architecture | Task | Not Started | 2026-09-22 | 2026-09-28 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7345 | Manuf. & Delivery for Porcelain Flooring Tiles Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-10-06 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-7346 | Manuf. & Delivery for gypsum Board Suspended Ceiling Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 31 |
+| DMM2-Proc-Delv-7347 | Manuf. & Delivery for Painting Materials | Civil & Architecture | Task | Not Started | 2026-10-11 | 2026-10-12 |  |  | 0 | 31 |
+| DMM2-Proc-Delv-7348 | Manuf. & Delivery for Raised Floor System Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 31 |
+| DMM2-Proc-Delv-7349 | Manuf. & Delivery for Steel Doors Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-7350 | Manuf. & Delivery for Wood Doors Materials | Civil & Architecture | Task | Not Started | 2026-10-13 | 2026-10-18 |  |  | 0 | 29 |
+| DMM2-Proc-Delv-7351 | Manuf. & Delivery for Aluminum Windows Materials | Civil & Architecture | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 24 |
+| DMM2-Proc-Delv-7352 | Manuf. & Delivery for Exhaust Axial Fans Materials | Mechanical | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 18 |
+| DMM2-Proc-Delv-7353 | Manuf. & Delivery for uPVC Pipes Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-17 |  |  | 0 | 8 |
+| DMM2-Proc-Delv-7354 | Manuf. & Delivery for PPR Pipes Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 13 |
+| DMM2-Proc-Delv-7355 | Manuf. & Delivery for DX Wall Mounted Split/AC Materials | Mechanical | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7356 | Manuf. & Delivery for Scupper Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7357 | Manuf. & Delivery for Clean out Materials | Mechanical | Task | Not Started | 2026-09-26 | 2026-09-26 |  |  | 0 | 16 |
+| DMM2-Proc-Delv-7358 | Manuf. & Delivery for Floor Drain Materials | Mechanical | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 19 |
+| DMM2-Proc-Delv-7359 | Manuf. & Delivery for Electrical Water Heater Materials | Mechanical | Task | Not Started | 2026-10-15 | 2026-10-20 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7360 | Manuf. & Delivery for Manhole Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-7361 | Manuf. & Delivery for Shower Materials | Mechanical | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7362 | Manuf. & Delivery for Toilet Materials | Mechanical | Task | Not Started | 2026-10-01 | 2026-10-04 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7363 | Manuf. & Delivery for Semi Pedestal Sink Materials | Mechanical | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7364 | Manuf. & Delivery for Fire Extinguishers (CO2 & Powder) Materials | Mechanical | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7365 | Manuf. & Delivery for Panelboards Materials | Electrical | Task | Not Started | 2026-10-27 | 2026-10-27 |  |  | 0 | 10 |
+| DMM2-Proc-Delv-7366 | Manuf. & Delivery for Low Voltage Cable Materials | Electrical | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 23 |
+| DMM2-Proc-Delv-7367 | Manuf. & Delivery for Lighting Materials | Electrical | Task | Not Started | 2026-09-29 | 2026-10-04 |  |  | 0 | 41 |
+| DMM2-Proc-Delv-7368 | Manuf. & Delivery for Wiring Devices Materials | Electrical | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7369 | Manuf. & Delivery for Ground Wires, Rods, Pits, Clamping Materials | Electrical | Task | Not Started | 2026-09-29 | 2026-10-03 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7370 | Manuf. & Delivery for Enclosed Switches and Circuit Breakers Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 36 |
+| DMM2-Proc-Delv-7371 | Manuf. & Delivery for Fire Alarm System Materials | Electrical | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 17 |
+| DMM2-Proc-Delv-7373 | Manuf. & Delivery for Data Cabinet Materials | Electrical | Task | Not Started | 2026-10-15 | 2026-10-20 |  |  | 0 | 23 |
+| DMM2-Proc-Delv-7374 | Manuf. & Delivery for Data/ Voice RJ45 Outlet Materials | Electrical | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 23 |
+| DMM2-Proc-Delv-7375 | Manuf. & Delivery for PC Workstation Materials | Electrical | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7376 | Manuf. & Delivery for 50 inch Screen Materials | Electrical | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 31 |
+| DMM2-Proc-Delv-7380 | Manuf. & Delivery for Dripper Materials | TSE Network | Task | Not Started | 2026-10-06 | 2026-10-13 |  |  | 0 | 28 |
+| DMM2-Proc-Delv-7381 | Manuf. & Delivery for Bubbler Materials | TSE Network | Task | Not Started | 2026-10-06 | 2026-10-13 |  |  | 0 | 34 |
+| DMM2-Proc-Delv-7382 | Manuf. & Delivery for Pull Box Materials | TSE Network | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7383 | Manuf. & Delivery for Two Wire Decoder Cable 12 awg Materials | TSE Network | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-7393 | Manuf. & Delivery for Fans Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-09-30 |  |  | 0 | 22 |
+| DMM2-Proc-Delv-7394 | Manuf. & Delivery for Louvers Materials | Mechanical | Task | Not Started | 2026-10-01 | 2026-10-18 |  |  | 0 | 32 |
+| DMM2-Proc-Delv-7396 | Manuf. & Delivery for Switches and Circuit Breakers Materials | Electrical | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 32 |
+| DMM2-Proc-Delv-7403 | Manuf. & Delivery for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-11-03 | 2026-04-22 | 2025-11-03 | 2026-04-22 | 100 |  |
+| DMM2-Proc-Delv-7404 | Manuf. & Delivery for Agg. Base Coarse | Earth & Road Works | Task | In Progress | 2026-05-10 | 2026-09-22 | 2026-05-10 |  | 40 | 110 |
+| DMM2-Proc-Delv-7405 | Manuf. & Delivery for Asphalt Materials | Earth & Road Works | Task | In Progress | 2026-06-06 | 2026-09-29 | 2026-06-06 |  | 30 | 7.5 |
+| DMM2-Proc-Delv-7406 | Manuf. & Delivery for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-12-20 | 2026-04-29 | 2025-12-19 | 2026-04-29 | 100 |  |
+| DMM2-Proc-Delv-7407 | Manuf. & Delivery for Curbstone Materials | Earth & Road Works | Task | Not Started | 2026-09-29 | 2026-10-05 |  |  | 0 | 8.5 |
+| DMM2-Proc-Delv-7408 | Manuf. & Delivery for Interlock Materials | Earth & Road Works | Task | Not Started | 2026-09-16 | 2026-10-04 |  |  | 0 | 4 |
+| DMM2-Proc-Delv-7409 | Manuf. & Delivery for Pavement Markings Materials | Earth & Road Works | Task | Not Started | 2026-10-28 | 2026-11-01 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7410 | Manuf. & Delivery for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-7411 | Manuf. & Delivery for Traffic Signs Materials | Earth & Road Works | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7412 | Manuf. & Delivery for ground Mounted Information Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-08 | 2026-10-13 |  |  | 0 | 8 |
+| DMM2-Proc-Delv-7414 | Manuf. & Delivery for Steel Reinforcement Materials | Storm Network | Task | In Progress | 2026-06-01 | 2026-09-24 | 2026-06-01 |  | 50 | 109 |
+| DMM2-Proc-Delv-7417 | Manuf. & Delivery for uPVC Pipes Materials | Storm Network | Task | In Progress | 2026-05-18 | 2026-09-22 | 2026-05-18 |  | 80 | 110.8 |
+| DMM2-Proc-Delv-7432 | Manuf. & Delivery for Metal Ladders Materials | Civil & Architecture | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-7433 | Manuf. & Delivery for Metal Covers Materials | Civil & Architecture | Task | Not Started | 2026-10-14 | 2026-10-15 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-7434 | Manuf. & Delivery for Internal painting (Acrylic) Materials | Civil & Architecture | Task | Not Started | 2026-09-21 | 2026-09-26 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7435 | Manuf. & Delivery for Signages Materials | Civil & Architecture | Task | Not Started | 2026-10-11 | 2026-10-13 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-7439 | Manuf. & Delivery for Geotextile Membrane Materials | Mechanical | Task | In Progress | 2026-01-12 | 2026-10-03 | 2026-01-12 |  | 30 | 24 |
+| DMM2-Proc-Delv-7445 | Manuf. & Delivery for Penstock Materials | Mechanical | Task | Not Started | 2026-09-16 | 2026-10-04 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-7446 | Manuf. & Delivery for Screening Container Materials | Mechanical | Task | Not Started | 2026-10-13 | 2026-10-17 |  |  | 0 | 20 |
+| DMM2-Proc-Delv-7447 | Manuf. & Delivery for Scupper Materials | Mechanical | Task | Not Started | 2026-09-19 | 2026-10-12 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7454 | Manuf. & Delivery for Under Ground Fuel Tank Materials | Electrical | Task | Not Started | 2026-09-16 | 2026-10-10 |  |  | 0 | 21 |
+| DMM2-Proc-Delv-7456 | Manuf. & Delivery for Electrical Hand Holes Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-7457 | Manuf. & Delivery for Galvanized Steel Pole Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-7458 | Manuf. & Delivery for Surfaced Mounted Light (LED) Materials | Electrical | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 33 |
+| DMM2-Proc-Delv-7460 | Manuf. & Delivery for Process Control Wiring Materials | Electrical | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 45 |
+| DMM2-Proc-Delv-7461 | Manuf. & Delivery for Instrumentation for Process Systems Materials | Electrical | Task | Not Started | 2026-10-05 | 2026-10-14 |  |  | 0 | 41 |
+| DMM2-Proc-Delv-7490 | Manuf. & Delivery for Dripper Materials | TSE Network | Task | Not Started | 2026-10-14 | 2026-10-21 |  |  | 0 | 28 |
+| DMM2-Proc-Delv-7491 | Manuf. & Delivery for Bubbler Materials | TSE Network | Task | Not Started | 2026-10-14 | 2026-10-31 |  |  | 0 | 34 |
+| DMM2-Proc-Delv-7492 | Manuf. & Delivery for Pull Box Materials | TSE Network | Task | Not Started | 2026-10-14 | 2026-10-31 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7493 | Manuf. & Delivery for Two Wire Decoder Cable 12 awg Materials | TSE Network | Task | Not Started | 2026-10-14 | 2026-10-31 |  |  | 0 | 25 |
+| DMM2-Proc-Delv-7497 | Manuf. & Delivery for Embankment & Backfilling Materials | Earth & Road Works | Task | Completed | 2025-11-08 | 2025-12-17 | 2025-11-07 | 2025-12-17 | 100 |  |
+| DMM2-Proc-Delv-7498 | Manuf. & Delivery for Agg. Base Coarse | Earth & Road Works | Task | In Progress | 2026-06-04 | 2026-09-26 | 2026-06-04 |  | 10 | 108.8 |
+| DMM2-Proc-Delv-7499 | Manuf. & Delivery for Asphalt Materials | Earth & Road Works | Task | Not Started | 2026-09-29 | 2026-10-07 |  |  | 0 | 7.5 |
+| DMM2-Proc-Delv-7500 | Manuf. & Delivery for Subgrade Materials | Earth & Road Works | Task | Completed | 2025-12-15 | 2026-04-29 | 2025-12-15 | 2026-04-29 | 100 |  |
+| DMM2-Proc-Delv-7501 | Manuf. & Delivery for Curbstone Materials | Earth & Road Works | Task | Not Started | 2026-10-05 | 2026-10-14 |  |  | 0 | 8.5 |
+| DMM2-Proc-Delv-7502 | Manuf. & Delivery for Interlock Materials | Earth & Road Works | Task | Not Started | 2026-10-07 | 2026-10-17 |  |  | 0 | 7.5 |
+| DMM2-Proc-Delv-7503 | Manuf. & Delivery for Pavement Markings Materials | Earth & Road Works | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 35 |
+| DMM2-Proc-Delv-7504 | Manuf. & Delivery for Wheels Stopper (precast concrete) Materials | Earth & Road Works | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 71 |
+| DMM2-Proc-Delv-7505 | Manuf. & Delivery for Traffic Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-17 | 2026-10-20 |  |  | 0 | 7.5 |
+| DMM2-Proc-Delv-7506 | Manuf. & Delivery for ground Mounted Information Signs Materials | Earth & Road Works | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 8 |
+| DMM2-Proc-Delv-7510 | Manuf. & Delivery for uPVC Pipes Materials | Storm Network | Task | In Progress | 2026-04-30 | 2026-09-29 | 2026-04-30 |  | 60 | 105.6 |
+| DMM2-Proc-Delv-7539 | Manuf. & Delivery for Trees Materials | Landscape Works | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 39 |
+| DMM2-Proc-Delv-7540 | Manuf. & Delivery for Ornamental Grasses Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 48 |
+| DMM2-Proc-Delv-7541 | Manuf. & Delivery for Geotextile Layers Materials | Landscape Works | Task | Not Started | 2026-11-03 | 2026-11-09 |  |  | 0 | 11 |
+| DMM2-Proc-Delv-7543 | Manuf. & Delivery for Large Shrubs Materials | Landscape Works | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 51 |
+| DMM2-Proc-Delv-7554 | Manuf. & Delivery for Bubbler Materials | TSE Network | Task | Not Started | 2026-10-31 | 2026-10-31 |  |  | 0 | 34 |
+| DMM2-Proc-Delv-7555 | Manuf. & Delivery for Pull Box Materials | TSE Network | Task | Not Started | 2026-11-01 | 2026-11-04 |  |  | 0 | 27 |
+| DMM2-Proc-Delv-7556 | Manuf. & Delivery for Two Wire Decoder Cable 12 awg Materials | TSE Network | Task | Not Started | 2026-10-31 | 2026-10-31 |  |  | 0 | 25 |
+| DMM2-Eng-PQ-2002 | Review & Approval for PLC Materials - Lift | Electrical | Task | Completed | 2026-01-21 | 2026-01-22 | 2026-01-21 | 2026-01-22 | 100 |  |
+| B7.31 32 19.23.01 | Geotextile to protect trees planting soil | Geotextile | Task | Not Started | 2026-10-21 | 2026-10-28 |  |  | 0 | 22.8 |
+| B7.31 32 19.23.02 | Geotextile below gravel bed | Geotextile | Task | Not Started | 2026-10-28 | 2026-11-04 |  |  | 0 | 22.8 |
+| B7.31 32 19.23.2 | Geotextile to protect trees planting soil | Geotextile | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | 32 |
+| B7.31 32 19.23.3 | Geotextile below gravel bed | Geotextile | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 8 |
+| B7.31 32 19.23.4 | Geotextile to protect trees planting soil | Geotextile | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 14 |
+| B7.31 32 19.23.5 | Geotextile below gravel bed | Geotextile | Task | Not Started | 2026-11-26 | 2026-11-30 |  |  | 0 | 0.8 |
+| B7.31 32 19.23.6 | Geotextile to protect trees planting soil | Geotextile | Task | Not Started | 2026-11-10 | 2026-11-15 |  |  | 0 | 21 |
+| B7.31 32 19.23.7 | Geotextile below gravel bed | Geotextile | Task | Not Started | 2026-11-10 | 2026-11-15 |  |  | 0 | 21 |
+| B7.32 93 43.04.63 | Earthwork | Size (6.1x 2.7)m | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | 18.8 |
+| B7.32 93 43.04.64 | Foundation | Size (6.1x 2.7)m | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | 18.8 |
+| B7.32 93 43.04.65 | Gate Installation | Size (6.1x 2.7)m | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | 8 |
+| B7.32 93 43.04.66 | Earthwork | Size (5.5x 2.7)m | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | 18.8 |
+| B7.32 93 43.04.67 | Foundation | Size (5.5x 2.7)m | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | 18.8 |
+| B7.32 93 43.04.68 | Gate Installation | Size (5.5x 2.7)m | Task | Not Started | 2026-11-17 | 2026-11-21 |  |  | 0 | 18.8 |
+| B7.32 93 43.04.69 | Earthwork | Size (4.85x 2.7)m | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | 20.8 |
+| B7.32 93 43.04.70 | Foundation | Size (4.85x 2.7)m | Task | Not Started | 2026-11-17 | 2026-11-21 |  |  | 0 | 20.8 |
+| B7.32 93 43.04.71 | Gate Installation | Size (4.85x 2.7)m | Task | Not Started | 2026-11-21 | 2026-11-24 |  |  | 0 | 20.8 |
+| B1.1.02 41 00.101 | Removal of existing building | Demolishing and Site Clearing | Task | Completed | 2026-06-08 | 2026-06-15 | 2026-06-08 | 2026-06-15 | 100 |  |
+| B1.2.32 11 23.01.18 | DRAINAGE LAYERS CRUSHED STONE (AGGREGATE) | Earth Layers | Task | Completed | 2026-06-14 | 2026-08-03 | 2026-06-14 | 2026-08-03 | 100 |  |
+| B2.33 71 49.23.05 | Normally Open Point  13.8 KV | RMU | Task | Not Started | 2026-10-19 | 2026-10-26 |  |  | 0 | 26 |
+| B2.33 71 49.23.102 | Normally Open Point  13.8 KV | RMU | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 71 |
+| B3.2.32 11 23.01.250 | External Painting | Building Envelope & Waterproofing | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 5 |
+| B2.33 71 49.23.112 | Cable Pulling | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-14 | 2026-09-15 | 2026-09-14 |  | 50 | 103 |
+| B2.33 71 19 62 | Land Adjustment | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-12 | 2026-09-16 | 2026-09-12 |  | 50 | 115 |
+| B2.33 71 19 72 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 64 |
+| B2.33 71 49.23.122 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 62 |
+| B2.33 71 19 82 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 62 |
+| B2.33 71 19 92 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 62 |
+| B2.33 71 49.23.132 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 71 |
+| B2.33 71 19 102 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 71 |
+| B2.33 71 19 112 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-08 | 2026-11-10 |  |  | 0 | 64 |
+| B2.33 71 49.23.142 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 85 |
+| B2.33 71 19 122 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-08 | 2026-10-11 |  |  | 0 | 5 |
+| B2.33 71 19 132 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 56 |
+| B2.33 71 49.23.152 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | 56 |
+| B2.33 71 19 142 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | 56 |
+| B2.33 71 19 152 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-22 | 2026-11-23 |  |  | 0 | 56 |
+| B2.33 71 49.23.162 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-29 | 2026-11-03 |  |  | 0 | 71 |
+| B2.33 71 19 162 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 71 |
+| B2.33 71 19 172 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 59 |
+| B2.33 71 49.23.172 | Cable Pulling | 4C,16+1C,16mm2 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 80 |
+| B2.33 71 19 182 | Land Adjustment | 4C,16+1C,16mm2 | Task | Not Started | 2026-10-13 | 2026-10-15 |  |  | 0 | 3 |
+| B2.33 71 19 192 | Backfilling | 4C,16+1C,16mm2 | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 56 |
+| B2.33 71 49.23.182 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-03 | 2026-11-04 |  |  | 0 | 28 |
+| B2.33 71 19 202 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 28 |
+| B2.33 71 19 212 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 30 |
+| B2.33 71 49.23.192 | Cable Pulling | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-10 | 2026-09-17 | 2026-09-10 |  | 44 | 60.9 |
+| B2.33 71 19 222 | Land Adjustment | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-09 | 2026-09-17 | 2026-09-09 |  | 44 | 84 |
+| B2.33 71 19 232 | Backfilling | 4C,10+1C,10mm2 | Task | In Progress | 2026-09-13 | 2026-09-16 | 2026-09-13 |  | 44 | 36 |
+| B2.33 71 49.23.202 | Cable Pulling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-04 | 2026-10-05 |  |  | 0 | 29 |
+| B2.33 71 19 242 | Land Adjustment | 4C,10+1C,10mm2 | Task | Not Started | 2026-09-30 | 2026-10-03 |  |  | 0 | 29 |
+| B2.33 71 19 252 | Backfilling | 4C,10+1C,10mm2 | Task | Not Started | 2026-10-25 | 2026-10-28 |  |  | 0 | 72.8 |
+| B2.33 71 16.116 | Excavation | Pole (12 M Single Arm) | Task | In Progress | 2026-09-03 | 2026-09-17 | 2026-09-03 |  | 74.36 | 3 |
+| B2.26.56.19.29 | Lighting Luminares Inst | Pole (12 M Single Arm) | Task | Not Started | 2026-09-19 | 2026-09-20 |  |  | 0 | 23 |
+| B2.33 71 16.126 | PC & RC Foundation | Pole (12 M Single Arm) | Task | In Progress | 2026-09-05 | 2026-09-17 | 2026-09-05 |  | 74.36 | 114 |
+| B2.33 71 16.136 | Lighting Poles Installation Incl power box, Cables | Pole (12 M Single Arm) | Task | In Progress | 2026-09-08 | 2026-09-17 | 2026-09-08 |  | 74.36 | 23 |
+| B2.33 71 16.146 | Backfilling, Grouting & Chamfering | Pole (12 M Single Arm) | Task | Not Started | 2026-09-21 | 2026-09-24 |  |  | 0 | 23 |
+| B3.2. 22 05 23 .11 | Strainer DN80 | Strainers | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 9 |
+| B3.2. 22 05 23 .12 | Strainer DN350 | Strainers | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 9 |
+| B3.2.32 11 23.01.270 | CO2 fire extinguishers | Fire Extinguishers | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 16 |
+| B3.2.32 11 23.01.280 | Powder fire extinguishers | Fire Extinguishers | Task | Not Started | 2026-11-05 | 2026-11-07 |  |  | 0 | 16 |
+| B3.2. 26 28 16 .01 | 630A, 3P, 60Hz Isolator/disconnect switches IP65 | Enclosed Switches and Circuit Breakers | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 22 |
+| B3.2. 26 28 16 .02 | 40A, 3P, 60Hz Isolator/disconnect switches IP65 | Enclosed Switches and Circuit Breakers | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 25 |
+| B3.2. 26 28 16 .03 | 20A, 1P, 60Hz Isolator/disconnect switches IP65 | Enclosed Switches and Circuit Breakers | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 25 |
+| B3.2. 26 05 43 .01 | Hand Hole (EHH-1) 600mm x 600mm x 800mm | Hand Holes | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 32 |
+| B3.2. 26 05 43 .02 | Hand Hole (EHH-2) 400mm x 400mm x 600mm | Hand Holes | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 32 |
+| B3.2.32 11 23.01.290 | Install addressable fire alarm system including smoke detector | Fixtures (LEDs) | Task | Not Started | 2026-10-20 | 2026-10-21 |  |  | 0 | 22 |
+| B4.33 14 13.01-199 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-09 | 2026-09-17 | 2026-02-09 |  | 0 | 10 |
+| B4.33 14 13.01-209 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-21 | 2026-09-17 | 2026-02-21 |  | 0 | 10 |
+| B4.33 14 13.01-219 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-24 | 2026-09-17 | 2026-02-24 |  | 0 | 10 |
+| B4.33 14 13.01-229 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-14 | 2026-09-20 | 2026-03-13 |  | 0 | 8 |
+| B4.33 14 13.01-239 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-18 | 2026-09-21 | 2026-03-18 |  | 0 | 7 |
+| B4.33 14 13.01-249 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-09 | 2026-09-17 | 2026-02-09 |  | 0 | 10 |
+| B4.33 14 13.01-259 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-21 | 2026-09-17 | 2026-02-21 |  | 0 | 10 |
+| B4.33 14 13.01-269 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-02-24 | 2026-09-17 | 2026-02-24 |  | 0 | 10 |
+| B4.33 14 13.01-279 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-06 | 2026-09-20 | 2026-05-06 |  | 0 | 8 |
+| B4.33 14 13.01-289 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-05-11 | 2026-09-21 | 2026-05-11 |  | 0 | 7 |
+| B4.33 14 13.01-299 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-24 | 2026-09-17 | 2026-03-24 |  | 0 | 10 |
+| B4.33 14 13.01-309 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-25 | 2026-09-17 | 2026-03-25 |  | 0 | 10 |
+| B4.33 14 13.01-319 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-03-30 | 2026-09-17 | 2026-03-30 |  | 0 | 10 |
+| B4.33 14 13.01-329 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-06 | 2026-09-20 | 2026-04-06 |  | 0 | 8 |
+| B4.33 14 13.01-339 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-04-12 | 2026-09-21 | 2026-04-12 |  | 0 | 7 |
+| B4.33 14 13.01-349 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-06-29 | 2026-09-17 | 2026-06-29 |  | 0 | 10 |
+| B4.33 14 13.01-359 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-01 | 2026-09-17 | 2026-07-01 |  | 0 | 10 |
+| B4.33 14 13.01-369 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-04 | 2026-09-17 | 2026-07-03 |  | 0 | 10 |
+| B4.33 14 13.01-379 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-12 | 2026-09-20 | 2026-07-12 |  | 0 | 8 |
+| B4.33 14 13.01-389 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-18 | 2026-09-21 | 2026-07-17 |  | 0 | 7 |
+| B4.33 14 13.01-399 | Excavation | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-01 | 2026-09-17 | 2026-07-01 |  | 0 | 6 |
+| B4.33 14 13.01-409 | Sand Bedding | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-05 | 2026-09-17 | 2026-07-05 |  | 0 | 6 |
+| B4.33 14 13.01-419 | Pipe Laying | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-08 | 2026-09-17 | 2026-07-08 |  | 0 | 6 |
+| B4.33 14 13.01-429 | Embedment & Test | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-12 | 2026-09-20 | 2026-07-12 |  | 0 | 4 |
+| B4.33 14 13.01-439 | Backfilling & Warrning Tape | Depth: 0.0m - 1.5m | Task | In Progress | 2026-07-18 | 2026-09-21 | 2026-07-17 |  | 0 | 3 |
+| B3.33 14 19.01.153 | Burried Isolation Valve Installation | Gate valves dia (150) mm | Task | In Progress | 2026-06-14 | 2026-09-16 | 2026-06-14 |  | 50 | 99 |
+| B3.33 14 19.01.163 | Spindle & Surface Box | Gate valves dia (150) mm | Task | Not Started | 2026-09-19 | 2026-09-21 |  |  | 0 | 99 |
+| B5.33 31 00.01.2119 | Excavation | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-11 | 2026-04-29 | 2026-03-11 | 2026-04-29 | 100 |  |
+| B5.33 31 00.01.2129 | Sand Bedding | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-14 | 2026-04-30 | 2026-03-14 | 2026-04-30 | 100 |  |
+| B5.33 31 00.01.2139 | Pipe Laying | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-17 | 2026-04-08 | 2026-03-17 | 2026-04-08 | 100 |  |
+| B5.33 31 00.01.2149 | Embedment & Test | Depth From 0.0m - 1.5m | Task | Completed | 2026-05-06 | 2026-05-11 | 2026-05-06 | 2026-05-11 | 100 |  |
+| B5.33 31 00.01.2159 | Backfilling & Warrning Tape | Depth From 0.0m - 1.5m | Task | In Progress | 2026-05-11 | 2026-09-21 | 2026-05-11 |  | 7.299072 | 111 |
+| B5.33 31 00.01.2169 | Excavation | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-14 | 2026-05-11 | 2026-03-14 | 2026-05-11 | 100 |  |
+| B5.33 31 00.01.2179 | Sand Bedding | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-17 | 2026-05-14 | 2026-03-17 | 2026-05-14 | 100 |  |
+| B5.33 31 00.01.2189 | Pipe Laying | Depth From 0.0m - 1.5m | Task | Completed | 2026-03-24 | 2026-05-18 | 2026-03-19 | 2026-05-18 | 100 |  |
+| B5.33 31 00.01.2199 | Embedment & Test | Depth From 0.0m - 1.5m | Task | In Progress | 2026-04-01 | 2026-09-20 | 2026-04-01 |  | 10.50624 | 112.4 |
+| B5.33 31 00.01.2209 | Backfilling & Warrning Tape | Depth From 0.0m - 1.5m | Task | In Progress | 2026-04-11 | 2026-09-21 | 2026-04-10 |  | 10.4704155647999 | 110 |
+| B6.33 05 39.01.4277 | Blinding Conc, & RC Base | Depth From 4.5m to 5.5m with back drop | Task | Not Started | 2026-09-20 | 2026-09-24 |  |  | 0 | 92 |
+| B6.33 05 39.01.4287 | Manhole Installation | Depth From 4.5m to 5.5m with back drop | Task | Not Started | 2026-09-26 | 2026-09-27 |  |  | 0 | 92 |
+| B6.33 05 39.01.4297 | Test, Internal Finishing, Benching & Cover | Depth From 4.5m to 5.5m with back drop | Task | Not Started | 2026-09-28 | 2026-10-03 |  |  | 0 | 92 |
+| B6.33 05 39.01.4307 | Excavation & Compaction | Depth From 4.5m to 5.5m with back drop | Task | Completed | 2026-02-12 | 2026-02-12 | 2026-02-12 | 2026-02-12 | 100 |  |
+| B6.33 05 39.01.4317 | Backfilling | Depth From 4.5m to 5.5m with back drop | Task | Not Started | 2026-10-04 | 2026-10-08 |  |  | 0 | 92 |
+| B5.1. 26 29 00 .02 | Local Control Panel, IP 65 | Electrical & Control Systems | Task | Not Started | 2026-10-22 | 2026-10-24 |  |  | 0 | 14 |
+| B5.1. 26 32 12 .05 | Positive displacement rotary type pump installation | Electrical & Control Systems | Task | Not Started | 2026-10-15 | 2026-10-18 |  |  | 0 | 11 |
+| B6.33 42 11.361020 | Excavation | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-06 | 2026-05-04 | 2026-04-06 | 2026-05-04 | 100 |  |
+| B6.33 42 11.361030 | Sand Bedding | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-13 | 2026-05-06 | 2026-04-13 | 2026-05-06 | 100 |  |
+| B6.33 42 11.361040 | Pipe Laying | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-20 | 2026-05-10 | 2026-04-20 | 2026-05-10 | 100 |  |
+| B6.33 42 11.361050 | Embedment & Test | Depth From 0.0m to 1.5m | Task | Completed | 2026-04-22 | 2026-05-11 | 2026-04-22 | 2026-05-11 | 100 |  |
+| B6.33 42 11.361060 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-27 | 2026-09-19 | 2026-04-27 |  | 69.1526807999998 | 112.9 |
+| B6.33 42 11.361070 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 70.6482 | 113.7 |
+| B6.33 42 11.361080 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-14 | 2026-09-17 | 2026-04-14 |  | 70.6482 | 113.7 |
+| B6.33 42 11.361090 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-21 | 2026-09-17 | 2026-04-21 |  | 70.6482 | 113.7 |
+| B6.33 42 11.361100 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 70.6482 | 113.4 |
+| B6.33 42 11.361110 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-28 | 2026-09-17 | 2026-04-28 |  | 70.6482 | 113.4 |
+| B6.33 42 11.361120 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-02 | 2026-09-17 | 2026-04-02 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361130 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-09 | 2026-09-17 | 2026-04-09 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361140 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361150 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 65.0916 | 113.4 |
+| B6.33 42 11.361160 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-30 | 2026-09-17 | 2026-04-30 |  | 65.0916 | 113.4 |
+| B6.33 42 11.361170 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-01 | 2026-09-17 | 2026-04-01 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361180 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-08 | 2026-09-17 | 2026-04-08 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361190 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-15 | 2026-09-17 | 2026-04-15 |  | 65.0916 | 113.7 |
+| B6.33 42 11.361200 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 65.0916 | 113.4 |
+| B6.33 42 11.361210 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-29 | 2026-09-17 | 2026-04-29 |  | 65.0916 | 113.4 |
+| B6.33 42 11.13.15 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-01 | 2026-05-07 | 2026-04-01 | 2026-05-07 | 100 |  |
+| B6.33 42 11.13.25 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-05-10 | 2026-04-08 | 2026-05-10 | 100 |  |
+| B6.33 42 11.13.35 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-15 | 2026-05-11 | 2026-04-15 | 2026-05-11 | 100 |  |
+| B6.33 42 11.13.45 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-18 | 2026-05-17 | 2026-04-18 | 2026-05-17 | 100 |  |
+| B6.33 42 11.13.55 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-27 | 2026-09-19 | 2026-04-27 |  | 70.3449683999998 | 112.9 |
+| B6.33 42 11.361220 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-04 | 2026-09-17 | 2026-04-04 |  | 69.0391295999998 | 113.7 |
+| B6.33 42 11.361230 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-09 | 2026-09-17 | 2026-04-09 |  | 69.0391295999998 | 113.7 |
+| B6.33 42 11.361240 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 69.0391295999998 | 113.7 |
+| B6.33 42 11.361250 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 69.0391295999998 | 113.4 |
+| B6.33 42 11.361260 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-28 | 2026-09-17 | 2026-04-28 |  | 69.0391295999998 | 113.4 |
+| B6.33 42 11.361270 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-01 | 2026-09-17 | 2026-04-01 |  | 53.9784 | 113.7 |
+| B6.33 42 11.361280 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-08 | 2026-09-17 | 2026-04-08 |  | 59.535 | 113.7 |
+| B6.33 42 11.361290 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-15 | 2026-09-17 | 2026-04-15 |  | 53.8675537679999 | 113.7 |
+| B6.33 42 11.361300 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 53.8675537679999 | 113.4 |
+| B6.33 42 11.361310 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-26 | 2026-09-17 | 2026-04-26 |  | 53.8675537679999 | 113.2 |
+| B6.33 42 11.361320 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-06 | 2026-09-17 | 2026-04-06 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.361330 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.361340 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.361350 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 70.3449683999998 | 113.4 |
+| B6.33 42 11.361360 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-28 | 2026-09-17 | 2026-04-28 |  | 70.3449683999998 | 113.4 |
+| B6.33 42 11.361370 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 69.6447359999998 | 113.7 |
+| B6.33 42 11.361380 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-15 | 2026-09-17 | 2026-04-15 |  | 69.6447359999998 | 113.7 |
+| B6.33 42 11.361390 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 69.6447359999998 | 113.7 |
+| B6.33 42 11.361400 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 69.6447359999998 | 113.4 |
+| B6.33 42 11.361410 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-29 | 2026-09-17 | 2026-04-29 |  | 69.6447359999998 | 113.4 |
+| B6.33 42 11.13.65 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-07 | 2026-05-07 | 2026-04-07 | 2026-05-07 | 100 |  |
+| B6.33 42 11.13.75 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-11 | 2026-05-10 | 2026-04-11 | 2026-05-10 | 100 |  |
+| B6.33 42 11.13.85 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-13 | 2026-05-12 | 2026-04-13 | 2026-05-12 | 100 |  |
+| B6.33 42 11.13.95 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-16 | 2026-05-14 | 2026-04-16 | 2026-05-14 | 100 |  |
+| B6.33 42 11.13.105 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-19 | 2026-09-19 | 2026-04-19 |  | 69.0391295999998 | 112.9 |
+| B6.33 42 11.13.115 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.125 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-15 | 2026-09-17 | 2026-04-15 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.135 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.145 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-22 | 2026-09-17 | 2026-04-22 |  | 70.3449683999998 | 113.2 |
+| B6.33 42 11.13.155 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-27 | 2026-09-19 | 2026-04-27 |  | 70.3449683999998 | 112.9 |
+| B6.33 42 11.361420 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 70.13412 | 113.7 |
+| B6.33 42 11.361430 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-11 | 2026-09-17 | 2026-04-11 |  | 70.13412 | 113.7 |
+| B6.33 42 11.361440 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-13 | 2026-09-17 | 2026-04-13 |  | 70.13412 | 113.7 |
+| B6.33 42 11.361450 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 70.13412 | 113.4 |
+| B6.33 42 11.361460 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 70.13412 | 113.2 |
+| B6.33 42 11.361470 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 71.442 | 113.7 |
+| B6.33 42 11.361480 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-11 | 2026-09-17 | 2026-04-11 |  | 71.442 | 113.7 |
+| B6.33 42 11.361490 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-13 | 2026-09-17 | 2026-04-13 |  | 71.442 | 113.7 |
+| B6.33 42 11.361500 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 71.442 | 113.4 |
+| B6.33 42 11.361510 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 71.442 | 113.2 |
+| B6.33 42 11.361520 | Excavation | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-07 | 2026-09-17 | 2026-04-07 |  | 59.2805394719999 | 113.7 |
+| B6.33 42 11.361530 | Sand Bedding | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-11 | 2026-09-17 | 2026-04-11 |  | 59.2805394719999 | 113.7 |
+| B6.33 42 11.361540 | Pipe Laying | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-13 | 2026-09-17 | 2026-04-13 |  | 59.2805394719999 | 113.7 |
+| B6.33 42 11.361550 | Embedment & Test | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-16 | 2026-09-17 | 2026-04-16 |  | 59.2805394719999 | 113.4 |
+| B6.33 42 11.361560 | Backfilling & Warrning Tape | Depth From 0.0m to 1.5m | Task | In Progress | 2026-04-19 | 2026-09-17 | 2026-04-19 |  | 59.2805394719999 | 113.2 |
+| B6.33 42 11.13.165 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-08 | 2026-08-27 | 2026-04-08 | 2026-08-27 | 100 |  |
+| B6.33 42 11.13.175 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-04-14 | 2026-08-30 | 2026-04-14 | 2026-08-30 | 100 |  |
+| B6.33 42 11.13.185 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-20 | 2026-09-17 | 2026-04-20 |  | 70.3449683999998 | 113.7 |
+| B6.33 42 11.13.195 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-26 | 2026-09-17 | 2026-04-26 |  | 70.3449683999998 | 113.2 |
+| B6.33 42 11.13.205 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-27 | 2026-09-19 | 2026-04-27 |  | 70.3449683999998 | 112.9 |
+| B6.33 42 11.13.215 | Excavation | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-18 | 2026-09-17 | 2026-04-18 |  | 70.3449683999998 | 63.7 |
+| B6.33 42 11.13.225 | Sand Bedding | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-23 | 2026-09-17 | 2026-04-23 |  | 70.3449683999998 | 63.7 |
+| B6.33 42 11.13.235 | Pipe Laying | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-25 | 2026-09-17 | 2026-04-25 |  | 70.3449683999998 | 63.7 |
+| B6.33 42 11.13.245 | Embedment & Test | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-26 | 2026-09-17 | 2026-04-26 |  | 70.3449683999998 | 63.2 |
+| B6.33 42 11.13.255 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | In Progress | 2026-04-30 | 2026-09-19 | 2026-04-30 |  | 70.3449683999998 | 62.9 |
+| B6.33 42 11.13.265 | Excavation | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-23 | 2026-02-26 | 2026-02-23 | 2026-02-26 | 100 |  |
+| B6.33 42 11.13.275 | Sand Bedding | Depth From 1.5m to 2.5m | Task | Completed | 2026-02-28 | 2026-03-01 | 2026-02-28 | 2026-03-01 | 100 |  |
+| B6.33 42 11.13.285 | Pipe Laying | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-02 | 2026-03-04 | 2026-03-02 | 2026-03-04 | 100 |  |
+| B6.33 42 11.13.295 | Embedment & Test | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-04 | 2026-03-05 | 2026-03-04 | 2026-03-05 | 100 |  |
+| B6.33 42 11.13.305 | Backfilling & Warrning Tape | Depth From 1.5m to 2.5m | Task | Completed | 2026-03-08 | 2026-03-10 | 2026-03-08 | 2026-03-10 | 100 |  |
+| B6.33 05 13.85 | Blinding Conc, & RC Base | Depth From 3.5m to 4.5m | Task | Completed | 2026-04-19 | 2026-04-25 | 2026-04-19 | 2026-04-25 | 100 |  |
+| B6.33 05 13.95 | Manhole Installation | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-10 | 2026-07-02 | 2026-06-10 | 2026-07-02 | 100 |  |
+| B6.33 05 13.105 | Test, Internal Finishing, Benching & Cover | Depth From 3.5m to 4.5m | Task | In Progress | 2026-06-18 | 2026-09-17 | 2026-06-18 |  | 90 | 113 |
+| B6.33 05 13.115 | Excavation & Compaction | Depth From 3.5m to 4.5m | Task | Completed | 2026-01-28 | 2026-01-29 | 2026-01-28 | 2026-01-29 | 100 |  |
+| B6.33 05 13.125 | Backfilling | Depth From 3.5m to 4.5m | Task | Completed | 2026-06-21 | 2026-07-05 | 2026-06-21 | 2026-07-05 | 100 |  |
+| B7.32 93 43.01 | Azadirachta indica | Trees | Task | Not Started | 2026-12-01 | 2026-12-03 |  |  | 0 | 10 |
+| B7.32 93 43.7 | Azadirachta indica | Trees | Task | Not Started | 2026-11-18 | 2026-11-22 |  |  | 0 | 15.8 |
+| B3.2. 26 24 16 .01 | DB-PW Panel: 100 Ampere, 3P, IP66,60Hz | Panelboards | Task | Not Started | 2026-10-27 | 2026-10-28 |  |  | 0 | 12 |
+| B3.2. 26 24 16 .02 | DB-CL Panel: 100 Ampere, 3P, IP66,60Hz | Panelboards | Task | Not Started | 2026-10-29 | 2026-10-31 |  |  | 0 | 12 |
+| B3.2. 26 24 16 .03 | ELP Panel: phtocell , timer,40 Ampere, 3P, IP66,60Hz | Panelboards | Task | Not Started | 2026-11-01 | 2026-11-02 |  |  | 0 | 12 |
+| B1.1.31 23 23.22 | Engineering Backfiling - Service Road | Earthworks & Site Grading | Task | In Progress | 2025-10-22 | 2026-09-30 | 2025-10-22 |  | 12 | 13 |
+| B1.1.31 23 23.32 | Engineering Backfiling - Road 01 - Part 02 | Earthworks & Site Grading | Task | Completed | 2025-10-25 | 2025-12-04 | 2025-10-25 | 2025-12-04 | 100 |  |
+| B1.1.31 23 23.42 | Engineering Backfiling - Commercial Road 01 | Earthworks & Site Grading | Task | Completed | 2025-11-15 | 2026-03-03 | 2025-11-15 | 2026-03-03 | 100 |  |
+| B1.1.31 23 23.52 | Engineering Backfiling - Entrance Road 01 | Earthworks & Site Grading | Task | Completed | 2025-10-28 | 2026-02-01 | 2025-10-28 | 2026-02-01 | 100 |  |
+| B1.1.31 23 23.62 | Engineering Backfiling - Entrance Road 02 | Earthworks & Site Grading | Task | Completed | 2025-11-12 | 2026-03-15 | 2025-11-12 | 2026-03-15 | 100 |  |
+| B1.1.31 23 23.72 | Engineering Backfiling - Management Road 01 | Earthworks & Site Grading | Task | Completed | 2025-11-09 | 2026-02-12 | 2025-11-09 | 2026-02-12 | 100 |  |
+| B1.1.31 23 23.82 | Engineering Backfiling - Parking Roads | Earthworks & Site Grading | Task | Completed | 2025-12-01 | 2026-03-03 | 2025-12-01 | 2026-03-03 | 100 |  |
+| B1.1.31 23 23.92 | Engineering Backfiling - Service Road | Earthworks & Site Grading | Task | Completed | 2026-02-18 | 2026-04-01 | 2026-02-18 | 2026-04-01 | 100 |  |
+| B1.1.31 23 23.102 | Engineering Backfiling - Pump Station | Earthworks & Site Grading | Task | Completed | 2026-01-26 | 2026-03-01 | 2026-01-26 | 2026-03-01 | 100 |  |
+| B1.1.31 23 23.112 | Engineering Backfiling - Guard Rooms | Earthworks & Site Grading | Task | Completed | 2026-02-04 | 2026-03-18 | 2026-02-04 | 2026-03-19 | 100 |  |
+| B1.1.31 23 23.122 | Engineering Backfiling - Customs Road 01 | Earthworks & Site Grading | Task | Completed | 2025-11-08 | 2026-02-21 | 2025-11-08 | 2026-02-21 | 100 |  |
+| B1.1.31 23 23.132 | Engineering Backfiling - Customs Road 02 | Earthworks & Site Grading | Task | Completed | 2025-11-13 | 2026-02-24 | 2025-11-13 | 2026-02-24 | 100 |  |
+| B1.1.31 23 23.142 | Engineering Backfiling - Customs Road 04 & Road 05 | Earthworks & Site Grading | Task | Completed | 2025-10-29 | 2026-02-12 | 2025-10-29 | 2026-02-12 | 100 |  |
+| B1.1.31 23 23.152 | Engineering Backfiling - Customs Road 06 | Earthworks & Site Grading | Task | Completed | 2025-11-03 | 2026-02-16 | 2025-11-03 | 2026-02-16 | 100 |  |
+| B1.1.31 23 23.162 | Engineering Backfiling - Sewerage Lift Station | Earthworks & Site Grading | Task | Completed | 2026-03-05 | 2026-04-04 | 2026-03-05 | 2026-04-04 | 100 |  |
+| B1.1.31 23 23.172 | Engineering Backfiling - Road 03 | Earthworks & Site Grading | Task | Completed | 2025-11-27 | 2026-02-04 | 2025-11-27 | 2026-02-04 | 100 |  |
+| B1.1.31 23 23.182 | Engineering Backfiling - Road 04 | Earthworks & Site Grading | Task | Completed | 2025-11-30 | 2026-02-04 | 2025-11-30 | 2026-02-04 | 100 |  |
+| DMM-Mil-48 | Bituminous concrete Wearing Course - Finish | Networks & Stations | Milestone | Not Started | 2026-11-22 | 2026-11-22 |  |  | 0 | 0 |
+| DMM2-Mob-44 | Level of Effort (Indirect Resources) | Site Facilities and Offices | Task | In Progress | 2025-07-30 | 2027-01-29 | 2025-07-30 |  | 74.45 | 0 |
+| DMM2-Eng-MS-68 | Prepare & Submit for Earth & Road Layers Application | Earth & Road Works | Task | Completed | 2025-09-14 | 2025-09-21 | 2025-09-14 | 2025-09-21 | 100 |  |
+| DMM2-Eng-MS-78 | Review & Approval | Earth & Road Works | Task | Completed | 2025-09-25 | 2025-09-30 | 2025-09-25 | 2025-09-30 | 100 |  |
+| DMM2-Eng-MS-88 | Prepare & Submit (Components Installation, Trees, Fences & Gates, etc..) | Landscape Works | Task | Completed | 2025-12-14 | 2026-01-17 | 2025-12-14 | 2026-01-17 | 100 |  |
+| DMM2-Eng-MS-98 | Review & Approval | Landscape Works | Task | Completed | 2025-12-28 | 2026-01-18 | 2025-12-28 | 2026-01-18 | 100 |  |
+| DMM2-Eng-MS-108 | Prepare & Submit (Earthwork, Concrete, Finishes) | Civil & Architecture | Task | Completed | 2025-09-30 | 2025-10-07 | 2025-09-30 | 2025-10-07 | 100 |  |
+| DMM2-Eng-MS-118 | Review & Approval | Civil & Architecture | Task | Completed | 2025-10-08 | 2025-10-15 | 2025-10-08 | 2025-10-15 | 100 |  |
+| DMM2-Eng-MS-128 | Prepare & Submit | Sewerage Network | Task | Completed | 2025-09-08 | 2025-09-22 | 2025-09-08 | 2025-09-22 | 100 |  |
+| DMM2-Eng-MS-138 | Review & Approval | Sewerage Network | Task | Completed | 2025-09-22 | 2025-09-30 | 2025-09-22 | 2025-09-30 | 100 |  |
+| DMM2-Eng-MS-148 | Prepare & Submit | Storm Network | Task | Completed | 2025-09-08 | 2025-09-22 | 2025-09-08 | 2025-09-22 | 100 |  |
+| DMM2-Eng-MS-158 | Review & Approval | Storm Network | Task | Completed | 2025-08-28 | 2025-09-04 | 2025-08-28 | 2025-09-04 | 100 |  |
+| DMM2-Eng-MS-168 | Prepare & Submit | Potable Network | Task | Completed | 2025-09-08 | 2025-09-22 | 2025-09-08 | 2025-09-22 | 100 |  |
+| DMM2-Eng-MS-178 | Review & Approval | Potable Network | Task | Completed | 2025-09-01 | 2025-09-06 | 2025-09-01 | 2025-09-06 | 100 |  |
+| DMM2-Eng-MS-188 | Prepare & Submit | TSE Network | Task | Completed | 2025-09-08 | 2025-09-22 | 2025-09-08 | 2025-09-22 | 100 |  |
+| DMM2-Eng-MS-198 | Review & Approval | TSE Network | Task | Completed | 2025-09-01 | 2025-09-06 | 2025-09-01 | 2025-09-06 | 100 |  |
+| DMM2-Eng-MS-208 | Prepare & Submit | Fire Fighting Network | Task | Completed | 2025-09-08 | 2025-09-22 | 2025-09-08 | 2025-09-22 | 100 |  |
+| DMM2-Eng-MS-218 | Review & Approval | Fire Fighting Network | Task | Completed | 2025-09-01 | 2025-09-08 | 2025-09-01 | 2025-09-08 | 100 |  |
+| DMM2-Eng-MS-228 | Prepare & Submit | Potable Water Pump Station | Task | In Progress | 2025-12-13 | 2026-09-16 | 2025-12-13 |  | 90.63 | 115 |
+| DMM2-Eng-MS-238 | Review & Approval | Potable Water Pump Station | Task | In Progress | 2025-12-14 | 2026-09-16 | 2025-12-14 |  | 90.63 | 115 |
+| DMM2-Eng-MS-248 | Prepare & Submit | Sewer Lift Station | Task | In Progress | 2025-12-13 | 2026-09-16 | 2025-12-13 |  | 90.63 | 115 |
+| DMM2-Eng-MS-258 | Review & Approval | Sewer Lift Station | Task | In Progress | 2025-12-14 | 2026-09-16 | 2025-12-14 |  | 90.63 | 115 |
+| DMM2-Eng-MS-268 | Prepare & Submit | Medium Voltage Network | Task | Completed | 2025-10-04 | 2025-10-08 | 2025-10-04 | 2025-10-08 | 100 |  |
+| DMM2-Eng-MS-278 | Review & Approval | Medium Voltage Network | Task | Completed | 2025-10-11 | 2025-10-21 | 2025-10-11 | 2025-10-21 | 100 |  |
+| DMM2-Eng-MS-288 | Prepare & Submit | Low Voltage Network | Task | Completed | 2025-10-04 | 2025-10-08 | 2025-10-04 | 2025-10-08 | 100 |  |
+| DMM2-Eng-MS-298 | Review & Approval | Low Voltage Network | Task | Completed | 2025-10-11 | 2025-10-21 | 2025-10-11 | 2025-10-21 | 100 |  |
+| DMM2-Eng-MS-308 | Prepare & Submit | Telecommunication Network | Task | Completed | 2025-10-04 | 2025-10-08 | 2025-10-04 | 2025-10-08 | 100 |  |
+| DMM2-Eng-MS-318 | Review & Approval | Telecommunication Network | Task | Completed | 2025-10-11 | 2025-10-21 | 2025-10-11 | 2025-10-21 | 100 |  |
+| DMM2-Eng-MS-328 | Prepare & Submit | Street Lighting | Task | Completed | 2025-10-04 | 2025-10-08 | 2025-10-04 | 2025-10-08 | 100 |  |
+| DMM2-Eng-MS-338 | Review & Approval | Street Lighting | Task | Completed | 2025-10-11 | 2025-10-21 | 2025-10-11 | 2025-10-21 | 100 |  |
+| DMM2-Eng-MS-348 | Prepare & Submit (Components Installation) & Testing | Mechanical | Task | Completed | 2026-05-17 | 2026-05-17 | 2026-05-17 | 2026-05-17 | 100 |  |
+| DMM2-Eng-MS-358 | Review & Approval | Mechanical | Task | Completed | 2026-05-31 | 2026-05-31 | 2026-05-31 | 2026-05-31 | 100 |  |
+| DMM2-Eng-MS-368 | Prepare & Submit (Components Installation) & Testing | Electrical | Task | Completed | 2025-12-08 | 2026-02-11 | 2025-12-08 | 2026-02-11 | 100 |  |
+| DMM2-Eng-MS-378 | Review & Approval | Electrical | Task | In Progress | 2025-12-10 | 2026-09-16 | 2025-12-10 |  | 70.11 | 115 |
+| B1.2.10 14 53.328 | W-Beam Guard Rail Installation | Guard Rail | Task | Not Started | 2026-09-28 | 2026-10-01 |  |  | 0 | 44 |
+| B2.31 23 00.654 | Excavation | Guard Rail | Task | Not Started | 2026-09-22 | 2026-09-26 |  |  | 0 | 44 |
+| 10 14 53.15 | Foundation | Guard Rail | Task | Not Started | 2026-09-26 | 2026-09-27 |  |  | 0 | 44 |
+| B1.2.10 14 53.338 | W-Beam Guard Rail Installation | Guard Rail | Task | Not Started | 2026-09-26 | 2026-09-29 |  |  | 0 | 46 |
+| B2.31 23 00.664 | Excavation | Guard Rail | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 44 |
+| 10 14 53.25 | Foundation | Guard Rail | Task | Not Started | 2026-09-22 | 2026-09-24 |  |  | 0 | 46 |
+| Prov.Sum 01 | Additional Works | Provisional Sum | Task | Not Started | 2026-11-23 | 2026-12-21 |  |  | 0 | 0 |
+| Mil.Cons.Fin | Construction - Finish Milstone | Construction | Milestone | Not Started | 2026-12-21 | 2026-12-21 |  |  | 0 | 0 |
