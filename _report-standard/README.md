@@ -15,7 +15,7 @@ To get a report, ask Claude in this repository, for example: *"Generate the stan
 | `تقرير-تقدم-<المشروع>-الأسبوع-<NN>.pdf` | Arabic PDF, dark. |
 | `photos/` | The site photos used in the report. |
 
-`<NN>` is the week number of the year the data date falls in (26-Oct-2026 is week 46).
+`<NN>` is the **project week**: whole weeks from site handover (or commencement, if no handover date is given) to the data date, i.e. `(data date − handover) // 7` days. Kharj: 03-Dec-2025 → 26-Oct-2026 is 327 days, week 46. If the weekly report states its own week number, use that.
 
 ## Sections, in order
 
