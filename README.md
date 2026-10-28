@@ -42,33 +42,33 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**14 of 49 uploaded weeks have a generated report.**
+**1 of 49 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
 | # | Project / المشروع | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 02 | [تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة](02-jeddah-3rd-industrial-city-infrastructure/) | – | – | – | – | – | – | – | – | – | – |
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W5/Generated%20Report) | – | – | – | – | – |
-| 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 05 | [تطوير شبكات البنية التحتية للمدينة الصناعية الثالثة بالدمام المرحلة الثانية الجزء الثاني - المنطقة J](05-dammam-3rd-industrial-city-phase2-part2-zone-j/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
-| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
-| 07 | [تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة](07-sudair-industrial-city-infrastructure-phase3/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W4/Generated%20Report) | – | – | – | – | – | – |
-| 08 | [تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x](08-jeddah-1st-industrial-city-infrastructure-1km2-x/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
-| 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 07 | [تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة](07-sudair-industrial-city-infrastructure-phase3/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W4/Generated%20Report) | – | – | – | – | – | – |
+| 08 | [تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x](08-jeddah-1st-industrial-city-infrastructure-1km2-x/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 10 | [مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام](10-dammam-3rd-industrial-city-phase1-part2/) | – | – | – | – | – | – | – | – | – | – |
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | – | – | – | – | – | – | – | – | – | – |
-| 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | – | – | – | – | – | – |
 | 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | – | – | – | – | – | – | – |
-| 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W4/Generated%20Report) | – | – | – | – | – | – |
-| 16 | [استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة](16-makkah-2nd-industrial-city-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
-| 17 | [تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)](17-makkah-2nd-industrial-city-akishiya-roads/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W4/Generated%20Report) | – | – | – | – | – | – |
+| 16 | [استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة](16-makkah-2nd-industrial-city-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 17 | [تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)](17-makkah-2nd-industrial-city-akishiya-roads/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 18 | [محطة ركاب لسار في سدير - Passengers station for SAR in Sudair](18-sudair-sar-passenger-station/) | – | – | – | – | – | – | – | – | – | – |
-| 19 | [مبادرة الملاعب بالمنطقة الوسطى (حائل, واحة القصيم, تبوك)](19-stadiums-initiative-central-region/) | ⏳ | [✅ HTML ✅ PDF ✅ Email](19-stadiums-initiative-central-region/4-Weekly%20update/W2/Generated%20Report) | – | – | – | – | – | – | – | – |
+| 19 | [مبادرة الملاعب بالمنطقة الوسطى (حائل, واحة القصيم, تبوك)](19-stadiums-initiative-central-region/) | ⏳ | [✅ HTML ✅ PDF ❌ Email](19-stadiums-initiative-central-region/4-Weekly%20update/W2/Generated%20Report) | – | – | – | – | – | – | – | – |
 | 20 | [سور للمدينة الصناعية - الدمام الثالثة](20-dammam-3rd-industrial-city-fence/) | – | – | – | – | – | – | – | – | – | – |
-| 21 | [مبادرة الملاعب بالمنطقة الغربية (عسير, جازان, واحة جدة)](21-stadiums-initiative-western-region/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](21-stadiums-initiative-western-region/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 21 | [مبادرة الملاعب بالمنطقة الغربية (عسير, جازان, واحة جدة)](21-stadiums-initiative-western-region/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](21-stadiums-initiative-western-region/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 22 | [مبادرة الملاعب بالمنطقة الشرقية (عرعر, واحة الاحساء, الدمام الثانية)](22-stadiums-initiative-eastern-region/) | – | – | ⏳ | – | – | – | – | – | – | – |
 | 23 | [تسوير المنطقة المطورة بوعد الشمال](23-waad-alshamal-developed-area-fencing/) | – | – | – | – | – | – | – | – | – | – |
 | 24 | [تطوير البنية التحتية المرحلة الأولى من المنطقة اللوجستية في المدينة الصناعية الثالثة بجدة](24-jeddah-3rd-logistics-zone-phase1-infrastructure/) | – | – | – | – | – | – | – | – | – | – |
