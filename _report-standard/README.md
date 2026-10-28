@@ -14,6 +14,7 @@ To get a report, ask Claude in this repository, for example: *"Generate the stan
 | `<Project>-progress-report-week-<NN>.pdf` | English PDF, dark. |
 | `تقرير-تقدم-<المشروع>-الأسبوع-<NN>.pdf` | Arabic PDF, dark. |
 | `photos/` | The site photos used in the report. |
+| `<Project>-PM-email-week-<NN>.md` | Email to the project manager, in formal Arabic (فصحى), built from the same data. See below. |
 
 `<NN>` is the **project week**: whole weeks from site handover (or commencement, if no handover date is given) to the data date, i.e. `(data date − handover) // 7` days. Kharj: 03-Dec-2025 → 26-Oct-2026 is 327 days, week 46. If the weekly report states the contract week (e.g. "Current Contract Weeks: 33 of 44"), use that number (it can be one higher than the formula, because contract weeks count from 1). A report's serial number ("Weekly Report #29") is not the week number.
 
@@ -59,6 +60,20 @@ A section with no data for a project is left out. A section is never filled with
 | العبارة الصندوقية | القناة الصندوقية |
 | تمديدات (cables) | كابل |
 | تمديدات الاتصالات | مجاري الاتصالات |
+
+## Email to the project manager
+
+Every report comes with a ready-to-send email, `<Project>-PM-email-week-<NN>.md`, following [`email-template.md`](email-template.md). It is written in formal Arabic (فصحى), wrapped in `<div dir="rtl">` so it reads right-to-left on GitHub, and has four sections:
+
+1. **أولاً: نسب الإنجاز** — three bullets, all physical % complete:
+   - actual vs planned and SPI;
+   - forecast finish in the schedule update vs the contract date, and the forecast delay in days (or how many days early);
+   - this week's progress rate, and the weekly rate needed to finish on the contract date = (100 − actual %) ÷ whole weeks left from the data date to the contract completion date. If the contract date has passed, say so instead of a rate.
+2. **ثانياً: الأعمال المنفذة هذا الأسبوع** — a short table of the work done this week (item, quantity this week, unit, notes), from the weekly report's this-week activities or quantities. If the report gives none, say so in one line.
+3. **ثالثاً: أهم أسباب تأخر المشروع** — the main causes, from the report (critical path, procurement, approvals, manpower, utilities…). If the project is not late overall, say so and list the items that are behind.
+4. **رابعاً: الإجراءات التصحيحية** — concrete actions with an owner (contractor, consultant, MODON) that answer the causes above.
+
+Dates are written DD/MM/YYYY. Every figure comes from the same files as the report; no cost-based progress.
 
 ## Features every report has
 

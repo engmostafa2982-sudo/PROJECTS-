@@ -57,3 +57,7 @@ Before committing, open the HTML with Playwright, in English and Arabic, and che
 - the PDFs have several A4-shaped pages with no row cut in half
 
 Look at page 1 of each PDF as an image. Then commit the `Generated Report` folder and push.
+
+## 4. Email to the project manager
+
+Also write `Generated Report/<Project>-PM-email-week-<NN>.md` from `_report-standard/email-template.md`, in formal Arabic, following the rules in the standard's "Email to the project manager" section. Use the MODON project manager's name from the report if given. Check every number against the report.
