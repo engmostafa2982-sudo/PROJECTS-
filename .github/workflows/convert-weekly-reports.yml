@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "**/All Files/**"
+      - "**/Generated Report/**"
       - ".github/scripts/**"
       - ".github/workflows/convert-weekly-reports.yml"
   workflow_dispatch:

@@ -1,4 +1,5 @@
-"""Rebuild the upload tracker in README.md: files per folder for every project, plus the latest uploads from git history."""
+"""Rebuild the upload tracker in README.md: files per folder for every project, which weeks have a generated report,
+plus the latest uploads from git history."""
 import os
 import re
 import subprocess
@@ -27,6 +28,17 @@ def link(path, text):
 def cell(folder):
     n = uploaded(folder)
     return link(folder, f"✅ {n}") if n else link(folder, "⬜")
+
+
+def report_cell(week):
+    """Shows whether the week's Generated Report has the HTML and the PDFs (English and Arabic)."""
+    folder = week / "Generated Report"
+    html = sum(1 for _ in folder.glob("*.html")) if folder.is_dir() else 0
+    pdfs = sum(1 for _ in folder.glob("*.pdf")) if folder.is_dir() else 0
+    if not html and not pdfs:
+        return "⏳" if uploaded(week) else "–"
+    target = f"[{{}}]({quote(folder.relative_to(ROOT).as_posix())})"
+    return target.format(f"{'✅' if html else '❌'} HTML {'✅' if pdfs >= 2 else '⚠️' if pdfs else '❌'} PDF")
 
 
 def project_name(project):
@@ -71,6 +83,18 @@ def build():
         filled += sum("✅" in c for c in cells)
         out.append(f"| {p.name[:2]} | [{project_name(p)}]({quote(p.name)}/) | " + " | ".join(cells) + " |")
     out[4:4] = [f"**{filled} of {total} folders have uploads.**", ""]
+    out += ["", "### Generated reports / التقارير المُنشأة", "",
+            "_✅ HTML ✅ PDF = report generated (HTML and the English and Arabic PDFs). ⚠️ PDF = only one of the two PDFs. "
+            "⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._", ""]
+    head = ["#", "Project / المشروع"] + WEEKS
+    out += ["| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
+    done = due = 0
+    for p in projects:
+        cells = [report_cell(p / "4-Weekly update" / w) for w in WEEKS]
+        due += sum(c != "–" for c in cells)
+        done += sum("✅ HTML ✅ PDF" in c for c in cells)
+        out.append(f"| {p.name[:2]} | [{project_name(p)}]({quote(p.name)}/) | " + " | ".join(cells) + " |")
+    out.insert(out.index("### Generated reports / التقارير المُنشأة") + 2, f"**{done} of {due} uploaded weeks have a generated report.**\n")
     out += ["", f"### Latest uploads / آخر الملفات المرفوعة (Riyadh time)", "",
             "| Date | Uploaded by | # | Folder | File |", "|---|---|---|---|---|"]
     out += recent_uploads() or ["| – | – | – | – | No uploads yet |"]
