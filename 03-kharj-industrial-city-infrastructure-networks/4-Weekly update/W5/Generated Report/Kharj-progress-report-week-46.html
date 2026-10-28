@@ -1,7 +1,19 @@
 <title>Al-Kharj Progress Week 46</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+@font-face { font-family: "Archivo"; font-style: normal; font-weight: 500; font-display: swap; src: url(fonts/archivo-latin-500-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "Archivo"; font-style: normal; font-weight: 700; font-display: swap; src: url(fonts/archivo-latin-700-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "Archivo"; font-style: normal; font-weight: 800; font-display: swap; src: url(fonts/archivo-latin-800-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url(fonts/ibm-plex-sans-latin-400-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Sans"; font-style: normal; font-weight: 500; font-display: swap; src: url(fonts/ibm-plex-sans-latin-500-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Sans"; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/ibm-plex-sans-latin-600-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Sans Arabic"; font-style: normal; font-weight: 400; font-display: swap; src: url(fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2) format("woff2"); unicode-range: U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC,U+102E0-102FB,U+10E60-10E7E,U+10EFD-10EFF,U+1EE00-1EE03,U+1EE05-1EE1F,U+1EE21-1EE22,U+1EE24,U+1EE27,U+1EE29-1EE32,U+1EE34-1EE37,U+1EE39,U+1EE3B,U+1EE42,U+1EE47,U+1EE49,U+1EE4B,U+1EE4D-1EE4F,U+1EE51-1EE52,U+1EE54,U+1EE57,U+1EE59,U+1EE5B,U+1EE5D,U+1EE5F,U+1EE61-1EE62,U+1EE64,U+1EE67-1EE6A,U+1EE6C-1EE72,U+1EE74-1EE77,U+1EE79-1EE7C,U+1EE7E,U+1EE80-1EE89,U+1EE8B-1EE9B,U+1EEA1-1EEA3,U+1EEA5-1EEA9,U+1EEAB-1EEBB,U+1EEF0-1EEF1; }
+@font-face { font-family: "IBM Plex Sans Arabic"; font-style: normal; font-weight: 400; font-display: swap; src: url(fonts/ibm-plex-sans-arabic-latin-400-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Sans Arabic"; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2) format("woff2"); unicode-range: U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC,U+102E0-102FB,U+10E60-10E7E,U+10EFD-10EFF,U+1EE00-1EE03,U+1EE05-1EE1F,U+1EE21-1EE22,U+1EE24,U+1EE27,U+1EE29-1EE32,U+1EE34-1EE37,U+1EE39,U+1EE3B,U+1EE42,U+1EE47,U+1EE49,U+1EE4B,U+1EE4D-1EE4F,U+1EE51-1EE52,U+1EE54,U+1EE57,U+1EE59,U+1EE5B,U+1EE5D,U+1EE5F,U+1EE61-1EE62,U+1EE64,U+1EE67-1EE6A,U+1EE6C-1EE72,U+1EE74-1EE77,U+1EE79-1EE7C,U+1EE7E,U+1EE80-1EE89,U+1EE8B-1EE9B,U+1EEA1-1EEA3,U+1EEA5-1EEA9,U+1EEAB-1EEBB,U+1EEF0-1EEF1; }
+@font-face { font-family: "IBM Plex Sans Arabic"; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/ibm-plex-sans-arabic-latin-600-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight: 400; font-display: swap; src: url(fonts/ibm-plex-mono-latin-400-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight: 500; font-display: swap; src: url(fonts/ibm-plex-mono-latin-500-normal.woff2) format("woff2"); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+</style>
 <style>
 /* Layout: a single report column, site-survey feel — summary strip, then sections that each answer one question. */
 :root { --tint-5: rgba(15, 106, 92, .05); --tint-6: rgba(15, 106, 92, .06); --tint-8: rgba(15, 106, 92, .08); --tint-10: rgba(15, 106, 92, .1); --tint-55: rgba(15, 106, 92, .55); --bg-40: rgba(246, 247, 245, .4);
@@ -175,16 +187,9 @@ body.editing [data-edited] { box-shadow: inset 0 -2px 0 var(--warn); }
 .edit-bar button:disabled { opacity: .5; cursor: default; }
 body.editing { padding-bottom: 70px; }
 [dir="rtl"] .edit-bar, [dir="rtl"] .edit-btn { font-family: var(--f-ar); }
-body.exporting .wrap { width: 1000px; max-width: none; }
+body.exporting .wrap { width: 1080px; max-width: none; }
 body.exporting .scroll { overflow: visible; }
 td.wk { color: var(--accent); }
-/* The PDF capture cannot embed web fonts, so during export the page uses the same system fonts the capture will draw with. */
-body.exporting .wrap, body.exporting .wrap * { font-family: Arial, "Segoe UI", Tahoma, "Noto Sans Arabic", sans-serif !important; }
-body.exporting .wrap .mono, body.exporting .wrap .mono *, body.exporting .wrap td.n, body.exporting .wrap td.n *, body.exporting .wrap .kv span:nth-child(even), body.exporting .wrap svg text { font-family: "Courier New", "DejaVu Sans Mono", monospace !important; }
-.pdf-tight-1 th, .pdf-tight-1 td { padding: 4px 8px; font-size: .82rem; line-height: 1.35; }
-.pdf-tight-2 th, .pdf-tight-2 td { padding: 2px 6px; font-size: .74rem; line-height: 1.25; }
-.pdf-tight-3 th, .pdf-tight-3 td { padding: 1px 5px; font-size: .66rem; line-height: 1.15; }
-.pdf-tight-2 .bar, .pdf-tight-3 .bar { height: 6px; }
 footer { padding-top: 24px; font-size: .82rem; color: var(--ink-3); }
 @media (max-width: 520px) { .tile .big { font-size: 1.8rem; } }
 </style>
@@ -926,9 +931,8 @@ const tUnits = s => LANG === "ar" ? s.replace(/ nos$| ea$/, " عدد").replace(/
 })();
 
 (function () {
-  // PDF export: each part of the report is captured with the browser's own rendering (so Arabic
-  // shapes and spaces correctly), then laid onto A4 pages, breaking only between rows and blocks.
-  // It keeps the theme on screen, light or dark.
+  // PDF export: the page exactly as it looks on screen — same fonts, layout and colours — as one
+  // continuous page. Each part is captured where it sits on the page, so spacing is unchanged too.
   const pdfBtn = document.getElementById("pdf-btn"), bar = document.getElementById("edit-bar"), msg = document.getElementById("edit-msg");
   let downloads = null;
   const note = (text, ms) => {
@@ -939,106 +943,33 @@ const tUnits = s => LANG === "ar" ? s.replace(/ nos$| ea$/, " عدد").replace(/
   const load = (src, global) => window[global] ? Promise.resolve() : new Promise((ok, no) => {
     const sc = document.createElement("script"); sc.src = src; sc.onload = ok; sc.onerror = no; document.head.appendChild(sc);
   });
-  const CUTS = "tr, .ph-row, figure, .tile, .kv > span:nth-child(even), li, p, h2, h3, section > header, .chart, .callout, .two > *, .tiles, .legend";
   pdfBtn.addEventListener("click", async () => {
     if (document.body.classList.contains("editing")) return;
     pdfBtn.disabled = true; note("Preparing the PDF…");
-    const root = document.documentElement, theme = root.getAttribute("data-theme");
     try {
       await load("https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js", "htmlToImage");
       await load("https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js", "jspdf");
       document.body.classList.add("exporting");
-      // The PDF uses the theme on screen: page and margins take the report's own background colour.
-      const bg = getComputedStyle(document.body).backgroundColor, rgb = (bg.match(/\d+/g) || [255, 255, 255]).slice(0, 3).map(Number);
-      const dark = rgb[0] * 0.299 + rgb[1] * 0.587 + rgb[2] * 0.114 < 128;
       const imgs = [...document.querySelectorAll(".photos img")]; imgs.forEach(i => { i.loading = "eager"; });
       await Promise.all(imgs.map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
-      const wrap = document.querySelector(".wrap");
-      // Pieces to place: the header, then each part of every section. A table is one piece that is never split.
-      const ok = e => !e.matches("script, [data-html2canvas-ignore]") && e.offsetHeight;
-      const units = [];
-      [...wrap.children].filter(ok).forEach(el => {
-        if (el.tagName === "SECTION") [...el.children].filter(ok).forEach((c, i) => units.push({ el: c, table: c.matches(".scroll") || !!c.querySelector(":scope > table"), gap: i ? 10 : 22 }));
-        else units.push({ el, table: false, gap: 10 });
-      });
-      const pdf = new jspdf.jsPDF({ unit: "pt", format: "a4", compress: true });
-      const PW = 595.28, PH = 841.89, M = 28, CW = PW - 2 * M, FULL = PH - 2 * M, cssW = wrap.clientWidth, k = CW / cssW;
-      let y = M;
-      const paint = () => { pdf.setFillColor(rgb[0], rgb[1], rgb[2]); pdf.rect(0, 0, PW, PH, "F"); };
-      const newPage = () => { pdf.addPage(); paint(); y = M; };
-      paint();
-      const shot = (el, w, h) => htmlToImage.toCanvas(el, { pixelRatio: 2, backgroundColor: bg, skipFonts: true, width: w, height: h,
-        style: w ? { width: w + "px", height: h ? h + "px" : "auto", overflow: "visible" } : undefined,
-        filter: n => !(n.hasAttribute && n.hasAttribute("data-html2canvas-ignore")) });
-      const place = (canvas, sx, sy, sw, sh, x, w, h) => {
-        const part = document.createElement("canvas");
-        part.width = Math.max(1, Math.round(sw)); part.height = Math.max(1, Math.round(sh));
-        const g = part.getContext("2d"); g.fillStyle = bg; g.fillRect(0, 0, part.width, part.height);
-        g.drawImage(canvas, sx, sy, sw, sh, 0, 0, part.width, part.height);
-        pdf.addImage(part.toDataURL("image/jpeg", 0.9), "JPEG", x, y, w, h, undefined, "FAST");
-      };
-      const heightOf = u => u.el.getBoundingClientRect().height * k;
-      const trim = c => {
-        const g = c.getContext("2d"), d = g.getImageData(0, 0, c.width, c.height).data, W4 = c.width * 4;
-        const same = i => Math.abs(d[i] - rgb[0]) < 6 && Math.abs(d[i + 1] - rgb[1]) < 6 && Math.abs(d[i + 2] - rgb[2]) < 6;
-        let bottom = c.height - 1;
-        rows: for (; bottom > 0; bottom--) { for (let x = 0; x < W4; x += 16) if (!same(bottom * W4 + x)) break rows; }
-        const out = document.createElement("canvas"); out.width = c.width; out.height = Math.min(c.height, bottom + 6);
-        out.getContext("2d").drawImage(c, 0, 0); return out;
-      };
-      for (let ui = 0; ui < units.length; ui++) {
-        const u = units[ui], el = u.el;
-        if (y > M) y += u.gap;
-        // A section heading stays with what follows it.
-        if (el.matches("section > header") && units[ui + 1]) {
-          const next = units[ui + 1], needNext = next.table ? Math.min(heightOf(next), FULL - heightOf(u) - 10) : Math.min(heightOf(next), 120);
-          if (y > M && y + heightOf(u) + 10 + needNext > PH - M) newPage();
-        }
-        if (u.table) {
-          // Whole table on one page: scaled down if it is wider or taller than the page.
-          // Tall tables keep the full page width: rows are tightened step by step until the table fits the page height.
-          let level = 0;
-          while (el.getBoundingClientRect().height * k * 1.08 > FULL && level < 3) { el.classList.remove("pdf-tight-" + level); el.classList.add("pdf-tight-" + ++level); }
-          const wCss = Math.max(el.clientWidth, el.scrollWidth, el.querySelector("table") ? el.querySelector("table").scrollWidth : 0);
-          const hCss = el.getBoundingClientRect().height;
-          // Captured with room to spare, then the empty space below the last row is trimmed off,
-          // so the whole table is kept even if the capture lays text out slightly taller.
-          const raw = await shot(el, wCss, Math.ceil(hCss * 1.3) + 40);
-          el.classList.remove("pdf-tight-" + level);
-          const canvas = trim(raw);
-          let w = wCss * k, h = w * canvas.height / canvas.width;
-          const fit = Math.min(1, CW / w, FULL / h); w *= fit; h *= fit;
-          if (y + h > PH - M && y > M) newPage();
-          const x = LANG === "ar" ? M + CW - w : M;
-          place(canvas, 0, 0, canvas.width, canvas.height, x, w, h);
-          y += h;
-          continue;
-        }
-        const top = el.getBoundingClientRect().top, h = el.getBoundingClientRect().height;
-        const canvas = await shot(el);
-        const r = canvas.height / h;
-        const cuts = [...new Set([...el.querySelectorAll(CUTS)].map(c => Math.round(c.getBoundingClientRect().bottom - top + 2)))].filter(c => c > 0 && c < h).sort((p, q) => p - q);
-        let from = 0;
-        if ((PH - M - y) / k < Math.min(h, 160) && y > M) newPage(); // too little room left: start on a new page
-        while (from < h - 1) {
-          const room = (PH - M - y) / k;
-          let to = h;
-          if (h - from > room) {
-            const fitCuts = cuts.filter(c => c > from + 40 && c <= from + room);
-            if (fitCuts.length) to = fitCuts[fitCuts.length - 1];
-            else if (y > M) { newPage(); continue; }
-            else to = from + room;
-          }
-          place(canvas, 0, from * r, canvas.width, (to - from) * r, M, CW, (to - from) * k);
-          y += (to - from) * k; from = to;
-          if (from < h - 1) newPage();
-        }
+      await document.fonts.ready;
+      const bg = getComputedStyle(document.body).backgroundColor, rgb = (bg.match(/\d+/g) || [255, 255, 255]).slice(0, 3).map(Number);
+      const wrap = document.querySelector(".wrap"), box = wrap.getBoundingClientRect();
+      const parts = [...wrap.children].filter(e => !e.matches("script, [data-html2canvas-ignore]") && e.offsetHeight);
+      const last = parts[parts.length - 1].getBoundingClientRect();
+      const k = 0.75; // CSS px to PDF points
+      const W = box.width * k, H = (last.bottom - box.top + 28) * k;
+      const pdf = new jspdf.jsPDF({ unit: "pt", format: [W, H], orientation: W > H ? "l" : "p", compress: true });
+      pdf.setFillColor(rgb[0], rgb[1], rgb[2]); pdf.rect(0, 0, W, H, "F");
+      const fontEmbedCSS = await htmlToImage.getFontEmbedCSS(wrap);
+      for (const el of parts) {
+        const r = el.getBoundingClientRect();
+        const canvas = await htmlToImage.toCanvas(el, { pixelRatio: 2, backgroundColor: bg, fontEmbedCSS,
+          filter: n => !(n.hasAttribute && n.hasAttribute("data-html2canvas-ignore")) });
+        pdf.addImage(canvas.toDataURL("image/jpeg", 0.92), "JPEG", (r.left - box.left) * k, (r.top - box.top) * k, r.width * k, r.height * k, undefined, "FAST");
       }
-      const n = pdf.getNumberOfPages();
-      for (let i = 1; i <= n; i++) { pdf.setPage(i); pdf.setFontSize(8); pdf.setTextColor(dark ? 150 : 120); pdf.text(i + " / " + n, PW / 2, PH - 12, { align: "center" }); }
       const name = LANG === "ar" ? "تقرير-تقدم-الخرج-الأسبوع-46.pdf" : "Kharj-progress-report-week-46.pdf";
       document.body.classList.remove("exporting");
-      theme === null ? root.removeAttribute("data-theme") : root.setAttribute("data-theme", theme);
       await downloads.save({ filename: name, data: pdf.output("blob") });
       note("PDF ready.", 2500);
     } catch (err) {
@@ -1047,7 +978,6 @@ const tUnits = s => LANG === "ar" ? s.replace(/ nos$| ea$/, " عدد").replace(/
       else note("Could not create the PDF. Try again.", 4000);
     } finally {
       document.body.classList.remove("exporting");
-      theme === null ? root.removeAttribute("data-theme") : root.setAttribute("data-theme", theme);
       pdfBtn.disabled = false;
     }
   });
