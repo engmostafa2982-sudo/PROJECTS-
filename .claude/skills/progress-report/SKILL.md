@@ -5,7 +5,7 @@ description: Build the standard weekly progress report (HTML + English and Arabi
 
 # Standard progress report
 
-The standard is defined in `_report-standard/README.md`. Read it first. Then build the new report by copying `_report-standard/reference-report.html` and replacing its data. Do not design a new page: the layout, CSS, scripts, switches, Edit, PDF and photo viewer stay exactly as in the reference.
+The standard is defined in `_report-standard/README.md`. Read it first. Then build the new report by copying `_report-standard/template.html` (the reference report before its photos and fonts were embedded, small enough to edit) and replacing its data. Do not design a new page: the layout, CSS, scripts, switches, Edit, PDF and photo viewer stay exactly as in the reference.
 
 ## 1. Gather the data
 
@@ -19,7 +19,7 @@ The standard is defined in `_report-standard/README.md`. Read it first. Then bui
 
 ## 2. Fill the reference
 
-Copy `reference-report.html` to `Generated Report/<Project>-progress-report-week-<NN>.html`. Use a short Latin project name, e.g. `Sudair`. Then replace, keeping the markup structure:
+Copy `_report-standard/template.html` to `Generated Report/<Project>-progress-report-week-<NN>.html`. Use a short Latin project name, e.g. `Sudair`. Then replace, keeping the markup structure:
 
 - **Markup:** the header text and facts, each section's intro line, tiles, tables and callouts, and the photo `<figure>` blocks.
   - Photos use `href="photos/<file>" class="ph"><img src="photos/<file>"`, which `embed_assets.py` turns into embedded data.

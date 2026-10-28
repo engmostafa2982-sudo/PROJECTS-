@@ -75,6 +75,7 @@ A section with no data for a project is left out. A section is never filled with
 
 | Tool | Use |
 |---|---|
+| [`template.html`](template.html) | The reference report before embedding (photos and fonts as links). Copy and edit this one. |
 | [`tools/embed_assets.py`](tools/embed_assets.py) | `python embed_assets.py REPORT.html` embeds `photos/` and the fonts into the HTML, so it is one self-contained file. |
 | [`tools/export_pdf.js`](tools/export_pdf.js) | `node export_pdf.js REPORT.html OUT.pdf ar dark` saves the PDF the same way as the page's own PDF button. Needs Playwright. |
 | `tools/fonts/` | The report's fonts: IBM Plex Sans, IBM Plex Sans Arabic, IBM Plex Mono and Archivo. |
