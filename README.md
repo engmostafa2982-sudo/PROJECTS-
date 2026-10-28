@@ -2,6 +2,8 @@
 
 Upload files into the **All Files** folder of each section. A Markdown copy is created automatically in **MD Files**.
 
+Weekly progress reports follow one standard for all projects: see [_report-standard](_report-standard/README.md). Each report is saved in the week's **Generated Report** folder.
+
 <!-- tracker:start -->
 
 ## Upload tracker / متابعة الرفع
