@@ -42,7 +42,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**13 of 49 uploaded weeks have a generated report.**
+**14 of 49 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -72,7 +72,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 22 | [مبادرة الملاعب بالمنطقة الشرقية (عرعر, واحة الاحساء, الدمام الثانية)](22-stadiums-initiative-eastern-region/) | – | – | ⏳ | – | – | – | – | – | – | – |
 | 23 | [تسوير المنطقة المطورة بوعد الشمال](23-waad-alshamal-developed-area-fencing/) | – | – | – | – | – | – | – | – | – | – |
 | 24 | [تطوير البنية التحتية المرحلة الأولى من المنطقة اللوجستية في المدينة الصناعية الثالثة بجدة](24-jeddah-3rd-logistics-zone-phase1-infrastructure/) | – | – | – | – | – | – | – | – | – | – |
-| 25 | [مبادرة الحرفيين (الصناعات منخفضة العمليات التصنيعية بنجران)](25-najran-craftsmen-initiative/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ❌ Email](25-najran-craftsmen-initiative/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 25 | [مبادرة الحرفيين (الصناعات منخفضة العمليات التصنيعية بنجران)](25-najran-craftsmen-initiative/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](25-najran-craftsmen-initiative/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 
 ### Latest uploads / آخر الملفات المرفوعة (Riyadh time)
 
