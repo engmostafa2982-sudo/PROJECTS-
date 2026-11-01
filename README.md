@@ -44,7 +44,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**21 of 63 uploaded weeks have a generated report.**
+**23 of 63 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -59,7 +59,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 07 | [تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة](07-sudair-industrial-city-infrastructure-phase3/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 08 | [تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x](08-jeddah-1st-industrial-city-infrastructure-1km2-x/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
 | 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
-| 10 | [مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام](10-dammam-3rd-industrial-city-phase1-part2/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
+| 10 | [مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام](10-dammam-3rd-industrial-city-phase1-part2/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](10-dammam-3rd-industrial-city-phase1-part2/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
 | 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
 | 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
@@ -71,8 +71,8 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 19 | [مبادرة الملاعب بالمنطقة الوسطى (حائل, واحة القصيم, تبوك)](19-stadiums-initiative-central-region/) | – | ⏳ | [✅ HTML ✅ PDF ✅ Email](19-stadiums-initiative-central-region/4-Weekly%20update/W02%20-%2008-Oct-2026/Generated%20Report) | ⏳ | [✅ HTML ✅ PDF ✅ Email](19-stadiums-initiative-central-region/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 20 | [سور للمدينة الصناعية - الدمام الثالثة](20-dammam-3rd-industrial-city-fence/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
 | 21 | [مبادرة الملاعب بالمنطقة الغربية (عسير, جازان, واحة جدة)](21-stadiums-initiative-western-region/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](21-stadiums-initiative-western-region/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
-| 22 | [مبادرة الملاعب بالمنطقة الشرقية (عرعر, واحة الاحساء, الدمام الثانية)](22-stadiums-initiative-eastern-region/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
-| 23 | [تسوير المنطقة المطورة بوعد الشمال](23-waad-alshamal-developed-area-fencing/) | – | – | – | – | [✅ HTML ✅ PDF ❌ Email](23-waad-alshamal-developed-area-fencing/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
+| 22 | [مبادرة الملاعب بالمنطقة الشرقية (عرعر, واحة الاحساء, الدمام الثانية)](22-stadiums-initiative-eastern-region/) | – | – | – | – | [✅ HTML ⚠️ PDF ❌ Email](22-stadiums-initiative-eastern-region/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
+| 23 | [تسوير المنطقة المطورة بوعد الشمال](23-waad-alshamal-developed-area-fencing/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](23-waad-alshamal-developed-area-fencing/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 24 | [تطوير البنية التحتية المرحلة الأولى من المنطقة اللوجستية في المدينة الصناعية الثالثة بجدة](24-jeddah-3rd-logistics-zone-phase1-infrastructure/) | – | – | – | – | – | – | – | – | – | – | – |
 | 25 | [مبادرة الحرفيين (الصناعات منخفضة العمليات التصنيعية بنجران)](25-najran-craftsmen-initiative/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](25-najran-craftsmen-initiative/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
 
