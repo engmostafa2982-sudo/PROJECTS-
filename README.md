@@ -44,7 +44,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**26 of 64 uploaded weeks have a generated report.**
+**27 of 64 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -62,8 +62,8 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 10 | [مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام](10-dammam-3rd-industrial-city-phase1-part2/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](10-dammam-3rd-industrial-city-phase1-part2/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
 | 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
-| 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | [✅ HTML ❌ PDF ❌ Email](13-dhahran-tech-zones-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
-| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
+| 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](13-dhahran-tech-zones-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
+| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | – | [✅ HTML ✅ PDF ❌ Email](14-dammam-tech-zones-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 16 | [استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة](16-makkah-2nd-industrial-city-networks-completion/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
 | 17 | [تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)](17-makkah-2nd-industrial-city-akishiya-roads/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | – | – | – | – | – | – | – |
