@@ -80,6 +80,17 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | As-Built Tracker Sheet-25-10-2026.xlsx |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | Backfilling Catchbasin Line (1).jpg |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | Backfilling Catchbasin Line (11).jpg |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | Backfilling Catchbasin Line (6).jpg |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | Backfilling and Warning tap (1).jpg |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | Catch basin Internal Finish (1).jpg |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | JDH3-008-107-2026-10-25-Progress Layouts.pdf |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | JDH3-008-107-2026-10-25-Remaining activities.pdf |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | JDH3-008-107-2026-10-25.rar |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | JDH3-008-98-2026-08-23-Procurement_Tracker.xlsx |
+| 2026-11-01 09:48 | Claude | 04 | 4-Weekly update/W04 - 22-Oct-2026 | JDH3-02-008 Weekly Progress Report 25-10-2026.xlsx |
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 00.DAM3-02-008-WPR 10-20-2026.xlsx |
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 1.jpeg |
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 10.DAM3-02-008-WPR.56- 10-20-2026-Procurement Log.xlsx |
@@ -99,16 +110,5 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 6.jpeg |
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 7.jpeg |
 | 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 8.jpeg |
-| 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | 9.jpeg |
-| 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | DAM3-02-008 Master Log.xlsx |
-| 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | MATERIAL SUBMITTAL.xlsx |
-| 2026-11-01 09:42 | elgarhyrabiey | 10 | 4-Weekly update/W03 - 15-Oct-2026 | Risk - Issue Log.xlsx |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | 00.DAM3-02-008-WPR 10-13-2026.xlsx |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | 11.DAM3-02-008-Weekly Presentation 10-13-2026.pptx |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | 2 Week look Ahead - Approve BL.pdf |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | 38-MOD-2937-B4-Up- 101326.xer |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | DAM3-02-008 Master Log.xlsx |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | Risk - Issue Log.xlsx |
-| 2026-11-01 09:41 | elgarhyrabiey | 10 | 4-Weekly update/W02 - 08-Oct-2026 | استكمال اعمال أختبار مناهل الصرف.jpeg |
 
 <!-- tracker:end -->
