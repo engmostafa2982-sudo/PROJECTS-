@@ -6,11 +6,12 @@ import subprocess
 from pathlib import Path
 from urllib.parse import quote
 
+from weeks import COUNT, WEEKS, label
+
 ROOT = Path(__file__).resolve().parents[2]
 README = ROOT / "README.md"
 START, END = "<!-- tracker:start -->", "<!-- tracker:end -->"
 FOLDERS = [("BOQ", "1-BOQ"), ("Drawing", "2-Project Drawing"), ("Baseline", "3-Baseline")]
-WEEKS = [f"W{i}" for i in range(1, 11)]
 RECENT = 30
 
 
@@ -71,7 +72,7 @@ def recent_uploads():
 
 def build():
     projects = sorted(p for p in ROOT.glob("[0-9][0-9]-*") if p.is_dir())
-    head = ["#", "Project / المشروع"] + [label for label, _ in FOLDERS] + WEEKS
+    head = ["#", "Project / المشروع"] + [name for name, _ in FOLDERS] + [label(n) for n in range(1, COUNT + 1)]
     out = [START, "",
            "## Upload tracker / متابعة الرفع",
            "",
@@ -88,7 +89,7 @@ def build():
     out += ["", "### Generated reports / التقارير المُنشأة", "",
             "_✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. "
             "⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._", ""]
-    head = ["#", "Project / المشروع"] + WEEKS
+    head = ["#", "Project / المشروع"] + [label(n) for n in range(1, COUNT + 1)]
     out += ["| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
     done = due = 0
     for p in projects:

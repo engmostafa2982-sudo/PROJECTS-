@@ -6,7 +6,7 @@ To get a report, ask Claude in this repository, for example: *"Generate the stan
 
 ## Where it goes
 
-`<project>/4-Weekly update/W<n>/Generated Report/` — the week the report is built from.
+`<project>/4-Weekly update/W<nn> - <DD-Mon-YYYY>/Generated Report/` (e.g. `W04 - 22-Oct-2026`) — the week the report is built from.
 
 | File | What it is |
 |---|---|

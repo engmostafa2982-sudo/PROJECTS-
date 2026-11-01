@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "**/All Files/**"
+      - "**/4-Weekly update/**"
       - "**/Generated Report/**"
       - ".github/scripts/**"
       - ".github/workflows/convert-weekly-reports.yml"
@@ -42,9 +43,10 @@ jobs:
           git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
           while true; do
             status=0
+            python .github/scripts/weeks.py
             python .github/scripts/convert_to_md.py --budget 1500 || status=$?
             python .github/scripts/update_tracker.py
-            git add -A -- ':(glob)**/MD Files/**' README.md
+            git add -A -- ':(glob)**/4-Weekly update/**' ':(glob)**/MD Files/**' README.md
             if ! git diff --cached --quiet; then
               git commit -q -m "Convert uploads to Markdown and update tracker"
               git pull --rebase -X theirs origin main

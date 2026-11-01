@@ -9,7 +9,7 @@ The standard is defined in `_report-standard/README.md`. Read it first. Then bui
 
 ## 1. Gather the data
 
-1. **Pick the week.** Unless told otherwise, use the project's highest `4-Weekly update/W<n>` that has files. Its data date is the weekly report's cut-off date. The report week is the project week, as defined in the standard: `(data date − site handover) // 7`, or the contract week the report states. Never the report's serial number ("Weekly Report #41").
+1. **Pick the week.** Unless told otherwise, use the project's highest `4-Weekly update/W<nn> - <DD-Mon-YYYY>` folder that has files. Its data date is the weekly report's cut-off date. The report week is the project week, as defined in the standard: `(data date − site handover) // 7`, or the contract week the report states. Never the report's serial number ("Weekly Report #41").
 2. **Read the MD files.**
    - The week's `MD Files`: weekly report sheets, progress presentation, P6 update.
    - The previous week's `MD Files`, for the this-week values and the gained-this-week figures.
@@ -43,7 +43,7 @@ The page is translated by the `const AR = {...}` dictionary: an English visible 
 ## 3. Finish and check
 
 ```bash
-cd "<project>/4-Weekly update/W<n>/Generated Report"
+cd "<project>/4-Weekly update/W<nn> - <DD-Mon-YYYY>/Generated Report"
 python ../../../../_report-standard/tools/embed_assets.py <Project>-progress-report-week-<NN>.html
 node ../../../../_report-standard/tools/export_pdf.js <Project>-progress-report-week-<NN>.html <Project>-progress-report-week-<NN>.pdf en dark
 node ../../../../_report-standard/tools/export_pdf.js <Project>-progress-report-week-<NN>.html "تقرير-تقدم-<المشروع>-الأسبوع-<NN>.pdf" ar dark
