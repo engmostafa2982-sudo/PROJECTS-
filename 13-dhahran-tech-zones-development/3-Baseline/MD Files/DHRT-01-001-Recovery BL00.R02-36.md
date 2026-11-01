@@ -1,0 +1,1089 @@
+<!-- converted-from: DHRT-01-001-Recovery BL00.R02-36.xer sha256: be60cc4867b3665b036636a3dbc3704d0902aa131091b018cbedcbc6138cde0f -->
+# DHRT-01-001-Recovery BL00.R02-36.xer
+
+## Project: DHRT-01-001-BL00.R01-36
+
+| Field | Value |
+|---|---|
+| Data date | 2026-06-23 |
+| Planned start | 2026-01-06 |
+| Scheduled finish | 2027-03-04 |
+| Must finish by | 2027-03-05 |
+
+## Activity status
+
+| Status | Count |
+|---|---|
+| Completed | 252 |
+| Not Started | 813 |
+| **Total** | **1065** |
+
+## Activities
+
+| ID | Name | WBS | Type | Status | Start | Finish | Actual Start | Actual Finish | % Complete | Total Float (d) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| MS-CF-PF | Project Completion Date | Contractual Milestones | Milestone | Not Started | 2027-03-04 | 2027-03-04 |  |  | 0 | 0 |
+| MS-CS-RD | Receipt of Approval NOC From Relevant Authorities For Roads Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-SD | Receipt of Approval NOC From Relevant Authorities For Storm Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-SW | Receipt of Approval NOC From Relevant Authorities For Sewage Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-PW | Receipt of Approval NOC From Relevant Authorities For Potable Water Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-IR | Receipt of Approval NOC From Relevant Authorities For Irrigation Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-MV | Receipt of Approval NOC From Relevant Authorities For Medium Voltage Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-SL | Receipt of Approval NOC From Relevant Authorities For Street Lighting Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-TE | Receipt of Approval NOC From Relevant Authorities For Telecom and Light Current Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-PS | Project Commencement Date ( Site Handover ) | Contractual Milestones | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| ENG-MT-SD-ML-S-110 | Material Submittal for Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-ML-S-100 | Material Submittal for Manholes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-TF-S-100 | Material Submittal for Manhole Covers of Storm Drainage Network | Testing and Finishes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-CB-S-100 | Material Submittal for Catch Basins of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-TF-S-110 | Material Submittal for Catch Basin Covers of Storm Drainage Network | Testing and Finishes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SW-ML-S-110 | Material Submittal for Main Line Pipes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SW-ML-S-100 | Material Submittal for Manholes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SW-TF-S-100 | Material Submittal for Manhole Covers of Sewage Network | Testing and Finishes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-PW-ML-S-100 | Material Submittal for Main Line Pipes and Materials of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-PW-ML-S-110 | Material Submittal for Main Line Valves of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-IR-ML-S-100 | Material Submittal for Main Line Pipes of Irrigation Network | Main Line Pipes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-IR-ML-S-110 | Material Submittal for Main Line Valves of Irrigation Network | Main Line Pipes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-MV-ML-S-100 | Material Submittal for Medium Voltage Materials of Medium Voltage Network | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-ML-S-100 | Material Submittal for Lighting Cables of Street Lighting Network | Cabling Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-S-100 | Material Submittal for Lighting Poles Concrete Foundations of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-S-110 | Material Submittal for Lighting Poles of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-TF-S-100 | Material Submittal for Fuse Boxes of Street Lighting Network | Termination and Testing Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-S-120 | Material Submittal for Lighting Fixtures of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-ES-S-100 | Material Submittal for Lighting Earthing of Street Lighting Network | Earthing System Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-DB-S-100 | Material Submittal for Lighting Distrubution Panel Boards of Street Lighting Network | Distribution Panel Board | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-TE-S-100 | Material Submittal for Ducts of Telecom Network | Ducts Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-TE-S-110 | Material Submittal for Manholes of Telecom Network | Manholes Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-CTV-S-100 | Material Submittal for Materials of CCTV, Telephone, MSN, and Access Control Systems | CCTV, Telephone, MSN, ACs System Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-RD-S-100 | Material Submittal for Subgrade of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-S-110 | Material Submittal for Aggregate Base Course of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-S-120 | Material Submittal for Prime Coat of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-S-130 | Material Submittal for Asphaltic Base Course Layer of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-S-140 | Material Submittal for Interlock Tiles of Landscaping | Landscape Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-RD-S-150 | Material Submittal for Curbstones of Landscaping | Landscape Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-TS-S-100 | Material Submittal for Traffic Signs Boards of Road Works | Traffic Signs Boards and Roads Marking | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-TS-S-110 | Material Submittal for Road Markings of Road Works | Traffic Signs Boards and Roads Marking | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-ML-A-100 | Material Approval for Manholes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SD-ML-A-110 | Material Approval for Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SD-TF-A-100 | Material Approval for Manhole Covers of Storm Drainage Network | Testing and Finishes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SD-CB-A-110 | Material Approval for Catch Basin Pipes of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SD-TF-A-110 | Material Approval for Catch Basin Covers of Storm Drainage Network | Testing and Finishes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SW-ML-A-110 | Material Approval for Main Line Pipes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-20 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SW-ML-A-100 | Material Approval for Manholes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SW-TF-A-100 | Material Approval for Manhole Covers of Sewage Network | Testing and Finishes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-PW-ML-A-100 | Material Approval for Main Line Pipes and Materials of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-PW-ML-A-110 | Material Approval for Valves of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-IR-ML-A-100 | Material Approval for Main Line Pipes of Irrigation Network | Main Line Pipes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-IR-ML-A-110 | Material Approval for Valves of Irrigation Network | Main Line Pipes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-MV-ML-A-100 | Material Approval for Medium Voltage Materials of Medium Voltage Network | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-ML-A-100 | Material Approval for Lighting Cables of Street Lighting Network | Cabling Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-A-100 | Material Approval for Lighting Poles Concrete Foundations of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-A-110 | Material Approval for Lighting Poles of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-TF-A-100 | Material Approval for Fuse Boxes of Street Lighting Network | Termination and Testing Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-A-120 | Material Approval for Lighting Fixtures of Street Lighting Network | Lighting Poles Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-ES-A-100 | Material Approval for Lighting Earthing of Street Lighting Network | Earthing System Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SL-DB-A-100 | Material Approval for Distrubution Panel Boards of Street Lighting Network | Distribution Panel Board | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-TE-A-100 | Material Approval for Ducts of Telecom Network | Ducts Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-TE-A-110 | Material Approval for Manholes of Telecom Network | Manholes Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-CTV-A-100 | Material Approval for for Materials of CCTV, Telephone, MSN, and Access Control Systems | CCTV, Telephone, MSN, ACs  System Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-RD-A-100 | Material Approval for Subgrade of Road Works | General Road Works | Task | Completed | 2026-01-25 | 2026-01-31 | 2026-01-25 | 2026-01-31 | 100 |  |
+| ENG-MT-RD-A-110 | Material Approval for Aggregate Base Course of Road Works | General Road Works | Task | Completed | 2026-01-25 | 2026-01-31 | 2026-01-25 | 2026-01-31 | 100 |  |
+| ENG-MT-RD-A-120 | Material Approval for Prime Coat of Road Works | General Road Works | Task | Completed | 2026-01-25 | 2026-01-31 | 2026-01-25 | 2026-01-31 | 100 |  |
+| ENG-MT-RD-A-130 | Material Approval for Asphaltic Base Course Layer of Road Works | General Road Works | Task | Completed | 2026-01-25 | 2026-02-01 | 2026-01-25 | 2026-01-31 | 100 |  |
+| ENG-MT-RD-A-140 | Material Approval of Interlock Tiles for Landscaping | Landscape Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-RD-A-150 | Material Approval of Curbstones for Landscaping | Landscape Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-TS-A-100 | Material Approval for Traffic Signs Boards of Road Works | Traffic Signs Boards and Roads Marking | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-TS-A-110 | Material Approval for Road Markings of Road Works | Traffic Signs Boards and Roads Marking | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-SD-PO-100 | Issuance of Purchase Order for Manholes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-06-23 | 2026-06-24 |  |  | 0 | 0 |
+| PRO-SD-PO-110 | Issuance of Purchase Order for Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-06-25 | 2026-06-27 |  |  | 0 | 0 |
+| PRO-SD-PO-120 | Issuance of Purchase Order for Manhole Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-07-11 | 2026-07-16 |  |  | 0 | 0 |
+| PRO-SD-PO-130 | Issuance of Purchase Order for Catch Basins of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-06-28 | 2026-07-02 |  |  | 0 | 0 |
+| PRO-SD-PO-140 | Issuance of Purchase Order for Catch Basin Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-07-18 | 2026-07-23 |  |  | 0 | 0 |
+| PRO-SW-PO-100 | Issuance of Purchase Order for Main Line Pipes of Sewage Network | Main Line Sections | Task | Not Started | 2026-06-23 | 2026-06-30 |  |  | 0 | 8 |
+| PRO-SW-PO-110 | Issuance of Purchase Order for Manhole of Sewage Network | Main Line Sections | Task | Not Started | 2026-07-01 | 2026-07-08 |  |  | 0 | 8 |
+| PRO-SW-PO-120 | Issuance of Purchase Order for Manhole Covers of Sewage Network | Testing and Finishes | Task | Not Started | 2026-07-09 | 2026-07-16 |  |  | 0 | 8 |
+| PRO-PW-PO-100 | Issuance of Purchase Order for Main Line Pipes and Materials of Potable Water Network | Main Line Sections | Task | Completed | 2026-05-02 | 2026-05-13 | 2026-05-02 | 2026-05-12 | 100 |  |
+| PRO-PW-PO-110 | Issuance of Purchase Order for Valves of Potable Water Network | Main Line Sections | Task | Completed | 2026-05-02 | 2026-05-13 | 2026-05-02 | 2026-05-12 | 100 |  |
+| PRO-IR-PO-100 | Issuance of Purchase Order for Main Line Pipes of Irrigation Network | Main Line Pipes | Task | Not Started | 2026-07-06 | 2026-07-11 |  |  | 0 | 9 |
+| PRO-IR-PO-110 | Issuance of Purchase Order for Valves of Irrigation Network | Main Line Pipes | Task | Not Started | 2026-07-12 | 2026-07-15 |  |  | 0 | 9 |
+| PRO-MV-PO-100 | Issuance of Purchase Order for Medium Voltage Materials of Medium Voltage Network | Issuance of Purchase Orders | Task | Not Started | 2026-07-16 | 2026-07-22 |  |  | 0 | 9 |
+| PRO-SL-PO-100 | Issuance of Purchase Order for Lighting Cables of Street Lighting Network | Cabling Works | Task | Not Started | 2026-07-18 | 2026-07-22 |  |  | 0 | 8 |
+| PRO-SL-PO-110 | Issuance of Purchase Order for Lighting Poles Foundations of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-07-18 | 2026-07-22 |  |  | 0 | 12 |
+| PRO-SL-PO-120 | Issuance of Purchase Order for Lighting Poles of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-07-18 | 2026-07-22 |  |  | 0 | 12 |
+| PRO-SL-PO-130 | Issuance of Purchase Order for Fuse Boxes of Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-07-25 | 2026-07-30 |  |  | 0 | 28 |
+| PRO-SL-PO-140 | Issuance of Purchase Order for Lighting Fixtures of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-07-18 | 2026-07-22 |  |  | 0 | 12 |
+| PRO-SL-PO-150 | Issuance of Purchase Order for Lighting Earthing of Street Lighting Network | Earthing System Works | Task | Not Started | 2026-07-30 | 2026-08-05 |  |  | 0 | 12 |
+| PRO-SL-PO-160 | Issuance of Purchase Order for Distrubution Panel Boards of Street Lighting Network | Distribution Panel Board | Task | Not Started | 2026-07-18 | 2026-07-23 |  |  | 0 | 28 |
+| PRO-TE-PO-100 | Issuance of Purchase Order for Ducts forTelecom Network | Ducts Works | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 23 |
+| PRO-TE-PO-110 | Issuance of Purchase Order for Manholes forTelecom Network | Manholes Works | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 23 |
+| PRO-CTV-PO-100 | Issuance of Purchase Order for Civil and Finishes Works of CCTV Complete System | CCTV, Telephone, MSN, ACs  System Works | Task | Not Started | 2026-07-30 | 2026-08-22 |  |  | 0 | 23 |
+| PRO-RD-PO-100 | Issuance of Purchase Order for Subgrade of Road Works | Road Works | Task | Not Started | 2026-06-23 | 2026-06-30 |  |  | 0 | 19 |
+| PRO-RD-PO-110 | Issuance of Purchase Order for Aggregate Base Course of Road Works | Road Works | Task | Not Started | 2026-07-01 | 2026-07-08 |  |  | 0 | 22 |
+| PRO-RD-PO-120 | Issuance of Purchase Order for Prime Coat of Road Works | Road Works | Task | Not Started | 2026-07-09 | 2026-07-16 |  |  | 0 | 25 |
+| PRO-RD-PO-130 | Issuance of Purchase Order for Asphaltic Base Course Layer of Road Works | Road Works | Task | Not Started | 2026-07-18 | 2026-07-25 |  |  | 0 | 25 |
+| PRO-RD-PO-140 | Issuance of Purchase Order for Interlock Tiles of Landscaping | Pavement Works | Task | Not Started | 2026-07-09 | 2026-07-16 |  |  | 0 | 37 |
+| PRO-RD-PO-150 | Issuance of Purchase Order for Curbstones of Landscaping | Pavement Works | Task | Not Started | 2026-07-18 | 2026-07-25 |  |  | 0 | 37 |
+| PRO-RD-PO-160 | Issuance of Purchase Order for Traffic Signs Boards of Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-07-26 | 2026-08-02 |  |  | 0 | 37 |
+| PRO-RD-PO-170 | Issuance of Purchase Order for Road Markings of Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-08-03 | 2026-08-10 |  |  | 0 | 44 |
+| PRO-SD-1DL-100 | 1ST Material Delivery for Manholes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-07-05 | 2026-07-08 |  |  | 0 | 4 |
+| PRO-SD-1DL-110 | 1ST Material Delivery for Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-07-26 | 2026-07-29 |  |  | 0 | 0 |
+| PRO-SD-1DL-140 | 1ST Material Delivery for Manholes Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-09-01 | 2026-09-05 |  |  | 0 | 7 |
+| PRO-SD-1DL-120 | 1ST Material Delivery for Catch Basin Pipes of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-08-09 | 2026-08-12 |  |  | 0 | 20 |
+| PRO-SD-1DL-150 | 1ST Material Delivery for Catch Basin Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 3 |
+| PRO-SW-1DL-100 | 1ST Material Delivery for Main Line Pipes of Sewage Network | Main Line Sections | Task | Not Started | 2026-07-13 | 2026-07-16 |  |  | 0 | 34 |
+| PRO-SW-1DL-110 | 1ST Material Delivery for Manholes of Sewage Network | Main Line Sections | Task | Not Started | 2026-07-25 | 2026-07-28 |  |  | 0 | 28 |
+| PRO-SW-1DL-120 | 1ST Material Delivery for Manholes Covers of Sewage Network | Testing and Finishes | Task | Not Started | 2026-07-29 | 2026-07-30 |  |  | 0 | 30 |
+| PRO-PW-1DL-100 | 1ST Material Delivery for Main Line Pipes and Materials of Potable Water Network | Main Line Sections | Task | Not Started | 2026-09-02 | 2026-09-09 |  |  | 0 | 8 |
+| PRO-PW-1DL-110 | 1ST Material Delivery for Valves of Potable Water Network | Main Line Sections | Task | Not Started | 2026-09-10 | 2026-09-17 |  |  | 0 | 22 |
+| PRO-IR-1DL-100 | 1ST Material Delivery for Main Line Pipes of Irrigation Network | Main Line Pipes | Task | Not Started | 2026-08-05 | 2026-08-12 |  |  | 0 | 30 |
+| PRO-IR-1DL-110 | 1ST Material Delivery for Valves of Irrigation Network | Main Line Pipes | Task | Not Started | 2026-08-30 | 2026-09-06 |  |  | 0 | 30 |
+| PRO-MV-1DL-100 | 1ST Material Delivery for Medium Voltage Materials of Medium Voltage Network | 1st Material Delivery & Site Inspection | Task | Not Started | 2026-08-17 | 2026-08-24 |  |  | 0 | 13 |
+| PRO-SL-1DL-100 | 1ST Material Delivery for Lighting Cables of Street Lighting Network | Cabling Works | Task | Not Started | 2026-08-16 | 2026-08-22 |  |  | 0 | 23 |
+| PRO-SL-1DL-110 | 1ST Material Delivery for Lighting Poles Foundations of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-09-09 | 2026-09-15 |  |  | 0 | 8 |
+| PRO-SL-1DL-120 | 1ST Material Delivery for Lighting Poles of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-09-16 | 2026-09-22 |  |  | 0 | 11 |
+| PRO-SL-1DL-130 | 1ST Material Delivery for Fuse Boxes of Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-10-22 | 2026-10-28 |  |  | 0 | 29 |
+| PRO-SL-1DL-140 | 1ST Material Delivery for Lighting Fixtures of Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-09-24 | 2026-09-30 |  |  | 0 | 11 |
+| PRO-SL-1DL-150 | 1ST Material Delivery for Lighting Earthing of Street Lighting Network | Earthing System Works | Task | Not Started | 2026-11-23 | 2026-11-29 |  |  | 0 | 28 |
+| PRO-SL-1DL-160 | 1ST Material Delivery for Distrubution Panel Boards of Street Lighting Network | Distribution Panel Board | Task | Not Started | 2026-10-15 | 2026-10-21 |  |  | 0 | 14 |
+| PRO-TE-1DL-100 | 1ST Material Delivery for Ducts of Telecom Network | Ducts Works | Task | Not Started | 2026-08-31 | 2026-09-06 |  |  | 0 | 39 |
+| PRO-TE-1DL-110 | 1ST Material Delivery for Manholes of Telecom Network | Manholes Works | Task | Not Started | 2026-09-24 | 2026-09-30 |  |  | 0 | 31 |
+| PRO-CTV-1DL-100 | 1ST Material Delivery for Civil and Finishes Works of CCTV Complete System | CCTV, Telephone, MSN, ACs  System Works | Task | Not Started | 2026-10-29 | 2026-11-04 |  |  | 0 | 46 |
+| PRO-RD-1DL-100 | 1ST Material Delivery for Subgrade of Road Works | Road Works | Task | Not Started | 2026-07-13 | 2026-07-20 |  |  | 0 | 35 |
+| PRO-RD-1DL-110 | 1ST Material Delivery for Aggregate Base Course of Road Works | Road Works | Task | Not Started | 2026-08-05 | 2026-08-12 |  |  | 0 | 36 |
+| PRO-RD-1DL-120 | 1ST Material Delivery for Prime Coat of Road Works | Road Works | Task | Not Started | 2026-08-29 | 2026-09-14 |  |  | 0 | 29 |
+| PRO-RD-1DL-130 | 1ST Material Delivery for Asphaltic Base Course Layer of Road Works | Road Works | Task | Not Started | 2026-09-21 | 2026-09-29 |  |  | 0 | 28 |
+| PRO-RD-1DL-140 | 1ST Material Delivery for Interlock Tiles of Landscaping | Pavement Works | Task | Not Started | 2026-11-03 | 2026-11-10 |  |  | 0 | 25 |
+| PRO-RD-1DL-150 | 1ST Material Delivery for Curbstones of Landscaping | Pavement Works | Task | Not Started | 2026-11-11 | 2026-11-18 |  |  | 0 | 29 |
+| PRO-RD-1DL-160 | 1ST Material Delivery for Traffic Signs Boards of Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-11-28 | 2026-12-05 |  |  | 0 | 39 |
+| PRO-RD-1DL-170 | 1ST Material Delivery for Road Markings of Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-11-19 | 2026-11-26 |  |  | 0 | 39 |
+| MOB-30 | Supply & Install of Temporary Offices for the Project | Mobilization Works | Task | Completed | 2026-04-01 | 2026-04-11 | 2026-04-01 | 2026-04-09 | 100 |  |
+| MOB-40 | Construction Project Store | Mobilization Works | Task | Completed | 2026-04-01 | 2026-04-12 | 2026-04-01 | 2026-04-11 | 100 |  |
+| MOB-50 | Mobilization of Major Manpower | Mobilization Works | Task | Completed | 2026-02-12 | 2026-02-18 | 2026-02-12 | 2026-02-26 | 100 |  |
+| MOB-60 | Mobilization of Major Equipments | Mobilization Works | Task | Completed | 2026-02-12 | 2026-02-18 | 2026-02-12 | 2026-03-07 | 100 |  |
+| MOB-10 | Clear and Grub for Offices and Access Roads | Mobilization Works | Task | Completed | 2026-01-06 | 2026-01-21 | 2026-01-06 | 2026-01-20 | 100 |  |
+| T/C-SD | Testing and Commissioning of Storm Drainage Ponds and Storm Drainage Network | Storm Drainage Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| T/C-SW | Testing and Commissioning of Sewage Network | Sewage Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| T/C-PW | Testing and Commissioning of Potable Water Network | Potable Water Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| T/C-MV | Testing and Commissioning of Medium Voltage Network | Medium Voltage Network | Task | Not Started | 2027-02-07 | 2027-02-20 |  |  | 0 | 4 |
+| T/C-SL | Testing and Commissioning of Street Lighting Network | Street Lighting Network | Task | Not Started | 2027-02-07 | 2027-02-20 |  |  | 0 | 4 |
+| T/C-TE | Testing and Commissioning of Telecom and Light Current Networks | Telecom and Light Current Network | Task | Not Started | 2027-02-07 | 2027-02-20 |  |  | 0 | 4 |
+| T/C-RD | Testing and Commissioning of Road Works | Road Works | Task | Not Started | 2027-02-07 | 2027-02-20 |  |  | 0 | 3 |
+| ENG-SH-SD-ML-S-100 | Submission Shop Drawings for Main Line and Manholes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-SW-ML-S-100 | Submission Shop Drawings for Main Line and Manholes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-PW-ML-S-100 | Submission Shop Drawings for Main Line and Valve Chambers of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-IR-ML-S-100 | Submission Shop Drawings for Main Line and Valves & Bulbblers and Sprinklers of Irrigation Network | Main Line Sections | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-MV-S-100 | Submission Shop Drawings for Medium Voltage Network | Medium Voltage Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-SL-S-100 | Submission Shop Drawings for Street Lighting Network | Street Lighting Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-TE-S-100 | Submission Shop Drawings for Telecom Network | Telecom Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-RD-S-100 | Submission Shop Drawings for Plan and Profile of Road Works | General Road Works | Task | Completed | 2026-01-06 | 2026-01-11 | 2026-01-06 | 2026-01-10 | 100 |  |
+| ENG-SH-SD-ML-A-110 | Approval Shop Drawings for Main Line and Manholes of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-SW-ML-A-110 | Approval Shop Drawings for Main Line and Manholes of Sewage Network | Main Line Sections | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-PW-ML-A-110 | Approval Shop Drawings for Main Line and Valve Chambers of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-IR-ML-A-110 | Approval Shop Drawings for Main Line and Valves & Bulbblers and Sprinklers of Irrigation Network | Main Line Sections | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-MV-A-110 | Approval Shop Drawings for Medium Voltage Network | Medium Voltage Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-SL-A-110 | Approval Shop Drawings for Street Lighting Network | Street Lighting Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-TE-A-110 | Approval Shop Drawings for Telecom Network | Telecom Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-RD-A-100 | Approval Shop Drawings for Plan and Profile of Road Works | General Road Works | Task | Completed | 2026-01-11 | 2026-01-18 | 2026-01-11 | 2026-01-17 | 100 |  |
+| ENG-MT-SD-CB-S-110 | Material Submittal for Catch Basin Pipes of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SD-CB-A-100 | Material Approval for Catch Basins of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-SD-PO-150 | Issuance of Purchase Order for Catch Basin Pipes of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-07-04 | 2026-07-09 |  |  | 0 | 0 |
+| PRO-SD-1DL-130 | 1ST Material Delivery for Catch Basins of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-08-02 | 2026-08-05 |  |  | 0 | 18 |
+| PRO-SD-MF-100 | Manufacturing of Materials for Manholes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-06-25 | 2026-07-04 |  |  | 0 | 4 |
+| PRO-SD-MF-110 | Manufacturing of Materials for Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-06-28 | 2026-07-25 |  |  | 0 | 0 |
+| PRO-SD-MF-120 | Manufacturing of Materials for Manhole Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-08-09 | 2026-08-31 |  |  | 0 | 3 |
+| PRO-SD-MF-130 | Manufacturing of Materials for Catch Basins of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-07-04 | 2026-08-01 |  |  | 0 | 18 |
+| PRO-SD-MF-140 | Manufacturing of Materials for Catch Basin Covers of Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-09-01 | 2026-10-06 |  |  | 0 | 3 |
+| PRO-SW-MF-100 | Manufacturing of Main Line Pipes for Sewage Network | Main Line Sections | Task | Not Started | 2026-07-01 | 2026-07-12 |  |  | 0 | 34 |
+| PRO-SW-MF-110 | Manufacturing of Manholes for Sewage Network | Main Line Sections | Task | Not Started | 2026-07-09 | 2026-07-20 |  |  | 0 | 31 |
+| PRO-SW-MF-120 | Manufacturing of Manhole Covers for Sewage Network | Testing and Finishes | Task | Not Started | 2026-07-18 | 2026-07-23 |  |  | 0 | 28 |
+| PRO-PW-MF-100 | Manufacturing of Main Line Pipes and Materials for Potable Water Network | Main Line Sections | Task | Not Started | 2026-06-23 | 2026-08-01 |  |  | 0 | 25 |
+| PRO-PW-MF-110 | Manufacturing of Valves for Potable Water Network | Main Line Sections | Task | Not Started | 2026-08-02 | 2026-08-29 |  |  | 0 | 25 |
+| PRO-IR-MF-100 | Manufacturing of Main Line Pipes for Irrigation Network | Main Line Pipes | Task | Not Started | 2026-07-12 | 2026-08-04 |  |  | 0 | 30 |
+| PRO-IR-MF-110 | Manufacturing of Valves for Irrigation Network | Main Line Pipes | Task | Not Started | 2026-08-05 | 2026-08-29 |  |  | 0 | 30 |
+| PRO-MV-MF-100 | Manufacturing of Medium Voltage Materials for Medium Voltage Network | Manufacturing of Material | Task | Not Started | 2026-07-23 | 2026-08-16 |  |  | 0 | 13 |
+| PRO-SL-MF-100 | Manufacturing of Lighting Cables for Street Lighting Network | Cabling Works | Task | Not Started | 2026-07-23 | 2026-08-15 |  |  | 0 | 8 |
+| PRO-SL-MF-110 | Manufacturing of Lighting Poles Foundations for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-08-16 | 2026-09-08 |  |  | 0 | 8 |
+| PRO-SL-MF-120 | Manufacturing of Lighting Poles for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-08-16 | 2026-09-08 |  |  | 0 | 14 |
+| PRO-SL-MF-130 | Manufacturing of Fuse Boxes for Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-08-01 | 2026-10-21 |  |  | 0 | 28 |
+| PRO-SL-MF-140 | Manufacturing of Lighting Fixtures for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-08-16 | 2026-09-08 |  |  | 0 | 14 |
+| PRO-SL-MF-150 | Manufacturing of Lighting Earthing for Street Lighting Network | Earthing System Works | Task | Not Started | 2026-08-06 | 2026-09-21 |  |  | 0 | 12 |
+| PRO-SL-MF-160 | Manufacturing of Distrubution Panel Boards for Street Lighting Network | Distribution Panel Board | Task | Not Started | 2026-09-09 | 2026-10-14 |  |  | 0 | 14 |
+| PRO-TE-MF-100 | Manufacturing of Ducts for Telecom Network | Ducts Works | Task | Not Started | 2026-08-08 | 2026-08-30 |  |  | 0 | 31 |
+| PRO-TE-MF-110 | Manufacturing of Manholes for Telecom Network | Manholes Works | Task | Not Started | 2026-08-31 | 2026-09-22 |  |  | 0 | 31 |
+| PRO-CTV-MF-100 | Manufacturing of Civil and Finishes Works for CCTV Complete System | CCTV, Telephone, MSN, ACs  System Works | Task | Not Started | 2026-09-24 | 2026-10-28 |  |  | 0 | 46 |
+| PRO-RD-MF-100 | Manufacturing of Subgrade for Road Works | Road Works | Task | Not Started | 2026-07-01 | 2026-07-12 |  |  | 0 | 19 |
+| PRO-RD-MF-110 | Manufacturing of Aggregate Base Course for Road Works | Road Works | Task | Not Started | 2026-07-13 | 2026-08-04 |  |  | 0 | 19 |
+| PRO-RD-MF-120 | Manufacturing of Prime Coat for Road Works | Road Works | Task | Not Started | 2026-08-05 | 2026-08-27 |  |  | 0 | 19 |
+| PRO-RD-MF-130 | Manufacturing of Asphaltic Base Course Layer for Road Works | Road Works | Task | Not Started | 2026-08-29 | 2026-09-20 |  |  | 0 | 19 |
+| PRO-RD-MF-140 | Manufacturing of Interlock Tiles for Landscaping | Pavement Works | Task | Not Started | 2026-10-10 | 2026-11-02 |  |  | 0 | 25 |
+| PRO-RD-MF-150 | Manufacturing of Curbstones for Landscaping | Pavement Works | Task | Not Started | 2026-10-10 | 2026-11-01 |  |  | 0 | 37 |
+| PRO-RD-MF-160 | Manufacturing of Traffic Signs Boards for Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-08-03 | 2026-11-04 |  |  | 0 | 37 |
+| PRO-RD-MF-170 | Manufacturing of Road Markings for Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-08-11 | 2026-11-12 |  |  | 0 | 44 |
+| PRO-SD-MF-150 | Manufacturing of Materials for Catch Basin Pipes of Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-07-11 | 2026-08-08 |  |  | 0 | 3 |
+| ENG-MT-PW-FH-S-100 | Material Submittal for Fire Hydrant of Potable Water Network | Fire Hydrant | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-PW-FH-A-100 | Material Approval for Fire Hydrants of Potable Water Network | Fire Hydrant | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-PW-PO-120 | Issuance of Purchase Order for Fire Hydrants of Potable Water Network | Fire Hydrant | Task | Not Started | 2026-06-23 | 2026-06-28 |  |  | 0 | 8 |
+| PRO-PW-MF-120 | Manufacturing of Fire Hydrants for Potable Water Network | Fire Hydrant | Task | Not Started | 2026-08-30 | 2026-09-15 |  |  | 0 | 25 |
+| PRO-PW-1DL-120 | 1ST Material Delivery for Fire Hydrants of Potable Water Network | Fire Hydrant | Task | Not Started | 2026-09-16 | 2026-09-24 |  |  | 0 | 25 |
+| MS-CF-MOB | Completion of Mobilization Works | Contractual Milestones | Milestone | Completed | 2026-06-23 | 2026-06-23 | 2026-03-07 | 2026-03-07 | 100 |  |
+| ENG-SH-HS-S-100 | Submission Shop Drawings for Landscape Works | Landscape Works | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-HS-A-110 | Approval Shop Drawings for Landscape Works | Landscape Works | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-TSB-S-100 | Submission Shop Drawings for Traffic Signs Boards | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-TSB-A-100 | Approval Shop Drawings for Traffic Signs Boards | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-SD-CB-S-100 | Submission Shop Drawings for Secondary Line and Catch Basin of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-SD-CB-A-110 | Approval Shop Drawings for Secondary Line and Catch Basin of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-RD-A-110 | Approval Shop Drawings for Roads Typical Sections and Pavement Details | General Road Works | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-RD-S-110 | Submission Shop Drawings for Roads Typical Sections and Pavement Details | General Road Works | Task | Completed | 2026-01-18 | 2026-01-22 | 2026-01-18 | 2026-01-21 | 100 |  |
+| ENG-SH-MRK-S-110 | Submission Shop Drawings for Road Markings | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-MRK-A-110 | Approval Shop Drawings for Road Markings | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-MT-SL-TF-S-110 | Material Submittal for Cable Lugs of Street Lighting Network | Termination and Testing Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SL-TF-A-110 | Material Approval for Cable Lugs of Street Lighting Network | Termination and Testing Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-SL-PO-170 | Issuance of Purchase Order for Cable Lugs of Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-07-23 | 2026-07-29 |  |  | 0 | 12 |
+| PRO-SL-MF-170 | Manufacturing of Cable Lugs for Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-10-22 | 2026-11-15 |  |  | 0 | 28 |
+| PRO-SL-1DL-170 | 1ST Material Delivery for Cable Lugs of Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-11-16 | 2026-11-22 |  |  | 0 | 28 |
+| ENG-MT-PW-TF-S-100 | Material Submittal for Surface Box of Potable Water Network | Testing and Finishes | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-PW-TF-A-100 | Material Approval for Surface Box of Potable Water Network | Testing and Finishes | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-PW-PO-130 | Issuance of Purchase Order for Surface Box of Potable Water Network | Testing and Finishes | Task | Not Started | 2026-06-29 | 2026-07-05 |  |  | 0 | 8 |
+| PRO-PW-MF-130 | Manufacturing for Surface Box of Potable Water Network | Testing and Finishes | Task | Not Started | 2026-07-06 | 2026-09-01 |  |  | 0 | 8 |
+| PRO-PW-1DL-130 | 1ST Material Delivery for Finishes of Potable Water Network | Testing and Finishes | Task | Not Started | 2026-09-02 | 2026-09-09 |  |  | 0 | 36 |
+| MOB-70 | Installation Project Sign Board | Mobilization Works | Task | Completed | 2026-04-01 | 2026-04-12 | 2026-04-01 | 2026-04-11 | 100 |  |
+| MS-CF-SD | Completion of Construction Works for Storm Drainage Network | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| MS-CF-SW | Completion of Construction Works for Sewage Network | Contractual Milestones | Milestone | Not Started | 2026-11-04 | 2026-11-04 |  |  | 0 | 14 |
+| MS-CF-PW | Completion of Construction Works for Potable Water Network | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| MS-CF-IR | Completion of Construction Works for Irrigation Network | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| MS-CF-MV | Completion of Construction Works for Medium Voltage Network | Contractual Milestones | Milestone | Not Started | 2026-12-13 | 2026-12-13 |  |  | 0 | 11 |
+| MS-CF-SL | Completion of Construction Works for Street Lighting Network | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| MS-CF-TE | Completion of Construction Works for Telecom and Light Current Networks | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| MS-CF-RD | Completion of Construction Works for Road Works | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 29 |
+| HO-100 | Submission As-Built Drawing For Sewage Network | As-Built | Task | Not Started | 2027-02-11 | 2027-02-22 |  |  | 0 | 9 |
+| HO-110 | Final Testing Work | Handing Over | Task | Not Started | 2027-02-25 | 2027-03-04 |  |  | 0 | 0 |
+| HO-120 | Remove material stock & Storage area | De-Mobilization Works | Task | Not Started | 2027-02-21 | 2027-03-01 |  |  | 0 | 3 |
+| CO-SD-ML-100 | Trench Excavation and Bedding Works for Main Lines of Storm Drainage Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-08-03 | 2026-08-05 |  |  | 0 | 6 |
+| CO-SD-ML-120 | Pipes Laying Works for Main Lines of Storm Drainage Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-08-13 | 2026-08-16 |  |  | 0 | 0 |
+| CO-SD-ML-130 | Trench Backfilling and Compaction Works for Main Lines of Storm Drainage Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-08-17 | 2026-08-20 |  |  | 0 | 0 |
+| CO-PW-ML-100 | Trench Excavation and Bedding Works for Main Lines of Potable Water Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-09-22 | 2026-09-28 |  |  | 0 | 18 |
+| CO-PW-ML-110 | Pipes Laying and accessories  for Main Lines  of Potable Water Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-10-06 | 2026-10-11 |  |  | 0 | 12 |
+| CO-PW-FH-140 | Excavation Works for Fire Hydrants of Potable Water Network for Alignment-RD-03-1 | Fire Hydrant | Task | Not Started | 2026-09-29 | 2026-09-30 |  |  | 0 | 35 |
+| CO-PW-FH-150 | Installation Works for Fire Hydrant of Potable Water Network for Alignment-RD-03-1 | Fire Hydrant | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 26 |
+| CO-PW-FH-160 | Trench Backfilling and Compaction Works for Fire Hydrants of Potable Water Network for Alignment-RD-03-1 | Fire Hydrant | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 8 |
+| CO-PW-ML-130 | Trench Backfilling and Compaction Works for Main Lines of Potable Water Network for Alignment-RD-03-1 | Main Line Sections | Task | Not Started | 2026-10-12 | 2026-10-19 |  |  | 0 | 12 |
+| CO-TE-DW-110 | Pipes Laying Works for Ducts of Telecom Network for Alignment-RD-03-1 | Ducts Works | Task | Not Started | 2026-12-03 | 2026-12-07 |  |  | 0 | 3 |
+| CO-TE-DW-130 | Trench Backfilling and Compaction Works for Ducts of Telecom Network for Alignment-RD-03-1 | Ducts Works | Task | Not Started | 2026-12-08 | 2026-12-12 |  |  | 0 | 3 |
+| CO-TE-CTV-110 | Installation of CCTV, Telephone, ACS and MSN Systems Cables for Alignment-RD-03-1 | CCTV, Telephone, MSN, ACs System Works | Task | Not Started | 2026-12-06 | 2026-12-09 |  |  | 0 | 30 |
+| CO-TE-MH-140 | Excavation Works for Manholes of Telecom Network for Alignment-RD-03-1 | Manholes Works | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | 9 |
+| CO-TE-MH-150 | Installation Works for Manholes of Telecom Network for Alignment-RD-03-1 | Manholes Works | Task | Not Started | 2026-12-01 | 2026-12-02 |  |  | 0 | 9 |
+| CO-TE-MH-160 | Backfilling Works for Manholes of Telecom Network for Alignment-RD-03-1 | Manholes Works | Task | Not Started | 2026-12-03 | 2026-12-05 |  |  | 0 | 9 |
+| CO-EW-200 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-03-1 | Earthworks | Task | Not Started | 2026-06-23 | 2026-07-06 |  |  | 0 | 3 |
+| CO-SD-ML-TF-100 | Testing Work for Pipes of Storm Drainage Network for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 13 |
+| CO-PW-TF-110 | Testing of Potable Water Network for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | 29 |
+| CO-PW-TF-120 | Fire Hydrant Finishies (S.Box + Safety + Marker Post ) of Potable Water Network for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-22 | 2026-12-24 |  |  | 0 | 14 |
+| CO-PW-TF-100 | Final Finishes works and Covers for Valves and Valve Chambers for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-22 | 2026-12-26 |  |  | 0 | 15 |
+| PRO-R25-SD-DL-100 | Material Delivery & Site Inspection of Manholes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-07-09 | 2026-07-20 |  |  | 0 | 4 |
+| PRO-R25-SD-DL-120 | Material Delivery & Site Inspection of Main Line Pipes of Storm Drainage Network | Main Line Sections | Task | Not Started | 2026-07-30 | 2026-08-16 |  |  | 0 | 0 |
+| PRO-R25-SD-DL-140 | Material Delivery & Site Inspection of Manholes Covers for Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-09-06 | 2026-09-29 |  |  | 0 | 7 |
+| PRO-R25-SD-DL-130 | Material Delivery & Site Inspection of Catch Basins for Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-08-06 | 2026-08-15 |  |  | 0 | 18 |
+| PRO-R25-SD-DL-150 | Material Delivery & Site Inspection of Catch Basin Covers for Storm Drainage Network | Testing and Finishes | Task | Not Started | 2026-10-12 | 2026-10-27 |  |  | 0 | 7 |
+| PRO-R25-SW-DL-100 | Material Delivery & Site Inspection of Main Line Pipes for Sewage Network | Main Line Sections | Task | Not Started | 2026-08-05 | 2026-08-09 |  |  | 0 | 30 |
+| PRO-R25-SW-DL-110 | Material Delivery & Site Inspection of Manholes for Sewage Network | Main Line Sections | Task | Not Started | 2026-07-29 | 2026-08-02 |  |  | 0 | 28 |
+| PRO-R25-SW-DL-120 | Material Delivery & Site Inspection of Manholes Covers for Sewage Network | Testing and Finishes | Task | Not Started | 2026-08-01 | 2026-08-04 |  |  | 0 | 30 |
+| PRO-R25-PW-DL-100 | Material Delivery & Site Inspection of Main Line Pipes and Materials for Potable Water Network | Main Line Sections | Task | Not Started | 2026-09-10 | 2026-10-05 |  |  | 0 | 8 |
+| PRO-R25-PW-DL-110 | Material Delivery & Site Inspection of Valves for Potable Water Network | Main Line Sections | Task | Not Started | 2026-10-06 | 2026-10-29 |  |  | 0 | 8 |
+| PRO-R25-IR-DL-100 | Material Delivery & Site Inspection of Main Line Pipes for Irrigation Network | Main Line Pipes | Task | Not Started | 2026-08-13 | 2026-09-06 |  |  | 0 | 30 |
+| PRO-R25-IR-DL-110 | Material Delivery & Site Inspection of Valves for Irrigation Network | Main Line Pipes | Task | Not Started | 2026-09-07 | 2026-10-01 |  |  | 0 | 30 |
+| PRO-MV-DL-100 | Material Delivery & Site Inspection of Medium Voltage Materials for Medium Voltage Network | Material Delivery & Site Inspection | Task | Not Started | 2026-09-07 | 2026-10-01 |  |  | 0 | 31 |
+| PRO-R25-SL-DL-100 | Material Delivery & Site Inspection of Lighting Cables for Street Lighting Network | Cabling Works | Task | Not Started | 2026-08-23 | 2026-09-15 |  |  | 0 | 23 |
+| PRO-R25-SL-DL-110 | Material Delivery & Site Inspection of Lighting Poles Foundations for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-09-09 | 2026-10-04 |  |  | 0 | 8 |
+| PRO-R25-SL-DL-120 | Material Delivery & Site Inspection of Lighting Poles for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-10-05 | 2026-10-28 |  |  | 0 | 8 |
+| PRO-R25-SL-DL-130 | Material Delivery & Site Inspection of Fuse Boxes for Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-11-23 | 2026-12-16 |  |  | 0 | 8 |
+| PRO-R25-SL-DL-140 | Material Delivery & Site Inspection of Lighting Fixtures for Street Lighting Network | Lighting Poles Works | Task | Not Started | 2026-10-05 | 2026-10-28 |  |  | 0 | 8 |
+| PRO-R25-SL-DL-150 | Material Delivery & Site Inspection of Lighting Earthing for Street Lighting Network | Earthing System Works | Task | Not Started | 2026-11-23 | 2026-12-16 |  |  | 0 | 28 |
+| PRO-R25-SL-DL-160 | Material Delivery & Site Inspection of Distrubution Panel Boards for Street Lighting Network | Distribution Panel Board | Task | Not Started | 2026-10-29 | 2026-11-22 |  |  | 0 | 8 |
+| PRO-R25-TE-DL-100 | Material Delivery & Site Inspection for Ducts of Telecom Network | Ducts Works | Task | Not Started | 2026-09-07 | 2026-09-24 |  |  | 0 | 39 |
+| PRO-R25-TE-DL-110 | Material Delivery & Site Inspection of Manholes for Telecom Network | Manholes Works | Task | Not Started | 2026-10-01 | 2026-10-18 |  |  | 0 | 34 |
+| PRO-R25-CTV-DL-100 | Material Delivery & Site Inspection of for Civil and Finishes Works of CCTV Complete System | CCTV, Telephone, MSN, ACs  System Works | Task | Not Started | 2026-11-05 | 2026-11-16 |  |  | 0 | 46 |
+| PRO-R25-RD-DL-120 | Material Delivery & Site Inspection of Interlock Tiles for Landscaping | Pavement Works | Task | Not Started | 2026-11-18 | 2026-11-30 |  |  | 0 | 19 |
+| PRO-R25-RD-DL-130 | Material Delivery & Site Inspection of Curbstones for Landscaping | Pavement Works | Task | Not Started | 2026-12-01 | 2026-12-13 |  |  | 0 | 19 |
+| PRO-R25-RD-DL-140 | Material Delivery & Site Inspection of Traffic Signs Boards For Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-14 | 2026-12-26 |  |  | 0 | 32 |
+| PRO-R25-RD-DL-150 | Material Delivery & Site Inspection of Road Markings For Road Works | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-01 | 2026-12-13 |  |  | 0 | 32 |
+| PRO-R25-SD-DL-110 | Material Delivery & Site Inspection of Catch Basin Pipes for Storm Drainage Network | Catch Basin Sections | Task | Not Started | 2026-08-16 | 2026-08-23 |  |  | 0 | 18 |
+| PRO-R25-PW-DL-120 | Material Delivery & Site Inspection of Fire Hydrants for Potable Water Network | Fire Hydrant | Task | Not Started | 2026-09-26 | 2026-10-01 |  |  | 0 | 29 |
+| PRO-R25-SL-DL-170 | Material Delivery & Site Inspection of Cable Lugs for Street Lighting Network | Termination and Testing Works | Task | Not Started | 2026-11-23 | 2026-12-16 |  |  | 0 | 28 |
+| PRO-R25-PW-DL-130 | Material Delivery & Site Inspection for Finishes of Potable Water Network | Testing and Finishes | Task | Not Started | 2026-09-10 | 2026-11-26 |  |  | 0 | 36 |
+| MS-CF-EBL | Completion of Execution Plan and Baseline Schedule | Contractual Milestones | Milestone | Completed | 2026-06-23 | 2026-06-23 | 2026-02-05 | 2026-02-05 | 100 |  |
+| MS-CF-ENG | Completion of Submitting and Approval of Shopdrawing and Materials | Contractual Milestones | Milestone | Not Started | 2026-07-20 | 2026-07-20 |  |  | 0 | 3 |
+| PRE-CON-MDC-10 | Submission Project Execution Plan | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-20 | Submission Project Baseline Schedule | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-30 | Submission Project Health & Safety Plan | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-40 | Submission Project Quality Control Plan | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-50 | Submission Project Surveying Report | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-60 | Submission Project Geotechnical Soil Report | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| MOB-20 | Project Site Layout Plan Approval | Mobilization Works | Task | Completed | 2026-01-21 | 2026-01-28 | 2026-01-21 | 2026-01-27 | 100 |  |
+| MOB-80 | Construction Site Access Roads | Mobilization Works | Task | Completed | 2026-01-28 | 2026-02-16 | 2026-01-28 | 2026-02-15 | 100 |  |
+| PRE-CON-MDC-70 | Submission Project Environmental Plan | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| PRE-CON-MDC-80 | Submission Project Organization Chart and Communications Plan | Project Main Documents From The Contractor | Task | Completed | 2026-01-06 | 2026-02-07 | 2026-01-06 | 2026-02-05 | 100 |  |
+| MS-MO-10 | Completion of Sewage Pump Station | Contractual Milestones | Milestone | Not Started | 2027-02-28 | 2027-02-28 |  |  | 0 | 4 |
+| MS-MO-20 | Completion of Storm Drainage Ponds | Contractual Milestones | Milestone | Not Started | 2026-12-31 | 2026-12-31 |  |  | 0 | 9 |
+| ENG-MS-SD-ML-S-100 | Submission Method Statement for Main Line of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-25 | 2026-01-26 | 2026-01-25 | 2026-01-25 | 100 |  |
+| ENG-MS-SW-ML-S-100 | Submission Method Statement for Main Line of Sewage Network | Main Line Sections | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-PW-ML-S-100 | Submission Method Statement for Main Line of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-IR-ML-S-100 | Submission Method Statement for Main Line of Irrigation Network | Main Line Sections | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-MV-S-100 | Submission Method Statement for Medium Voltage Network | Medium Voltage Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-SL-S-100 | Submission Method Statement for Street Lighting Network | Street Lighting Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-TE-S-100 | Submission Method Statement for Telecom Network | Telecom Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-RD-S-10 | Submission Method Statement for Plan and Profile of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-21 | 2026-01-18 | 2026-01-20 | 100 |  |
+| ENG-MS-SD-ML-A-110 | Approval Method Statement for Main Line of Storm Drainage Network | Main Line Sections | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-MS-SW-ML-A-110 | Approval Method Statement for Main Line of Sewage Network | Main Line Sections | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-PW-ML-A-110 | Approval Method Statement for Main Line of Potable Water Network | Main Line Sections | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-IR-ML-A-110 | Approval Method Statement for Main Line of Irrigation Network | Main Line Sections | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-MV-A-110 | Approval Method Statement for Medium Voltage Network | Medium Voltage Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-SL-A-110 | Approval Method Statement for Street Lighting Network | Street Lighting Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-TE-A-110 | Approval Method Statement for Telecom Network | Telecom Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-RD-A-10 | Approval Method Statement for Plan and Profile of Road Works | General Road Works | Task | Completed | 2026-01-21 | 2026-01-25 | 2026-01-21 | 2026-01-24 | 100 |  |
+| ENG-MS-HS-S-10 | Submission Method Statement for Landscaping Works | Landscape Works | Task | Completed | 2026-01-22 | 2026-01-26 | 2026-01-22 | 2026-01-25 | 100 |  |
+| ENG-MS-HS-A-10 | Approval Method Statement for Landscaping Works | Landscape Works | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-MS-TSB-S-10 | Submission Method Statement for Traffic Signs Boards | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-22 | 2026-01-26 | 2026-01-22 | 2026-01-25 | 100 |  |
+| ENG-MS-TSB-A-10 | Approval Method Statement for Traffic Signs Boards | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-MS-SD-CB-S-100 | Submission Method Statement for Catch Basin of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-SD-CB-A-110 | Approval Method Statement for Catch Basin of Storm Drainage Network | Catch Basin Sections | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-RD-A-20 | Approval Method Statement for Roads Typical Sections and Pavement Details | General Road Works | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-MS-RD-S-20 | Submission Method Statement for Roads Typical Sections and Pavement Details | General Road Works | Task | Completed | 2026-01-22 | 2026-01-26 | 2026-01-22 | 2026-01-25 | 100 |  |
+| ENG-MS-RD-S-30 | Submission Method Statement of Extraover for Pedestrian ramps | General Road Works | Task | Completed | 2026-01-18 | 2026-01-21 | 2026-01-18 | 2026-01-20 | 100 |  |
+| ENG-MS-RD-A-30 | Approval Method Statement of Extraover for Pedestrian ramps | General Road Works | Task | Completed | 2026-01-21 | 2026-01-25 | 2026-01-21 | 2026-01-24 | 100 |  |
+| ENG-MS-MRK-S-10 | Submission Method Statement for Roads Markings | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-22 | 2026-01-26 | 2026-01-22 | 2026-01-25 | 100 |  |
+| ENG-MS-MRK-A-10 | Approval Method Statement for Roads Markings | Traffic Sign Boards and Road Marking | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-MS-RD-S-40 | Submission Method Statement for Intersections of Road Works | General Road Works | Task | Completed | 2026-01-18 | 2026-01-21 | 2026-01-18 | 2026-01-20 | 100 |  |
+| ENG-MS-RD-A-40 | Approval Method Statement for Intersections of Road Works | General Road Works | Task | Completed | 2026-01-21 | 2026-01-25 | 2026-01-21 | 2026-01-24 | 100 |  |
+| ENG-SH-PW-FH-S-100 | Submission Shop Drawings for Fire Hydrant Network | Fire Hydrant | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-PW-FH-A-110 | Approval Shop Drawings for Fire Hydrant Network | Fire Hydrant | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-MT-SLS-CV-S-100 | Material Submittal for Works for Water Pump Station | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-SLS-CV-A-110 | Material Approval for Works for Water Pump Station | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-DPO-CV-S-100 | Material Submittal for Materials of Storm Drainage Ponds | Storm Drainage Pond | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-DPO-CV-A-110 | Material Approval for Materials of Storm Drainage Ponds | Storm Drainage Pond | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-SPS-MC-S-100 | Material Submittal for Electromechanical Works for Pump Station | Submission of Material | Task | Not Started | 2026-06-23 | 2026-06-29 |  |  | 0 | 2 |
+| ENG-MT-SPS-MC-A-110 | Material Approval for Electromechanical Works for Pump Station | Approval of Material | Task | Not Started | 2026-06-30 | 2026-07-06 |  |  | 0 | 2 |
+| PRO-SPS-CV-PO-10 | Issuance of Purchase Order for Works of Sewage Pump Station | Sewage Pump Stations | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 1 |
+| PRO-DPO-CV-PO-10 | Issuance of Purchase Order for Materials of Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-07-25 | 2026-07-30 |  |  | 0 | 0 |
+| PRO-SPS-CV-MF-10 | Manufacturing of Works of Sewage Pump Station | Sewage Pump Stations | Task | Not Started | 2026-07-06 | 2026-07-29 |  |  | 0 | 1 |
+| PRO-DPO-CV-MF-10 | Manufacturing of Materials of Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-08-01 | 2026-10-14 |  |  | 0 | 0 |
+| PRO-SPS-CV-1DL-10 | 1ST Material Delivery for Works of Sewage Pump Station | Sewage Pump Stations | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 1 |
+| PRO-DPO-CV-1DL-10 | 1ST Material Delivery for Materials of Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-10-15 | 2026-10-19 |  |  | 0 | 0 |
+| PRO-SPS-CV-DL-10 | Material Delivery & Site Inspection for Works for Pump Station | Sewage Pump Stations | Task | Not Started | 2026-08-08 | 2026-08-23 |  |  | 0 | 17 |
+| PRO-DPO-CV-DL-10 | Material Delivery & Site Inspection for Materials of Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-10-20 | 2026-11-04 |  |  | 0 | 0 |
+| PRO-SPS-LL-PO-10 | Issuance of Purchase Order for Electromechanical Works for Pump Station | Issuance of Purchase Orders | Task | Not Started | 2026-07-09 | 2026-07-15 |  |  | 0 | 0 |
+| PRO-SPS-LL-MF-10 | Manufacturing of Electromechanical Works for Pump Station | Manufacturing of Material | Task | Not Started | 2026-07-16 | 2026-11-10 |  |  | 0 | 0 |
+| PRO-SPS-LL-SH/DL-10 | Material Delivery for Electromechanical Works for Pump Station | Material Shipping/Custom Clearance/Delivery | Task | Not Started | 2026-11-11 | 2026-12-05 |  |  | 0 | 0 |
+| PRO-SPS-LL-MSI-10 | Material Site Inspection for Electromechanical Works for Pump Station | Material Site Inspection | Task | Not Started | 2026-12-06 | 2026-12-30 |  |  | 0 | 0 |
+| PRO-R25-RD-DL-100 | Material Delivery & Site Inspection for Subgrade of Road Works | Pre-Bituminous Construction | Task | Not Started | 2026-07-21 | 2026-08-13 |  |  | 0 | 35 |
+| PRO-R25-RD-DL-110 | Material Delivery & Site Inspection for Aggregate Base Course of Road Works | Pre-Bituminous Construction | Task | Not Started | 2026-08-15 | 2026-09-07 |  |  | 0 | 35 |
+| PRO-R25-RD-DL-160 | Material Delivery & Site Inspection for Prime Coat Layer of Road Works | Bituminous Construction | Task | Not Started | 2026-09-15 | 2026-09-28 |  |  | 0 | 29 |
+| PRO-R25-RD-DL-170 | Material Delivery & Site Inspection for Asphaltic Base Course Layer of Road Works | Bituminous Construction | Task | Not Started | 2026-09-30 | 2026-10-12 |  |  | 0 | 28 |
+| CO-SD-PO-100-P1 | Excavation & Filling Works - PART 1 for Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-11-05 | 2026-11-12 |  |  | 0 | 0 |
+| CO-SD-PO-110-P1 | Finished Grouted Riprap - PART 1 for Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-11-14 | 2026-11-22 |  |  | 0 | 0 |
+| T/C-DPO | Testing and Commissioning of Storm Drainage Ponds | Storm Drainage Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| T/C-IR | Testing and Commissioning of Irrigation Network | Irrigation Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| CO-SD-PO-110-P2 | Finished Grouted Riprap - PART 2 for Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-12-13 | 2026-12-31 |  |  | 0 | 5 |
+| CO-SD-PO-100-P2 | Excavation & Filling Works - PART 2 for Storm Drainage Ponds | Storm Drainage Ponds | Task | Not Started | 2026-11-23 | 2026-12-12 |  |  | 0 | 5 |
+| ENG-SH-CTV-S-100 | Submission Shop Drawings for CCTV and Telephone Complete Systems | Telecom Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-CTV-A-110 | Approval Shop Drawings for CCTV and Telephone Complete Systems | Telecom Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-MS-CTV-S-100 | Submission Method Statement for CCTV, Telephone, MSN, and Access Control Systems | Telecom Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-CTV-A-110 | Approval Method Statement for CCTV, Telephone, MSN, and Access Control Systems | Telecom Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| T/C-CTV | Testing and Commissioning of Guard Room and Boundary Fence | Utility Buildings | Task | Not Started | 2027-02-02 | 2027-02-20 |  |  | 0 | 3 |
+| MS-MO-40 | Completion of Control Room | Contractual Milestones | Milestone | Not Started | 2027-03-03 | 2027-03-03 |  |  | 0 | 1 |
+| CO-TE-CTV-TF-140 | Testing and Interface modules with Telecom for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-10 | 2026-12-16 |  |  | 0 | 30 |
+| CO-PW-VC-170 | Excavation Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-03-1 | Valve Chamber | Task | Not Started | 2026-09-26 | 2026-09-28 |  |  | 0 | 32 |
+| CO-PW-VC180 | Installation of Valve Chambers of Potable Water Network for Alignment-RD-03-1 | Valve Chamber | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 29 |
+| CO-PW-VC-190 | Installation Works for Valves of Potable Water Network for Alignment-RD-03-1 | Valve Chamber | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 8 |
+| CO-PW-VC-220 | Backfilling Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-03-1 | Valve Chamber | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 8 |
+| CO-SD-MH-180 | Trench Excavation and Bedding Works for Manholes of Storm Drainage Network for Alignment-RD-03-1 | Manholes | Task | Not Started | 2026-07-07 | 2026-07-18 |  |  | 0 | 6 |
+| CO-SD-MH-190 | Install RC Footing  Works for Manholes of Storm Drainage Network for Alignment-RD-03-1 | Manholes | Task | Not Started | 2026-07-19 | 2026-07-21 |  |  | 0 | 6 |
+| CO-SD-MH-200 | Install RC Wall Rings & Slab  Works for Manholes of Storm Drainage Network for Alignment-RD-03-1 | Manholes | Task | Not Started | 2026-07-22 | 2026-08-02 |  |  | 0 | 6 |
+| CO-SD-MH-TF-210 | Testing Works for Manholes of Storm Drainage Network for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-29 | 2026-12-31 |  |  | 0 | 29 |
+| CO-SD-MH-220 | Backfilling Works for Manholes of Storm Drainage Network for Alignment-RD-03-1 | Manholes | Task | Not Started | 2026-08-03 | 2026-08-13 |  |  | 0 | 6 |
+| HO-130 | Submission As-Built Drawing For Pond | As-Built | Task | Not Started | 2027-02-11 | 2027-02-22 |  |  | 0 | 9 |
+| HO-140 | Submission As-Built Drawing For Roads Network | As-Built | Task | Not Started | 2027-02-07 | 2027-02-17 |  |  | 0 | 13 |
+| HO-150 | Submission As-Built Drawing For Street Lighting Network | As-Built | Task | Not Started | 2027-02-07 | 2027-02-17 |  |  | 0 | 13 |
+| HO-160 | Submission As-Built Drawing For Telecom and Light Current Networks | As-Built | Task | Not Started | 2027-02-07 | 2027-02-17 |  |  | 0 | 13 |
+| HO-170 | Submission As-Built Drawing For Medium Voltage Network | As-Built | Task | Not Started | 2027-02-25 | 2027-03-04 |  |  | 0 | 0 |
+| HO-180 | Submission As-Built Drawing For Irrigation Network | As-Built | Task | Not Started | 2027-02-11 | 2027-02-22 |  |  | 0 | 9 |
+| HO-190 | As-Built Drawing For Potable Water Network | As-Built | Task | Not Started | 2027-02-25 | 2027-03-04 |  |  | 0 | 0 |
+| HO-200 | Submission As-Built Drawing For Storm Network | As-Built | Task | Not Started | 2027-02-11 | 2027-02-22 |  |  | 0 | 9 |
+| HO-210 | Submission As-Built Drawing For Utility Buildings | As-Built | Task | Not Started | 2027-02-24 | 2027-03-04 |  |  | 0 | 0 |
+| HO-220 | Removing Portable Caravan | De-Mobilization Works | Task | Not Started | 2027-02-13 | 2027-02-20 |  |  | 0 | 3 |
+| HO-230 | Remove Temporary Car Shades | De-Mobilization Works | Task | Not Started | 2027-02-09 | 2027-02-20 |  |  | 0 | 11 |
+| HO-240 | Final Walkthrough and Inspection | Handing Over | Task | Not Started | 2027-02-11 | 2027-02-20 |  |  | 0 | 11 |
+| HO-250 | Review B.O.Q Qty. to ensure compliance with the actual status | Handing Over | Task | Not Started | 2027-02-11 | 2027-02-20 |  |  | 0 | 11 |
+| HO-260 | Review FIR Approval to ensure compliance with the actual status | Handing Over | Task | Not Started | 2027-02-11 | 2027-02-20 |  |  | 0 | 11 |
+| HO-270 | Review the sample drawing to ensure compliance with the actual status | Handing Over | Task | Not Started | 2027-02-11 | 2027-02-20 |  |  | 0 | 3 |
+| HO-280 | Punch List Completion | Handing Over | Task | Not Started | 2027-02-21 | 2027-03-01 |  |  | 0 | 3 |
+| MS-CF-TSE | Completion of Construction Works for Treated Sewage Effluent Network | Contractual Milestones | Milestone | Not Started | 2027-01-24 | 2027-01-24 |  |  | 0 | 34 |
+| MS-CS-TSE | Receipt of Approval NOC From Relevant Authorities For Treated Sewage Effluent Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-MO-50 | Completion of Water Pump Station | Contractual Milestones | Milestone | Not Started | 2027-02-10 | 2027-02-10 |  |  | 0 | 0 |
+| MS-MO-60 | Completion of Irrigation and Potable Tank | Contractual Milestones | Milestone | Not Started | 2027-02-07 | 2027-02-07 |  |  | 0 | 22 |
+| ENG-SH-SPS-S-150 | Submission Shop Drawings Package for Sewage Pump Station | Sewage Pump Stations | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-SPS-A-160 | Approval Shop Drawings Package for Sewage Pump Station | Sewage Pump Stations | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-DPO-S-110 | Submission Shop Drawings Package for Storm Drainage Ponds | Storm Drainage Ponds | Task | Completed | 2026-01-22 | 2026-01-26 | 2026-01-22 | 2026-01-25 | 100 |  |
+| ENG-SH-DPO-A-120 | Approval Shop Drawings Package for Storm Drainage Ponds | Storm Drainage Ponds | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-01-28 | 100 |  |
+| ENG-SH-LS-S-160 | Submission Shop Drawings Package for Water Pump Station | Water Pump Station | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-LS-A-170 | Approval Shop Drawings Package for Water Pump Station | Water Pump Station | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-ST-S-170 | Submission Shop Drawings Package for Storage Tank TSE | Storage Tank (TSE) | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-ST-A-180 | Approval Shop Drawings Package for Storage Tank TSE | Storage Tank (TSE) | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-GR-S-180 | Submission Shop Drawings Package for Gaurd Room | Gaurd Room | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-GR-A-190 | Approval Shop Drawings Package for Gaurd Room | Gaurd Room | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-GR-S-190 | Submission Shop Drawings Package for Boundary Fence | Boundary Fence | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-GR-A-200 | Approval Shop Drawings Package for Boundary Fence | Boundary Fence | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-LV-S-110 | Submission Shop Drawings for Low Voltage Network | Low Voltage Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-LV-A-120 | Approval Shop Drawings for Low Voltage Network | Low Voltage Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-SH-MSN-S-110 | Submission Shop Drawings for MSN and Access Control Systems | Telecom Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-MSN-A-120 | Approval Shop Drawings for MSN and Access Control Systems | Telecom Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-MS-SPS-S-160 | Submission Method Statement Package for Sewage Pump Station | Sewage Pump Stations | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-SPS-A-170 | Approval Method Statement Package for Sewage Pump Station | Sewage Pump Stations | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-DPO-S-120 | Submission Method Statement Package for Storm Drainage Ponds | Storm Drainage Ponds | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-DPO-A-130 | Approval Method Statement Package for Storm Drainage Ponds | Storm Drainage Ponds | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-LS-S-170 | Submission Method Statement Package for Water Pump Station | Water Pump Station | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-LS-A-180 | Approval Method Statement Package for Water Pump Station | Water Pump Station | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-ST-S-180 | Submission Method Statement Package for Storage Tank TSE | Storage Tank (TSE) | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-ST-A-190 | Approval Method Statement Package for Storage Tank TSE | Storage Tank (TSE) | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-GR-S-200 | Submission Method Statement Package for Gaurd Room | Gaurd Room | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-GR-A-210 | Approval Method Statement Package for Gaurd Room | Gaurd Room | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MS-GR-S-210 | Submission Method Statement Package for Boundary Fence | Boundary Fence | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-GR-A-220 | Approval Method Statement Package for Boundary Fence | Boundary Fence | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-SH-TSE-ML-S-110 | Submission Shop Drawings for Main Line Treated Sewage Effluent Network | Treated Sewage Effluent Network | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-TSE-ML-A-120 | Approval Shop Drawings for Main Line Treated Sewage Effluent Network | Treated Sewage Effluent Network | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-MS-TSE-ML-S-110 | Submission Method Statement for Main Line of Treated Sewage Effluent Network | Treated Sewage Effluent Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-TSE-ML-A-120 | Approval Method Statement for Main Line of Treated Sewage Effluent Network | Treated Sewage Effluent Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MT-IR-ML-S-120 | Material Submittal for Materials of Treated Sewage Effluent (TSE) | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-IR-ML-A-120 | Material Approval for Materials of Treated Sewage Effluent (TSE) | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-FE-CV-S-110 | Material Submittal for Materials for Boundary Fence | Submission of Material | Task | Completed | 2026-02-25 | 2026-02-25 | 2026-02-25 | 2026-02-26 | 100 |  |
+| ENG-MT-FE-CV-A-120 | Material Approval for Materials for Boundary Fence | Approval of Material | Task | Completed | 2026-02-28 | 2026-06-08 | 2026-02-28 | 2026-06-13 | 100 |  |
+| ENG-MT-GR-CV-S-120 | Material Submittal for Materials for Gaurd Room | Submission of Material | Task | Completed | 2026-02-18 | 2026-02-18 | 2026-02-18 | 2026-02-19 | 100 |  |
+| ENG-MT-GR-CV-A-130 | Material Approval for Materials for Gaurd Room | Approval of Material | Task | Completed | 2026-02-19 | 2026-02-28 | 2026-02-19 | 2026-03-02 | 100 |  |
+| ENG-MT-TSE-CV-S-130 | Material Submittal for Works for Storage Tank (TSE) | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-TSE-CV-A-140 | Material Approval for Works for Storage Tank (TSE) | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-PS-CV-S-140 | Material Submittal for Works of Sewage Pump Station | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-PS-CV-A-150 | Material Approval for Works of Sewage Pump Station | Approval of Material | Task | Completed | 2026-02-11 | 2026-02-16 | 2026-02-11 | 2026-02-16 | 100 |  |
+| ENG-MT-TSE-MC-S-110 | Material Submittal for Electromechanical Works for Storage Tank (TSE) | Submission of Material | Task | Not Started | 2026-06-23 | 2026-07-06 |  |  | 0 | 3 |
+| ENG-MT-TSE-MC-A-120 | Material Approval for Electromechanical Works for Storage Tank (TSE) | Approval of Material | Task | Not Started | 2026-07-07 | 2026-07-20 |  |  | 0 | 3 |
+| ENG-MT-IR-ML-S-140 | Material Submittal for Softscape and Planting Works | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-IR-ML-S-150 | Material Submittal for Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Submission of Material | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| ENG-MT-IR-ML-A-140 | Material Approval for Softscape and Planting Works | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| ENG-MT-IR-ML-A-150 | Material Approval for Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Approval of Material | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LS-CV-PO-20 | Issuance of Purchase Order for Works for Water Pump Station | Water Pump Station | Task | Not Started | 2026-06-23 | 2026-06-27 |  |  | 0 | 0 |
+| PRO-TSE-CV-PO-30 | Issuance of Purchase Order for Works for Storage Tank (TSE) | Storage Tank (TSE) | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 1 |
+| PRO-GR-CV-PO-40 | Issuance of Purchase Order for Materials for Gaurd Room | Gaurd Room | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 1 |
+| PRO-FE-CV-PO-50 | Issuance of Purchase Order for Materials for Boundary Fence | Boundary Fence | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 1 |
+| PRO-LS-CV-MF-30 | Manufacturing of Works for Works for Water Pump Station | Water Pump Station | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 0 |
+| PRO-TSE-CV-MF-40 | Manufacturing of Works for Storage Tank (TSE) | Storage Tank (TSE) | Task | Not Started | 2026-07-06 | 2026-07-21 |  |  | 0 | 1 |
+| PRO-GR-CV-MF-50 | Manufacturing of Materials for Gaurd Room | Gaurd Room | Task | Not Started | 2026-07-06 | 2026-07-29 |  |  | 0 | 1 |
+| PRO-FE-CV-MF-60 | Manufacturing of Materials for Boundary Fence | Boundary Fence | Task | Not Started | 2026-07-06 | 2026-07-29 |  |  | 0 | 1 |
+| PRO-LS-CV-1DL-40 | 1ST Material Delivery for Works of Water Pump Station | Water Pump Station | Task | Not Started | 2026-06-28 | 2026-07-04 |  |  | 0 | 0 |
+| PRO-TSE-CV-1DL-50 | 1ST Material Delivery for Works for Storage Tank (TSE) | Storage Tank (TSE) | Task | Not Started | 2026-07-22 | 2026-07-29 |  |  | 0 | 8 |
+| PRO-GR-CV-1DL-60 | 1ST Material Delivery for Materials for Gaurd Room | Gaurd Room | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 1 |
+| PRO-FE-CV-1DL-70 | 1ST Material Delivery for Materials for Boundary Fence | Boundary Fence | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 1 |
+| PRO-LS-CV-DL-50 | Material Delivery & Site Inspection for Works for Water Pump Station | Water Pump Station | Task | Not Started | 2026-06-28 | 2026-07-08 |  |  | 0 | 0 |
+| PRO-TSE-CV-DL-60 | Material Delivery & Site Inspection for Works for Storage Tank (TSE) | Storage Tank (TSE) | Task | Not Started | 2026-07-09 | 2026-08-09 |  |  | 0 | 32 |
+| PRO-GR-CV-DL-70 | Material Delivery & Site Inspection for Materials for Gaurd Room | Gaurd Room | Task | Not Started | 2026-08-08 | 2026-08-23 |  |  | 0 | 17 |
+| PRO-FE-CV-DL-80 | Material Delivery & Site Inspection for Materials for Boundary Fence | Boundary Fence | Task | Not Started | 2026-08-08 | 2026-08-23 |  |  | 0 | 17 |
+| PRO-LS-LL-PO-20 | Issuance of Purchase Order for Electromechanical Works for Water Pump Station | Issuance of Purchase Orders | Task | Not Started | 2026-07-16 | 2026-07-23 |  |  | 0 | 6 |
+| PRO-LS-LL-MF-20 | Manufacturing of Electromechanical Works for Water Pump Station | Manufacturing of Material | Task | Not Started | 2026-07-25 | 2026-10-14 |  |  | 0 | 24 |
+| PRO-LS-LL-SH/DL-20 | Material Delivery for Electromechanical Works for Water Pump Station | Material Shipping/Custom Clearance/Delivery | Task | Not Started | 2026-10-15 | 2026-11-08 |  |  | 0 | 24 |
+| PRO-LS-LL-MSI-20 | Material Site Inspection for Electromechanical Works for Water Pump Station | Material Site Inspection | Task | Not Started | 2026-11-09 | 2026-12-02 |  |  | 0 | 24 |
+| PRO-TSE-LL-PO-30 | Issuance of Purchase Order for Electromechanical Works for Storage Tank (TSE) | Issuance of Purchase Orders | Task | Not Started | 2026-07-25 | 2026-08-01 |  |  | 0 | 6 |
+| PRO-TSE-LL-MF-30 | Manufacturing of Electromechanical Works for Storage Tank (TSE) | Manufacturing of Material | Task | Not Started | 2026-08-02 | 2026-12-20 |  |  | 0 | 6 |
+| PRO-TSE-LL-SH/DL-30 | Material Delivery for Electromechanical Works for Storage Tank (TSE) | Material Shipping/Custom Clearance/Delivery | Task | Not Started | 2026-12-21 | 2027-01-13 |  |  | 0 | 6 |
+| PRO-TSE-LL-MSI-30 | Material Site Inspection for Electromechanical Works for Storage Tank (TSE) | Material Site Inspection | Task | Not Started | 2027-01-14 | 2027-02-07 |  |  | 0 | 6 |
+| PRO-TSE-PO-120 | Issuance of Purchase Order for Materials of Treated Sewage Effluent (Tse) | Issuance of Purchase Orders | Task | Not Started | 2026-06-23 | 2026-06-30 |  |  | 0 | 18 |
+| PRO-TSE-1DL-120 | 1ST Material Delivery for Materials of Treated Sewage Effluent (Tse) | 1st Material Delivery & Site Inspection | Task | Not Started | 2026-07-29 | 2026-08-05 |  |  | 0 | 18 |
+| PRO-TSE-MF-120 | Manufacturing of Materials for Treated Sewage Effluent (Tse) | Manufacturing of Material | Task | Not Started | 2026-07-01 | 2026-07-28 |  |  | 0 | 18 |
+| PRO-R25-TSE-DL-120 | Material Delivery & Site Inspection of Materials for Treated Sewage Effluent (Tse) | Material Delivery & Site Inspection | Task | Not Started | 2026-08-06 | 2026-08-22 |  |  | 0 | 18 |
+| PRO-IR-PO-140 | Issuance of Purchase Order for Softscape and Planting Works | Main Line Pipes | Task | Not Started | 2026-07-09 | 2026-07-15 |  |  | 0 | 5 |
+| PRO-IR-PO-150 | Issuance of Purchase Order for Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Main Line Pipes | Task | Not Started | 2026-07-16 | 2026-07-22 |  |  | 0 | 15 |
+| PRO-IR-1DL-140 | 1ST Material Delivery for Softscape and Planting Works | Main Line Pipes | Task | Not Started | 2026-09-26 | 2026-10-01 |  |  | 0 | 5 |
+| PRO-IR-1DL-150 | 1ST Material Delivery for Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Main Line Pipes | Task | Not Started | 2026-10-03 | 2026-10-08 |  |  | 0 | 15 |
+| PRO-IR-MF-140 | Manufacturing of Softscape and Planting Works | Main Line Pipes | Task | Not Started | 2026-07-16 | 2026-09-24 |  |  | 0 | 5 |
+| PRO-IR-MF-150 | Manufacturing of Valves for Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Main Line Pipes | Task | Not Started | 2026-07-23 | 2026-10-01 |  |  | 0 | 15 |
+| PRO-R25-IR-DL-140 | Material Delivery & Site Inspection of Softscape and Planting Works | Main Line Pipes | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 5 |
+| PRO-R25-IR-DL-150 | Material Delivery & Site Inspection of Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Main Line Pipes | Task | Not Started | 2026-10-14 | 2026-10-25 |  |  | 0 | 11 |
+| CO-TSE-ML-150 | Trench Excavation and Bedding Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-24 | 2026-08-27 |  |  | 0 | 18 |
+| CO-TSE-ML-160 | Pipes Laying Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-29 | 2026-09-01 |  |  | 0 | 18 |
+| CO-TSE-ML-170 | Installation Works for Main Line Valves of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-02 | 2026-09-08 |  |  | 0 | 18 |
+| CO-TSE-ML-180 | Trench Backfilling and Compaction Works for Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-16 | 2026-09-21 |  |  | 0 | 18 |
+| CO-TSE-ML-190 | Installation Works for Valve and Washout Chambers of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-09 | 2026-09-15 |  |  | 0 | 18 |
+| CO-TSE-TF-170 | Final Testing (pressure tests) of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2027-01-10 | 2027-01-10 |  |  | 0 | 15 |
+| CO-LS-PL-160 | Planting Works: Planting including plants, forming planting beds, suitable soil, supports, and protection | Softscape and Planting Works | Task | Not Started | 2026-12-26 | 2027-01-11 |  |  | 0 | 9 |
+| CO-LS-SF-170 | Site Furnishings (Seating Bench,Stone Boulders and Gravel) | Softscape and Planting Works | Task | Not Started | 2027-01-12 | 2027-02-03 |  |  | 0 | 9 |
+| CO-RD-PB-140 | Subgrade Layer for Road Works for Alignment-RD-03-1 | Pre-Bituminous Construction | Task | Not Started | 2026-12-13 | 2026-12-20 |  |  | 0 | 3 |
+| CO-RD-PB-150 | Aggregate Base Course Layer for Road Works for Alignment-RD-03-1 | Pre-Bituminous Construction | Task | Not Started | 2026-12-21 | 2026-12-28 |  |  | 0 | 29 |
+| CO-RD-PV-160 | Fixing of Curbstone for Sidewalks Pavement for Alignment-RD-03-1 | Pavement Works | Task | Not Started | 2026-12-23 | 2026-12-28 |  |  | 0 | 29 |
+| CO-RD-PV-170 | Fixing of Interlock Tiles for Sidewalks Pavement for Alignment-RD-03-1 | Pavement Works | Task | Not Started | 2026-12-29 | 2027-01-06 |  |  | 0 | 29 |
+| CO-RD-F-RM-180 | Application of Road Marking Works For Road Works for Alignment-RD-03-1 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-29 | 2026-12-30 |  |  | 0 | 29 |
+| CO-RD-F-TS-120 | Installation Works of Traffic Signs Boards For Road Works for Alignment-RD-03-1 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 29 |
+| CO-RD-B-160 | Bituminous Base Courses Layers for Road Works for Alignment-RD-03-1 | Bituminous Construction | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 29 |
+| A1000 | Excavation Work For Guard Room Foundation | Civil Work | Task | Not Started | 2026-12-13 | 2026-12-17 |  |  | 0 | 3 |
+| A1010 | Pouring for Plain Concrete for Guard Room | Civil Work | Task | Not Started | 2026-12-19 | 2026-12-19 |  |  | 0 | 3 |
+| A1020 | Pouring R.C Footing for Guard Room | Civil Work | Task | Not Started | 2026-12-20 | 2026-12-22 |  |  | 0 | 3 |
+| A1030 | Pouring R.C Columns for Guard Room | Civil Work | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | 3 |
+| A1040 | Pouring Beams and Slab for Guard Room | Civil Work | Task | Not Started | 2026-12-27 | 2026-12-29 |  |  | 0 | 3 |
+| A1050 | Brick Works for Architectural Works for Guard Rooms | Architectural work | Task | Not Started | 2026-12-30 | 2027-01-05 |  |  | 0 | 3 |
+| A1060 | Thermal & Moisture Protection Work for Architectural Works for Guard Rooms | Architectural work | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 3 |
+| A1070 | Installation of Windows and Doors for Architectural Works for Guard Rooms | Architectural work | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | 3 |
+| A1080 | External Finshing Work (Walls and Floor) for Architectural Works for Guard Rooms | Architectural work | Task | Not Started | 2027-01-18 | 2027-01-19 |  |  | 0 | 7 |
+| A1090 | Internal Finshing Work (Walls,Floor and Ceiling) for Architectural Works for Guard Rooms | Architectural work | Task | Not Started | 2027-01-18 | 2027-01-24 |  |  | 0 | 3 |
+| A1100 | Office Chairs,Tables and Stand | Furniture work | Task | Not Started | 2027-01-31 | 2027-02-01 |  |  | 0 | 3 |
+| A1110 | Installation of Sewage Piping System complete with joints, angles, reducer etc. for Drainage System for Guard Rooms | Drainage System | Task | Not Started | 2027-01-12 | 2027-01-16 |  |  | 0 | 4 |
+| A1120 | Installation of all Sanitary Ware for Drainage System for Guard Rooms | Drainage System | Task | Not Started | 2027-01-17 | 2027-01-20 |  |  | 0 | 11 |
+| A1140 | Installation of Water Piping System complete with joints, angles, reducer etc. for Water Supply System for Guard Rooms | Water Supply System | Task | Not Started | 2027-01-12 | 2027-01-14 |  |  | 0 | 5 |
+| A1180 | Installation oF Water Supply Wares (Water Heater, Faucets, Etc..) for Water Supply System for Guard Rooms | Water Supply System | Task | Not Started | 2027-01-16 | 2027-01-17 |  |  | 0 | 14 |
+| A1190 | Installation of AC Units for HVAC System for Guard Rooms | HVAC System | Task | Not Started | 2027-01-14 | 2027-01-14 |  |  | 0 | 16 |
+| A1200 | Installation of AC Piping for HVAC System for Guard Rooms | HVAC System | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 6 |
+| A1220 | Installation & Testing of 2 hours Fire Fighting system for Fire Fighting System for Guard Rooms | Fire Fighting System | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 6 |
+| A1230 | Installation of Fire Extinguishers for Fire Fighting System for Guard Rooms | Fire Fighting System | Task | Not Started | 2027-01-14 | 2027-01-14 |  |  | 0 | 16 |
+| A1240 | Installation of water tanks for Water Supply System for Guard Rooms | Water Supply System | Task | Not Started | 2027-01-20 | 2027-01-20 |  |  | 0 | 13 |
+| A1260 | Install of Eletrical Finishes (DBs, Sockets and Lightings) and Termination for LV System for Gaurd Rooms | LV Power | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 10 |
+| A1250 | Installation of Conduits and Cables for LV System for Gaurd Rooms | LV Power | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | 3 |
+| A1340 | Installation of Conduits and Cables for Fire Alarm System for Gaurd Rooms | Fire Detection And Alarm System | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | 3 |
+| A1350 | Installation of Fire Alarm Devices (AMCP, SD,HD, Sounder and Panels) for Fire Alarm System for Gaurd Rooms | Fire Detection And Alarm System | Task | Not Started | 2027-01-18 | 2027-01-24 |  |  | 0 | 8 |
+| CO-SU-FE-N-CI-100 | Excavation Work For Boundary Fence South | Civil Work | Task | Not Started | 2026-08-08 | 2026-08-25 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-110 | Pouring for Plain Concrete For Boundary Fence South | Civil Work | Task | Not Started | 2026-08-26 | 2026-09-10 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-120 | Pouring R.C Footing For Boundary Fence South | Civil Work | Task | Not Started | 2026-09-12 | 2026-09-26 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-130 | Pouring R.C Columns For Boundary Fence South | Civil Work | Task | Not Started | 2026-09-27 | 2026-10-14 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-140 | Pouring Beams For Boundary Fence South | Civil Work | Task | Not Started | 2026-10-15 | 2026-10-28 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-100 | Install Brick Work For Boundary Fence South | Architictural work | Task | Not Started | 2026-10-29 | 2026-11-19 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-110 | Insulation For Boundary Fence South | Architictural work | Task | Not Started | 2026-12-06 | 2026-12-22 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-120 | Install all the Relevant Cladding and Finishes For Boundary Fence South | Architictural work | Task | Not Started | 2026-12-23 | 2027-01-02 |  |  | 0 | 5 |
+| CO-SU-FE-N-EL-240 | Installation of Conduits and Cables for Electricial Works For Boundary Fence South | Electrical Work | Task | Not Started | 2026-11-21 | 2026-12-05 |  |  | 0 | 1 |
+| T/C-TSE-10 | Testing and Commissioning of TSE Network | TSE Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| CO-SU-FE-N-EL-250 | Install, fixings, testing of all electrical finishes and lightings for Electricial Works For Boundary Fence South | Electrical Work | Task | Not Started | 2027-01-03 | 2027-01-26 |  |  | 0 | 5 |
+| ENG-MT-RD-S-160 | Material Submittal for Asphaltic Wearing Course Layer for Roads Network | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-S-170 | Material Submittal for Tack Coat Layer for Roads Network | General Road Works | Task | Completed | 2026-01-18 | 2026-01-25 | 2026-01-18 | 2026-01-24 | 100 |  |
+| ENG-MT-RD-A-160 | Material Approval for Asphaltic Wearing Course Layer for Roads Network | General Road Works | Task | Completed | 2026-01-25 | 2026-02-01 | 2026-01-25 | 2026-01-31 | 100 |  |
+| ENG-MT-RD-A-170 | Material Approval for Tack Coat Layer for Roads Network | General Road Works | Task | Completed | 2026-01-25 | 2026-01-31 | 2026-01-25 | 2026-01-31 | 100 |  |
+| PRO-RD-PO-180 | Issuance of Purchase Order for Asphaltic Wearing Course Layer for Roads Network | Road Works | Task | Not Started | 2026-07-26 | 2026-08-02 |  |  | 0 | 25 |
+| PRO-RD-PO-190 | Issuance of Purchase Order for Tack Coat Layer for Roads Network | Road Works | Task | Not Started | 2026-08-03 | 2026-08-10 |  |  | 0 | 25 |
+| PRO-RD-MF-180 | Manufacturing of Asphaltic Wearing Course Layer for Roads Network | Road Works | Task | Not Started | 2026-09-21 | 2026-10-14 |  |  | 0 | 19 |
+| PRO-RD-MF-190 | Manufacturing of Tack Coat Layer for Roads Network | Road Works | Task | Not Started | 2026-08-11 | 2026-10-08 |  |  | 0 | 25 |
+| PRO-RD-1DL-180 | 1ST Material Delivery for Asphaltic Wearing Course Layer for Roads Network | Road Works | Task | Not Started | 2026-10-15 | 2026-10-22 |  |  | 0 | 19 |
+| PRO-RD-1DL-190 | 1ST Material Delivery for Tack Coat Layer for Roads Network | Road Works | Task | Not Started | 2026-10-24 | 2026-10-31 |  |  | 0 | 23 |
+| PRO-RD-DL-200 | Material Delivery for Asphaltic Wearing Course Layer for Roads Network | Bituminous Construction | Task | Not Started | 2026-10-24 | 2026-11-04 |  |  | 0 | 19 |
+| PRO-RD-DL-210 | Material Delivery for Tack Coat Layer for Roads Network | Bituminous Construction | Task | Not Started | 2026-11-05 | 2026-11-17 |  |  | 0 | 19 |
+| CON-RD-MR-150 | Preparation of Asphaltic Wearing Course Layer for Roads Network for Alignment-RD-03-1 | Bituminous Construction | Task | Not Started | 2026-12-27 | 2026-12-28 |  |  | 0 | 29 |
+| PRO-LV-ML-S-100 | Material Submittal for Main Low Voltage Cables of Low Voltage Network | Main Low Voltage Cables Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| PRO-LV-DP-S-100 | Material Submittal for Distribution Pillars of Low Voltage Network | Distribution Pillars Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| PRO-LV-DP-S-110 | Material Submittal for Low Voltage Earthing of Low Voltage Network | Distribution Pillars Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| PRO-LV-ML-A-100 | Material Approval for Main Low Voltage Cables of Low Voltage Network | Main Low Voltage Cables Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LV-DP-A-100 | Material Approval for Distribution Pillars of Low Voltage Network | Distribution Pillars Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LV-DP-A-110 | Material Approval for Low Voltage Earthing of Low Voltage Network | Distribution Pillars Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LV-ML-PO-100 | Issuance of Purchase Order for Main Low Voltage Cables of Low Voltage Network | Main Low Voltage Cables Works | Task | Not Started | 2026-06-23 | 2026-06-30 |  |  | 0 | 2 |
+| PRO-LV-DP-PO-100 | Issuance of Purchase Order for Distribution Pillars of Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-07-01 | 2026-07-08 |  |  | 0 | 0 |
+| PRO-LV-DP-PO-110 | Issuance of Purchase Order for Low Voltage Earthing of Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-07-09 | 2026-07-16 |  |  | 0 | 0 |
+| PRO-LV-ML-1DL-100 | 1ST Material Delivery for Main Low Voltage Cables of Low Voltage Network | Main Low Voltage Cables Works | Task | Not Started | 2026-08-05 | 2026-09-13 |  |  | 0 | 2 |
+| PRO-LV-DP-1DL-100 | 1ST Material Delivery for Distribution Pillars of Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-09-22 | 2026-09-30 |  |  | 0 | 2 |
+| PRO-LV-DP-1DL-110 | 1ST Material Delivery for Low Voltage Earthing of Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-10-01 | 2026-10-08 |  |  | 0 | 2 |
+| PRO-LV-ML-MF-100 | Manufacturing of Main Low Voltage Cables for Low Voltage Network | Main Low Voltage Cables Works | Task | Not Started | 2026-07-01 | 2026-08-04 |  |  | 0 | 2 |
+| PRO-LV-DP-MF-100 | Manufacturing of Distribution Pillars for Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-07-09 | 2026-08-24 |  |  | 0 | 17 |
+| PRO-LV-DP-MF-110 | Manufacturing of Low Voltage Earthing for Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-07-18 | 2026-09-01 |  |  | 0 | 10 |
+| PRO-LV-ML-DL-100 | Material Delivery of Main Low Voltage Cables for Low Voltage Network | Main Low Voltage Cables Works | Task | Not Started | 2026-09-14 | 2026-09-21 |  |  | 0 | 10 |
+| PRO-LV-DP-DL-100 | Material Delivery of Distribution Pillars for Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-10-18 | 2026-11-08 |  |  | 0 | 10 |
+| PRO-LV-DP-DL-120 | Material Delivery of Low Voltage Earthing for Low Voltage Network | Distribution Pillar Works | Task | Not Started | 2026-10-17 | 2026-11-08 |  |  | 0 | 10 |
+| PRO-LV-TT-S-100 | Material Submittal for Cable Lugs of Low Voltage Network | Termination and Testing Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| PRO-LV-TT-A-100 | Material Approval for Cable Lugs of Low Voltage Network | Termination and Testing Works | Task | Completed | 2026-01-13 | 2026-01-20 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LV-TT-PO-100 | Issuance of Purchase Order for Cable Lugs of Low Voltage Network | Termination and Testing Works | Task | Not Started | 2026-07-18 | 2026-07-25 |  |  | 0 | 3 |
+| PRO-LV-TT-MF-100 | Manufacturing of Cable Lugs for Low Voltage Network | Termination and Testing Works | Task | Not Started | 2026-07-26 | 2026-10-15 |  |  | 0 | 3 |
+| PRO-LV-TT-1DL-100 | 1ST Material Delivery for Cable Lugs of Low Voltage Network | Termination and Testing Works | Task | Not Started | 2026-10-10 | 2026-10-17 |  |  | 0 | 2 |
+| PRO-LV-TT-DL-100 | Material Delivery of Cable Lugs for Low Voltage Network | Termination and Testing Works | Task | Not Started | 2026-11-09 | 2026-11-29 |  |  | 0 | 33 |
+| PRO-LV-HC-S-100 | Material Submittal for Service Low Voltage Cables of Low Voltage Network | Service Low Voltage Cables Works | Task | Completed | 2026-01-06 | 2026-01-13 | 2026-01-06 | 2026-01-12 | 100 |  |
+| PRO-LV-HC-A-100 | Material Approval for Service Low Voltage Cables of Low Voltage Network | Service Low Voltage Cables Works | Task | Completed | 2026-01-13 | 2026-01-19 | 2026-01-13 | 2026-01-19 | 100 |  |
+| PRO-LV-HC-PO-100 | Issuance of Purchase Order for Service Low Voltage Cables of Low Voltage Network | Service Low Voltage Cables Works | Task | Not Started | 2026-06-23 | 2026-06-30 |  |  | 0 | 0 |
+| PRO-LV-HC-MF-100 | Manufacturing of Service Low Voltage Cables for Low Voltage Network | Service Low Voltage Cables Works | Task | Not Started | 2026-07-01 | 2026-08-04 |  |  | 0 | 24 |
+| PRO-LV-HC-1DL-100 | 1ST Material Delivery for Service Low Voltage Cables of Low Voltage Network | Service Low Voltage Cables Works | Task | Not Started | 2026-09-14 | 2026-09-21 |  |  | 0 | 2 |
+| PRO-LV-HC-DL-100 | Material Delivery of Service Low Voltage Cables for Low Voltage Network | Service Low Voltage Cables Works | Task | Not Started | 2026-09-22 | 2026-10-17 |  |  | 0 | 10 |
+| CON-LV-ML-100 | Trench Excavation and Bedding Works for Main Cable of Low Voltage Network for Alignment-RD-03-1 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-10-20 | 2026-10-28 |  |  | 0 | 12 |
+| CON-LV-ML-110 | Cable Laying Works for Main Cable of Low Voltage Network for Alignment-RD-03-1 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-10-29 | 2026-11-05 |  |  | 0 | 12 |
+| CON-LV-ML-120 | Trench Backfilling and Compaction Works for Main Cable of Low Voltage Network for Alignment-RD-03-1 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | 15 |
+| CON-LV-DP-100 | Foundation Excavation Works for Distribution Pillars of Low Voltage Network for Alignment-RD-03-1 | Distribution Pillars Works | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | 8 |
+| CON-LV-DP-110 | Pouring Plain Concrete For Distribution Pillar Units of Low Voltage Network for Alignment-RD-03-1 | Distribution Pillars Works | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 8 |
+| CON-LV-DP-120 | Installation Works for Distribution Pillar Units of Low Voltage Network for Alignment-RD-03-1 | Distribution Pillars Works | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 8 |
+| CON-LV-HC-100 | Trench Excavation and Bedding Works for Service Cable of Low Voltage Network for Alignment-RD-03-1 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | 8 |
+| CON-LV-HC-110 | Cable Laying Works for Service Cable of Low Voltage Network for Alignment-RD-03-1 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-11-11 | 2026-11-18 |  |  | 0 | 8 |
+| CON-LV-HC-120 | Trench Backfilling and Compaction Works for Service Cable of Low Voltage Network for Alignment-RD-03-1 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-11-19 | 2026-11-22 |  |  | 0 | 8 |
+| MS-CF-LO | Completion of Construction Works for Low Voltage Network | Contractual Milestones | Milestone | Not Started | 2027-01-06 | 2027-01-06 |  |  | 0 | 30 |
+| CON-LV-ES-100 | Earthing System Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-03-1 | Earthing System Works | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 37 |
+| CON-LV-TT-100 | Testing and Termination Works for Substation Low Voltage Panel Boards of Low Voltage Network for Alignment-RD-03-1 | Termination and Testing Works | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 47 |
+| CON-LV-TT-110 | Testing and Termination Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-03-1 | Termination and Testing Works | Task | Not Started | 2026-12-07 | 2026-12-08 |  |  | 0 | 37 |
+| TC-LV-100 | Testing and Commissioning of Low Voltage Network | Low Voltage Network | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 0 |
+| MS-MM-120 | Receipt of Advance Payment for the Project From The Employer | The Employer | Milestone | Not Started | 2026-06-23 | 2026-06-23 |  |  | 0 | 8 |
+| MS-MM-100 | Right of Access and Possession of the Site | The Employer | Milestone | Completed | 2026-02-03 | 2026-02-03 | 2026-02-03 | 2026-02-03 | 100 |  |
+| MS-MM-130 | Receipt the Site Benchmark Coordinates (Original Point) From The Employer | The Employer | Milestone | Completed | 2026-02-03 | 2026-02-03 | 2026-02-03 | 2026-02-03 | 100 |  |
+| MS-MM-140 | Receipt the Site Levels Details From The Employer | The Employer | Milestone | Completed | 2026-02-03 | 2026-02-03 | 2026-02-03 | 2026-02-03 | 100 |  |
+| MS-MM-150 | Receipt of Approved Concept Master Plan for the Project From the Employer | The Employer | Milestone | Completed | 2026-02-03 | 2026-02-03 | 2026-02-03 | 2026-02-03 | 100 |  |
+| MS-MM-160 | Receipt of Master Plan Approval Letter for the Project From the Employer | The Employer | Milestone | Completed | 2026-02-03 | 2026-02-03 | 2026-02-03 | 2026-02-03 | 100 |  |
+| ENG-MS-MV-S-110 | Submission Method Statement for Low Voltage Network | Low Voltage Network | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-MV-A-120 | Approval Method Statement for Low Voltage Network | Low Voltage Network | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| MS-CS-LV | Receipt of Approval NOC From Relevant Authorities For Low Voltage Network | Infrastructure Networks | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-IR10 | Receipt of Approval NOC From Relevant Authorities For Sewage Pump Station | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-MV10 | Receipt of Approval NOC From Relevant Authorities For Water Pump Station | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-SL10 | Receipt of Approval NOC From Relevant Authorities For Storm Drainage Ponds | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-TE10 | Receipt of Approval NOC From Relevant Authorities For Storage Tank (TSE) | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-TSE10 | Receipt of Approval NOC From Relevant Authorities For Gaurd Room | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| MS-CS-LV10 | Receipt of Approval NOC From Relevant Authorities For Boundary Fence | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| T/C-CTV10 | Testing and Commissioning of Utility Buildings | Utility Buildings | Task | Not Started | 2027-02-14 | 2027-03-03 |  |  | 0 | 1 |
+| ENG-SH-ST-S-180 | Submission Shop Drawings Package for Control Room | Control Room | Task | Completed | 2026-01-22 | 2026-01-29 | 2026-01-22 | 2026-01-28 | 100 |  |
+| ENG-SH-ST-A-190 | Approval Shop Drawings Package for Control Room | Control Room | Task | Completed | 2026-01-29 | 2026-02-05 | 2026-01-29 | 2026-02-04 | 100 |  |
+| ENG-MS-ST-S-190 | Submission Method Statement Package for Control Room | Control Room | Task | Completed | 2026-01-25 | 2026-01-28 | 2026-01-25 | 2026-01-27 | 100 |  |
+| ENG-MS-ST-A-200 | Approval Method Statement Package for Control Room | Control Room | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-01-28 | 2026-01-31 | 100 |  |
+| ENG-MT-TSE-CV-S-140 | Material Submittal for Works for Control Room | Submission of Material | Task | Completed | 2026-02-03 | 2026-02-05 | 2026-02-03 | 2026-02-04 | 100 |  |
+| ENG-MT-TSE-CV-A-150 | Material Approval for Works for Control Room | Approval of Material | Task | Completed | 2026-02-04 | 2026-02-10 | 2026-02-04 | 2026-02-10 | 100 |  |
+| PRO-TSE-CV-PO-40 | Issuance of Purchase Order for Works for Control Room | Control Room | Task | Not Started | 2026-06-28 | 2026-07-05 |  |  | 0 | 1 |
+| PRO-TSE-CV-MF-50 | Manufacturing of Works for Control Room | Control Room | Task | Not Started | 2026-07-06 | 2026-07-29 |  |  | 0 | 1 |
+| PRO-TSE-CV-1DL-60 | 1ST Material Delivery for Works for Control Room | Control Room | Task | Not Started | 2026-07-30 | 2026-08-06 |  |  | 0 | 1 |
+| PRO-TSE-CV-DL-70 | Material Delivery & Site Inspection for Works for Control Room | Control Room | Task | Not Started | 2026-08-08 | 2026-08-23 |  |  | 0 | 7 |
+| MS-CS-TE20 | Receipt of Approval NOC From Relevant Authorities For Control Room | Superstructure Works | Milestone | Completed | 2026-01-06 | 2026-01-06 | 2026-01-06 | 2026-01-06 | 100 |  |
+| CO-SD-ML-140 | Trench Excavation and Bedding Works for Main Lines of Storm Drainage  Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-07-21 | 2026-07-29 |  |  | 0 | 11 |
+| CO-SD-ML-150 | Pipes Laying Works for Main Lines of Storm Drainage Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-07-30 | 2026-08-08 |  |  | 0 | 3 |
+| CO-SD-ML-160 | Trench Backfilling and Compaction Works for Main Lines of Storm Drainage Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-08-09 | 2026-08-17 |  |  | 0 | 3 |
+| CO-SD-CB-180 | Trench Excavation and Bedding Works for Catch Basins of Storm Drainage Network for Alignment-RD-01 | Catch Basin Sections | Task | Not Started | 2026-08-09 | 2026-08-17 |  |  | 0 | 27 |
+| CO-SD-CB-190 | Installation and Pipes Laying Connection Works for Catch Basins of Storm Drainage Network for Alignment-RD-01 | Catch Basin Sections | Task | Not Started | 2026-08-18 | 2026-08-25 |  |  | 0 | 27 |
+| CO-SD-CB-TF-170 | Testing Works for Catch Basins of Storm Drainage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-06 | 2027-01-13 |  |  | 0 | 5 |
+| CO-SD-CB-200 | Trench Backfilling and Compaction Works for Catch Basins of Storm Drainage Network for Alignment-RD-01 | Catch Basin Sections | Task | Not Started | 2026-08-26 | 2026-09-02 |  |  | 0 | 27 |
+| CO-PW-ML-140 | Trench Excavation and Bedding Works for Main Lines of Potable Water Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-08-10 | 2026-08-16 |  |  | 0 | 36 |
+| CO-PW-ML-150 | Pipes Laying and accessories  for Main Lines  of Potable Water Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-09-02 | 2026-09-08 |  |  | 0 | 28 |
+| CO-PW-FH-170 | Excavation Works for Fire Hydrants of Potable Water Network for Alignment-RD-01 | Fire Hydrant | Task | Not Started | 2026-08-17 | 2026-09-02 |  |  | 0 | 36 |
+| CO-PW-FH-180 | Installation Works for Fire Hydrant of Potable Water Network for Alignment-RD-01 | Fire Hydrant | Task | Not Started | 2026-09-16 | 2026-09-19 |  |  | 0 | 25 |
+| CO-PW-FH-190 | Trench Backfilling and Compaction Works for Fire Hydrants of Potable Water Network for Alignment-RD-01 | Fire Hydrant | Task | Not Started | 2026-09-20 | 2026-09-22 |  |  | 0 | 32 |
+| CO-PW-ML-160 | Trench Backfilling and Compaction Works for Main Lines of Potable Water Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-09-09 | 2026-09-15 |  |  | 0 | 28 |
+| CO-IR-ML-150 | Trench Excavation and Bedding Works for Main Lines of Irrigation Network for Alignment-RD-01 | Main Line Pipes | Task | Not Started | 2026-09-29 | 2026-10-06 |  |  | 0 | 18 |
+| CO-IR-ML-160 | Pipes Laying Works for Main Lines of Irrigation Network for Alignment-RD-01 | Main Line Pipes | Task | Not Started | 2026-10-07 | 2026-10-15 |  |  | 0 | 18 |
+| CO-IR-ML-170 | Installation Works for Main Line Valves of Irrigation Network for Alignment-RD-01 | Main Line Pipes | Task | Not Started | 2026-10-17 | 2026-10-24 |  |  | 0 | 18 |
+| CO-IR-ML-180 | Trench Backfilling and Compaction Works for Main Lines of Irrigation Network for Alignment-RD-01 | Main Line Pipes | Task | Not Started | 2026-11-05 | 2026-11-09 |  |  | 0 | 18 |
+| CO-MV-ML-280 | Trench Excavation and Bedding Works for Medium Voltage Network for Alignment-RD-01 | Cabling Works | Task | Not Started | 2026-10-28 | 2026-11-03 |  |  | 0 | 3 |
+| CO-MV-ML-290 | Duct Laying Works for Medium Voltage Network for Alignment-RD-01 | Cabling Works | Task | Not Started | 2026-11-04 | 2026-11-10 |  |  | 0 | 3 |
+| CO-MV-ML-300 | Trench Backfilling and Compaction Works for Medium Voltage Network for Alignment-RD-01 | Cabling Works | Task | Not Started | 2026-11-11 | 2026-11-17 |  |  | 0 | 3 |
+| CO-SL-CL-290 | Cable Laying Works for Street Lighting Network for Alignment-RD-01 | Cabling Works | Task | Not Started | 2026-11-19 | 2026-11-24 |  |  | 0 | 10 |
+| CO-SL-CL-300 | Trench Backfilling and Compaction Works for Street Lighting Network for Alignment-RD-01 | Cabling Works | Task | Not Started | 2026-11-25 | 2026-11-30 |  |  | 0 | 10 |
+| CO-SL-LP-350 | Installation Works for Lighting Poles Foundation of Street Lighting Network for Alignment-RD-01 | Lighting Poles Works | Task | Not Started | 2026-11-04 | 2026-11-12 |  |  | 0 | 10 |
+| CO-SL-LP-360 | Installation Works for Lighting Poles of Street Lighting Network for Alignment-RD-01 | Lighting Poles Works | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 10 |
+| CO-SL-LP-370 | Installation Works for Lighting Fixtures With Drop Wire of Street Lighting Network for Alignment-RD-01 | Termination and Testing Works | Task | Not Started | 2026-12-01 | 2026-12-07 |  |  | 0 | 10 |
+| CO-TE-DW-150 | Pipes Laying Works for Ducts of Telecom Network for Alignment-RD-01 | Ducts Works | Task | Not Started | 2026-12-17 | 2026-12-21 |  |  | 0 | 5 |
+| CO-TE-DW-160 | Trench Backfilling and Compaction Works for Ducts of Telecom Network for Alignment-RD-01 | Ducts Works | Task | Not Started | 2026-12-22 | 2026-12-24 |  |  | 0 | 5 |
+| CO-TE-CTV-150 | Installation of CCTV, Telephone, ACS and MSN Systems Cables for Alignment-RD-01 | CCTV, Telephone, MSN, ACs System Works | Task | Not Started | 2026-12-10 | 2026-12-19 |  |  | 0 | 29 |
+| CO-TE-MH-170 | Excavation Works for Manholes of Telecom Network for Alignment-RD-01 | Manholes Works | Task | Not Started | 2026-12-01 | 2026-12-05 |  |  | 0 | 18 |
+| CO-TE-MH-180 | Installation Works for Manholes of Telecom Network for Alignment-RD-01 | Manholes Works | Task | Not Started | 2026-12-01 | 2026-12-05 |  |  | 0 | 18 |
+| CO-TE-MH-190 | Backfilling Works for Manholes of Telecom Network for Alignment-RD-01 | Manholes Works | Task | Not Started | 2026-12-06 | 2026-12-09 |  |  | 0 | 18 |
+| CO-SW-ML-140 | Trench Excavation and Bedding Works for Main Lines of Sewage Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-09-03 | 2026-09-12 |  |  | 0 | 27 |
+| CO-SW-ML-150 | Pipes Laying Works for Main Lines of Sewage Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-09-13 | 2026-09-21 |  |  | 0 | 27 |
+| CO-SW-ML-160 | Trench Backfilling and Compaction Works for Main Lines of Sewage Network for Alignment-RD-01 | Main Line Sections | Task | Not Started | 2026-10-21 | 2026-10-27 |  |  | 0 | 3 |
+| CO-EW-210 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-01(Completed) | Earthworks | Task | Completed | 2026-03-10 | 2026-06-21 | 2026-03-10 | 2026-06-22 | 100 |  |
+| CO-SD-ML-TF-110 | Testing Work for Pipes of Storm Drainage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 5 |
+| CO-SD-CB-TF-180 | Install Catch Basin Cover Works for External Finishes of Storm Drainage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-14 | 2027-01-20 |  |  | 0 | 18 |
+| CO-PW-TF-130 | Installation of Storage Tank of Potable Water Network for Alignment-RD-03-1 | Potable Water Network Storage Tank | Task | Not Started | 2026-12-27 | 2027-01-02 |  |  | 0 | 15 |
+| CO-PW-TF-140 | Fire Hydrant Finishies (S.Box + Safety + Marker Post ) of Potable Water Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-29 |  |  | 0 | 21 |
+| CO-PW-TF-150 | Final Finishes works and Covers for Valves and Valve Chambers for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-30 | 2026-12-31 |  |  | 0 | 21 |
+| CO-IR-TF-170 | Final Testing (pressure tests) of Irrigation Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-04 | 2027-01-05 |  |  | 0 | 21 |
+| CO-MV-TF-230 | Testing and Termination Works of Medium Voltage Network for Alignment-RD-01 | Termination and Testing Works | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 25 |
+| CO-SL-ES-240 | Install Earthing System Works for Lighting Poles of Street Lighting Network for Alignment-RD-01 | Earthing System Works | Task | Not Started | 2026-12-17 | 2026-12-20 |  |  | 0 | 28 |
+| CO-SL-ES-250 | Install Earthing System Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-01 | Earthing System Works | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 29 |
+| CO-SW-TF-230 | Final Testing For Main Line of Sewage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-29 | 2027-01-02 |  |  | 0 | 24 |
+| CO-SD-CB-TF-190 | Catch Basin Internal Finishes (Benching ) for Storm Drainage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-31 |  |  | 0 | 5 |
+| CO-TE-CTV-TF-180 | Testing and Interface modules with Telecom for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 21 |
+| CO-PW-VC-230 | Excavation Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-01 | Valve Chamber | Task | Not Started | 2026-08-12 | 2026-08-16 |  |  | 0 | 36 |
+| CO-PW-VC190 | Installation of Valve Chambers of Potable Water Network for Alignment-RD-01 | Valve Chamber | Task | Not Started | 2026-08-17 | 2026-08-20 |  |  | 0 | 42 |
+| CO-PW-VC-240 | Installation Works for Valves of Potable Water Network for Alignment-RD-01 | Valve Chamber | Task | Not Started | 2026-08-22 | 2026-08-25 |  |  | 0 | 42 |
+| CO-PW-VC-250 | Backfilling Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-01 | Valve Chamber | Task | Not Started | 2026-09-12 | 2026-09-15 |  |  | 0 | 28 |
+| CO-SD-MH-230 | Trench Excavation and Bedding Works for Manholes of Storm Drainage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-06-23 | 2026-07-06 |  |  | 0 | 7 |
+| CO-SD-MH-240 | Install RC Footing  Works for Manholes of Storm Drainage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-07-11 | 2026-07-20 |  |  | 0 | 4 |
+| CO-SD-MH-250 | Install RC Wall Rings & Slab  Works for Manholes of Storm Drainage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-07-21 | 2026-07-28 |  |  | 0 | 4 |
+| CO-SD-MH-TF-230 | Testing Works for Manholes of Storm Drainage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-04 | 2027-01-05 |  |  | 0 | 5 |
+| CO-SD-MH-260 | Backfilling Works for Manholes of Storm Drainage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-07-29 | 2026-08-09 |  |  | 0 | 10 |
+| CO-SW-MH-210 | Excavation Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-08-18 | 2026-08-31 |  |  | 0 | 3 |
+| CO-SW-MH-220 | Installation RC Footing Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-09-01 | 2026-09-14 |  |  | 0 | 3 |
+| CO-SW-MH-230 | Install Grp Liner Wall Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-09-15 | 2026-09-29 |  |  | 0 | 3 |
+| CO-SW-MH-240 | Pouring Grp Liner Wall Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-09-30 | 2026-10-13 |  |  | 0 | 3 |
+| CO-SW-MH-250 | Backfilling Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Manholes | Task | Not Started | 2026-10-14 | 2026-10-27 |  |  | 0 | 3 |
+| CO-SW-TF-250 | Testing Works for Main Line Manholes of Sewage Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 24 |
+| CO-SL-TF-410 | Testing Works for Lighting Poles of Street Lighting Network for Alignment-RD-01 | Termination and Testing Works | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | 34 |
+| CO-SL-LP-380 | Backfilling Works for Lighting Poles of Street Lighting Network for Alignment-RD-01 | Lighting Poles Works | Task | Not Started | 2026-11-19 | 2026-11-25 |  |  | 0 | 14 |
+| CO-IR-ML-190 | Installation Works for Bulbblers And Sprinklers and Irrigation Control System of Irrigation Network for Alignment-RD-01 | Main Line Pipes | Task | Not Started | 2026-10-25 | 2026-11-04 |  |  | 0 | 18 |
+| CO-TSE-ML-200 | Trench Excavation and Bedding Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-01 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-10 | 2026-08-17 |  |  | 0 | 22 |
+| CO-TSE-ML-210 | Pipes Laying Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-01 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-23 | 2026-09-10 |  |  | 0 | 18 |
+| CO-TSE-ML-230 | Trench Backfilling and Compaction Works for Treated Sewage Effluent (Tse) for Alignment-RD-01 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-12 | 2026-09-28 |  |  | 0 | 18 |
+| CO-TSE-TF-180 | Installation of Storage Tank of Treated Sewage Effluent (Tse) for Alignment-RD-03-1 | Treated Sewage Effluent (Tse) Storage Tank | Task | Not Started | 2027-01-03 | 2027-01-09 |  |  | 0 | 15 |
+| CO-RD-PV-180 | Fixing of Curbstone for Sidewalks Pavement for Alignment-RD-01 | Pavement Works | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 9 |
+| CO-RD-PV-190 | Fixing of Interlock Tiles for Sidewalks Pavement for Alignment-RD-01 | Pavement Works | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 17 |
+| CO-RD-F-RM-190 | Application of Road Marking Works For Road Works for Alignment-RD-01 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-26 | 2026-12-29 |  |  | 0 | 29 |
+| CO-RD-F-TS-130 | Installation Works of Traffic Signs Boards For Road Works for Alignment-RD-01 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-30 | 2027-01-03 |  |  | 0 | 29 |
+| CON-LV-ML-130 | Trench Excavation and Bedding Works for Main Cable of Low Voltage Network for Alignment-RD-01 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-18 | 2026-11-24 |  |  | 0 | 3 |
+| CON-LV-ML-140 | Cable Laying Works for Main Cable of Low Voltage Network for Alignment-RD-01 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 3 |
+| CON-LV-ML-150 | Trench Backfilling and Compaction Works for Main Cable of Low Voltage Network for Alignment-RD-01 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-02 | 2026-12-08 |  |  | 0 | 6 |
+| CON-LV-DP-130 | Foundation Excavation Works for Distribution Pillars of Low Voltage Network for Alignment-RD-01 | Distribution Pillars Works | Task | Not Started | 2026-11-25 | 2026-12-02 |  |  | 0 | 15 |
+| CON-LV-HC-130 | Trench Excavation and Bedding Works for Service Cable of Low Voltage Network for Alignment-RD-01 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 5 |
+| CON-LV-HC-140 | Cable Laying Works for Service Cable of Low Voltage Network for Alignment-RD-01 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-02 | 2026-12-09 |  |  | 0 | 5 |
+| CON-LV-HC-150 | Trench Backfilling and Compaction Works for Service Cable of Low Voltage Network for Alignment-RD-01 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-10 | 2026-12-16 |  |  | 0 | 5 |
+| CON-LV-TT-120 | Testing and Termination Works for Substation Low Voltage Panel Boards of Low Voltage Network for Alignment-RD-01 | Termination and Testing Works | Task | Not Started | 2026-12-17 | 2026-12-21 |  |  | 0 | 37 |
+| CO-SD-ML-170 | Trench Excavation and Bedding Works for Main Lines of Storm Drainage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-08-15 | 2026-08-17 |  |  | 0 | 3 |
+| CO-SD-ML-180 | Pipes Laying Works for Main Lines of Storm Drainage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-08-20 | 2026-08-23 |  |  | 0 | 1 |
+| CO-SD-ML-190 | Trench Backfilling and Compaction Works for Main Lines of Storm Drainage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-08-25 | 2026-08-27 |  |  | 0 | 0 |
+| CO-SD-CB-210 | Trench Excavation and Bedding Works for Catch Basins of Storm Drainage Network for Alignment-RD-02 | Catch Basin Sections | Task | Not Started | 2026-08-29 | 2026-09-17 |  |  | 0 | 31 |
+| CO-SD-CB-220 | Installation and Pipes Laying Connection Works for Catch Basins of Storm Drainage Network for Alignment-RD-02 | Catch Basin Sections | Task | Not Started | 2026-09-19 | 2026-10-11 |  |  | 0 | 31 |
+| CO-SD-CB-TF-200 | Testing Works for Catch Basins of Storm Drainage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-26 | 2027-02-01 |  |  | 0 | 0 |
+| CO-SD-CB-230 | Trench Backfilling and Compaction Works for Catch Basins of Storm Drainage Network for Alignment-RD-02 | Catch Basin Sections | Task | Not Started | 2026-11-17 | 2026-11-22 |  |  | 0 | 0 |
+| CO-PW-ML-170 | Trench Excavation and Bedding Works for Main Lines of Potable Water Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 14 |
+| CO-PW-ML-180 | Pipes Laying and accessories  for Main Lines  of Potable Water Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-10-22 | 2026-10-29 |  |  | 0 | 14 |
+| CO-PW-FH-200 | Excavation Works for Fire Hydrants of Potable Water Network for Alignment-RD-02 | Fire Hydrant | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 18 |
+| CO-PW-FH-210 | Installation Works for Fire Hydrant of Potable Water Network for Alignment-RD-02 | Fire Hydrant | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 14 |
+| CO-PW-FH-220 | Trench Backfilling and Compaction Works for Fire Hydrants of Potable Water Network for Alignment-RD-02 | Fire Hydrant | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 14 |
+| CO-PW-ML-190 | Trench Backfilling and Compaction Works for Main Lines of Potable Water Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 15 |
+| CO-IR-ML-200 | Trench Excavation and Bedding Works for Main Lines of Irrigation Network for Alignment-RD-02 | Main Line Pipes | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 25 |
+| CO-IR-ML-210 | Pipes Laying Works for Main Lines of Irrigation Network for Alignment-RD-02 | Main Line Pipes | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 25 |
+| CO-IR-ML-220 | Installation Works for Main Line Valves of Irrigation Network for Alignment-RD-02 | Main Line Pipes | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 25 |
+| CO-IR-ML-230 | Trench Backfilling and Compaction Works for Main Lines of Irrigation Network for Alignment-RD-02 | Main Line Pipes | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 25 |
+| CO-MV-ML-310 | Trench Excavation and Bedding Works for Medium Voltage Network for Alignment-RD-02 | Cabling Works | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | 0 |
+| CO-MV-ML-320 | Duct Laying Works for Medium Voltage Network for Alignment-RD-02 | Cabling Works | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | 0 |
+| CO-MV-ML-330 | Trench Backfilling and Compaction Works for Medium Voltage Network for Alignment-RD-02 | Cabling Works | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 0 |
+| CO-SL-CL-320 | Cable Laying Works for Street Lighting Network for Alignment-RD-02 | Cabling Works | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 4 |
+| CO-SL-CL-330 | Trench Backfilling and Compaction Works for Street Lighting Network for Alignment-RD-02 | Cabling Works | Task | Not Started | 2026-12-19 | 2026-12-21 |  |  | 0 | 4 |
+| CO-SL-LP-400 | Installation Works for Lighting Poles Foundation of Street Lighting Network for Alignment-RD-02 | Lighting Poles Works | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 0 |
+| CO-SL-LP-410 | Installation Works for Lighting Poles of Street Lighting Network for Alignment-RD-02 | Lighting Poles Works | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 0 |
+| CO-SL-LP-420 | Installation Works for Lighting Fixtures With Drop Wire of Street Lighting Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2026-12-30 | 2026-12-31 |  |  | 0 | 21 |
+| CO-SL-DB-330 | Installation Works for Panel Board Concrete Foundations of Street Lighting Network for Alignment-RD-02 | Distrubution Panel Boards | Task | Not Started | 2026-12-27 | 2026-12-29 |  |  | 0 | 0 |
+| CO-TE-DW-190 | Pipes Laying Works for Ducts of Telecom Network for Alignment-RD-02 | Ducts Works | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | 0 |
+| CO-TE-DW-200 | Trench Backfilling and Compaction Works for Ducts of Telecom Network for Alignment-RD-02 | Ducts Works | Task | Not Started | 2027-01-13 | 2027-01-18 |  |  | 0 | 0 |
+| CO-TE-CTV-180 | Installation of CCTV, Telephone, ACS and MSN Systems Cables for Alignment-RD-02 | CCTV, Telephone, MSN, ACs System Works | Task | Not Started | 2026-12-17 | 2026-12-23 |  |  | 0 | 36 |
+| CO-TE-MH-200 | Excavation Works for Manholes of Telecom Network for Alignment-RD-02 | Manholes Works | Task | Not Started | 2026-12-07 | 2026-12-09 |  |  | 0 | 25 |
+| CO-TE-MH-210 | Installation Works for Manholes of Telecom Network for Alignment-RD-02 | Manholes Works | Task | Not Started | 2026-12-10 | 2026-12-13 |  |  | 0 | 25 |
+| CO-TE-MH-220 | Backfilling Works for Manholes of Telecom Network for Alignment-RD-02 | Manholes Works | Task | Not Started | 2026-12-14 | 2026-12-16 |  |  | 0 | 25 |
+| CO-SW-ML-170 | Trench Excavation and Bedding Works for Main Lines of Sewage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-08-29 | 2026-09-09 |  |  | 0 | 39 |
+| CO-SW-ML-180 | Pipes Laying Works for Main Lines of Sewage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-09-10 | 2026-09-22 |  |  | 0 | 39 |
+| CO-SW-ML-190 | Trench Backfilling and Compaction Works for Main Lines of Sewage Network for Alignment-RD-02 | Main Line Sections | Task | Not Started | 2026-10-24 | 2026-11-04 |  |  | 0 | 14 |
+| CO-SL-DB-340 | Installation Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-02 | Distrubution Panel Boards | Task | Not Started | 2026-12-30 | 2027-01-06 |  |  | 0 | 0 |
+| CO-EW-220 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-02 | Earthworks | Task | Not Started | 2026-07-20 | 2026-08-02 |  |  | 0 | 3 |
+| CO-SD-ML-TF-120 | Testing Work for Pipes of Storm Drainage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-07 | 2027-01-13 |  |  | 0 | 10 |
+| CO-SD-CB-TF-210 | Install Catch Basin Cover Works for External Finishes of Storm Drainage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-02-02 | 2027-02-10 |  |  | 0 | 0 |
+| CO-PW-TF-160 | Testing of Potable Water Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-17 | 2027-01-25 |  |  | 0 | 14 |
+| CO-PW-TF-170 | Fire Hydrant Finishies (S.Box + Safety + Marker Post ) of Potable Water Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2026-12-22 | 2027-01-06 |  |  | 0 | 14 |
+| CO-PW-TF-180 | Final Finishes works and Covers for Valves and Valve Chambers for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-07 | 2027-01-16 |  |  | 0 | 14 |
+| CO-IR-TF-180 | Final Testing (pressure tests) of Irrigation Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-03 | 2027-01-06 |  |  | 0 | 30 |
+| CO-MV-TF-240 | Testing and Termination Works of Medium Voltage Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2026-12-07 | 2026-12-13 |  |  | 0 | 11 |
+| CO-SL-ES-260 | Install Earthing System Works for Lighting Poles of Street Lighting Network for Alignment-RD-02 | Earthing System Works | Task | Not Started | 2027-01-02 | 2027-01-07 |  |  | 0 | 21 |
+| CO-SL-ES-270 | Install Earthing System Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-02 | Earthing System Works | Task | Not Started | 2027-01-09 | 2027-01-14 |  |  | 0 | 21 |
+| CO-SL-TF-440 | Termination Works For Panel Board Cables of Street Lighting Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2027-01-07 | 2027-01-13 |  |  | 0 | 24 |
+| CO-SW-TF-270 | Final Testing For Main Line of Sewage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2027-01-14 |  |  | 0 | 23 |
+| CO-SD-CB-TF-220 | Catch Basin Internal Finishes (Benching ) for Storm Drainage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-19 | 2027-01-25 |  |  | 0 | 0 |
+| CO-TE-CTV-TF-220 | Testing and Interface modules with Telecom for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2026-12-31 | 2027-01-03 |  |  | 0 | 30 |
+| CO-PW-VC-260 | Excavation Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-02 | Valve Chamber | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 14 |
+| CO-PW-VC200 | Installation of Valve Chambers of Potable Water Network for Alignment-RD-02 | Valve Chamber | Task | Not Started | 2026-10-22 | 2026-10-25 |  |  | 0 | 14 |
+| CO-PW-VC-270 | Installation Works for Valves of Potable Water Network for Alignment-RD-02 | Valve Chamber | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 14 |
+| CO-PW-VC-280 | Backfilling Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-02 | Valve Chamber | Task | Not Started | 2026-11-01 | 2026-11-05 |  |  | 0 | 14 |
+| CO-SD-MH-270 | Trench Excavation and Bedding Works for Manholes of Storm Drainage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-08-03 | 2026-08-06 |  |  | 0 | 3 |
+| CO-SD-MH-280 | Install RC Footing  Works for Manholes of Storm Drainage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-08-08 | 2026-08-10 |  |  | 0 | 3 |
+| CO-SD-MH-290 | Install RC Wall Rings & Slab  Works for Manholes of Storm Drainage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-08-11 | 2026-08-13 |  |  | 0 | 3 |
+| CO-SD-MH-TF-250 | Testing Works for Manholes of Storm Drainage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-19 | 2027-01-25 |  |  | 0 | 14 |
+| CO-SD-MH-300 | Backfilling Works for Manholes of Storm Drainage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-08-15 | 2026-08-17 |  |  | 0 | 9 |
+| CO-SW-MH-260 | Excavation Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-08-29 | 2026-09-09 |  |  | 0 | 0 |
+| CO-SW-MH-270 | Installation RC Footing Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-09-10 | 2026-09-22 |  |  | 0 | 0 |
+| CO-SW-MH-280 | Install Grp Liner Wall Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-09-24 | 2026-10-07 |  |  | 0 | 0 |
+| CO-SW-MH-290 | Pouring Grp Liner Wall Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-10-08 | 2026-10-21 |  |  | 0 | 0 |
+| CO-SW-MH-300 | Backfilling Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Manholes | Task | Not Started | 2026-10-22 | 2026-11-04 |  |  | 0 | 0 |
+| CO-SW-TF-290 | Testing Works for Main Line Manholes of Sewage Network for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2027-01-14 |  |  | 0 | 23 |
+| CO-SL-TF-450 | Testing Works for Lighting Poles of Street Lighting Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2027-01-16 | 2027-01-17 |  |  | 0 | 21 |
+| CO-SL-LP-430 | Backfilling Works for Lighting Poles of Street Lighting Network for Alignment-RD-02 | Lighting Poles Works | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | 0 |
+| CO-SL-TF-460 | Testing Works For Panel Board Cables of Street Lighting Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2027-01-16 | 2027-01-17 |  |  | 0 | 21 |
+| CO-IR-ML-240 | Installation Works for Bulbblers And Sprinkler and Irrigation Control System of Irrigation Network for Alignment-RD-02 | Main Line Pipes | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 25 |
+| CO-TSE-ML-250 | Trench Excavation and Bedding Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-02 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-29 | 2026-09-10 |  |  | 0 | 14 |
+| CO-TSE-ML-260 | Pipes Laying Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-02 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-12 | 2026-10-01 |  |  | 0 | 14 |
+| CO-TSE-ML-280 | Trench Backfilling and Compaction Works for Treated Sewage Effluent (Tse) for Alignment-RD-02 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-10-03 | 2026-10-15 |  |  | 0 | 14 |
+| CO-TSE-TF-190 | Final Testing (pressure tests) of Treated Sewage Effluent (Tse) for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-18 | 2027-01-24 |  |  | 0 | 15 |
+| CO-RD-PV-200 | Fixing of Curbstone for Sidewalks Pavement for Alignment-RD-02 | Pavement Works | Task | Not Started | 2026-12-29 | 2027-01-03 |  |  | 0 | 15 |
+| CO-RD-PV-210 | Fixing of Interlock Tiles for Sidewalks Pavement for Alignment-RD-02 | Pavement Works | Task | Not Started | 2027-01-04 | 2027-01-13 |  |  | 0 | 15 |
+| CO-RD-F-RM-200 | Application of Road Marking Works For Road Works for Alignment-RD-02 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-19 | 2027-01-23 |  |  | 0 | 11 |
+| CO-RD-F-TS-140 | Installation Works of Traffic Signs Boards For Road Works for Alignment-RD-02 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-24 | 2027-01-27 |  |  | 0 | 11 |
+| CON-LV-ML-160 | Trench Excavation and Bedding Works for Main Cable of Low Voltage Network for Alignment-RD-02 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-07 | 2026-12-12 |  |  | 0 | 0 |
+| CON-LV-ML-170 | Cable Laying Works for Main Cable of Low Voltage Network for Alignment-RD-02 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-14 | 2026-11-26 |  |  | 0 | 25 |
+| CON-LV-ML-180 | Trench Backfilling and Compaction Works for Main Cable of Low Voltage Network for Alignment-RD-02 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-13 | 2026-12-22 |  |  | 0 | 9 |
+| CON-LV-DP-160 | Foundation Excavation Works for Distribution Pillars of Low Voltage Network for Alignment-RD-02 | Distribution Pillars Works | Task | Not Started | 2026-12-07 | 2026-12-13 |  |  | 0 | 0 |
+| CON-LV-DP-170 | Pouring Plain Concrete For Distribution Pillar Units of Low Voltage Network for Alignment-RD-02 | Distribution Pillars Works | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | 20 |
+| CON-LV-DP-180 | Installation Works for Distribution Pillar Units of Low Voltage Network for Alignment-RD-02 | Distribution Pillars Works | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 20 |
+| CON-LV-HC-160 | Trench Excavation and Bedding Works for Service Cable of Low Voltage Network for Alignment-RD-02 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-13 | 2026-12-16 |  |  | 0 | 8 |
+| CON-LV-HC-170 | Cable Laying Works for Service Cable of Low Voltage Network for Alignment-RD-02 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-17 | 2026-12-23 |  |  | 0 | 8 |
+| CON-LV-HC-180 | Trench Backfilling and Compaction Works for Service Cable of Low Voltage Network for Alignment-RD-02 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-24 | 2026-12-28 |  |  | 0 | 8 |
+| CON-LV-ES-120 | Earthing System Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-02 | Earthing System Works | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 34 |
+| CON-LV-TT-140 | Testing and Termination Works for Substation Low Voltage Panel Boards of Low Voltage Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2026-12-31 | 2027-01-04 |  |  | 0 | 32 |
+| CON-LV-TT-150 | Testing and Termination Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-02 | Termination and Testing Works | Task | Not Started | 2026-12-27 | 2026-12-30 |  |  | 0 | 32 |
+| CO-SD-ML-200 | Trench Excavation and Bedding Works for Main Lines of Storm Drainage Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-08-06 | 2026-08-09 |  |  | 0 | 7 |
+| CO-SD-ML-210 | Pipes Laying Works for Main Lines of Storm Drainage Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-08-17 | 2026-08-19 |  |  | 0 | 1 |
+| CO-SD-ML-220 | Trench Backfilling and Compaction Works for Main Lines of Storm Drainage Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-08-22 | 2026-08-24 |  |  | 0 | 0 |
+| CO-PW-ML-200 | Trench Excavation and Bedding Works for Main Lines of Potable Water Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-10-04 | 2026-10-14 |  |  | 0 | 21 |
+| CO-PW-ML-210 | Pipes Laying and accessories  for Main Lines  of Potable Water Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-10-15 | 2026-10-26 |  |  | 0 | 21 |
+| CO-PW-FH-230 | Excavation Works for Fire Hydrants of Potable Water Network for Alignment-RD-03-3 | Fire Hydrant | Task | Not Started | 2026-10-15 | 2026-10-26 |  |  | 0 | 47 |
+| CO-PW-FH-240 | Installation Works for Fire Hydrant of Potable Water Network for Alignment-RD-03-3 | Fire Hydrant | Task | Not Started | 2026-10-27 | 2026-11-07 |  |  | 0 | 47 |
+| CO-PW-FH-250 | Trench Backfilling and Compaction Works for Fire Hydrants of Potable Water Network for Alignment-RD-03-3 | Fire Hydrant | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | 41 |
+| CO-PW-ML-220 | Trench Backfilling and Compaction Works for Main Lines of Potable Water Network for Alignment-RD-03-3 | Main Line Sections | Task | Not Started | 2026-10-27 | 2026-11-07 |  |  | 0 | 21 |
+| CO-MV-ML-340 | Trench Excavation and Bedding Works for Medium Voltage Network for Alignment-RD-03-3 | Cabling Works | Task | Not Started | 2026-11-10 | 2026-11-12 |  |  | 0 | 19 |
+| CO-MV-ML-350 | Duct Laying Works for Medium Voltage Network for Alignment-RD-03-3 | Cabling Works | Task | Not Started | 2026-11-17 | 2026-11-19 |  |  | 0 | 16 |
+| CO-MV-ML-360 | Trench Backfilling and Compaction Works for Medium Voltage Network for Alignment-RD-03-3 | Cabling Works | Task | Not Started | 2026-11-21 | 2026-11-23 |  |  | 0 | 16 |
+| CO-SL-CL-350 | Cable Laying Works for Street Lighting Network for Alignment-RD-03-3 | Cabling Works | Task | Not Started | 2026-12-08 | 2026-12-14 |  |  | 0 | 30 |
+| CO-SL-CL-360 | Trench Backfilling and Compaction Works for Street Lighting Network for Alignment-RD-03-3 | Cabling Works | Task | Not Started | 2026-12-08 | 2026-12-14 |  |  | 0 | 30 |
+| CO-SL-LP-450 | Installation Works for Lighting Poles Foundation of Street Lighting Network for Alignment-RD-03-3 | Lighting Poles Works | Task | Not Started | 2026-11-24 | 2026-11-30 |  |  | 0 | 30 |
+| CO-SL-LP-460 | Installation Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-3 | Lighting Poles Works | Task | Not Started | 2026-12-01 | 2026-12-07 |  |  | 0 | 30 |
+| CO-SL-LP-470 | Installation Works for Lighting Fixtures With Drop Wire of Street Lighting Network for Alignment-RD-03-3 | Termination and Testing Works | Task | Not Started | 2026-12-22 | 2026-12-28 |  |  | 0 | 24 |
+| CO-TE-DW-230 | Pipes Laying Works for Ducts of Telecom Network for Alignment-RD-03-3 | Ducts Works | Task | Not Started | 2026-12-22 | 2026-12-28 |  |  | 0 | 28 |
+| CO-TE-DW-240 | Trench Backfilling and Compaction Works for Ducts of Telecom Network for Alignment-RD-03-3 | Ducts Works | Task | Not Started | 2026-12-29 | 2027-01-02 |  |  | 0 | 28 |
+| CO-TE-CTV-210 | Installation of CCTV, Telephone, ACS and MSN Systems Cables for Alignment-RD-03-3 | CCTV, Telephone, MSN, ACs System Works | Task | Not Started | 2026-12-13 | 2026-12-15 |  |  | 0 | 31 |
+| CO-TE-MH-230 | Excavation Works for Manholes of Telecom Network for Alignment-RD-03-3 | Manholes Works | Task | Not Started | 2026-12-03 | 2026-12-05 |  |  | 0 | 31 |
+| CO-TE-MH-240 | Installation Works for Manholes of Telecom Network for Alignment-RD-03-3 | Manholes Works | Task | Not Started | 2026-12-06 | 2026-12-08 |  |  | 0 | 31 |
+| CO-TE-MH-250 | Backfilling Works for Manholes of Telecom Network for Alignment-RD-03-3 | Manholes Works | Task | Not Started | 2026-12-09 | 2026-12-12 |  |  | 0 | 31 |
+| CO-EW-230 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-03-3 | Earthworks | Task | Not Started | 2026-07-07 | 2026-07-19 |  |  | 0 | 3 |
+| CO-SD-ML-TF-130 | Testing Work for Pipes of Storm Drainage Network for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 10 |
+| CO-PW-TF-190 | Testing of Potable Water Network for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 26 |
+| CO-PW-TF-200 | Fire Hydrant Finishies (S.Box + Safety + Marker Post ) of Potable Water Network for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-22 | 2026-12-24 |  |  | 0 | 14 |
+| CO-PW-TF-210 | Final Finishes works and Covers for Valves and Valve Chambers for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-29 |  |  | 0 | 21 |
+| CO-MV-TF-250 | Testing and Termination Works of Medium Voltage Network for Alignment-RD-03-3 | Termination and Testing Works | Task | Not Started | 2026-11-24 | 2026-11-30 |  |  | 0 | 16 |
+| CO-SL-ES-280 | Install Earthing System Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-3 | Earthing System Works | Task | Not Started | 2026-12-22 | 2026-12-28 |  |  | 0 | 24 |
+| CO-SL-ES-290 | Install Earthing System Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-03-3 | Earthing System Works | Task | Not Started | 2026-12-28 | 2027-01-03 |  |  | 0 | 25 |
+| CO-TE-CTV-TF-260 | Testing and Interface modules with Telecom for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-17 | 2026-12-23 |  |  | 0 | 30 |
+| CO-PW-VC-290 | Excavation Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-03-3 | Valve Chamber | Task | Not Started | 2026-10-04 | 2026-10-14 |  |  | 0 | 47 |
+| CO-PW-VC210 | Installation of Valve Chambers of Potable Water Network for Alignment-RD-03-3 | Valve Chamber | Task | Not Started | 2026-10-15 | 2026-10-26 |  |  | 0 | 47 |
+| CO-PW-VC-300 | Installation Works for Valves of Potable Water Network for Alignment-RD-03-3 | Valve Chamber | Task | Not Started | 2026-11-03 | 2026-11-12 |  |  | 0 | 41 |
+| CO-PW-VC-310 | Backfilling Works for Main Line Valves and Valve Chambers of Potable Water Network for Alignment-RD-03-3 | Valve Chamber | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 41 |
+| CO-SL-TF-490 | Testing Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-3 | Termination and Testing Works | Task | Not Started | 2027-01-04 | 2027-01-10 |  |  | 0 | 27 |
+| CO-SL-LP-480 | Backfilling Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-3 | Lighting Poles Works | Task | Not Started | 2026-12-08 | 2026-12-14 |  |  | 0 | 30 |
+| CO-TSE-ML-300 | Trench Excavation and Bedding Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-03-3 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-08-25 | 2026-09-06 |  |  | 0 | 21 |
+| CO-TSE-ML-310 | Pipes Laying Works for Main Lines of Treated Sewage Effluent (Tse) for Alignment-RD-03-3 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-07 | 2026-09-19 |  |  | 0 | 21 |
+| CO-TSE-ML-330 | Trench Backfilling and Compaction Works for Treated Sewage Effluent (Tse) for Alignment-RD-03-3 | Treated Sewage Effluent (Tse) | Task | Not Started | 2026-09-20 | 2026-10-03 |  |  | 0 | 21 |
+| CO-TSE-TF-200 | Final Testing (pressure tests) of Treated Sewage Effluent (Tse) for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2027-01-11 | 2027-01-17 |  |  | 0 | 15 |
+| CO-RD-PV-220 | Fixing of Curbstone for Sidewalks Pavement for Alignment-RD-03-3 | Pavement Works | Task | Not Started | 2026-12-29 | 2027-01-02 |  |  | 0 | 30 |
+| CO-RD-PV-230 | Fixing of Interlock Tiles for Sidewalks Pavement for Alignment-RD-03-3 | Pavement Works | Task | Not Started | 2026-12-29 | 2027-01-02 |  |  | 0 | 30 |
+| CO-RD-F-RM-210 | Application of Road Marking Works For Road Works for Alignment-RD-03-3 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-29 | 2026-12-31 |  |  | 0 | 30 |
+| CO-RD-F-TS-150 | Installation Works of Traffic Signs Boards For Road Works for Alignment-RD-03-3 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-03 | 2027-01-06 |  |  | 0 | 29 |
+| CON-LV-ML-190 | Trench Excavation and Bedding Works for Main Cable of Low Voltage Network for Alignment-RD-03-3 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-24 | 2026-12-01 |  |  | 0 | 28 |
+| CON-LV-ML-200 | Cable Laying Works for Main Cable of Low Voltage Network for Alignment-RD-03-3 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-02 | 2026-12-09 |  |  | 0 | 28 |
+| CON-LV-ML-210 | Trench Backfilling and Compaction Works for Main Cable of Low Voltage Network for Alignment-RD-03-3 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-10 | 2026-12-14 |  |  | 0 | 34 |
+| CON-LV-DP-190 | Installation Works for Distribution Pillar Units of Low Voltage Network for Alignment-RD-03-3 | Distribution Pillars Works | Task | Not Started | 2026-12-22 | 2026-12-26 |  |  | 0 | 32 |
+| CON-LV-HC-190 | Trench Excavation and Bedding Works for Service Cable of Low Voltage Network for Alignment-RD-03-3 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-02 | 2026-12-09 |  |  | 0 | 28 |
+| CON-LV-HC-200 | Cable Laying Works for Service Cable of Low Voltage Network for Alignment-RD-03-3 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-10 | 2026-12-17 |  |  | 0 | 28 |
+| CON-LV-HC-210 | Trench Backfilling and Compaction Works for Service Cable of Low Voltage Network for Alignment-RD-03-3 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-19 | 2026-12-21 |  |  | 0 | 28 |
+| CON-LV-TT-160 | Testing and Termination Works for Substation Low Voltage Panel Boards of Low Voltage Network for Alignment-RD-03-3 | Termination and Testing Works | Task | Not Started | 2026-12-27 | 2027-01-02 |  |  | 0 | 34 |
+| CO-SD-ML-230 | Trench Excavation and Bedding Works for Main Lines of Storm Drainage Network for Alignment-RD-03-2 | Main Line Sections | Task | Not Started | 2026-09-26 | 2026-10-03 |  |  | 0 | 19 |
+| CO-SD-ML-240 | Pipes Laying Works for Main Lines of Storm Drainage Network for Alignment-RD-03-2 | Main Line Sections | Task | Not Started | 2026-10-04 | 2026-10-08 |  |  | 0 | 19 |
+| CO-SD-ML-250 | Trench Backfilling and Compaction Works for Main Lines of Storm Drainage Network for Alignment-RD-03-2 | Main Line Sections | Task | Not Started | 2026-10-10 | 2026-10-15 |  |  | 0 | 19 |
+| CO-SD-CB-TF-260 | Testing Works for Catch Basins of Storm Drainage Network for Alignment-RD-03-2 | Testing and Finishes | Task | Not Started | 2027-01-14 | 2027-01-24 |  |  | 0 | 5 |
+| CO-MV-ML-370 | Trench Excavation and Bedding Works for Medium Voltage Network for Alignment-RD-03-2 | Cabling Works | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 3 |
+| CO-MV-ML-380 | Duct Laying Works for Medium Voltage Network for Alignment-RD-03-2 | Cabling Works | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 6 |
+| CO-MV-ML-390 | Trench Backfilling and Compaction Works for Medium Voltage Network for Alignment-RD-03-2 | Cabling Works | Task | Not Started | 2026-11-18 | 2026-11-22 |  |  | 0 | 5 |
+| CO-TE-CTV-240 | Installation of CCTV, Telephone, ACS and MSN Systems Cables for Alignment-RD-03-2 | CCTV, Telephone, MSN, ACs System Works | Task | Not Started | 2026-12-30 | 2027-01-02 |  |  | 0 | 20 |
+| CO-EW-240 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-03-2 | Earthworks | Task | Not Started | 2026-07-21 | 2026-08-03 |  |  | 0 | 4 |
+| CO-MV-TF-260 | Testing and Termination Works of Medium Voltage Network for Alignment-RD-03-2 | Termination and Testing Works | Task | Not Started | 2026-11-23 | 2026-11-29 |  |  | 0 | 23 |
+| CO-SD-MH-350 | Trench Excavation and Bedding Works for Manholes of Storm Drainage Network for Alignment-RD-03-2 | Manholes | Task | Not Started | 2026-08-22 | 2026-09-01 |  |  | 0 | 19 |
+| CO-SD-MH-360 | Install RC Footing  Works for Manholes of Storm Drainage Network for Alignment-RD-03-2 | Manholes | Task | Not Started | 2026-09-02 | 2026-09-12 |  |  | 0 | 19 |
+| CO-SD-MH-370 | Install RC Wall Rings & Slab  Works for Manholes of Storm Drainage Network for Alignment-RD-03-2 | Manholes | Task | Not Started | 2026-09-13 | 2026-09-24 |  |  | 0 | 19 |
+| CO-SD-MH-TF-290 | Testing Works for Manholes of Storm Drainage Network for Alignment-RD-03-2 | Testing and Finishes | Task | Not Started | 2027-01-06 | 2027-01-12 |  |  | 0 | 15 |
+| CO-SD-MH-380 | Backfilling Works for Manholes of Storm Drainage Network for Alignment-RD-03-2 | Manholes | Task | Not Started | 2026-09-26 | 2026-10-03 |  |  | 0 | 30 |
+| CO-RD-PB-220 | Subgrade Layer for Road Works for Alignment-RD-03-2 | Pre-Bituminous Construction | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | 3 |
+| CO-RD-PB-230 | Installation of Aggregate Base Course Layer and Interlock Works for Road Works for Alignment-RD-03-2 | Pre-Bituminous Construction | Task | Not Started | 2027-01-05 | 2027-01-10 |  |  | 0 | 3 |
+| CO-RD-PV-240 | Fixing of Curbstone for Sidewalks Pavement for Alignment-RD-03-2 | Pavement Works | Task | Not Started | 2027-01-14 | 2027-01-21 |  |  | 0 | 3 |
+| CO-RD-PV-250 | Fixing of Interlock Tiles for Sidewalks Pavement for Alignment-RD-03-2 | Pavement Works | Task | Not Started | 2027-01-23 | 2027-01-30 |  |  | 0 | 3 |
+| CO-RD-F-RM-220 | Application of Road Marking Works For Road Works for Alignment-RD-03-2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-31 | 2027-02-02 |  |  | 0 | 3 |
+| CO-RD-F-TS-160 | Installation Works of Traffic Signs Boards For Road Works for Alignment-RD-03-2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-02-03 | 2027-02-06 |  |  | 0 | 3 |
+| CO-RD-B-240 | Bituminous Base Courses Layers for Road Works for Alignment-RD-03-2 | Bituminous Construction | Task | Not Started | 2027-01-11 | 2027-01-13 |  |  | 0 | 3 |
+| CON-RD-MR-230 | Preparation of Asphaltic Wearing Course Layer for Roads Network for Alignment-RD-03-2 | Bituminous Construction | Task | Not Started | 2027-01-25 | 2027-01-27 |  |  | 0 | 5 |
+| CON-LV-ML-220 | Trench Excavation and Bedding Works for Main Cable of Low Voltage Network for Alignment-RD-03-2 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-11-25 | 2026-12-01 |  |  | 0 | 3 |
+| CON-LV-ML-230 | Cable Laying Works for Main Cable of Low Voltage Network for Alignment-RD-03-2 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-02 | 2026-12-12 |  |  | 0 | 3 |
+| CON-LV-ML-240 | Trench Backfilling and Compaction Works for Main Cable of Low Voltage Network for Alignment-RD-03-2 | Main Low Voltage Cables Works ( Cable 300 MM ) | Task | Not Started | 2026-12-13 | 2026-12-19 |  |  | 0 | 6 |
+| CON-LV-DP-220 | Foundation Excavation Works for Distribution Pillars of Low Voltage Network for Alignment-RD-03-2 | Distribution Pillars Works | Task | Not Started | 2026-12-03 | 2026-12-10 |  |  | 0 | 15 |
+| CON-LV-DP-230 | Pouring Plain Concrete For Distribution Pillar Units of Low Voltage Network for Alignment-RD-03-2 | Distribution Pillars Works | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | 15 |
+| CON-LV-DP-240 | Installation Works for Distribution Pillar Units of Low Voltage Network for Alignment-RD-03-2 | Distribution Pillars Works | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 15 |
+| CON-LV-HC-220 | Trench Excavation and Bedding Works for Service Cable of Low Voltage Network for Alignment-RD-03-2 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-02 | 2026-12-07 |  |  | 0 | 7 |
+| CON-LV-HC-230 | Cable Laying Works for Service Cable of Low Voltage Network for Alignment-RD-03-2 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-13 | 2026-12-22 |  |  | 0 | 3 |
+| CON-LV-HC-240 | Trench Backfilling and Compaction Works for Service Cable of Low Voltage Network for Alignment-RD-03-2 | Service Low Voltage Cables Works ( Cable 70 MM ) | Task | Not Started | 2026-12-23 | 2026-12-29 |  |  | 0 | 3 |
+| CON-LV-ES-140 | Earthing System Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-03-2 | Earthing System Works | Task | Not Started | 2026-12-23 | 2026-12-24 |  |  | 0 | 41 |
+| CON-LV-TT-180 | Testing and Termination Works for Substation Low Voltage Panel Boards of Low Voltage Network for Alignment-RD-03-2 | Termination and Testing Works | Task | Not Started | 2026-12-30 | 2027-01-06 |  |  | 0 | 30 |
+| CON-LV-TT-190 | Testing and Termination Works for Distribution Pillars Units of Low Voltage Network for Alignment-RD-03-2 | Termination and Testing Works | Task | Not Started | 2026-12-16 | 2026-12-22 |  |  | 0 | 36 |
+| CO-EW-250 | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 1 - 1(Completed) | Earthworks | Task | Completed | 2026-04-01 | 2026-06-22 | 2026-04-01 | 2026-06-22 | 100 |  |
+| CO-RD-PB-240 | Subgrade Layer for Road Works for External Road - 1 - 1 | Pre-Bituminous Construction | Task | Not Started | 2026-11-21 | 2026-11-29 |  |  | 0 | 32 |
+| CO-RD-PB-250 | Aggregate Base Course Layer for Road Works for External Road - 1 - 1 | Pre-Bituminous Construction | Task | Not Started | 2026-11-30 | 2026-12-09 |  |  | 0 | 32 |
+| CO-RD-PV-260 | Fixing of Curbstone for Sidewalks Pavement for External Road - 1 - 1 | Pavement Works | Task | Not Started | 2026-12-15 | 2026-12-23 |  |  | 0 | 32 |
+| CO-RD-PV-270 | Fixing of Interlock Tiles for Sidewalks Pavement for External Road - 1 - 1 | Pavement Works | Task | Not Started | 2026-12-24 | 2026-12-30 |  |  | 0 | 32 |
+| CO-RD-F-RM-230 | Application of Road Marking Works For Road Works for External Road - 1 - 1 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 32 |
+| CO-RD-F-TS-170 | Installation Works of Traffic Signs Boards For Road Works for External Road - 1 - 1 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-03 | 2027-01-03 |  |  | 0 | 32 |
+| CO-RD-B-260 | Bituminous Base Courses Layers for Road Works for External Road - 1 - 1 | Bituminous Construction | Task | Not Started | 2026-12-10 | 2026-12-14 |  |  | 0 | 32 |
+| CON-RD-MR-250 | Preparation of Asphaltic Wearing Course Layer for Roads Network for External Road - 1 - 1 | Bituminous Construction | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | 41 |
+| CO-EW-260 | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 2(Completed) | Earthworks | Task | Completed | 2026-05-09 | 2026-06-22 | 2026-05-09 | 2026-06-22 | 100 |  |
+| CO-RD-PB-260 | Subgrade Layer for Road Works for External Road - 2 | Pre-Bituminous Construction | Task | Not Started | 2026-11-14 | 2026-11-21 |  |  | 0 | 31 |
+| CO-RD-PB-270 | Aggregate Base Course Layer for Road Works for External Road - 2 | Pre-Bituminous Construction | Task | Not Started | 2026-11-17 | 2026-11-21 |  |  | 0 | 31 |
+| CO-RD-PV-280 | Fixing of Curbstone for Sidewalks Pavement for External Road - 2 | Pavement Works | Task | Not Started | 2026-12-14 | 2026-12-23 |  |  | 0 | 31 |
+| CO-RD-PV-290 | Fixing of Interlock Tiles for Sidewalks Pavement for External Road - 2 | Pavement Works | Task | Not Started | 2026-12-14 | 2026-12-23 |  |  | 0 | 31 |
+| CO-RD-F-RM-240 | Application of Road Marking Works For Road Works for External Road - 2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-24 | 2027-01-04 |  |  | 0 | 31 |
+| CO-RD-F-TS-180 | Installation Works of Traffic Signs Boards For Road Works for External Road - 2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-27 | 2026-12-28 |  |  | 0 | 34 |
+| CO-RD-B-280 | Bituminous Base Courses Layers for Road Works for External Road - 2 | Bituminous Construction | Task | Not Started | 2026-11-22 | 2026-12-02 |  |  | 0 | 31 |
+| CON-RD-MR-270 | Preparation of Asphaltic Wearing Course Layer for Roads Network for External Road - 2 | Bituminous Construction | Task | Not Started | 2026-12-03 | 2026-12-14 |  |  | 0 | 33 |
+| CO-EW-270 | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 3(Completed) | Earthworks | Task | Completed | 2026-05-09 | 2026-06-22 | 2026-05-09 | 2026-06-22 | 100 |  |
+| CO-RD-PB-280 | Subgrade Layer for Road Works for External Road - 3 | Pre-Bituminous Construction | Task | Not Started | 2026-11-14 | 2026-11-19 |  |  | 0 | 32 |
+| CO-RD-PB-290 | Aggregate Base Course Layer for Road Works for External Road - 3 | Pre-Bituminous Construction | Task | Not Started | 2026-11-17 | 2026-11-29 |  |  | 0 | 34 |
+| CO-RD-PV-300 | Fixing of Curbstone for Sidewalks Pavement for External Road - 3 | Pavement Works | Task | Not Started | 2026-12-24 | 2026-12-27 |  |  | 0 | 33 |
+| CO-RD-PV-310 | Fixing of Interlock Tiles for Sidewalks Pavement for External Road - 3 | Pavement Works | Task | Not Started | 2026-12-24 | 2026-12-27 |  |  | 0 | 36 |
+| CO-RD-F-RM-250 | Application of Road Marking Works For Road Works for External Road - 3 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | 31 |
+| CO-RD-F-TS-190 | Installation Works of Traffic Signs Boards For Road Works for External Road - 3 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-30 | 2027-01-02 |  |  | 0 | 33 |
+| CO-RD-B-300 | Bituminous Base Courses Layers for Road Works for External Road - 3 | Bituminous Construction | Task | Not Started | 2026-12-03 | 2026-12-16 |  |  | 0 | 31 |
+| CON-RD-MR-290 | Preparation of Asphaltic Wearing Course Layer for Roads Network for External Road - 3 | Bituminous Construction | Task | Not Started | 2026-12-17 | 2026-12-29 |  |  | 0 | 31 |
+| CO-EW-280 | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 1 - 2(Completed) | Earthworks | Task | Completed | 2026-04-18 | 2026-06-22 | 2026-04-18 | 2026-06-22 | 100 |  |
+| CO-RD-PB-300 | Subgrade Layer for Road Works for External Road - 1 - 2 | Pre-Bituminous Construction | Task | Not Started | 2026-11-21 | 2026-11-26 |  |  | 0 | 32 |
+| CO-RD-PB-310 | Aggregate Base Course Layer for Road Works for External Road - 1 - 2 | Pre-Bituminous Construction | Task | Not Started | 2026-11-28 | 2026-12-03 |  |  | 0 | 32 |
+| CO-RD-PV-320 | Fixing of Curbstone for Sidewalks Pavement for External Road - 1 - 2 | Pavement Works | Task | Not Started | 2026-12-14 | 2026-12-20 |  |  | 0 | 31 |
+| CO-RD-PV-330 | Fixing of Interlock Tiles for Sidewalks Pavement for External Road - 1 - 2 | Pavement Works | Task | Not Started | 2026-12-21 | 2026-12-27 |  |  | 0 | 31 |
+| CO-RD-F-RM-260 | Application of Road Marking Works For Road Works for External Road - 1 - 2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2026-12-28 | 2026-12-31 |  |  | 0 | 31 |
+| CO-RD-F-TS-200 | Installation Works of Traffic Signs Boards For Road Works for External Road - 1 - 2 | Traffic Signs Boards and Roads Marking | Task | Not Started | 2027-01-02 | 2027-01-04 |  |  | 0 | 31 |
+| CO-RD-B-320 | Bituminous Base Courses Layers for Road Works for External Road - 1 - 2 | Bituminous Construction | Task | Not Started | 2026-12-05 | 2026-12-12 |  |  | 0 | 32 |
+| CON-RD-MR-310 | Preparation of Asphaltic Wearing Course Layer for Roads Network for External Road - 1 - 2 | Bituminous Construction | Task | Not Started | 2026-12-13 | 2026-12-16 |  |  | 0 | 40 |
+| CO-SU-FE-N-CI-150 | Excavation Work For Boundary Fence West | Civil Work | Task | Not Started | 2026-08-26 | 2026-09-13 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-160 | Pouring for Plain Concrete For Boundary Fence West | Civil Work | Task | Not Started | 2026-09-14 | 2026-09-29 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-170 | Pouring R.C Footing For Boundary Fence West | Civil Work | Task | Not Started | 2026-09-30 | 2026-10-18 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-180 | Pouring R.C Columns For Boundary Fence West | Civil Work | Task | Not Started | 2026-10-19 | 2026-11-05 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-190 | Pouring Beams For Boundary Fence West | Civil Work | Task | Not Started | 2026-11-07 | 2026-11-19 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-130 | Install Brick Work For Boundary Fence West | Architictural work | Task | Not Started | 2026-11-21 | 2026-12-08 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-140 | Insulation For Boundary Fence West | Architictural work | Task | Not Started | 2026-12-23 | 2027-01-05 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-150 | Install all the Relevant Cladding and Finishes For Boundary Fence West | Architictural work | Task | Not Started | 2027-01-06 | 2027-01-19 |  |  | 0 | 2 |
+| CO-SU-FE-N-EL-260 | Installation of Conduits and Cables for Electricial Works For Boundary Fence West | Electrical Work | Task | Not Started | 2026-12-09 | 2026-12-17 |  |  | 0 | 5 |
+| CO-SU-FE-N-EL-270 | Install, fixings, testing of all electrical finishes and lightings for Electricial Works For Boundary Fence West | Electrical Work | Task | Not Started | 2027-01-27 | 2027-02-06 |  |  | 0 | 5 |
+| CO-SU-FE-N-CI-200 | Excavation Work For Boundary Fence North | Civil Work | Task | Not Started | 2026-09-14 | 2026-10-03 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-210 | Pouring for Plain Concrete For Boundary Fence North | Civil Work | Task | Not Started | 2026-10-04 | 2026-10-18 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-220 | Pouring R.C Footing For Boundary Fence North | Civil Work | Task | Not Started | 2026-10-19 | 2026-11-05 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-230 | Pouring R.C Columns For Boundary Fence North | Civil Work | Task | Not Started | 2026-11-07 | 2026-11-24 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-240 | Pouring Beams For Boundary Fence North | Civil Work | Task | Not Started | 2026-11-25 | 2026-12-08 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-160 | Install Brick Work For Boundary Fence North | Architictural work | Task | Not Started | 2026-12-09 | 2026-12-24 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-170 | Insulation For Boundary Fence North | Architictural work | Task | Not Started | 2027-01-06 | 2027-01-18 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-180 | Install all the Relevant Cladding and Finishes For Boundary Fence North | Architictural work | Task | Not Started | 2027-01-20 | 2027-01-26 |  |  | 0 | 2 |
+| CO-SU-FE-N-EL-280 | Installation of Conduits and Cables for Electricial Works For Boundary Fence North | Electrical Work | Task | Not Started | 2026-12-26 | 2027-01-02 |  |  | 0 | 4 |
+| CO-SU-FE-N-EL-290 | Install, fixings, testing of all electrical finishes and lightings for Electricial Works For Boundary Fence North | Electrical Work | Task | Not Started | 2027-01-27 | 2027-02-02 |  |  | 0 | 5 |
+| CO-SU-FE-N-CI-250 | Excavation Work For Boundary Fence East | Civil Work | Task | Not Started | 2026-10-04 | 2026-10-21 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-260 | Pouring for Plain Concrete For Boundary Fence East | Civil Work | Task | Not Started | 2026-10-22 | 2026-11-05 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-270 | Pouring R.C Footing For Boundary Fence East | Civil Work | Task | Not Started | 2026-11-07 | 2026-11-24 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-280 | Pouring R.C Columns For Boundary Fence East | Civil Work | Task | Not Started | 2026-11-25 | 2026-12-13 |  |  | 0 | 1 |
+| CO-SU-FE-N-CI-290 | Pouring Beams For Boundary Fence East | Civil Work | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-190 | Install Brick Work For Boundary Fence East | Architictural work | Task | Not Started | 2026-12-26 | 2027-01-06 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-200 | Insulation For Boundary Fence East | Architictural work | Task | Not Started | 2027-01-19 | 2027-01-27 |  |  | 0 | 1 |
+| CO-SU-FE-N-AR-210 | Install all the Relevant Cladding and Finishes For Boundary Fence East | Architictural work | Task | Not Started | 2027-01-28 | 2027-02-07 |  |  | 0 | 1 |
+| CO-SU-FE-N-EL-300 | Installation of Conduits and Cables for Electricial Works For Boundary Fence East | Electrical Work | Task | Not Started | 2027-01-07 | 2027-01-18 |  |  | 0 | 1 |
+| CO-SU-FE-N-EL-310 | Install, fixings, testing of all electrical finishes and lightings for Electricial Works For Boundary Fence East | Electrical Work | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | 1 |
+| CO-TSE-TF-210 | Final Testing (pressure tests) of Treated Sewage Effluent (Tse) for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-04 | 2027-01-05 |  |  | 0 | 31 |
+| CO-SL-CL-380 | Cable Laying Works for Street Lighting Network for Alignment-RD-03-2 | Cabling Works | Task | Not Started | 2026-11-23 | 2026-11-28 |  |  | 0 | 13 |
+| CO-SL-CL-390 | Trench Backfilling and Compaction Works for Street Lighting Network for Alignment-RD-03-2 | Cabling Works | Task | Not Started | 2026-11-29 | 2026-12-03 |  |  | 0 | 13 |
+| CO-SL-LP-500 | Installation Works for Lighting Poles Foundation of Street Lighting Network for Alignment-RD-03-2 | Lighting Poles Works | Task | Not Started | 2026-11-10 | 2026-11-15 |  |  | 0 | 14 |
+| CO-SL-LP-510 | Installation Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-2 | Lighting Poles Works | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 14 |
+| CO-SL-LP-520 | Backfilling Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-2 | Lighting Poles Works | Task | Not Started | 2026-11-22 | 2026-11-28 |  |  | 0 | 18 |
+| CO-SL-LP-530 | Installation Works for Lighting Fixtures With Drop Wire of Street Lighting Network for Alignment-RD-03-2 | Termination and Testing Works | Task | Not Started | 2026-12-08 | 2026-12-14 |  |  | 0 | 10 |
+| CO-SL-ES-300 | Install Earthing System Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-2 | Earthing System Works | Task | Not Started | 2026-12-17 | 2026-12-20 |  |  | 0 | 43 |
+| CO-SL-ES-310 | Install Earthing System Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-03-2 | Earthing System Works | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 43 |
+| CO-SL-TF-530 | Testing Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-2 | Termination and Testing Works | Task | Not Started | 2026-12-17 | 2026-12-23 |  |  | 0 | 8 |
+| CO-SL-CL-410 | Cable Laying Works for Street Lighting Network for Alignment-RD-03-1 | Cabling Works | Task | Not Started | 2026-11-22 | 2026-11-26 |  |  | 0 | 3 |
+| CO-SL-CL-420 | Trench Backfilling and Compaction Works for Street Lighting Network for Alignment-RD-03-1 | Cabling Works | Task | Not Started | 2026-11-28 | 2026-12-02 |  |  | 0 | 3 |
+| CO-SL-LP-550 | Installation Works for Lighting Poles Foundation of Street Lighting Network for Alignment-RD-03-1 | Lighting Poles Works | Task | Not Started | 2026-11-10 | 2026-11-15 |  |  | 0 | 3 |
+| CO-SL-LP-560 | Installation Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-1 | Lighting Poles Works | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 3 |
+| CO-SL-LP-570 | Backfilling Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-1 | Lighting Poles Works | Task | Not Started | 2026-11-22 | 2026-11-28 |  |  | 0 | 7 |
+| CO-SL-LP-580 | Installation Works for Lighting Fixtures With Drop Wire of Street Lighting Network for Alignment-RD-03-1 | Termination and Testing Works | Task | Not Started | 2026-12-15 | 2026-12-21 |  |  | 0 | 24 |
+| CO-SL-ES-320 | Install Earthing System Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-1 | Earthing System Works | Task | Not Started | 2026-12-22 | 2026-12-24 |  |  | 0 | 24 |
+| CO-SL-ES-330 | Install Earthing System Works for Lighting Panel Boards of Street Lighting Network for Alignment-RD-03-1 | Earthing System Works | Task | Not Started | 2026-12-26 | 2026-12-27 |  |  | 0 | 25 |
+| CO-SL-TF-570 | Testing Works for Lighting Poles of Street Lighting Network for Alignment-RD-03-1 | Termination and Testing Works | Task | Not Started | 2026-12-28 | 2027-01-03 |  |  | 0 | 27 |
+| CO-TE-CTV-TF-310 | Testing and Interface modules with CCTV, Telephone, MSN and Access Control for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2026-12-29 | 2026-12-31 |  |  | 0 | 21 |
+| CO-TE-CTV-TF-320 | Testing and Interface modules with CCTV, Telephone, MSN and Access Control for Alignment-RD-03-2 | Testing and Finishes | Task | Not Started | 2027-01-03 | 2027-01-06 |  |  | 0 | 20 |
+| CO-TE-CTV-TF-330 | Testing and Interface modules with CCTV, Telephone, MSN and Access Control for Alignment-RD-03-1 | Testing and Finishes | Task | Not Started | 2026-12-10 | 2026-12-16 |  |  | 0 | 30 |
+| CO-TE-CTV-TF-340 | Testing and Interface modules with CCTV, Telephone, MSN and Access Control for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-24 | 2026-12-30 |  |  | 0 | 30 |
+| CO-TE-CTV-TF-350 | Testing and Interface modules with CCTV, Telephone, MSN and Access Control for Alignment-RD-02 | Testing and Finishes | Task | Not Started | 2027-01-04 | 2027-01-06 |  |  | 0 | 30 |
+| CO-TE-MH-290 | Excavation Works for Manholes of Telecom Network for External Road - 3 | Manholes Works | Task | Not Started | 2026-10-01 | 2026-10-21 |  |  | 0 | 31 |
+| CO-TE-MH-300 | Installation Works for Manholes of Telecom Network for External Road - 3 | Manholes Works | Task | Not Started | 2026-10-22 | 2026-11-12 |  |  | 0 | 31 |
+| CO-TE-MH-310 | Backfilling Works for Manholes of Telecom Network for External Road - 3 | Manholes Works | Task | Not Started | 2026-11-07 | 2026-11-12 |  |  | 0 | 31 |
+| CO-TE-CTV-TF-360 | Testing and Interface modules with Telecom for External Road - 3 | Testing and Finishes | Task | Not Started | 2026-11-14 | 2026-11-19 |  |  | 0 | 31 |
+| CO-PW-TF-220 | Testing of Potable Water Network for Alignment-RD-01 | Testing and Finishes | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 21 |
+| CO-IR-ML-350 | Trench Excavation and Bedding Works for Main Lines of Irrigation Network for Alignment-RD-03-3 | Main Line Pipes | Task | Not Started | 2026-10-15 | 2026-10-26 |  |  | 0 | 25 |
+| CO-IR-ML-360 | Pipes Laying Works for Main Lines of Irrigation Network for Alignment-RD-03-3 | Main Line Pipes | Task | Not Started | 2026-10-27 | 2026-10-29 |  |  | 0 | 25 |
+| CO-IR-ML-370 | Installation Works for Main Line Valves of Irrigation Network for Alignment-RD-03-3 | Main Line Pipes | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 25 |
+| CO-IR-ML-380 | Trench Backfilling and Compaction Works for Main Lines of Irrigation Network for Alignment-RD-03-3 | Main Line Pipes | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 25 |
+| CO-IR-ML-390 | Installation Works for Bulbblers And Sprinkler and Irrigation Control System of Irrigation Network for Alignment-RD-03-3 | Main Line Pipes | Task | Not Started | 2026-11-03 | 2026-11-05 |  |  | 0 | 25 |
+| CO-IR-TF-210 | Final Testing (pressure tests) of Irrigation Network for Alignment-RD-03-3 | Testing and Finishes | Task | Not Started | 2026-12-26 | 2026-12-31 |  |  | 0 | 29 |
+| CO-UB-PS-100 | Excavation Work for Water Pump station building | SubStructure | Task | Not Started | 2026-07-09 | 2026-07-18 |  |  | 0 | 0 |
+| CO-UB-PWT-100 | Excavation work for tank foundation tank formation level for Potable Water Tank | Eearth Work | Task | Not Started | 2026-10-18 | 2026-10-31 |  |  | 0 | 26 |
+| CO-UB-PS-110 | pouring  P.C Conceret  for Water Pump station building | SubStructure | Task | Not Started | 2026-07-19 | 2026-07-20 |  |  | 0 | 0 |
+| CO-UB-PS-120 | Formwork for Foundation for Water Pump station building | SubStructure | Task | Not Started | 2026-07-21 | 2026-07-28 |  |  | 0 | 0 |
+| CO-UB-PS-130 | Steel fixing for Foundation for Water Pump station building | SubStructure | Task | Not Started | 2026-07-29 | 2026-08-04 |  |  | 0 | 0 |
+| CO-UB-PS-140 | pouring  for Foundation for Water Pump station building | SubStructure | Task | Not Started | 2026-08-05 | 2026-08-05 |  |  | 0 | 0 |
+| CO-UB-PS-150 | curing and deshuttering formwork Pump station building | SubStructure | Task | Not Started | 2026-08-06 | 2026-08-13 |  |  | 0 | 0 |
+| CO-UB-PS-170 | Formwork for  Wall and columns for Water Pump station building | Super structure | Task | Not Started | 2026-08-19 | 2026-08-24 |  |  | 0 | 0 |
+| CO-UB-PS-180 | Steel fixing  for  Wall columns | Super structure | Task | Not Started | 2026-08-25 | 2026-08-29 |  |  | 0 | 0 |
+| CO-UB-PS-190 | pouring for  Wall columns | Super structure | Task | Not Started | 2026-08-30 | 2026-08-30 |  |  | 0 | 0 |
+| CO-UB-PS-200 | curing and deshuttering formwork for  Wall columns | Super structure | Task | Not Started | 2026-08-31 | 2026-09-07 |  |  | 0 | 0 |
+| CO-UB-PS-210 | Waterproofing for Walls columns | Super structure | Task | Not Started | 2026-09-08 | 2026-09-09 |  |  | 0 | 0 |
+| CO-UB-PS-220 | Formwork  for pump roof | Super structure | Task | Not Started | 2026-09-10 | 2026-09-14 |  |  | 0 | 0 |
+| CO-UB-PS-160 | Backfilling and compaction work for pump station | SubStructure | Task | Not Started | 2026-08-15 | 2026-08-18 |  |  | 0 | 0 |
+| CO-UB-PS-230 | Steel fixing  for pump roof | Super structure | Task | Not Started | 2026-09-15 | 2026-09-19 |  |  | 0 | 0 |
+| CO-UB-PS-240 | pouring for pump roof | Super structure | Task | Not Started | 2026-09-20 | 2026-09-21 |  |  | 0 | 0 |
+| CO-UB-PS-250 | curing and deshuttering formwork for pump roof | Super structure | Task | Not Started | 2026-09-22 | 2026-09-30 |  |  | 0 | 0 |
+| CO-UB-PS-260 | Executing Masonry Works for Water Pump station building | Architectural work | Task | Not Started | 2026-10-01 | 2026-10-08 |  |  | 0 | 0 |
+| CO-UB-PS-270 | Executing Plastering  Works for  Pump station building | Architectural work | Task | Not Started | 2026-10-10 | 2026-10-17 |  |  | 0 | 0 |
+| CO-UB-PS-280 | Executing Painting and Finishes Works for  Pump station building | Architectural work | Task | Not Started | 2026-10-18 | 2026-10-26 |  |  | 0 | 0 |
+| CO-UB-PS-320 | Doors and windows Fixing &Stair Tiles | Architectural work | Task | Not Started | 2026-10-27 | 2026-11-04 |  |  | 0 | 0 |
+| CO-UB-PS-340 | Executing HVAC System for Water Pump station building | Mechanical work | Task | Not Started | 2026-12-31 | 2027-01-11 |  |  | 0 | 0 |
+| CO-UB-PS-360 | Executing Fire fighting institution works(piping and wire installation) for Water Pump station building | Mechanical work | Task | Not Started | 2027-01-12 | 2027-01-23 |  |  | 0 | 0 |
+| CO-UB-PS-380 | Executing Plummbing works for Water Pump station building | Mechanical work | Task | Not Started | 2027-01-24 | 2027-02-03 |  |  | 0 | 0 |
+| CO-UB-LS-220 | Excavation Work for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-10-27 | 2026-11-05 |  |  | 0 | 4 |
+| CO-UB-LS-230 | pouring  P.C Conceret for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-11-07 | 2026-11-08 |  |  | 0 | 4 |
+| CO-UB-LS-240 | Formwork for Foundation for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-11-09 | 2026-11-22 |  |  | 0 | 4 |
+| CO-UB-LS-250 | Steel fixing for Foundation for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-11-23 | 2026-12-03 |  |  | 0 | 4 |
+| CO-UB-LS-260 | pouring  for Foundationfor Sewage Lift Station | Sup Structure | Task | Not Started | 2026-12-05 | 2026-12-06 |  |  | 0 | 4 |
+| CO-UB-LS-270 | curing and deshuttering formwork  for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-12-07 | 2026-12-14 |  |  | 0 | 4 |
+| CO-UB-LS-290 | Formwork for Wall and columns for Sewage Lift Station | Super structure | Task | Not Started | 2026-12-22 | 2027-01-02 |  |  | 0 | 4 |
+| CO-UB-LS-300 | Steel fixing  for  Wall columns | Super structure | Task | Not Started | 2027-01-03 | 2027-01-12 |  |  | 0 | 4 |
+| CO-UB-LS-310 | pouring for  Wall columns | Super structure | Task | Not Started | 2027-01-13 | 2027-01-13 |  |  | 0 | 4 |
+| CO-UB-LS-320 | curing and deshuttering formwork for  Wall columns | Super structure | Task | Not Started | 2027-01-14 | 2027-01-21 |  |  | 0 | 4 |
+| CO-UB-LS-330 | Waterproofing for Walls columns | Super structure | Task | Not Started | 2027-01-23 | 2027-01-26 |  |  | 0 | 4 |
+| CO-UB-LS-340 | Formwork  for pump roof | Super structure | Task | Not Started | 2027-01-27 | 2027-02-02 |  |  | 0 | 4 |
+| CO-UB-LS-280 | Backfilling and compaction work for Sewage Lift Station | Sup Structure | Task | Not Started | 2026-12-15 | 2026-12-21 |  |  | 0 | 4 |
+| CO-UB-LS-350 | Steel fixing  for pump roof | Super structure | Task | Not Started | 2027-02-03 | 2027-02-09 |  |  | 0 | 4 |
+| CO-UB-LS-360 | pouring for pump roof | Super structure | Task | Not Started | 2027-02-10 | 2027-02-10 |  |  | 0 | 4 |
+| CO-UB-LS-370 | curing and deshuttering formwork for pump roof | Super structure | Task | Not Started | 2027-02-11 | 2027-02-24 |  |  | 0 | 4 |
+| CO-UB-LS-390 | Executing Plastering and Finishes Works for Sewage Lift Station | Architectural work | Task | Not Started | 2027-02-25 | 2027-02-28 |  |  | 0 | 4 |
+| CO-UB-PWT-110 | Soil replacement Up to tank formation level for Potable Water Tank | Eearth Work | Task | Not Started | 2026-11-01 | 2026-11-11 |  |  | 0 | 26 |
+| CO-UB-PWT-120 | Plain Concrete works for Potable Water Tank | Structural Work | Task | Not Started | 2026-11-12 | 2026-11-19 |  |  | 0 | 26 |
+| CO-UB-PWT-130 | Form work for Tank Foundation for Potable Water Tank | Structural Work | Task | Not Started | 2026-11-21 | 2026-12-03 |  |  | 0 | 26 |
+| CO-UB-PWT-140 | Steel Reinforcement work for Tank Foundation for Potable Water Tank | Structural Work | Task | Not Started | 2026-12-05 | 2026-12-17 |  |  | 0 | 26 |
+| CO-UB-PWT-150 | Casting concrete  for Tank Foundation for Potable Water Tank | Structural Work | Task | Not Started | 2026-12-19 | 2026-12-29 |  |  | 0 | 26 |
+| CO-UB-PWT-170 | shell erection for Potable Water Tank | Tank Shell Erection&Roof Installation | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | 26 |
+| CO-UB-IRT-140 | Excavation work for tank foundation tank formation level for Irrigation Tank | Eearth Work | Task | Not Started | 2026-11-01 | 2026-11-14 |  |  | 0 | 27 |
+| CO-UB-IRT-150 | Soil replacement Up to tank formation level for Irrigation Tank | Eearth Work | Task | Not Started | 2026-11-15 | 2026-11-25 |  |  | 0 | 27 |
+| CO-UB-IRT-160 | Plain Concrete works for Irrigation Tank | Structural Work | Task | Not Started | 2026-11-26 | 2026-11-29 |  |  | 0 | 27 |
+| CO-UB-IRT-170 | Form work for Tank Foundation for Irrigation Tank | Structural Work | Task | Not Started | 2026-11-30 | 2026-12-10 |  |  | 0 | 27 |
+| CO-UB-IRT-180 | Steel Reinforcement work for Tank Foundation for Irrigation Tank | Structural Work | Task | Not Started | 2026-12-12 | 2026-12-23 |  |  | 0 | 27 |
+| CO-UB-IRT-190 | Casting concrete  for Tank Foundation for Irrigation Tank | Structural Work | Task | Not Started | 2026-12-24 | 2026-12-28 |  |  | 0 | 27 |
+| CO-UB-IRT-210 | shell erection for Irrigation Tank | Tank Shell Erection&Roof Installation | Task | Not Started | 2026-12-29 | 2027-01-13 |  |  | 0 | 27 |
+| CO-UB-CR-100 | Excavation Work For Control Room Foundation | Civil Work | Task | Not Started | 2026-08-24 | 2026-08-31 |  |  | 0 | 7 |
+| CO-UB-CR-110 | Pouring for Plain Concrete | Civil Work | Task | Not Started | 2026-09-01 | 2026-09-06 |  |  | 0 | 7 |
+| CO-UB-CR-120 | Pouring R.C Footing For Control Room | Civil Work | Task | Not Started | 2026-09-07 | 2026-10-01 |  |  | 0 | 7 |
+| CO-UB-CR-130 | Pouring R.C Columns For Control Room | Civil Work | Task | Not Started | 2026-10-03 | 2026-10-15 |  |  | 0 | 7 |
+| CO-UB-CR-140 | Pouring Beams and Slab  For Control Room | Civil Work | Task | Not Started | 2026-10-17 | 2026-10-27 |  |  | 0 | 7 |
+| CO-UB-CR-150 | Brick Work For Control Room | Architictural work | Task | Not Started | 2026-11-05 | 2026-11-16 |  |  | 0 | 0 |
+| CO-UB-CR-160 | Thermal & Moisture Protection Work for Control Room | Architictural work | Task | Not Started | 2026-11-17 | 2026-11-24 |  |  | 0 | 0 |
+| CO-UB-CR-200 | Install For Curtian Wall and Windows and Doors | Architictural work | Task | Not Started | 2026-11-25 | 2026-12-02 |  |  | 0 | 0 |
+| CO-UB-CR-240 | External Finshing Work (Walls and Floor) | Architictural work | Task | Not Started | 2026-12-03 | 2026-12-12 |  |  | 0 | 0 |
+| CO-UB-CR-250 | Internal Finshing Work (Walls,Floor and Ceiling) | Architictural work | Task | Not Started | 2026-12-13 | 2026-12-23 |  |  | 0 | 0 |
+| CO-UB-CR-360 | Office Chairs,Tables and Stand | Furnitures work | Task | Not Started | 2027-02-17 | 2027-02-23 |  |  | 0 | 0 |
+| CO-UB-CR-260 | Install of Mini split actual and Ducted split | HVAC System | Task | Not Started | 2026-12-24 | 2027-01-16 |  |  | 0 | 7 |
+| CO-UB-CR-170 | Install of Refrigerant Piping ( fabricated metal ducts with flanges complete with supports, vanes, dampers ) | HVAC System | Task | Not Started | 2026-11-17 | 2026-12-10 |  |  | 0 | 1 |
+| CO-UB-CR-310 | Install of Air Grills 150mm x150mm and Air Diffuser 600mm x 600mm | HVAC System | Task | Not Started | 2027-01-17 | 2027-02-08 |  |  | 0 | 7 |
+| CO-UB-CR-180 | Installation & Testing of 2 hours Fire rated system for closing the openings between rooms with help of Rock wool | Fire Fitting System | Task | Not Started | 2026-12-12 | 2026-12-22 |  |  | 0 | 1 |
+| CO-UB-CR-270 | Install Fire Extinguishers | Fire Fitting System | Task | Not Started | 2026-12-24 | 2026-12-30 |  |  | 0 | 6 |
+| CO-UB-CR-190 | Install of Distribution board For Control Room | LV Power | Task | Not Started | 2026-12-24 | 2027-01-04 |  |  | 0 | 4 |
+| CO-UB-CR-280 | Install of Socket outlet and LED Lighting | LV Power | Task | Not Started | 2027-01-21 | 2027-02-11 |  |  | 0 | 4 |
+| CO-UB-CR-220 | Install of Earting Cable for Control Room | LV Power | Task | Not Started | 2027-01-05 | 2027-01-20 |  |  | 0 | 4 |
+| CO-UB-CR-300 | Install of Fire Alarm Control panel | Fire Detection And Alarm System | Task | Not Started | 2027-01-21 | 2027-01-27 |  |  | 0 | 0 |
+| CO-UB-CR-320 | Installation of the addressable manual call point with operation safety glass breaking | Fire Detection And Alarm System | Task | Not Started | 2027-01-28 | 2027-01-31 |  |  | 0 | 0 |
+| CO-UB-CR-330 | Install of the photoelectric heat & smoke detector | Fire Detection And Alarm System | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | 0 |
+| CO-UB-CR-340 | Install of Sounder With Beacon | Fire Detection And Alarm System | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | 0 |
+| CO-UB-CR-350 | Install of Addressable Control module | Fire Detection And Alarm System | Task | Not Started | 2027-02-13 | 2027-02-16 |  |  | 0 | 0 |
+| CO-UB-CR-210 | Install of 2C x 1.5 Sqm FR Rated Armored - Cable For Loop Wiring | Fire Detection And Alarm System | Task | Not Started | 2027-01-07 | 2027-01-11 |  |  | 0 | 0 |
+| CO-UB-CR-230 | Install of Transmission Communication cable - Fiber Optics 12Core | Fire Detection And Alarm System | Task | Not Started | 2027-01-12 | 2027-01-16 |  |  | 0 | 0 |
+| CO-UB-CR-290 | Install of power supply system for fire alarm control panel | Fire Detection And Alarm System | Task | Not Started | 2027-01-17 | 2027-01-20 |  |  | 0 | 0 |
+| CO-UB-PS-390 | Installation of pumps | Mechanical work | Task | Not Started | 2027-02-04 | 2027-02-10 |  |  | 0 | 0 |
+| CO-UB-CR-370 | Install of Sanitary Wares Including Relevant Pipes and Fittings | Plumbing System | Task | Not Started | 2026-12-24 | 2027-01-06 |  |  | 0 | 0 |
+| T/C-CTV20 | Testing and Commissioning of Softscape And Planting | Utility Buildings | Task | Not Started | 2027-02-04 | 2027-02-22 |  |  | 0 | 9 |
+| CO-EW-210_R | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-01(Remaining) | Earthworks | Task | Not Started | 2026-06-28 | 2026-07-20 |  |  | 0 | 4 |
+| CO-EW-250_R | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 1 - 1(Remaining) | Earthworks | Task | Not Started | 2026-08-18 | 2026-08-26 |  |  | 0 | 32 |
+| CO-EW-260_R | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 2(Remaining) | Earthworks | Task | Not Started | 2026-09-21 | 2026-10-15 |  |  | 0 | 34 |
+| CO-EW-270_R | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 3(Remaining) | Earthworks | Task | Not Started | 2026-10-17 | 2026-11-09 |  |  | 0 | 34 |
+| CO-EW-280_R | Excavation and Backfilling Works Upto Design Level for Earthworks for External Road - 1 - 2(Remaining) | Earthworks | Task | Not Started | 2026-08-27 | 2026-09-20 |  |  | 0 | 34 |
+| CO-EW-210_R01 | Excavation and Backfilling Works Upto Design Level for Earthworks for Alignment-RD-01(Remaining)-part1 | Earthworks | Task | Not Started | 2026-08-25 | 2026-09-16 |  |  | 0 | 37 |
