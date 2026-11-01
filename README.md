@@ -80,35 +80,35 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
-| 2026-11-01 08:25 | elgarhyrabiey | 20 | 4-Weekly update/W4 | DAM3-05-012-Dammam 3rd Industrial City Gates and Fence -Update DD27-Oct-2026 - WBS.pdf |
-| 2026-11-01 08:25 | elgarhyrabiey | 20 | 4-Weekly update/W4 | DAM3-05-012-Dammam 3rd Industrial City Gates and Fence -Update DD27-Oct-2026.pdf |
-| 2026-11-01 08:25 | elgarhyrabiey | 20 | 4-Weekly update/W4 | DAM3-05-012-Dammam 3rd Industrial City Gates and Fence -Update DD27-Oct-2026.xer |
-| 2026-11-01 08:25 | elgarhyrabiey | 20 | 4-Weekly update/W4 | DAM3-05-012-Dammam 3rd Industrial City Gates and Fence 27-Oct-2026.xlsx |
-| 2026-11-01 08:24 | elgarhyrabiey | 20 | 3-Baseline | DAM3-05-012-Dammam 3rd Industrial City Gates and Fence -BL.xer |
-| 2026-11-01 08:23 | elgarhyrabiey | 23 | 4-Weekly update/W4 | WAS1-05-006 -Improvement of Waad Al Shamal Industrial City Fence & Gates-DD26-10-2026 - Two Week Look Ahead.pdf |
-| 2026-11-01 08:23 | elgarhyrabiey | 23 | 4-Weekly update/W4 | WAS1-05-006 -Improvement of Waad Al Shamal Industrial City Fence & Gates-DD26-10-2026.pdf |
-| 2026-11-01 08:23 | elgarhyrabiey | 23 | 4-Weekly update/W4 | WAS1-05-006 -Improvement of Waad Al Shamal Industrial City Fence & Gates-DD26-10-2026.xer |
-| 2026-11-01 08:23 | elgarhyrabiey | 23 | 4-Weekly update/W4 | WAS1-05-006.xlsx |
-| 2026-11-01 08:22 | elgarhyrabiey | 23 | 3-Baseline | WAS1-05-006 -BL (11).xer |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 00. MLTX-02-005-PRO-WPR-26-26-10-2026.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 02.MLTX-02-005 Rev UPS 26.10.2026.xer |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 03.MLTX-02-005-Updated schedule  26-10-2026.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 04.MLTX-02-005-2 weeks look ahead 26-10-2026.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 05.MLTX-02-005-WBS summary- 26-10-2026.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 06.MLTX-02-005-Remaining work 26-10-2026.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 07. MLTX02-005-PRO-WPR-26-26-10-2026 Executive Summary.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 07. MLTX02-005-PRO-WPR-26-26-10-2026 Executive Summary.pptx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 08. MLTX-02-005-PRO-WPR-26 -26-10-2026 Progress Report.pdf |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 09. MLTX-02-005-PRO-WPR-26-19-10-2026 Failed Start List.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 10. MLTX-02-005-PRO-WPR-26-26-10-2026 Tracking Progress.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 13. MLTX-02-005-PRO-WPR-26-26-10-2026  Look Ahead.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 14. MLTX-02-005-PRO-WPR-26-26-10-2026 Procurement Log.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 15. MLTX02-005-PRO-WPR-26-26-10-2026 الأعمال المنفذة ونسب الإنجاز.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | 16. MLTX02-005-PRO-WPR-26-26-10-2026 الأعمال المنفذه خلال الإسبوع.xlsx |
-| 2026-11-01 08:21 | elgarhyrabiey | 22 | 4-Weekly update/W4 | ملف التوريدات - مشروع انشاء ملاعب بالمنطقة الشرقية ( عرعر- واحة الاحساء - الدمام 2 ) 26-10-2026.xlsx |
-| 2026-11-01 08:19 | elgarhyrabiey | 22 | 3-Baseline | 01.MLTX-02-005-Rev 05.xer |
-| 2026-11-01 08:18 | elgarhyrabiey | 13 | 4-Weekly update/W4 | 00.DHRT-01-001-WPR-36 - 26-10-2026.xlsx |
-| 2026-11-01 08:18 | elgarhyrabiey | 13 | 4-Weekly update/W4 | 05.DHRT-01-001-UPS WBS Summary .pdf |
-| 2026-11-01 08:18 | elgarhyrabiey | 13 | 4-Weekly update/W4 | 05.DHRT-01-001-UPS WBS Summary level 5.pdf |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | 05 - Procurement/05- Procurement Tracker/Vendor list 2-2-2026.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | 05 - Procurement/RHD4-02-002-MTS_20262207 - TRUE (5).xlsm |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | 05 - Procurement/~$RHD4-02-002-MTS_20262207 - TRUE.xlsm |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | ABC work for RD_A_1.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | ABC work for RD_C_1.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | Asphalt work for RD_C_1.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | MC1 Spray - RD-C-1.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | RHD4- WPR#15 2026-09-28.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | RHD4-02-002-Rev.07 28-9-2026.zip |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | RHD4-02-002-Weekly Presentation_28-09-2026 F.pptx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | Ric work for BL- 5.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | WhatsApp Image 2026-09-29 at 9.21.30 AM.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W01 - 01-Oct-2026 | back filling & Levelling works for BL-Z3.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W02 - 08-Oct-2026 | RHD4- WPR#15 2026-10-12.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 00 - Main Report Excel/RHD4- WPR#15 2026-10-19.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 00 - Main Report Excel/~$RHD4- WPR#15 2026-08-31.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 00 - Main Report Excel/~$RHD4- WPR#15 2026-09-14.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 00 - Main Report Excel/~$RHD4- WPR#15 2026-09-28.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/ABC WORK FOR RD-A-1 - Z05.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/ABC work for RD_A_1 - Z04.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/Asphalt work for RD_ A_1 - Z05.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/RIC work for BL_23 - Z07.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/Spray MC1 - RD-A-1 - Z05.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/WhatsApp Image 2026-10-20 at 10.42.36 PM.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 02- Photo - 20261019/back filling works for BL-23 - Z09.jpeg |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 05 - Procurement/05- Procurement Tracker/Vendor list 2-2-2026.xlsx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 05 - Procurement/RHD4-02-002-MTS-20261015.xlsm |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 05 - Procurement/~$RHD4-02-002-MTS_20262207 - TRUE.xlsm |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 07- Meeting Presentation - 20261019/RHD4-02-002-Weekly Presentation_19-10-2026 F.pptx |
+| 2026-11-01 08:27 | Claude | 01 | 4-Weekly update/W03 - 15-Oct-2026 | 07- Meeting Presentation - 20261019/~$11-RHD4-02-002-Weekly Presentation_2-03-2026.pptx |
 
 <!-- tracker:end -->
