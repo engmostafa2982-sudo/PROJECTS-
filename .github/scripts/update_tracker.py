@@ -6,7 +6,7 @@ import subprocess
 from pathlib import Path
 from urllib.parse import quote
 
-from weeks import COUNT, WEEKS, label
+from weeks import COUNT, folder_name, label
 
 ROOT = Path(__file__).resolve().parents[2]
 README = ROOT / "README.md"
@@ -72,7 +72,9 @@ def recent_uploads():
 
 def build():
     projects = sorted(p for p in ROOT.glob("[0-9][0-9]-*") if p.is_dir())
-    head = ["#", "Project / المشروع"] + [name for name, _ in FOLDERS] + [label(n) for n in range(1, COUNT + 1)]
+    first = 0 if any((p / "4-Weekly update" / folder_name(0)).is_dir() for p in projects) else 1
+    nums = range(first, COUNT + 1)
+    head = ["#", "Project / المشروع"] + [name for name, _ in FOLDERS] + [label(n) for n in nums]
     out = [START, "",
            "## Upload tracker / متابعة الرفع",
            "",
@@ -81,7 +83,7 @@ def build():
            "| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
     total = filled = 0
     for p in projects:
-        cells = [cell(p / d) for _, d in FOLDERS] + [cell(p / "4-Weekly update" / w) for w in WEEKS]
+        cells = [cell(p / d) for _, d in FOLDERS] + [cell(p / "4-Weekly update" / folder_name(n)) for n in nums]
         total += len(cells)
         filled += sum("✅" in c for c in cells)
         out.append(f"| {p.name[:2]} | [{project_name(p)}]({quote(p.name)}/) | " + " | ".join(cells) + " |")
@@ -89,11 +91,11 @@ def build():
     out += ["", "### Generated reports / التقارير المُنشأة", "",
             "_✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. "
             "⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._", ""]
-    head = ["#", "Project / المشروع"] + [label(n) for n in range(1, COUNT + 1)]
+    head = ["#", "Project / المشروع"] + [label(n) for n in nums]
     out += ["| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
     done = due = 0
     for p in projects:
-        cells = [report_cell(p / "4-Weekly update" / w) for w in WEEKS]
+        cells = [report_cell(p / "4-Weekly update" / folder_name(n)) for n in nums]
         due += sum(c != "–" for c in cells)
         done += sum("✅ HTML ✅ PDF ✅ Email" in c for c in cells)
         out.append(f"| {p.name[:2]} | [{project_name(p)}]({quote(p.name)}/) | " + " | ".join(cells) + " |")

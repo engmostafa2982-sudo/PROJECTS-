@@ -2,6 +2,7 @@
 
 Week folders are named by the Thursday each week starts on, from the first Thursday of October 2026:
 "W01 - 01-Oct-2026", "W02 - 08-Oct-2026", ... The zero-padded number keeps them in order.
+Reports dated before 01-Oct-2026 go in "W00 - 24-Sep-2026", which exists only in projects that need it.
 
 Run as a script, it:
   - creates any missing week folders (with All Files, MD Files and Generated Report),
@@ -35,6 +36,11 @@ def label(n):
 
 
 WEEKS = [folder_name(n) for n in range(1, COUNT + 1)]
+
+
+def week_of(day):
+    """Week number a report dated `day` belongs to (0 for the week before W01)."""
+    return (day - FIRST_THURSDAY).days // 7 + 1
 
 
 def merge(src, dst):
