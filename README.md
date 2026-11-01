@@ -8,7 +8,7 @@ Weekly progress reports follow one standard for all projects: see [_report-stand
 
 ## Upload tracker / متابعة الرفع
 
-**74 of 325 folders have uploads.**
+**75 of 325 folders have uploads.**
 
 _Updated automatically after every upload. ✅ n = number of files in **All Files**, ⬜ = nothing uploaded yet. Click a cell to open the folder._
 
@@ -19,7 +19,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | [✅ 1](03-kharj-industrial-city-infrastructure-networks/1-BOQ/All%20Files) | [✅ 2](03-kharj-industrial-city-infrastructure-networks/2-Project%20Drawing/All%20Files) | [✅ 1](03-kharj-industrial-city-infrastructure-networks/3-Baseline/All%20Files) | [✅ 2](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W1/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W2/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W3/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W4/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W5/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W6/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W7/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W8/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W9/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W10/All%20Files) |
 | 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/1-BOQ/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/2-Project%20Drawing/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/3-Baseline/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W1/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W2/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W4/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W5/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W6/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W7/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W8/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W9/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W10/All%20Files) |
 | 05 | [تطوير شبكات البنية التحتية للمدينة الصناعية الثالثة بالدمام المرحلة الثانية الجزء الثاني - المنطقة J](05-dammam-3rd-industrial-city-phase2-part2-zone-j/) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/1-BOQ/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/2-Project%20Drawing/All%20Files) | [✅ 1](05-dammam-3rd-industrial-city-phase2-part2-zone-j/3-Baseline/All%20Files) | [✅ 12](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W1/All%20Files) | [✅ 18](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W2/All%20Files) | [✅ 19](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W3/All%20Files) | [✅ 20](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W4/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W5/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W6/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W7/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W8/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W9/All%20Files) | [⬜](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W10/All%20Files) |
-| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/1-BOQ/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/2-Project%20Drawing/All%20Files) | [✅ 1](06-dammam-2nd-industrial-city-logistics-zone-1km2/3-Baseline/All%20Files) | [✅ 2](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W1/All%20Files) | [✅ 2](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W2/All%20Files) | [✅ 8](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W4/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W5/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W6/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W7/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W8/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W9/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W10/All%20Files) |
+| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/1-BOQ/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/2-Project%20Drawing/All%20Files) | [✅ 1](06-dammam-2nd-industrial-city-logistics-zone-1km2/3-Baseline/All%20Files) | [✅ 2](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W1/All%20Files) | [✅ 2](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W2/All%20Files) | [✅ 8](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/All%20Files) | [✅ 31](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W4/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W5/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W6/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W7/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W8/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W9/All%20Files) | [⬜](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W10/All%20Files) |
 | 07 | [تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة](07-sudair-industrial-city-infrastructure-phase3/) | [⬜](07-sudair-industrial-city-infrastructure-phase3/1-BOQ/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/2-Project%20Drawing/All%20Files) | [✅ 1](07-sudair-industrial-city-infrastructure-phase3/3-Baseline/All%20Files) | [✅ 5](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W1/All%20Files) | [✅ 5](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W2/All%20Files) | [✅ 5](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W3/All%20Files) | [✅ 6](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W4/All%20Files) | [✅ 5](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W5/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W6/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W7/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W8/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W9/All%20Files) | [⬜](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W10/All%20Files) |
 | 08 | [تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x](08-jeddah-1st-industrial-city-infrastructure-1km2-x/) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/1-BOQ/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/2-Project%20Drawing/All%20Files) | [✅ 1](08-jeddah-1st-industrial-city-infrastructure-1km2-x/3-Baseline/All%20Files) | [✅ 9](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W1/All%20Files) | [✅ 9](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W2/All%20Files) | [✅ 9](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W3/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W4/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W5/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W6/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W7/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W8/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W9/All%20Files) | [⬜](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W10/All%20Files) |
 | 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | [⬜](09-tabuk-additional-networks-completion/1-BOQ/All%20Files) | [⬜](09-tabuk-additional-networks-completion/2-Project%20Drawing/All%20Files) | [✅ 1](09-tabuk-additional-networks-completion/3-Baseline/All%20Files) | [✅ 7](09-tabuk-additional-networks-completion/4-Weekly%20update/W1/All%20Files) | [✅ 8](09-tabuk-additional-networks-completion/4-Weekly%20update/W2/All%20Files) | [✅ 8](09-tabuk-additional-networks-completion/4-Weekly%20update/W3/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W4/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W5/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W6/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W7/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W8/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W9/All%20Files) | [⬜](09-tabuk-additional-networks-completion/4-Weekly%20update/W10/All%20Files) |
@@ -42,7 +42,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**15 of 55 uploaded weeks have a generated report.**
+**15 of 56 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -53,7 +53,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W5/Generated%20Report) | – | – | – | – | – |
 | 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 05 | [تطوير شبكات البنية التحتية للمدينة الصناعية الثالثة بالدمام المرحلة الثانية الجزء الثاني - المنطقة J](05-dammam-3rd-industrial-city-phase2-part2-zone-j/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W3/Generated%20Report) | ⏳ | – | – | – | – | – | – |
-| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 06 | [شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام](06-dammam-2nd-industrial-city-logistics-zone-1km2/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W3/Generated%20Report) | ⏳ | – | – | – | – | – | – |
 | 07 | [تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة](07-sudair-industrial-city-infrastructure-phase3/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W4/Generated%20Report) | ⏳ | – | – | – | – | – |
 | 08 | [تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x](08-jeddah-1st-industrial-city-infrastructure-1km2-x/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
@@ -78,35 +78,35 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 00.DAM3-02-007-WPR-94-27-10-2026.xlsx |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 03.DAM3-02-007-UPS Level 5 -27-10-2026.xer |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 048533a3-ad12-41.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 09.DAM3-02-007-Failed Start List 20-10-2026.xlsx |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 11.DAM3-02-007 LOOK AHEAD.xlsx |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 12.DAM3-02-007 ملخص سير الأعمال.xlsx |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 13120975-5227-4b.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 4cf703f7-c021-40d4-83.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 69d79858-b1df-40.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 6ef54b7d-7bee-47b0-9419-ea9bc748f532.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 6fea7b00-1b97-40fd-a011-9ff345b48b26.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 734bdee5-fcae-461c-91fc-04cd451b4de1.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 7691d368-6951-45.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 7f13d727-795d-4fdb-96f9-38874149b076.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | 902b8e61-729b-4cc1-ba8f-e22be3040f66.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | c01d3224-c632-4b.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | d5b8cca9-6b6 (1).jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | d5b8cca9-6b6d-41.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | d674b940-19f0-4b18-9c3b-bb4953035ffe.jfif |
-| 2026-11-01 08:00 | elgarhyrabiey | 05 | 4-Weekly update/W4 | db51a54e-76f6-48.jfif |
-| 2026-11-01 07:57 | elgarhyrabiey | 18 | 4-Weekly update/W4 | SUD1-05-018 WPR 26-10-2026 .pdf |
-| 2026-11-01 07:57 | elgarhyrabiey | 18 | 4-Weekly update/W4 | SUD1-05-018 WPR 26-10-2026 .xlsx |
-| 2026-11-01 07:57 | elgarhyrabiey | 18 | 4-Weekly update/W4 | SUD1-05-018-26-10-2026.xer |
-| 2026-11-01 07:57 | elgarhyrabiey | 18 | 4-Weekly update/W4 | Two Week Look Ahead Plan.pdf |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 02. MLTX-02-003-UPS Level 5 - 2026-10-25.xer |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 03. MLTX-05-047-UPS Level 5 - 2026-10-25.pdf |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 04. MLTX-05-047- 3 WEEKS LOOK AHEAD 2026-10-25.pdf |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 05. MLTX-02-003-UPS WBS Summary 2026-10-25.pdf |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 06. MLTX-05-047 REMAINING WORKS 2026-10-25.pdf |
-| 2026-11-01 07:55 | elgarhyrabiey | 19 | 4-Weekly update/W4 | 07. MLTX-02-003 Weekly Executive Summary  2026-10-25.pptx |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | 02. WPR UPD As Oct. 27, 2026.xer |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | 1. DAM2-02-09-SAJ-TS9-1-WPR 047 Oct. 27, 2026.xlsx |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | Dammam 2_Report_SAJCO Project 27-10-2026 full.pptx |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | Weekly Procurement - update 27-10-2026 (Updated).pptx |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-19 at 8.15.14 AM (3).jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 10.36.03 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 3.29.26 PM (1).jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 3.29.30 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 6.21.01 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 10.32.21 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 10.46.26 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 11.13.41 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 12.57.51 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 9.31.54 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 9.49.37 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 10.14.21 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 4.56.14 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 8.23.59 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 2.28.49 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 7.45.27 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 8.15.45 PM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.49 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.51 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.52 AM (1).jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.52 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.53 AM (1).jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.53 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.55 AM (1).jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.55 AM.jpeg |
+| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.57 AM.jpeg |
 
 <!-- tracker:end -->
