@@ -1,4 +1,4 @@
-<!-- converted-from: Modon Weekly Progress Report Construction Projects.pptx sha256: 6bd4be1039bfd057ebf183a12989164b45d3d489040d0f8e65d981a1945c0fa4 -->
+<!-- converted-from: Modon Weekly Progress Report Construction Projects.pptx sha256: 66d37b2f45a1d9eb558167e50985e518c1b05a534fdb51239e8e3a60de6d94c4 -->
 # Modon Weekly Progress Report Construction Projects.pptx
 
 <!-- Slide number: 1 -->
@@ -158,9 +158,9 @@ Construction Plan Approval : 	Construction Plan approval date from MODON.
 
 <!-- Slide number: 12 -->
 # Weekly Report Areas / Progress
+Provide the project scope statement and WBS deliverable information. Note that you WBS details can be broken to the convenient level as required and agreed with Modon PM. A precaution is required as this is linked to summary dashboard. Avoid deleting WBS-Level 1 rows any number of rows can be added in WBS Level-2 sections. Check with Modon Project controls if further clarity is required.
 
 ![Picture 6](Picture6.jpg)
-Provide the project scope statement and WBS deliverable information. Note that you WBS details can be broken to the convenient level as required and agreed with Modon PM. A precaution is required as this is linked to summary dashboard. Avoid deleting WBS-Level 1 rows any number of rows can be added in WBS Level-2 sections. Check with Modon Project controls if further clarity is required.
 Progress Overview
 WBS:	 		Deliverables as per Modon Work Breakdown Structure (WBS) and WBS dictionary (Same in P6)
 BoQ Value (SAR)		Value of every WBS element so that total value is equal to the current approved value of the current.
@@ -185,7 +185,7 @@ ToDate Earned:		ToDate effort of the deliverables accomplished, derived from sch
 <!-- Slide number: 14 -->
 # Weekly Report Areas / Progress
 
-![Picture 5](Picture5.jpg)
+![Picture 4](Picture4.jpg)
 Progress Overview
 Following Cumulative Curves should be plotted; Value (SAR) in %age against Time for:
 Base line or Original Plan
@@ -197,9 +197,9 @@ Note that the data entry for the curves is in sheet named “EV-Chart Data”. A
 
 <!-- Slide number: 15 -->
 # Weekly Report Areas / Progress
-
-![Picture 3](Picture3.jpg)
 Progress Overview
+
+![Picture 4](Picture4.jpg)
 Note that the data entry for the curves is in sheet named “Physical-Chart Data”. All the four curves should have data from P6.
 Following Cumulative Curves should be plotted; Labor units in %age against Time for:
 Base line or Original Plan Effort (Manhours/Mandays whatever is applicable)
@@ -538,7 +538,7 @@ Identify major quantities to be tracked for the successful completion of project
 <!-- Slide number: 28 -->
 # Weekly Report Areas / Resources
 
-![Picture 5](Picture5.jpg)
+![Picture 3](Picture3.jpg)
 Resources
 Manpower will be tracked per the approved plan to include manual and non-manual and will also monitor the actual average manpower with a forecast till the completion of the project. It will also include the manpower by craft or category (man-hours, man-days, crews, etc.) from approved primavera schedule.
 
@@ -546,7 +546,7 @@ Note that the actual data are not mandays, it will  be average per month.
 
 Equipment will be similar to the manpower. However, it will include in the table how many equipment at site are idle.
 
-![Picture 8](Picture8.jpg)
+![Picture 6](Picture6.jpg)
 
 <!-- Slide number: 29 -->
 # Weekly Report Areas / Schedule Status
