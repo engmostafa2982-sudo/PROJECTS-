@@ -44,14 +44,14 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**37 of 81 uploaded weeks have a generated report.**
+**38 of 81 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
 | # | Project / المشروع | W00<br>24-Sep | W01<br>01-Oct | W02<br>08-Oct | W03<br>15-Oct | W04<br>22-Oct | W05<br>29-Oct | W06<br>05-Nov | W07<br>12-Nov | W08<br>19-Nov | W09<br>26-Nov | W10<br>03-Dec |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | ⏳ | – | ⏳ | [✅ HTML ✅ PDF ✅ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
-| 02 | [تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة](02-jeddah-3rd-industrial-city-infrastructure/) | – | – | – | – | ⏳ | – | – | – | – | – | – |
+| 02 | [تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة](02-jeddah-3rd-industrial-city-infrastructure/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 05 | [تطوير شبكات البنية التحتية للمدينة الصناعية الثالثة بالدمام المرحلة الثانية الجزء الثاني - المنطقة J](05-dammam-3rd-industrial-city-phase2-part2-zone-j/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
