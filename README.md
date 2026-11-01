@@ -8,7 +8,7 @@ Weekly progress reports follow one standard for all projects: see [_report-stand
 
 ## Upload tracker / متابعة الرفع
 
-**75 of 325 folders have uploads.**
+**76 of 325 folders have uploads.**
 
 _Updated automatically after every upload. ✅ n = number of files in **All Files**, ⬜ = nothing uploaded yet. Click a cell to open the folder._
 
@@ -27,7 +27,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | [⬜](11-dammam-3rd-44-ready-built-factories/1-BOQ/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/2-Project%20Drawing/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/3-Baseline/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W1/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W2/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W3/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W4/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W5/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W6/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W7/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W8/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W9/All%20Files) | [⬜](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W10/All%20Files) |
 | 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | [⬜](12-jeddah-oasis-land-development/1-BOQ/All%20Files) | [⬜](12-jeddah-oasis-land-development/2-Project%20Drawing/All%20Files) | [✅ 1](12-jeddah-oasis-land-development/3-Baseline/All%20Files) | [✅ 12](12-jeddah-oasis-land-development/4-Weekly%20update/W1/All%20Files) | [✅ 12](12-jeddah-oasis-land-development/4-Weekly%20update/W2/All%20Files) | [✅ 12](12-jeddah-oasis-land-development/4-Weekly%20update/W3/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W4/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W5/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W6/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W7/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W8/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W9/All%20Files) | [⬜](12-jeddah-oasis-land-development/4-Weekly%20update/W10/All%20Files) |
 | 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | [⬜](13-dhahran-tech-zones-development/1-BOQ/All%20Files) | [⬜](13-dhahran-tech-zones-development/2-Project%20Drawing/All%20Files) | [⬜](13-dhahran-tech-zones-development/3-Baseline/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W1/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W2/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W3/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W4/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W5/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W6/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W7/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W8/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W9/All%20Files) | [⬜](13-dhahran-tech-zones-development/4-Weekly%20update/W10/All%20Files) |
-| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | [⬜](14-dammam-tech-zones-development/1-BOQ/All%20Files) | [⬜](14-dammam-tech-zones-development/2-Project%20Drawing/All%20Files) | [⬜](14-dammam-tech-zones-development/3-Baseline/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W1/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W2/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W3/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W4/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W5/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W6/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W7/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W8/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W9/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W10/All%20Files) |
+| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | [⬜](14-dammam-tech-zones-development/1-BOQ/All%20Files) | [⬜](14-dammam-tech-zones-development/2-Project%20Drawing/All%20Files) | [⬜](14-dammam-tech-zones-development/3-Baseline/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W1/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W2/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W3/All%20Files) | [✅ 29](14-dammam-tech-zones-development/4-Weekly%20update/W4/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W5/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W6/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W7/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W8/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W9/All%20Files) | [⬜](14-dammam-tech-zones-development/4-Weekly%20update/W10/All%20Files) |
 | 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | [⬜](15-hail-ready-factories-package3-20-factories/1-BOQ/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/2-Project%20Drawing/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/3-Baseline/All%20Files) | [✅ 4](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W1/All%20Files) | [✅ 4](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W2/All%20Files) | [✅ 4](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W3/All%20Files) | [✅ 4](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W4/All%20Files) | [✅ 4](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W5/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W6/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W7/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W8/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W9/All%20Files) | [⬜](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W10/All%20Files) |
 | 16 | [استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة](16-makkah-2nd-industrial-city-networks-completion/) | [⬜](16-makkah-2nd-industrial-city-networks-completion/1-BOQ/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/2-Project%20Drawing/All%20Files) | [✅ 1](16-makkah-2nd-industrial-city-networks-completion/3-Baseline/All%20Files) | [✅ 6](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W1/All%20Files) | [✅ 6](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W2/All%20Files) | [✅ 6](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W3/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W4/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W5/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W6/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W7/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W8/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W9/All%20Files) | [⬜](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W10/All%20Files) |
 | 17 | [تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)](17-makkah-2nd-industrial-city-akishiya-roads/) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/1-BOQ/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/2-Project%20Drawing/All%20Files) | [✅ 1](17-makkah-2nd-industrial-city-akishiya-roads/3-Baseline/All%20Files) | [✅ 6](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W1/All%20Files) | [✅ 6](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W2/All%20Files) | [✅ 6](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W3/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W4/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W5/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W6/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W7/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W8/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W9/All%20Files) | [⬜](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W10/All%20Files) |
@@ -42,7 +42,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**15 of 56 uploaded weeks have a generated report.**
+**15 of 57 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -61,7 +61,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | – | – | – | – | – | – | – | – | – | – |
 | 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | – | – | – | – | – | – |
-| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | – | – | – | – | – | – | – |
+| 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | ⏳ | – | – | – | – | – | – |
 | 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W4/Generated%20Report) | ⏳ | – | – | – | – | – |
 | 16 | [استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة](16-makkah-2nd-industrial-city-networks-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
 | 17 | [تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)](17-makkah-2nd-industrial-city-akishiya-roads/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
@@ -78,35 +78,35 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 01.DAMT-01-002-WPR-38-27-10-2026.xlsx |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 04.DAMT-01-002-UPS LOOK AHEAD SCHEDULE 20-10-2026.pdf |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 09.DAMT-01-002-Failed Start List 27-10-2026.xlsx |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 10ade4cc-151d-4edc-931f-ea017a4ce955.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 11143856-93f2-400b-bbd4-7a9e8b64aeb5.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 17c0f367-5cb3-43e6-9556-4166425cbba3.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 1955393e-214c-46c6-9ec2-0f90badcafee.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 213eba24-2481-4387-b3f4-d38954db988c.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 23ef9148-d938-4b63-a2bb-8ae0e58cfd97.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 2d949e1c-1840-4a7e-b9c6-897f8.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 3ffe945a-da39-40da-85af-87d37cde6129.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 441c75bc-50d8-4a9d-865e-6bb8bdd3980f.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 49be59e4-be70-4975-8f60-cff98f8c8df1.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 51f8cbfa-cf10-4c0f-90d6-23c34850e336.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 62b1ebb1-5ed5-45ad-9509-b5e6c0c4ad41.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 70408be9-b03a-41d3-b2a5-d1ecacf7895e.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 7fd3a1ab-4247-40d2-8470-b3f42929e871.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 88ca8d2d-90cc-4de7-ad5f-e3bde85de92d.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 8d0c584a-0ed9-4f8a-8531-1de6af2f707f.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 8e2588c5-fcd6-40a5-b24f-4c6b7a799256.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | 8e2a1e7c-c2ba-4f9f-a418-6cd03e9e46d8.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | MOD3-3147-BL0-R0-6UPDATE 27-10-2026.xer |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | Procurment_Tracker_DAMT-01-002_Update_27-10-2026.xlsx |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | a004946d-d1ba-4247-89ec-326f237243a5.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | a914366e-28df-4ec0-9142-0c86804cc9c4.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | e4737b22-7a72-40eb-86b7-93122fc9f39c.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | e6101546-0acc-42f0-b7ff-b263649ae82f.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | f4fbbd71-801c-462e-976d-895f038fb001.jfif |
+| 2026-11-01 08:06 | elgarhyrabiey | 14 | 4-Weekly update/W4 | fec67575-c111-4ef0-9167-6329eec4482c.jfif |
 | 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | 02. WPR UPD As Oct. 27, 2026.xer |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | 1. DAM2-02-09-SAJ-TS9-1-WPR 047 Oct. 27, 2026.xlsx |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | Dammam 2_Report_SAJCO Project 27-10-2026 full.pptx |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | Weekly Procurement - update 27-10-2026 (Updated).pptx |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-19 at 8.15.14 AM (3).jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 10.36.03 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 3.29.26 PM (1).jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 3.29.30 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-21 at 6.21.01 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 10.32.21 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 10.46.26 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 11.13.41 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 12.57.51 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 9.31.54 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-22 at 9.49.37 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 10.14.21 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 4.56.14 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-24 at 8.23.59 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 2.28.49 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 7.45.27 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-25 at 8.15.45 PM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.49 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.51 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.52 AM (1).jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.52 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.53 AM (1).jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.53 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.55 AM (1).jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.55 AM.jpeg |
-| 2026-11-01 08:02 | elgarhyrabiey | 06 | 4-Weekly update/W4 | WhatsApp Image 2026-10-27 at 8.12.57 AM.jpeg |
 
 <!-- tracker:end -->
