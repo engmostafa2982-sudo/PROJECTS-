@@ -1,8 +1,9 @@
 """Weekly folder names, and a tidy-up that keeps uploads in the right place.
 
-Week folders are named by the Thursday each week starts on, from the first Thursday of October 2026:
+Week folders are named by the Thursday each week ends on, from the first Thursday of October 2026:
 "W01 - 01-Oct-2026", "W02 - 08-Oct-2026", ... The zero-padded number keeps them in order.
-Reports dated before 01-Oct-2026 go in "W00 - 24-Sep-2026", which exists only in projects that need it.
+A report dated after one Thursday, up to and including the next, goes in the next Thursday's folder:
+anything from 23-Oct to 29-Oct-2026 goes in "W05 - 29-Oct-2026".
 
 Run as a script, it:
   - creates any missing week folders (with All Files, MD Files and Generated Report),
@@ -43,8 +44,8 @@ WEEKS = [folder_name(n) for n in range(1, COUNT + 1)]
 
 
 def week_of(day):
-    """Week number a report dated `day` belongs to (0 for the week before W01)."""
-    return (day - FIRST_THURSDAY).days // 7 + 1
+    """Week number a report dated `day` belongs to: the first Thursday on or after that day."""
+    return -(-(day - FIRST_THURSDAY).days // 7) + 1
 
 
 MONTHS = {m: i for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
@@ -128,7 +129,8 @@ def tidy():
             for f in sorted(p for p in week.iterdir() if p.is_file() and p.name != "README.md"):
                 shutil.move(str(f), str(week / "All Files" / f.name))
                 print(f"moved into All Files: {f.relative_to(ROOT)}")
-        for week in sorted(p for p in weekly.iterdir() if p.is_dir() and NEW_NAME.match(p.name)):
+        # Latest week first, so a week can move into the folder the week after it has just left.
+        for week in sorted((p for p in weekly.iterdir() if p.is_dir() and NEW_NAME.match(p.name)), reverse=True):
             if not has_files(week / "All Files"):
                 continue
             day = report_date(week)
@@ -149,6 +151,9 @@ def tidy():
                     if not (target / sub / "README.md").exists():
                         (target / sub / "README.md").write_text(f"# {sub}\n", encoding="utf-8")
             print(f"moved to the week of its report date {day:%d-%b-%Y}: {week.relative_to(ROOT)} -> {target.name}")
+        early = weekly / folder_name(0)   # no longer used: reports before 01-Oct-2026 go in W01
+        if early.is_dir() and not any(has_files(early / sub) for sub in SUBS):
+            shutil.rmtree(early)
 
 
 if __name__ == "__main__":

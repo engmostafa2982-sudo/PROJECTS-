@@ -1,22 +1,22 @@
-<!-- converted-from: Updated Schedule.xer sha256: 2d6ef7e49f9c252219b12c06c99fcde54370f28bdce14e4e649ff9c194abeca9 -->
+<!-- converted-from: Updated Schedule.xer sha256: c9cbd6c2e0fa9b5f97703f5d46dfe2758d7cfa099ebc750dcf21fef50ece5d22 -->
 # Updated Schedule.xer
 
 ## Project: ICKM01-13.Sep.2026-2
 
 | Field | Value |
 |---|---|
-| Data date | 2026-10-10 |
+| Data date | 2026-10-03 |
 | Planned start | 2025-12-03 |
-| Scheduled finish | 2027-11-17 |
+| Scheduled finish | 2027-12-02 |
 | Must finish by |  |
 
 ## Activity status
 
 | Status | Count |
 |---|---|
-| Completed | 3343 |
-| In Progress | 242 |
-| Not Started | 2295 |
+| Completed | 3296 |
+| In Progress | 233 |
+| Not Started | 2351 |
 | **Total** | **5880** |
 
 ## Activities
@@ -225,7 +225,7 @@
 | A4730 | Clear & Grub for Offices & Access Road | Mobilization | Task | Completed | 2026-10-11 | 2026-10-17 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A4720 | Baseline Schedule Submittal | Submittals | Task | Completed | 2026-09-26 | 2026-10-19 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A2990 | Baseline Schedule Approval | Approvals | Task | Completed | 2026-10-20 | 2026-10-27 | 2025-12-07 | 2026-01-03 | 100 |  |
-| A4800 | Completion of Road Works | Milestones | Milestone | Not Started | 2026-12-09 | 2026-12-09 |  |  | 0 | -58.9 |
+| A4800 | Completion of Road Works | Milestones | Milestone | Not Started | 2027-01-05 | 2027-01-05 |  |  | 0 | -81.4 |
 | A4260 | Material List Submittal | Submittals | Task | Completed | 2026-09-26 | 2026-10-19 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A4270 | Material List Approval | Approvals | Task | Completed | 2026-10-20 | 2026-10-27 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A4640 | Offices Moblization Layout Sumittal | Submittals | Task | Completed | 2026-09-26 | 2026-10-06 | 2025-12-07 | 2026-01-03 | 100 |  |
@@ -290,164 +290,164 @@
 | A5420 | Buried trench & Duct Bank Details Approval | Approvals | Task | Completed | 2026-10-12 | 2026-10-25 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A5430 | Cable Schedule Details Approval | Approvals | Task | Completed | 2026-10-12 | 2026-10-25 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A5440 | Single Line Diagram Approval | Approvals | Task | Completed | 2026-10-12 | 2026-10-25 | 2025-12-06 | 2026-01-29 | 100 |  |
-| A5450 | Demolition of existing Asphalt | DEMOLITION | Task | Not Started | 2027-04-12 | 2027-04-29 |  |  | 0 | 9 |
-| A5460 | Demolition of existing Kerbs | DEMOLITION | Task | Not Started | 2027-04-18 | 2027-05-05 |  |  | 0 | 4 |
+| A5450 | Demolition of existing Asphalt | DEMOLITION | Task | Not Started | 2027-04-20 | 2027-05-08 |  |  | 0 | 15.3 |
+| A5460 | Demolition of existing Kerbs | DEMOLITION | Task | Not Started | 2027-04-26 | 2027-05-13 |  |  | 0 | 10.3 |
 | A5470 | Earthworks - Cut Excavation | EARTHWORKS AND SITE GRADING | Task | Completed | 2027-12-30 | 2028-01-16 | 2025-12-06 | 2026-01-29 | 100 |  |
-| A5480 | Embankments to the site with common / suitable excavated material or suitable imported material | EARTHWORKS AND SITE GRADING | Task | Not Started | 2027-05-05 | 2027-05-18 |  |  | 0 | 4 |
-| A5490 | Subgrade | EARTHWORKS AND SITE GRADING | Task | Not Started | 2027-05-18 | 2027-05-24 |  |  | 0 | 4 |
-| A5500 | Aggregate base course | AGGREGATE BASE COURSE | Task | Not Started | 2027-05-29 | 2027-06-13 |  |  | 0 | 4 |
-| A5510 | Bituminous base course (Grading I - Class A), after compaction , including Prime Coat (MC1) (if needed) | BITUMINOUS CONSTRUCTION | Task | Not Started | 2027-06-13 | 2027-06-16 |  |  | 0 | 4 |
-| A5520 | Bituminous concrete wearing course, after compaction (Grading I - Class A), including tack coat (RC2). | ASPHALT WEARING COURSE | Task | Not Started | 2027-06-16 | 2027-06-22 |  |  | 0 | 4 |
-| A5530 | Concrete curb, Type (K1A) | PRECAST CONCRETE CURB | Task | Not Started | 2027-06-22 | 2027-07-04 |  |  | 0 | 4 |
-| A5540 | Concrete curb, Type (K1B) | PRECAST CONCRETE CURB | Task | Not Started | 2027-06-22 | 2027-07-04 |  |  | 0 | 4 |
-| A5550 | Retroreflective Thermoplastic White Traffic lines | PAVEMENT MARKINGS | Task | Not Started | 2027-07-04 | 2027-07-07 |  |  | 0 | 4 |
-| A5560 | Retroreflective Thermoplastic Yellow Traffic lines | PAVEMENT MARKINGS | Task | Not Started | 2027-07-07 | 2027-07-11 |  |  | 0 | 4 |
-| A5570 | Retroreflective raised pavement markers (Type A) | PAVEMENT MARKINGS | Task | Not Started | 2027-07-15 | 2027-07-21 |  |  | 0 | 4 |
-| A5580 | Ceramic raised pavement markers | PAVEMENT MARKINGS | Task | Not Started | 2027-07-11 | 2027-07-15 |  |  | 0 | 4 |
-| A5590 | Solar powered lighting cateyes pavement markers | PAVEMENT MARKINGS | Task | Not Started | 2027-07-21 | 2027-07-27 |  |  | 0 | 22 |
-| A5600 | Traffic signs, ground mounted, 2 Sheet Alumenium, Single post | TRAFFIC SIGNAGE | Task | Not Started | 2027-08-04 | 2027-08-17 |  |  | 0 | 4 |
-| A5610 | Traffic signs, ground mounted, 1 Sheet Alumenium, Single post | TRAFFIC SIGNAGE | Task | Not Started | 2027-07-26 | 2027-08-04 |  |  | 0 | 4 |
-| A5620 | Traffic signs, ground mounted, Sheet Alumenium, Double post | TRAFFIC SIGNAGE | Task | Not Started | 2027-07-21 | 2027-07-26 |  |  | 0 | 4 |
-| A5630 | Excavation for Trench size 1.2m wide and 80cm deep | MEDIUM VOLTAGE CABLE TRENCH | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 8 |
-| A5640 | 4-way Duct Bank (4x200mm duct) | MEDIUM VOLTAGE CABLES DUCT BANKS | Task | Not Started | 2027-05-17 | 2027-05-23 |  |  | 0 | 16 |
-| A5650 | Cable: 33KV 3Cx400mm² AL/XLPE/LLDPE unarmored | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-05-23 | 2027-06-03 |  |  | 0 | 16 |
-| A5660 | Single Core Cables, Copper, 33kV (3x1Cx70mm²,AL/XLPE/PVC). | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-03 | 2027-06-06 |  |  | 0 | 28 |
-| A5670 | Straight joints cables for 36KV 3x400mm² AL/XLPE/LLDPE unarmored | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-03 | 2027-06-20 |  |  | 0 | 16 |
-| A5680 | Cable Termination for 36KV 3Cx400mm² AL/XLPE/LLDPE | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-20 | 2027-07-01 |  |  | 0 | 16 |
-| A5690 | 1000kVA, 33/0.4 KV unit substation | Liquid-Filled Utility Transformers | Task | Not Started | 2027-07-01 | 2027-07-18 |  |  | 0 | 16 |
-| A5700 | 1500kVA, 33/0.4 KV unit substation | Liquid-Filled Utility Transformers | Task | Not Started | 2027-07-01 | 2027-07-07 |  |  | 0 | 39 |
-| A5710 | Cables, Copper, (4Cx10mm²,Cu/XLPE/SWA/PVC +1x10mm² PVC/PVC) | LOW VOLTAGE CABLES | Task | Not Started | 2027-07-18 | 2027-07-22 |  |  | 0 | 16 |
-| A5720 | Cables, Aluminium, (4Cx300mm²,AL/XLPE/PVC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-07-27 | 2027-08-03 |  |  | 0 | 16 |
-| A5730 | Cables, Aluminium, (4Cx70mm²,AL/XLPE/PVC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-07-22 | 2027-07-27 |  |  | 0 | 16 |
-| A5740 | Cables, Copper, (4Cx6mm²,Cu/XLPE/PVC + 1x6mm² PVC/ECC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-06-09 | 2027-06-28 |  |  | 0 | 8 |
-| A5750 | 50 mm diameter PVC Conduit | CONDUITS | Task | Not Started | 2027-05-17 | 2027-06-09 |  |  | 0 | 8 |
-| A5760 | Street Lighting Hot dip galvanized steel 8-meter, 1-meter single arm | LIGHTING POLES | Task | Not Started | 2027-06-28 | 2027-07-03 |  |  | 0 | 14 |
-| A5770 | Street Lighting Hot dip galvanized steel 8-meter, double arm | LIGHTING POLES | Task | Not Started | 2027-06-28 | 2027-06-30 |  |  | 0 | 16 |
-| A5780 | Street Lighting Hot dip galvanized steel 8-meter, 3-meter single arm | LIGHTING POLES | Task | Not Started | 2027-06-28 | 2027-07-10 |  |  | 0 | 8 |
-| A5790 | Street Lighting ( LED) Luminaire with 92 Watt, 13000 Lumen | STREET LIGHTING LUMINAIRE | Task | Not Started | 2027-07-10 | 2027-07-18 |  |  | 0 | 8 |
-| A5800 | Earthing of  lighting poles ,masts. feeder pillars , unit substations, RMU, L.V feeders and KWH meter | EARTHING  SYSTEM | Task | Not Started | 2027-07-18 | 2027-08-03 |  |  | 0 | 8 |
-| A5810 | Road crossing ducts, 2 way (2 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-05-24 | 2027-05-29 |  |  | 0 | 4 |
-| A5820 | Road crossing ducts, 3 way (3 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-05-24 | 2027-05-29 |  |  | 0 | 4 |
-| A5830 | Road crossing ducts, 4 way (4 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-05-24 | 2027-05-26 |  |  | 0 | 6 |
-| A5840 | Road crossing ducts,6 way (6 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-05-24 | 2027-05-27 |  |  | 0 | 5 |
-| A5850 | Street Lighting Feeder pillars | LIGHTING PANELS | Task | Not Started | 2027-08-03 | 2027-08-07 |  |  | 0 | 8 |
-| A5860 | installation of concrete wall | LIGHTING PANELS | Task | Not Started | 2027-08-07 | 2027-08-12 |  |  | 0 | 8 |
-| A5870 | 6 way 50mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-09 |  |  | 0 | 76 |
-| A5880 | 6 way 50mm + 12 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5890 | 6 way 50mm + 8 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5900 | 6 way 50mm + 4 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5910 | 6 way 50mm + 2 way 32mm+1way 16mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5920 | 6 way 50mm + 2 way 32mm | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5930 | 12 way 50mm + 8 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-09 |  |  | 0 | 76 |
-| A5940 | 12 way 50mm + 2 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-09 |  |  | 0 | 76 |
-| A5950 | 8 way 32mm  HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 75 |
-| A5960 | 4 way 32mm  HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A5970 | HDPE duct | UNREINFORCED CONCRETE DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 91 |
-| A5980 | 2 x 32 mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 75 |
-| A5990 | 2 x 32 mm +1 x 16mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-13 |  |  | 0 | 72 |
-| A6000 | 8x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6010 | 4x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6020 | 6 x 50 mm  diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-15 |  |  | 0 | 71 |
-| A6030 | 6 x 50 mm +2 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6040 | 6 x 50 mm +2 x 32mm+1 x 16mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 75 |
-| A6050 | 6 x 50 mm +8 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6060 | 6 x 50 mm +12 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6070 | 12 x 50 mm +8 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6080 | 12 x 50 mm +2x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6090 | 1x 16 mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 77 |
-| A6100 | Manhole  2000x1000 mm | MANHOLES | Task | Not Started | 2027-05-15 | 2027-05-31 |  |  | 0 | 71 |
-| A6110 | Handhole 600x600 mm | HANDHOLES | Task | Not Started | 2027-05-15 | 2027-05-20 |  |  | 0 | 80 |
-| A6120 | 160mm Diameter | HDPE PIPES 100 SDR 11 (PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 47 |
-| A6130 | 200mm Diameter | HDPE PIPES 100 SDR 11 (PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 89 |
-| A6140 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-06-02 | 2027-06-16 |  |  | 0 | 47 |
-| A6150 | Wash-out Valves | VALVES | Task | Not Started | 2027-05-22 | 2027-05-27 |  |  | 0 | 47 |
-| A6160 | Air Valves | VALVES | Task | Not Started | 2027-05-27 | 2027-06-02 |  |  | 0 | 47 |
-| A6170 | Valve chambers | VALVES | Task | Not Started | 2027-06-16 | 2027-06-22 |  |  | 0 | 47 |
-| A6180 | HDPE road croosing with dia 160 mm | ROAD CROSSING | Task | Not Started | 2027-06-22 | 2027-06-28 |  |  | 0 | 47 |
-| A6190 | 160mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-25 |  |  | 0 | 44 |
-| A6200 | 200mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-11 |  |  | 0 | 88 |
-| A6210 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-06-03 | 2027-06-09 |  |  | 0 | 44 |
-| A6220 | Wash-out Valves | VALVES | Task | Not Started | 2027-05-25 | 2027-05-30 |  |  | 0 | 44 |
-| A6230 | Air Valves | VALVES | Task | Not Started | 2027-05-30 | 2027-06-03 |  |  | 0 | 44 |
-| A6240 | Valve chambers | VALVES | Task | Not Started | 2027-06-09 | 2027-06-15 |  |  | 0 | 44 |
-| A6250 | Wash out chamber; on 160 mm dia pipeline | VALVE CHAMBERS | Task | Not Started | 2027-05-25 | 2027-05-31 |  |  | 0 | 52 |
-| A6260 | Air valve chamber; on 160 mm dia pipeline | VALVE CHAMBERS | Task | Not Started | 2027-05-31 | 2027-06-06 |  |  | 0 | 52 |
-| A6270 | 3-outlet fire hydrant | Fire Hydrant | Task | Not Started | 2027-06-20 | 2027-07-01 |  |  | 0 | 44 |
-| A6280 | 90mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-12 |  |  | 0 | 46 |
-| A6290 | 110mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 63 |
-| A6300 | Pipe with diameter 200 mm. | UPVC PIPES  IRRIGATION DUCTS | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 89 |
-| A6310 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-05-24 | 2027-05-30 |  |  | 0 | 63 |
-| A6320 | Wash-out Valves | VALVES | Task | Not Started | 2027-05-17 | 2027-05-20 |  |  | 0 | 63 |
-| A6330 | Air Valves | VALVES | Task | Not Started | 2027-05-20 | 2027-05-24 |  |  | 0 | 63 |
-| A6340 | Wash out chambers | VALVE CHAMBERS | Task | Not Started | 2027-05-30 | 2027-06-03 |  |  | 0 | 64 |
-| A6350 | Air Valve chambers | VALVE CHAMBERS | Task | Not Started | 2027-06-03 | 2027-06-08 |  |  | 0 | 64 |
-| A6360 | HDPE road croosing with dia 110 mm | ROAD CROSSING | Task | Not Started | 2027-05-30 | 2027-06-02 |  |  | 0 | 63 |
-| A6370 | Decoder cables 12 AWG between valves and controllers | IRRIGATION CABLES | Task | Not Started | 2027-06-02 | 2027-06-09 |  |  | 0 | 63 |
-| A6380 | 150mm Diameter | GRP PIPES | Task | In Progress | 2028-01-16 | 2028-01-23 | 2026-08-11 |  | 0 | 64.5 |
-| A6390 | 200mm Diameter | GRP PIPES | Task | In Progress | 2028-02-03 | 2028-02-15 | 2026-08-11 |  | 0 | 72.2 |
-| A6400 | 250mm Diameter | GRP PIPES | Task | In Progress | 2028-01-23 | 2028-02-03 | 2026-08-11 |  | 0 | 72.2 |
-| A6410 | 300mm Diameter | GRP PIPES | Task | In Progress | 2028-01-16 | 2028-01-22 | 2026-08-11 |  | 0 | 65.5 |
-| A6420 | Precast Manhole ring 1200 mm internal dia. | PRECAST MANHOLE | Task | In Progress | 2028-01-23 | 2028-01-27 | 2026-08-11 |  | 0 | 64.5 |
-| A6430 | Manholes with internal dimensions of 60 cm x 60 cm Phase 1 | INSPECTION MANHOLES | Task | Not Started | 2027-05-16 | 2027-06-08 |  |  | 0 | 64.5 |
-| A6440 | 400mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-19 |  |  | 0 | 41 |
-| A6450 | 500mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 43 |
-| A6460 | 600mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-29 |  |  | 0 | 33 |
-| A6470 | 700mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-29 |  |  | 0 | 33 |
-| A6480 | 800mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-12 |  |  | 0 | 47 |
-| A6490 | 900mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-12 |  |  | 0 | 47 |
-| A6500 | 1000mm Diameter | GRP PIPES | Task | Not Started | 2027-05-05 | 2027-05-11 |  |  | 0 | 48 |
-| A6510 | 300mm Diameter | UPVC PIPES | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 79 |
-| A6520 | 400mm Diameter | UPVC PIPES | Task | Not Started | 2027-05-05 | 2027-05-10 |  |  | 0 | 49 |
-| A6530 | Precast Manhole ring 1200 mm internal dia. | Precast Manhole 1200 | Task | Not Started | 2027-05-29 | 2027-06-21 |  |  | 0 | 33 |
-| A6540 | Precast Manhole ring 1500 mm internal dia Phase 1 | Precast Manhole 1500 | Task | Not Started | 2027-05-19 | 2027-06-07 |  |  | 0 | 64 |
-| A6550 | Precast Manhole ring 2000 mm internal dia Phase 1 | Precast Manhole 2000 | Task | Not Started | 2027-05-19 | 2027-06-07 |  |  | 0 | 65 |
-| A6560 | Single Catch basin | Concrete Catch Basin | Task | Not Started | 2027-06-21 | 2027-07-14 |  |  | 0 | 33 |
-| A6570 | Double Catch basin | Concrete Catch Basin | Task | Not Started | 2027-06-21 | 2027-06-26 |  |  | 0 | 33 |
-| A6580 | GROUND COVER AND SHRUBS | GROUND COVER AND SHRUBS | Task | Not Started | 2027-06-22 | 2027-07-04 |  |  | 0 | 42 |
-| A6590 | Trees/ Palms Package 1 | TREES &PALMS | Task | Not Started | 2027-08-12 | 2027-08-24 |  |  | 0 | 8 |
-| A6600 | Precast concrete block paving for sidewalk | MISCELLANEOUS | Task | Not Started | 2027-07-04 | 2027-07-08 |  |  | 0 | 18 |
-| A6610 | Precast concrete block paving for main intrsection | MISCELLANEOUS | Task | Not Started | 2027-07-04 | 2027-07-08 |  |  | 0 | 18 |
-| A6620 | Gravel, mixed | MISCELLANEOUS | Task | Not Started | 2027-07-08 | 2027-07-12 |  |  | 0 | 18 |
-| A6630 | concrete heel kerb | MISCELLANEOUS | Task | Not Started | 2027-07-15 | 2027-07-20 |  |  | 0 | 18 |
-| A6640 | Supply and install Compacted sand | MISCELLANEOUS | Task | Not Started | 2027-07-12 | 2027-07-15 |  |  | 0 | 18 |
-| A6650 | Fences and Gates Phase 1 | FENCES & GATES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 53 |
-| A6660 | Site Furnishings Phase 1 | SITE FURNISHINGS | Task | Not Started | 2027-07-20 | 2027-07-28 |  |  | 0 | 21 |
-| A6670 | 90 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-12 | 2027-05-17 |  |  | 0 | 56 |
-| A6680 | 75 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-12 | 2027-05-16 |  |  | 0 | 57 |
-| A6690 | 63 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-12 | 2027-05-17 |  |  | 0 | 56 |
-| A6700 | 50 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-12 | 2027-05-18 |  |  | 0 | 55 |
-| A6710 | 32 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 46 |
-| A6720 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-05-29 | 2027-06-21 |  |  | 0 | 46 |
-| A6730 | HDPE road croosing with dia 160 mm | Road Crossing | Task | Not Started | 2027-06-15 | 2027-06-20 |  |  | 0 | 44 |
-| A6740 | Manholes with internal dimensions of 60 cm x 60 cm Phase 2 | INSPECTION MANHOLES | Task | Not Started | 2027-05-16 | 2027-06-08 |  |  | 0 | 64.5 |
-| A6750 | Precast Manhole ring 1500 mm internal dia Phase 2 | Precast Manhole 1500 | Task | Not Started | 2027-05-19 | 2027-06-08 |  |  | 0 | 64 |
-| A6760 | Precast Manhole ring 2000 mm internal dia Phase 2 | Precast Manhole 2000 | Task | Not Started | 2027-05-19 | 2027-06-06 |  |  | 0 | 65 |
-| A6770 | Trees/ Palms Package 2 | TREES &PALMS | Task | Not Started | 2027-08-12 | 2027-08-24 |  |  | 0 | 8 |
-| A6780 | Trees/ Palms Package 3 | TREES &PALMS | Task | Not Started | 2027-08-12 | 2027-08-24 |  |  | 0 | 8 |
-| A6790 | Trees/ Palms Package 4 | TREES &PALMS | Task | Not Started | 2027-08-17 | 2027-08-29 |  |  | 0 | 4 |
-| A6990 | Site Furnishings Phase 2 | SITE FURNISHINGS | Task | Not Started | 2027-07-12 | 2027-07-20 |  |  | 0 | 21 |
-| A7000 | Site Furnishings Phase 3 | SITE FURNISHINGS | Task | Not Started | 2027-07-04 | 2027-07-12 |  |  | 0 | 21 |
-| A7010 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-05-29 | 2027-06-21 |  |  | 0 | 46 |
-| A7020 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-05-29 | 2027-06-21 |  |  | 0 | 46 |
-| A7030 | Fences and Gates Phase 2 | FENCES & GATES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 53 |
-| A7040 | Fences and Gates Phase 3 | FENCES & GATES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 53 |
-| A7050 | Fences and Gates Phase 4 | FENCES & GATES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 53 |
-| A7060 | Fences and Gates Phase 5 | FENCES & GATES | Task | Not Started | 2027-05-05 | 2027-05-17 |  |  | 0 | 53 |
-| A7070 | Fences and Gates Phase 6 | FENCES & GATES | Task | Not Started | 2027-05-17 | 2027-05-29 |  |  | 0 | 53 |
-| A7080 | Fences and Gates Phase 7 | FENCES & GATES | Task | Not Started | 2027-05-17 | 2027-05-29 |  |  | 0 | 53 |
-| A7090 | Fences and Gates Phase 8 | FENCES & GATES | Task | Not Started | 2027-05-17 | 2027-05-29 |  |  | 0 | 53 |
-| A7100 | Fences and Gates Phase 9 | FENCES & GATES | Task | Not Started | 2027-05-17 | 2027-05-29 |  |  | 0 | 53 |
-| A7110 | Fences and Gates Phase 10 | FENCES & GATES | Task | Not Started | 2027-05-17 | 2027-05-29 |  |  | 0 | 53 |
-| A7120 | Fences and Gates Phase 11 | FENCES & GATES | Task | Not Started | 2027-05-29 | 2027-06-09 |  |  | 0 | 53 |
-| A7130 | Fences and Gates Phase 12 | FENCES & GATES | Task | Not Started | 2027-05-29 | 2027-06-09 |  |  | 0 | 53 |
-| A7140 | Fences and Gates Phase 13 | FENCES & GATES | Task | Not Started | 2027-05-29 | 2027-06-09 |  |  | 0 | 53 |
-| A7150 | Fences and Gates Phase 14 | FENCES & GATES | Task | Not Started | 2027-05-29 | 2027-06-09 |  |  | 0 | 53 |
-| A7160 | Fences and Gates Phase 15 | FENCES & GATES | Task | Not Started | 2027-05-29 | 2027-06-09 |  |  | 0 | 53 |
-| A7170 | Fences and Gates Phase 16 | FENCES & GATES | Task | Not Started | 2027-06-09 | 2027-06-21 |  |  | 0 | 53 |
-| A7180 | Fences and Gates Phase 17 | FENCES & GATES | Task | Not Started | 2027-06-09 | 2027-06-21 |  |  | 0 | 53 |
-| A7190 | Fences and Gates Phase 18 | FENCES & GATES | Task | Not Started | 2027-06-09 | 2027-06-21 |  |  | 0 | 53 |
-| A7200 | Fences and Gates Phase 19 | FENCES & GATES | Task | Not Started | 2027-06-09 | 2027-06-21 |  |  | 0 | 53 |
-| A7210 | Fences and Gates Phase 20 | FENCES & GATES | Task | Not Started | 2027-07-20 | 2027-08-01 |  |  | 0 | 18 |
+| A5480 | Embankments to the site with common / suitable excavated material or suitable imported material | EARTHWORKS AND SITE GRADING | Task | Not Started | 2027-05-13 | 2027-05-26 |  |  | 0 | 10.3 |
+| A5490 | Subgrade | EARTHWORKS AND SITE GRADING | Task | Not Started | 2027-05-26 | 2027-06-01 |  |  | 0 | 10.3 |
+| A5500 | Aggregate base course | AGGREGATE BASE COURSE | Task | Not Started | 2027-06-06 | 2027-06-21 |  |  | 0 | 10.3 |
+| A5510 | Bituminous base course (Grading I - Class A), after compaction , including Prime Coat (MC1) (if needed) | BITUMINOUS CONSTRUCTION | Task | Not Started | 2027-06-21 | 2027-06-24 |  |  | 0 | 10.3 |
+| A5520 | Bituminous concrete wearing course, after compaction (Grading I - Class A), including tack coat (RC2). | ASPHALT WEARING COURSE | Task | Not Started | 2027-06-24 | 2027-06-30 |  |  | 0 | 10.3 |
+| A5530 | Concrete curb, Type (K1A) | PRECAST CONCRETE CURB | Task | Not Started | 2027-06-30 | 2027-07-12 |  |  | 0 | 10.3 |
+| A5540 | Concrete curb, Type (K1B) | PRECAST CONCRETE CURB | Task | Not Started | 2027-06-30 | 2027-07-12 |  |  | 0 | 10.3 |
+| A5550 | Retroreflective Thermoplastic White Traffic lines | PAVEMENT MARKINGS | Task | Not Started | 2027-07-12 | 2027-07-15 |  |  | 0 | 10.3 |
+| A5560 | Retroreflective Thermoplastic Yellow Traffic lines | PAVEMENT MARKINGS | Task | Not Started | 2027-07-15 | 2027-07-19 |  |  | 0 | 10.3 |
+| A5570 | Retroreflective raised pavement markers (Type A) | PAVEMENT MARKINGS | Task | Not Started | 2027-07-24 | 2027-07-29 |  |  | 0 | 10.3 |
+| A5580 | Ceramic raised pavement markers | PAVEMENT MARKINGS | Task | Not Started | 2027-07-19 | 2027-07-24 |  |  | 0 | 10.3 |
+| A5590 | Solar powered lighting cateyes pavement markers | PAVEMENT MARKINGS | Task | Not Started | 2027-07-29 | 2027-08-04 |  |  | 0 | 28.3 |
+| A5600 | Traffic signs, ground mounted, 2 Sheet Alumenium, Single post | TRAFFIC SIGNAGE | Task | Not Started | 2027-08-12 | 2027-08-25 |  |  | 0 | 10.3 |
+| A5610 | Traffic signs, ground mounted, 1 Sheet Alumenium, Single post | TRAFFIC SIGNAGE | Task | Not Started | 2027-08-03 | 2027-08-12 |  |  | 0 | 10.3 |
+| A5620 | Traffic signs, ground mounted, Sheet Alumenium, Double post | TRAFFIC SIGNAGE | Task | Not Started | 2027-07-29 | 2027-08-03 |  |  | 0 | 10.3 |
+| A5630 | Excavation for Trench size 1.2m wide and 80cm deep | MEDIUM VOLTAGE CABLE TRENCH | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 14.3 |
+| A5640 | 4-way Duct Bank (4x200mm duct) | MEDIUM VOLTAGE CABLES DUCT BANKS | Task | Not Started | 2027-05-25 | 2027-05-31 |  |  | 0 | 22.3 |
+| A5650 | Cable: 33KV 3Cx400mm² AL/XLPE/LLDPE unarmored | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-05-31 | 2027-06-12 |  |  | 0 | 22.3 |
+| A5660 | Single Core Cables, Copper, 33kV (3x1Cx70mm²,AL/XLPE/PVC). | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-12 | 2027-06-14 |  |  | 0 | 34.3 |
+| A5670 | Straight joints cables for 36KV 3x400mm² AL/XLPE/LLDPE unarmored | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-12 | 2027-06-28 |  |  | 0 | 22.3 |
+| A5680 | Cable Termination for 36KV 3Cx400mm² AL/XLPE/LLDPE | MEDIUM VOLTAGE CABLES | Task | Not Started | 2027-06-28 | 2027-07-10 |  |  | 0 | 22.3 |
+| A5690 | 1000kVA, 33/0.4 KV unit substation | Liquid-Filled Utility Transformers | Task | Not Started | 2027-07-10 | 2027-07-26 |  |  | 0 | 22.3 |
+| A5700 | 1500kVA, 33/0.4 KV unit substation | Liquid-Filled Utility Transformers | Task | Not Started | 2027-07-10 | 2027-07-15 |  |  | 0 | 45.3 |
+| A5710 | Cables, Copper, (4Cx10mm²,Cu/XLPE/SWA/PVC +1x10mm² PVC/PVC) | LOW VOLTAGE CABLES | Task | Not Started | 2027-07-26 | 2027-07-31 |  |  | 0 | 22.3 |
+| A5720 | Cables, Aluminium, (4Cx300mm²,AL/XLPE/PVC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-08-04 | 2027-08-11 |  |  | 0 | 22.3 |
+| A5730 | Cables, Aluminium, (4Cx70mm²,AL/XLPE/PVC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-07-31 | 2027-08-04 |  |  | 0 | 22.3 |
+| A5740 | Cables, Copper, (4Cx6mm²,Cu/XLPE/PVC + 1x6mm² PVC/ECC). | LOW VOLTAGE CABLES | Task | Not Started | 2027-06-17 | 2027-07-06 |  |  | 0 | 14.3 |
+| A5750 | 50 mm diameter PVC Conduit | CONDUITS | Task | Not Started | 2027-05-25 | 2027-06-17 |  |  | 0 | 14.3 |
+| A5760 | Street Lighting Hot dip galvanized steel 8-meter, 1-meter single arm | LIGHTING POLES | Task | Not Started | 2027-07-06 | 2027-07-11 |  |  | 0 | 20.3 |
+| A5770 | Street Lighting Hot dip galvanized steel 8-meter, double arm | LIGHTING POLES | Task | Not Started | 2027-07-06 | 2027-07-08 |  |  | 0 | 22.3 |
+| A5780 | Street Lighting Hot dip galvanized steel 8-meter, 3-meter single arm | LIGHTING POLES | Task | Not Started | 2027-07-06 | 2027-07-18 |  |  | 0 | 14.3 |
+| A5790 | Street Lighting ( LED) Luminaire with 92 Watt, 13000 Lumen | STREET LIGHTING LUMINAIRE | Task | Not Started | 2027-07-18 | 2027-07-26 |  |  | 0 | 14.3 |
+| A5800 | Earthing of  lighting poles ,masts. feeder pillars , unit substations, RMU, L.V feeders and KWH meter | EARTHING  SYSTEM | Task | Not Started | 2027-07-26 | 2027-08-11 |  |  | 0 | 14.3 |
+| A5810 | Road crossing ducts, 2 way (2 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-06-01 | 2027-06-06 |  |  | 0 | 10.3 |
+| A5820 | Road crossing ducts, 3 way (3 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-06-01 | 2027-06-06 |  |  | 0 | 10.3 |
+| A5830 | Road crossing ducts, 4 way (4 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-06-01 | 2027-06-03 |  |  | 0 | 12.3 |
+| A5840 | Road crossing ducts,6 way (6 x 110mm PVC) | ROAD CROSSING DUCTS | Task | Not Started | 2027-06-01 | 2027-06-05 |  |  | 0 | 11.3 |
+| A5850 | Street Lighting Feeder pillars | LIGHTING PANELS | Task | Not Started | 2027-08-11 | 2027-08-15 |  |  | 0 | 14.3 |
+| A5860 | installation of concrete wall | LIGHTING PANELS | Task | Not Started | 2027-08-15 | 2027-08-21 |  |  | 0 | 14.3 |
+| A5870 | 6 way 50mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-17 |  |  | 0 | 82.3 |
+| A5880 | 6 way 50mm + 12 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5890 | 6 way 50mm + 8 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5900 | 6 way 50mm + 4 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5910 | 6 way 50mm + 2 way 32mm+1way 16mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5920 | 6 way 50mm + 2 way 32mm | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5930 | 12 way 50mm + 8 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-17 |  |  | 0 | 82.3 |
+| A5940 | 12 way 50mm + 2 way 32mm HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-17 |  |  | 0 | 82.3 |
+| A5950 | 8 way 32mm  HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 81.3 |
+| A5960 | 4 way 32mm  HDPE duct | ROAD CROSSING REINFORCED CONCRETE ENCASEMENT DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A5970 | HDPE duct | UNREINFORCED CONCRETE DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 97.3 |
+| A5980 | 2 x 32 mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 81.3 |
+| A5990 | 2 x 32 mm +1 x 16mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-22 |  |  | 0 | 78.3 |
+| A6000 | 8x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6010 | 4x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6020 | 6 x 50 mm  diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-23 |  |  | 0 | 77.3 |
+| A6030 | 6 x 50 mm +2 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6040 | 6 x 50 mm +2 x 32mm+1 x 16mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 81.3 |
+| A6050 | 6 x 50 mm +8 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6060 | 6 x 50 mm +12 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6070 | 12 x 50 mm +8 x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6080 | 12 x 50 mm +2x 32mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6090 | 1x 16 mm diameter HDPE ducts | DUCTS | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 83.3 |
+| A6100 | Manhole  2000x1000 mm | MANHOLES | Task | Not Started | 2027-05-23 | 2027-06-08 |  |  | 0 | 77.3 |
+| A6110 | Handhole 600x600 mm | HANDHOLES | Task | Not Started | 2027-05-23 | 2027-05-29 |  |  | 0 | 86.3 |
+| A6120 | 160mm Diameter | HDPE PIPES 100 SDR 11 (PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 53.3 |
+| A6130 | 200mm Diameter | HDPE PIPES 100 SDR 11 (PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 95.3 |
+| A6140 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-06-10 | 2027-06-24 |  |  | 0 | 53.3 |
+| A6150 | Wash-out Valves | VALVES | Task | Not Started | 2027-05-30 | 2027-06-05 |  |  | 0 | 53.3 |
+| A6160 | Air Valves | VALVES | Task | Not Started | 2027-06-05 | 2027-06-10 |  |  | 0 | 53.3 |
+| A6170 | Valve chambers | VALVES | Task | Not Started | 2027-06-24 | 2027-06-30 |  |  | 0 | 53.3 |
+| A6180 | HDPE road croosing with dia 160 mm | ROAD CROSSING | Task | Not Started | 2027-06-30 | 2027-07-06 |  |  | 0 | 53.3 |
+| A6190 | 160mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-06-02 |  |  | 0 | 50.3 |
+| A6200 | 200mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-05-19 |  |  | 0 | 94.3 |
+| A6210 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-06-12 | 2027-06-17 |  |  | 0 | 50.3 |
+| A6220 | Wash-out Valves | VALVES | Task | Not Started | 2027-06-02 | 2027-06-07 |  |  | 0 | 50.3 |
+| A6230 | Air Valves | VALVES | Task | Not Started | 2027-06-07 | 2027-06-12 |  |  | 0 | 50.3 |
+| A6240 | Valve chambers | VALVES | Task | Not Started | 2027-06-17 | 2027-06-23 |  |  | 0 | 50.3 |
+| A6250 | Wash out chamber; on 160 mm dia pipeline | VALVE CHAMBERS | Task | Not Started | 2027-06-02 | 2027-06-08 |  |  | 0 | 58.3 |
+| A6260 | Air valve chamber; on 160 mm dia pipeline | VALVE CHAMBERS | Task | Not Started | 2027-06-08 | 2027-06-14 |  |  | 0 | 58.3 |
+| A6270 | 3-outlet fire hydrant | Fire Hydrant | Task | Not Started | 2027-06-28 | 2027-07-10 |  |  | 0 | 50.3 |
+| A6280 | 90mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-05-20 |  |  | 0 | 52.3 |
+| A6290 | 110mm Diameter | HDPE PIPES 100 SDR 11 ( PN 16 Bar) | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 69.3 |
+| A6300 | Pipe with diameter 200 mm. | UPVC PIPES  IRRIGATION DUCTS | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 95.3 |
+| A6310 | Gate (Sluice) valves (Direct buried) | VALVES | Task | Not Started | 2027-06-01 | 2027-06-07 |  |  | 0 | 69.3 |
+| A6320 | Wash-out Valves | VALVES | Task | Not Started | 2027-05-25 | 2027-05-29 |  |  | 0 | 69.3 |
+| A6330 | Air Valves | VALVES | Task | Not Started | 2027-05-29 | 2027-06-01 |  |  | 0 | 69.3 |
+| A6340 | Wash out chambers | VALVE CHAMBERS | Task | Not Started | 2027-06-07 | 2027-06-12 |  |  | 0 | 70.3 |
+| A6350 | Air Valve chambers | VALVE CHAMBERS | Task | Not Started | 2027-06-12 | 2027-06-16 |  |  | 0 | 70.3 |
+| A6360 | HDPE road croosing with dia 110 mm | ROAD CROSSING | Task | Not Started | 2027-06-07 | 2027-06-10 |  |  | 0 | 69.3 |
+| A6370 | Decoder cables 12 AWG between valves and controllers | IRRIGATION CABLES | Task | Not Started | 2027-06-10 | 2027-06-17 |  |  | 0 | 69.3 |
+| A6380 | 150mm Diameter | GRP PIPES | Task | In Progress | 2028-01-16 | 2028-01-23 | 2026-08-11 |  | 0 | 70.7 |
+| A6390 | 200mm Diameter | GRP PIPES | Task | In Progress | 2028-02-03 | 2028-02-15 | 2026-08-11 |  | 0 | 78.5 |
+| A6400 | 250mm Diameter | GRP PIPES | Task | In Progress | 2028-01-23 | 2028-02-03 | 2026-08-11 |  | 0 | 78.5 |
+| A6410 | 300mm Diameter | GRP PIPES | Task | In Progress | 2028-01-16 | 2028-01-22 | 2026-08-11 |  | 0 | 71.5 |
+| A6420 | Precast Manhole ring 1200 mm internal dia. | PRECAST MANHOLE | Task | In Progress | 2028-01-23 | 2028-01-27 | 2026-08-11 |  | 0 | 70.7 |
+| A6430 | Manholes with internal dimensions of 60 cm x 60 cm Phase 1 | INSPECTION MANHOLES | Task | Not Started | 2027-05-23 | 2027-06-15 |  |  | 0 | 70.7 |
+| A6440 | 400mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-05-27 |  |  | 0 | 47.3 |
+| A6450 | 500mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 49.3 |
+| A6460 | 600mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-06-06 |  |  | 0 | 39.3 |
+| A6470 | 700mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-06-06 |  |  | 0 | 39.3 |
+| A6480 | 800mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-05-20 |  |  | 0 | 53.3 |
+| A6490 | 900mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-05-20 |  |  | 0 | 53.3 |
+| A6500 | 1000mm Diameter | GRP PIPES | Task | Not Started | 2027-05-13 | 2027-05-19 |  |  | 0 | 54.3 |
+| A6510 | 300mm Diameter | UPVC PIPES | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 85.3 |
+| A6520 | 400mm Diameter | UPVC PIPES | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 55.3 |
+| A6530 | Precast Manhole ring 1200 mm internal dia. | Precast Manhole 1200 | Task | Not Started | 2027-06-06 | 2027-06-29 |  |  | 0 | 39.3 |
+| A6540 | Precast Manhole ring 1500 mm internal dia Phase 1 | Precast Manhole 1500 | Task | Not Started | 2027-05-27 | 2027-06-15 |  |  | 0 | 70.3 |
+| A6550 | Precast Manhole ring 2000 mm internal dia Phase 1 | Precast Manhole 2000 | Task | Not Started | 2027-05-27 | 2027-06-15 |  |  | 0 | 71.3 |
+| A6560 | Single Catch basin | Concrete Catch Basin | Task | Not Started | 2027-06-29 | 2027-07-22 |  |  | 0 | 39.3 |
+| A6570 | Double Catch basin | Concrete Catch Basin | Task | Not Started | 2027-06-29 | 2027-07-04 |  |  | 0 | 39.3 |
+| A6580 | GROUND COVER AND SHRUBS | GROUND COVER AND SHRUBS | Task | Not Started | 2027-06-30 | 2027-07-12 |  |  | 0 | 48.3 |
+| A6590 | Trees/ Palms Package 1 | TREES &PALMS | Task | Not Started | 2027-08-21 | 2027-09-01 |  |  | 0 | 14.3 |
+| A6600 | Precast concrete block paving for sidewalk | MISCELLANEOUS | Task | Not Started | 2027-07-12 | 2027-07-17 |  |  | 0 | 24.3 |
+| A6610 | Precast concrete block paving for main intrsection | MISCELLANEOUS | Task | Not Started | 2027-07-12 | 2027-07-17 |  |  | 0 | 24.3 |
+| A6620 | Gravel, mixed | MISCELLANEOUS | Task | Not Started | 2027-07-17 | 2027-07-20 |  |  | 0 | 24.3 |
+| A6630 | concrete heel kerb | MISCELLANEOUS | Task | Not Started | 2027-07-24 | 2027-07-28 |  |  | 0 | 24.3 |
+| A6640 | Supply and install Compacted sand | MISCELLANEOUS | Task | Not Started | 2027-07-20 | 2027-07-24 |  |  | 0 | 24.3 |
+| A6650 | Fences and Gates Phase 1 | FENCES & GATES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 59.3 |
+| A6660 | Site Furnishings Phase 1 | SITE FURNISHINGS | Task | Not Started | 2027-07-28 | 2027-08-05 |  |  | 0 | 27.3 |
+| A6670 | 90 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-20 | 2027-05-25 |  |  | 0 | 62.3 |
+| A6680 | 75 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-20 | 2027-05-24 |  |  | 0 | 63.3 |
+| A6690 | 63 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-20 | 2027-05-25 |  |  | 0 | 62.3 |
+| A6700 | 50 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-20 | 2027-05-26 |  |  | 0 | 61.3 |
+| A6710 | 32 mm PN 10, | HDPE PIPES | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 52.3 |
+| A6720 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-06-06 | 2027-06-29 |  |  | 0 | 52.3 |
+| A6730 | HDPE road croosing with dia 160 mm | Road Crossing | Task | Not Started | 2027-06-23 | 2027-06-28 |  |  | 0 | 50.3 |
+| A6740 | Manholes with internal dimensions of 60 cm x 60 cm Phase 2 | INSPECTION MANHOLES | Task | Not Started | 2027-05-23 | 2027-06-15 |  |  | 0 | 70.7 |
+| A6750 | Precast Manhole ring 1500 mm internal dia Phase 2 | Precast Manhole 1500 | Task | Not Started | 2027-05-27 | 2027-06-16 |  |  | 0 | 70.3 |
+| A6760 | Precast Manhole ring 2000 mm internal dia Phase 2 | Precast Manhole 2000 | Task | Not Started | 2027-05-27 | 2027-06-14 |  |  | 0 | 71.3 |
+| A6770 | Trees/ Palms Package 2 | TREES &PALMS | Task | Not Started | 2027-08-21 | 2027-09-01 |  |  | 0 | 14.3 |
+| A6780 | Trees/ Palms Package 3 | TREES &PALMS | Task | Not Started | 2027-08-21 | 2027-09-01 |  |  | 0 | 14.3 |
+| A6790 | Trees/ Palms Package 4 | TREES &PALMS | Task | Not Started | 2027-08-25 | 2027-09-06 |  |  | 0 | 10.3 |
+| A6990 | Site Furnishings Phase 2 | SITE FURNISHINGS | Task | Not Started | 2027-07-20 | 2027-07-28 |  |  | 0 | 27.3 |
+| A7000 | Site Furnishings Phase 3 | SITE FURNISHINGS | Task | Not Started | 2027-07-12 | 2027-07-20 |  |  | 0 | 27.3 |
+| A7010 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-06-06 | 2027-06-29 |  |  | 0 | 52.3 |
+| A7020 | Valves and Fittings Phase 1 | VALVES & FITTINGS | Task | Not Started | 2027-06-06 | 2027-06-29 |  |  | 0 | 52.3 |
+| A7030 | Fences and Gates Phase 2 | FENCES & GATES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 59.3 |
+| A7040 | Fences and Gates Phase 3 | FENCES & GATES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 59.3 |
+| A7050 | Fences and Gates Phase 4 | FENCES & GATES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 59.3 |
+| A7060 | Fences and Gates Phase 5 | FENCES & GATES | Task | Not Started | 2027-05-13 | 2027-05-25 |  |  | 0 | 59.3 |
+| A7070 | Fences and Gates Phase 6 | FENCES & GATES | Task | Not Started | 2027-05-25 | 2027-06-06 |  |  | 0 | 59.3 |
+| A7080 | Fences and Gates Phase 7 | FENCES & GATES | Task | Not Started | 2027-05-25 | 2027-06-06 |  |  | 0 | 59.3 |
+| A7090 | Fences and Gates Phase 8 | FENCES & GATES | Task | Not Started | 2027-05-25 | 2027-06-06 |  |  | 0 | 59.3 |
+| A7100 | Fences and Gates Phase 9 | FENCES & GATES | Task | Not Started | 2027-05-25 | 2027-06-06 |  |  | 0 | 59.3 |
+| A7110 | Fences and Gates Phase 10 | FENCES & GATES | Task | Not Started | 2027-05-25 | 2027-06-06 |  |  | 0 | 59.3 |
+| A7120 | Fences and Gates Phase 11 | FENCES & GATES | Task | Not Started | 2027-06-06 | 2027-06-17 |  |  | 0 | 59.3 |
+| A7130 | Fences and Gates Phase 12 | FENCES & GATES | Task | Not Started | 2027-06-06 | 2027-06-17 |  |  | 0 | 59.3 |
+| A7140 | Fences and Gates Phase 13 | FENCES & GATES | Task | Not Started | 2027-06-06 | 2027-06-17 |  |  | 0 | 59.3 |
+| A7150 | Fences and Gates Phase 14 | FENCES & GATES | Task | Not Started | 2027-06-06 | 2027-06-17 |  |  | 0 | 59.3 |
+| A7160 | Fences and Gates Phase 15 | FENCES & GATES | Task | Not Started | 2027-06-06 | 2027-06-17 |  |  | 0 | 59.3 |
+| A7170 | Fences and Gates Phase 16 | FENCES & GATES | Task | Not Started | 2027-06-17 | 2027-06-29 |  |  | 0 | 59.3 |
+| A7180 | Fences and Gates Phase 17 | FENCES & GATES | Task | Not Started | 2027-06-17 | 2027-06-29 |  |  | 0 | 59.3 |
+| A7190 | Fences and Gates Phase 18 | FENCES & GATES | Task | Not Started | 2027-06-17 | 2027-06-29 |  |  | 0 | 59.3 |
+| A7200 | Fences and Gates Phase 19 | FENCES & GATES | Task | Not Started | 2027-06-17 | 2027-06-29 |  |  | 0 | 59.3 |
+| A7210 | Fences and Gates Phase 20 | FENCES & GATES | Task | Not Started | 2027-07-28 | 2027-08-09 |  |  | 0 | 24.3 |
 | A7220 | Sewer Manholes | CIVIL & ARCHITECTURE | Task | Completed | 2026-09-26 | 2026-10-11 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A7230 | Storm Manholes | CIVIL & ARCHITECTURE | Task | Completed | 2026-09-26 | 2026-10-11 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A7240 | Telecome Manholes | CIVIL & ARCHITECTURE | Task | Completed | 2026-09-26 | 2026-10-11 | 2025-12-06 | 2026-01-29 | 100 |  |
@@ -748,105 +748,105 @@
 | A10200 | Fire Alarm  systems & cable | MECHANICAL | Task | Completed | 2026-10-28 | 2026-11-08 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A10210 | Water Heater | MECHANICAL | Task | Completed | 2026-10-28 | 2026-11-08 | 2025-12-06 | 2026-01-29 | 100 |  |
 | A10220 | Termination Kits | MECHANICAL | Task | Completed | 2026-10-28 | 2026-11-08 | 2025-12-06 | 2026-01-29 | 100 |  |
-| A10230 | Sewer Manholes | Long Lead Items Civil | Task | In Progress | 2026-11-09 | 2027-02-21 | 2026-08-11 |  | 0 | -37.9 |
-| A10240 | Storm Manholes | Long Lead Items Civil | Task | In Progress | 2026-11-09 | 2027-02-21 | 2026-08-11 |  | 0 | 19.4 |
-| A10250 | Telecome Manholes | Long Lead Items Civil | Task | Not Started | 2026-10-10 | 2027-02-01 |  |  | 0 | -37.9 |
+| A10230 | Sewer Manholes | Long Lead Items Civil | Task | In Progress | 2026-11-09 | 2027-02-21 | 2026-08-11 |  | 0 | -31.9 |
+| A10240 | Storm Manholes | Long Lead Items Civil | Task | In Progress | 2026-11-09 | 2027-02-21 | 2026-08-11 |  | 0 | 22.5 |
+| A10250 | Telecome Manholes | Long Lead Items Civil | Task | Not Started | 2026-10-03 | 2027-01-25 |  |  | 0 | -31.9 |
 | A10260 | Lighting Poles Precast Foundation & Bolt | Short Lead Item Civil | Task | Completed | 2027-09-22 | 2027-12-12 | 2026-08-11 | 2026-09-28 | 100 |  |
-| A10270 | Concrete curb | Short Lead Item Civil | Task | In Progress | 2026-11-09 | 2027-01-17 | 2026-08-11 |  | 0 | -82.8 |
-| A10280 | Aggregate Sub-Grade & Basecourse | Short Lead Item Civil | Task | In Progress | 2026-11-09 | 2026-12-10 | 2026-08-11 |  | 0 | -63.0 |
-| A10290 | Asphalt | Short Lead Item Civil | Task | In Progress | 2027-01-10 | 2027-02-10 | 2026-08-11 |  | 0 | -77.0 |
-| A10300 | Traffic signage | Short Lead Item Civil | Task | In Progress | 2026-10-10 | 2026-12-05 | 2026-09-07 |  | 0 | -68.5 |
-| A10310 | Plant and trees | Short Lead Item Civil | Task | Not Started | 2026-10-25 | 2026-11-29 |  |  | 0 | 226.5 |
-| A10320 | Garbage Bin, trash & litter | Short Lead Item Civil | Task | Not Started | 2026-11-29 | 2027-02-02 |  |  | 0 | 226.5 |
+| A10270 | Concrete curb | Short Lead Item Civil | Task | In Progress | 2026-11-09 | 2027-01-17 | 2026-08-11 |  | 0 | -86.8 |
+| A10280 | Aggregate Sub-Grade & Basecourse | Short Lead Item Civil | Task | In Progress | 2026-11-09 | 2026-12-10 | 2026-08-11 |  | 0 | -58 |
+| A10290 | Asphalt | Short Lead Item Civil | Task | In Progress | 2027-01-10 | 2027-02-10 | 2026-08-11 |  | 0 | -72 |
+| A10300 | Traffic signage | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-28 |  |  | 0 | -102.8 |
+| A10310 | Plant and trees | Short Lead Item Civil | Task | Not Started | 2026-10-18 | 2026-11-22 |  |  | 0 | 244.9 |
+| A10320 | Garbage Bin, trash & litter | Short Lead Item Civil | Task | Not Started | 2026-11-22 | 2027-01-26 |  |  | 0 | 244.9 |
 | A10330 | Paving blocks 200*100*60 mm | Short Lead Item Civil | Task | Completed | 2027-09-06 | 2027-11-09 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10340 | Blocks & Accessories | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-08-03 | 2026-08-11 | 2026-09-28 | 100 |  |
-| A10350 | Access ladder | Short Lead Item Civil | Task | Completed | 2026-10-10 | 2026-11-10 | 2026-09-10 | 2026-10-06 | 100 |  |
-| A10360 | Stanless steel Handril | Short Lead Item Civil | Task | In Progress | 2026-10-10 | 2026-11-26 | 2026-09-10 |  | 0 | 121.6 |
+| A10350 | Access ladder | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10360 | Stanless steel Handril | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-19 |  |  | 0 | 119.0 |
 | A10370 | Ductile iron steel cover | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-08-19 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10380 | Structural steel | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-09-05 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10390 | Waterproofing Work | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-09-21 | 2026-08-11 | 2026-09-28 | 100 |  |
-| A10400 | Waterproofing membrane | Short Lead Item Civil | Task | In Progress | 2026-10-10 | 2026-11-10 | 2026-09-15 |  | 0 | 120.2 |
-| A10410 | Doors - (Glass & Sliding) | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-26 |  |  | 0 | 100.6 |
-| A10420 | Windows | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-12-13 |  |  | 0 | 86.6 |
-| A10430 | Paints & Epoxy | Short Lead Item Civil | Task | In Progress | 2026-10-10 | 2026-12-13 | 2026-10-01 |  | 0 | 120.2 |
-| A10440 | Granite, ceramic | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10450 | Terrazzo tiles | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10460 | Fall ceiling | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10470 | Safety Bollards | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10480 | Geotextile Membrane | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-12-13 |  |  | 0 | 86.6 |
-| A10490 | Curbstone | Short Lead Item Civil | Task | In Progress | 2027-02-11 | 2027-03-15 | 2026-08-11 |  | 0 | 131.4 |
-| A10500 | Sidewalk interlock/Concrete Pavers | Short Lead Item Civil | Task | In Progress | 2026-10-10 | 2026-11-10 | 2026-10-07 |  | 0 | 123 |
-| A10510 | Trees and Bushes-Landscape ( soft) | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-12-13 |  |  | 0 | 86.6 |
-| A10520 | Concrete Masonry Blocks | Short Lead Item Civil | Task | In Progress | 2027-07-03 | 2027-08-03 | 2026-08-11 |  | 0 | 141.2 |
+| A10400 | Waterproofing membrane | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10410 | Doors - (Glass & Sliding) | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-19 |  |  | 0 | 119.0 |
+| A10420 | Windows | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | 105.0 |
+| A10430 | Paints & Epoxy | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | 105.0 |
+| A10440 | Granite, ceramic | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10450 | Terrazzo tiles | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10460 | Fall ceiling | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10470 | Safety Bollards | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10480 | Geotextile Membrane | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | 105.0 |
+| A10490 | Curbstone | Short Lead Item Civil | Task | In Progress | 2027-02-11 | 2027-03-15 | 2026-08-11 |  | 0 | 144.2 |
+| A10500 | Sidewalk interlock/Concrete Pavers | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10510 | Trees and Bushes-Landscape ( soft) | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | 105.0 |
+| A10520 | Concrete Masonry Blocks | Short Lead Item Civil | Task | In Progress | 2027-07-03 | 2027-08-03 | 2026-08-11 |  | 0 | 159.6 |
 | A10530 | Block work Accessories | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-07-26 | 2026-08-11 | 2026-09-28 | 100 |  |
-| A10540 | Plaster to receive tile finish | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-02 |  |  | 0 | 104.8 |
-| A10550 | Paint for External Areas | Short Lead Item Civil | Task | In Progress | 2026-10-27 | 2026-11-19 | 2026-09-27 |  | 0 | 104.8 |
-| A10560 | Paint for Internal Areas | Short Lead Item Civil | Task | In Progress | 2026-11-21 | 2026-12-14 | 2026-09-21 |  | 0 | 104.8 |
+| A10540 | Plaster to receive tile finish | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-10-26 |  |  | 0 | 110.6 |
+| A10550 | Paint for External Areas | Short Lead Item Civil | Task | In Progress | 2026-10-27 | 2026-11-19 | 2026-09-27 |  | 0 | 110.6 |
+| A10560 | Paint for Internal Areas | Short Lead Item Civil | Task | In Progress | 2026-11-21 | 2026-12-14 | 2026-09-21 |  | 0 | 110.6 |
 | A10570 | Concrete repair & Curing material | Short Lead Item Civil | Task | Completed | 2027-09-14 | 2027-09-29 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10580 | Bonding agent | Short Lead Item Civil | Task | Completed | 2027-09-30 | 2027-10-16 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10590 | Concrete Mix for PC works | Short Lead Item Civil | Task | Completed | 2027-07-03 | 2027-07-18 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10600 | Concrete Mix for RC works | Short Lead Item Civil | Task | Completed | 2027-07-19 | 2027-08-03 | 2026-08-11 | 2026-09-28 | 100 |  |
 | A10610 | Reinforcement Steel | Short Lead Item Civil | Task | Completed | 2027-08-04 | 2027-08-19 | 2026-08-11 | 2026-09-28 | 100 |  |
-| A10620 | Sand Cement Plaster for Internal Walls | Short Lead Item Civil | Task | Completed | 2027-02-01 | 2027-02-17 | 2026-08-10 | 2027-02-17 | 100 |  |
-| A10630 | Sand Cement Plaster for External Walls | Short Lead Item Civil | Task | Completed | 2026-10-10 | 2026-10-25 | 2026-08-10 | 2027-02-17 | 100 |  |
-| A10640 | Porcelain Tiling | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10650 | False Ceilings | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10660 | Carpet Flooring | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-10 |  |  | 0 | 114.6 |
-| A10670 | Landscape (Hard ) | Short Lead Item Civil | Task | Not Started | 2026-10-10 | 2026-11-26 |  |  | 0 | 100.6 |
-| A10680 | Guard Rails | Short Lead Item Civil | Task | Not Started | 2026-12-14 | 2027-01-14 |  |  | 0 | 58.6 |
-| A10690 | Public address System | Long Lead Items Elec | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | -124.8 |
-| A10700 | Fire Pump | Long Lead Items Elec | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | -124.8 |
+| A10620 | Sand Cement Plaster for Internal Walls | Short Lead Item Civil | Task | Not Started | 2027-01-25 | 2027-02-10 |  |  | 0 | 48.1 |
+| A10630 | Sand Cement Plaster for External Walls | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-10-18 |  |  | 0 | 147.0 |
+| A10640 | Porcelain Tiling | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10650 | False Ceilings | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10660 | Carpet Flooring | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-03 |  |  | 0 | 133.0 |
+| A10670 | Landscape (Hard ) | Short Lead Item Civil | Task | Not Started | 2026-10-03 | 2026-11-19 |  |  | 0 | 119.0 |
+| A10680 | Guard Rails | Short Lead Item Civil | Task | Not Started | 2026-12-07 | 2027-01-07 |  |  | 0 | 77.0 |
+| A10690 | Public address System | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -123.3 |
+| A10700 | Fire Pump | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -123.3 |
 | A10710 | Unit Substation & RMU | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10720 | MV Cables | Long Lead Items Elec | Task | Completed | 2026-11-09 | 2027-04-20 | 2026-08-11 | 2026-10-06 | 100 |  |
+| A10720 | MV Cables | Long Lead Items Elec | Task | In Progress | 2026-11-09 | 2027-04-20 | 2026-08-11 |  | 0 | -60.3 |
 | A10730 | LV Cables | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10740 | LV Wire | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10750 | Electrical Panels | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10760 | LV Conductors (part of the panels) | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10770 | Underground Ducts-UPVC | Long Lead Items Elec | Task | Completed | 2026-11-22 | 2027-03-31 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10780 | Underground Ducts-HDPE | Short Lead Item Elec | Task | Completed | 2026-11-22 | 2027-01-09 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10790 | External Lighting Fixtures | Short Lead Item Elec | Task | In Progress | 2026-10-10 | 2026-12-13 | 2026-09-10 |  | 0 | -63.8 |
-| A10800 | Street Lights Lighting Fixtures | Long Lead Items Elec | Task | In Progress | 2026-10-10 | 2027-02-16 | 2026-09-10 |  | 0 | -72.7 |
-| A10810 | Street Lighting Poles | Long Lead Items Elec | Task | In Progress | 2026-10-03 | 2027-02-09 | 2026-09-22 |  | 0 | -68.2 |
+| A10790 | External Lighting Fixtures | Short Lead Item Elec | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | -109.3 |
+| A10800 | Street Lights Lighting Fixtures | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2027-02-09 |  |  | 0 | -165.3 |
+| A10810 | Street Lighting Poles | Long Lead Items Elec | Task | In Progress | 2026-10-03 | 2027-02-09 | 2026-09-22 |  | 0 | -109.3 |
 | A10820 | PVC & EMT conduits | Long Lead Items Elec | Task | Completed | 2026-12-02 | 2027-04-11 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10830 | LIGHTING FIXTURES (buildings Internal) | Short Lead Item Elec | Task | In Progress | 2026-10-10 | 2026-12-29 | 2026-09-10 |  | 0 | -66.0 |
+| A10830 | LIGHTING FIXTURES (buildings Internal) | Short Lead Item Elec | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -123.3 |
 | A10840 | Wiring Devices and Switches | Short Lead Item Elec | Task | Completed | 2026-11-16 | 2027-03-25 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10850 | DALI Cabinet (external lighting control) | Short Lead Item Elec | Task | Not Started | 2026-10-10 | 2027-02-16 |  |  | 0 | -166.8 |
+| A10850 | DALI Cabinet (external lighting control) | Short Lead Item Elec | Task | Not Started | 2026-10-03 | 2027-02-09 |  |  | 0 | -165.3 |
 | A10860 | Earthing System | Short Lead Item Elec | Task | Completed | 2026-11-16 | 2027-02-04 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10870 | CCTV Pole | Long Lead Items Elec | Task | Not Started | 2026-10-10 | 2027-02-16 |  |  | 0 | -166.8 |
+| A10870 | CCTV Pole | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2027-02-09 |  |  | 0 | -165.3 |
 | A10880 | GI duct work with insulation & Support | Short Lead Item Elec | Task | Completed | 2026-11-16 | 2027-02-04 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10890 | Drain & Clean Out | Long Lead Items Elec | Task | Completed | 2026-11-16 | 2027-03-25 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10900 | Split AC Package | Long Lead Items Elec | Task | Not Started | 2026-10-10 | 2027-02-16 |  |  | 0 | -166.8 |
-| A10910 | Ventilation Unit-Fan | Long Lead Items Elec | Task | Not Started | 2026-10-10 | 2027-02-16 |  |  | 0 | -166.8 |
+| A10900 | Split AC Package | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2027-02-09 |  |  | 0 | -165.3 |
+| A10910 | Ventilation Unit-Fan | Long Lead Items Elec | Task | Not Started | 2026-10-03 | 2027-02-09 |  |  | 0 | -165.3 |
 | A10920 | Cable glands, lugs and accessories | Short Lead Item Elec | Task | Completed | 2026-11-22 | 2026-12-23 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10930 | Secondary Irrigation System | MECHANICAL | Task | In Progress | 2027-06-16 | 2027-09-21 | 2026-08-11 |  | 0 | 58.2 |
+| A10930 | Secondary Irrigation System | MECHANICAL | Task | In Progress | 2027-06-16 | 2027-09-21 | 2026-08-11 |  | 0 | 64.2 |
 | A10940 | HDPE Pipes & Fittings | MECHANICAL | Task | Completed | 2026-11-05 | 2027-01-09 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10950 | UPVC Pipes & Fittings | MECHANICAL | Task | Completed | 2026-11-09 | 2026-12-10 | 2026-08-11 | 2026-09-26 | 100 |  |
 | A10960 | GRP Pipes & Fittings | MECHANICAL | Task | Completed | 2026-11-09 | 2026-12-27 | 2026-08-11 | 2026-09-26 | 100 |  |
-| A10970 | Sanitory Ware, Plumbing Fixtures, Toilet Accessories | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-13 |  |  | 0 | 86.6 |
-| A10980 | Water Tank | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | 72.6 |
-| A10990 | Gate Valves | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | -12.6 |
-| A11000 | Surface Box for Gate valve | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-17 |  |  | 0 | -2.6 |
-| A11010 | Air Release Valves | MECHANICAL | Task | Not Started | 2026-10-10 | 2027-01-10 |  |  | 0 | -22.6 |
-| A11020 | Washout Valves | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-06 |  |  | 0 | 7.4 |
-| A11030 | Connection Chamber | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | -12.6 |
-| A11040 | HDPE House Connections Chambers | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | 183.9 |
+| A10970 | Sanitory Ware, Plumbing Fixtures, Toilet Accessories | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | 105.0 |
+| A10980 | Water Tank | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | 91.0 |
+| A10990 | Gate Valves | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -9.5 |
+| A11000 | Surface Box for Gate valve | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-10 |  |  | 0 | 0.5 |
+| A11010 | Air Release Valves | MECHANICAL | Task | Not Started | 2026-10-03 | 2027-01-03 |  |  | 0 | -19.5 |
+| A11020 | Washout Valves | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-11-29 |  |  | 0 | 10.5 |
+| A11030 | Connection Chamber | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -9.5 |
+| A11040 | HDPE House Connections Chambers | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | 202.3 |
 | A11050 | Hose Bib | MECHANICAL | Task | Completed | 2027-01-10 | 2027-03-31 | 2026-08-21 | 2026-09-28 | 100 |  |
 | A11060 | PPR Pipes & Fittings | MECHANICAL | Task | Completed | 2027-04-01 | 2027-06-21 | 2026-08-21 | 2026-09-28 | 100 |  |
-| A11070 | Water Hammer Arrestor & TMV | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-11-02 |  |  | 0 | 203.9 |
-| A11080 | Sewage Manholes Cover with frame | MECHANICAL | Task | Completed | 2026-11-09 | 2027-01-28 | 2026-08-21 | 2026-10-08 | 100 |  |
-| A11090 | Irrigation Manholes Cover with frame | MECHANICAL | Task | Completed | 2027-01-30 | 2027-04-04 | 2026-08-21 | 2026-10-08 | 100 |  |
-| A11100 | Potable Manholes Cover with frame | MECHANICAL | Task | Completed | 2027-04-05 | 2027-06-08 | 2026-08-21 | 2026-10-08 | 100 |  |
-| A11110 | ICT Manholes Cover with frame | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-13 |  |  | 0 | -11 |
+| A11070 | Water Hammer Arrestor & TMV | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-10-26 |  |  | 0 | 222.3 |
+| A11080 | Sewage Manholes Cover with frame | MECHANICAL | Task | In Progress | 2026-11-09 | 2027-01-28 | 2026-08-21 |  | 0 | 27.5 |
+| A11090 | Irrigation Manholes Cover with frame | MECHANICAL | Task | In Progress | 2027-01-30 | 2027-04-04 | 2026-08-21 |  | 0 | 72.6 |
+| A11100 | Potable Manholes Cover with frame | MECHANICAL | Task | In Progress | 2027-04-05 | 2027-06-08 | 2026-08-21 |  | 0 | 52.1 |
+| A11110 | ICT Manholes Cover with frame | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-06 |  |  | 0 | -5 |
 | A11120 | Polyethylene Sheets | MECHANICAL | Task | Completed | 2026-11-05 | 2027-01-09 | 2026-08-21 | 2026-09-26 | 100 |  |
 | A11130 | Warning Tape | MECHANICAL | Task | Completed | 2026-11-09 | 2026-11-24 | 2026-08-21 | 2026-09-26 | 100 |  |
-| A11140 | Bitumen Paint (Bituminous Damp proofing) | MECHANICAL | Task | Completed | 2026-11-09 | 2026-11-24 | 2026-08-21 | 2026-10-08 | 100 |  |
+| A11140 | Bitumen Paint (Bituminous Damp proofing) | MECHANICAL | Task | In Progress | 2026-11-09 | 2026-11-24 | 2026-08-21 |  | 0 | 44.4 |
 | A11150 | Anti Termite & Pest Contro; | MECHANICAL | Task | Completed | 2026-11-09 | 2026-12-02 | 2026-08-21 | 2026-09-26 | 100 |  |
 | A11160 | Warning tape | MECHANICAL | Task | Completed | 2026-11-09 | 2026-12-02 | 2026-08-21 | 2026-09-26 | 100 |  |
-| A11170 | Fire Hydrants | MECHANICAL | Task | In Progress | 2026-12-02 | 2027-03-09 | 2026-08-21 |  | 0 | 44.8 |
-| A11180 | OS & Y Gate valve | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | -12.6 |
-| A11190 | Fire Extinguisher | MECHANICAL | Task | Not Started | 2026-10-24 | 2027-01-13 |  |  | 0 | 60 |
-| A11200 | Fire Alarm  systems & cable | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | 72.6 |
-| A11210 | Water Heater | MECHANICAL | Task | Not Started | 2026-10-10 | 2026-12-29 |  |  | 0 | 72.6 |
+| A11170 | Fire Hydrants | MECHANICAL | Task | In Progress | 2026-12-02 | 2027-03-09 | 2026-08-21 |  | 0 | 39.5 |
+| A11180 | OS & Y Gate valve | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | -9.5 |
+| A11190 | Fire Extinguisher | MECHANICAL | Task | Not Started | 2026-10-27 | 2027-01-16 |  |  | 0 | 70.0 |
+| A11200 | Fire Alarm  systems & cable | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | 91.0 |
+| A11210 | Water Heater | MECHANICAL | Task | Not Started | 2026-10-03 | 2026-12-22 |  |  | 0 | 91.0 |
 | A11220 | Termination Kits | MECHANICAL | Task | Completed | 2027-04-05 | 2027-05-23 | 2026-08-21 | 2026-09-28 | 100 |  |
 | A38560 | Excavation | MH-1.10 / MH-1.11 | Task | Completed | 2027-04-04 | 2027-04-05 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38580 | Pipe Laying | MH-1.10 / MH-1.11 | Task | Completed | 2027-04-06 | 2027-04-14 | 2026-03-04 | 2026-04-05 | 100 |  |
@@ -871,258 +871,258 @@
 | A38800 | Excavation | MH-1.12.0 / MH-1.12.1 | Task | Completed | 2027-04-13 | 2027-04-14 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38810 | Pipe Laying | MH-1.12.0 / MH-1.12.1 | Task | Completed | 2027-04-15 | 2027-04-24 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38820 | Install Manhole | MH-1.12.0 / MH-1.12.1 | Task | Completed | 2027-04-15 | 2027-04-19 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A38830 | Testing & Inspection | MH-1.12.0 / MH-1.12.1 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A38830 | Testing & Inspection | MH-1.12.0 / MH-1.12.1 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A38840 | Backfilling & Compaction | MH-1.12.0 / MH-1.12.1 | Task | Completed | 2027-05-06 | 2027-05-10 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38850 | Excavation | MH-1.12.1 / MH-1.12.2 | Task | Completed | 2027-04-15 | 2027-04-17 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38860 | Pipe Laying | MH-1.12.1 / MH-1.12.2 | Task | Completed | 2027-04-18 | 2027-04-26 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38870 | Install Manhole | MH-1.12.1 / MH-1.12.2 | Task | Completed | 2027-04-18 | 2027-04-21 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A38880 | Testing & Inspection | MH-1.12.1 / MH-1.12.2 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A38880 | Testing & Inspection | MH-1.12.1 / MH-1.12.2 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A38890 | Backfilling & Compaction | MH-1.12.1 / MH-1.12.2 | Task | Completed | 2027-05-11 | 2027-05-15 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38900 | Excavation | MH-1.12.1.0 / MH-1.12.1.1 | Task | Completed | 2027-04-18 | 2027-04-19 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38910 | Pipe Laying | MH-1.12.1.0 / MH-1.12.1.1 | Task | Completed | 2027-04-20 | 2027-04-28 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38920 | Install Manhole | MH-1.12.1.0 / MH-1.12.1.1 | Task | Completed | 2027-04-20 | 2027-04-24 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A38930 | Testing & Inspection | MH-1.12.1.0 / MH-1.12.1.1 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A38930 | Testing & Inspection | MH-1.12.1.0 / MH-1.12.1.1 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A38940 | Backfilling & Compaction | MH-1.12.1.0 / MH-1.12.1.1 | Task | Completed | 2027-05-16 | 2027-05-19 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38950 | Excavation | MH-1.12.2 / MH-1.12.3 | Task | Completed | 2027-04-20 | 2027-04-21 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38960 | Pipe Laying | MH-1.12.2 / MH-1.12.3 | Task | Completed | 2027-04-22 | 2027-05-01 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A38970 | Install Manhole | MH-1.12.2 / MH-1.12.3 | Task | Completed | 2027-04-22 | 2027-04-26 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A38980 | Testing & Inspection | MH-1.12.2 / MH-1.12.3 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A38980 | Testing & Inspection | MH-1.12.2 / MH-1.12.3 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A38990 | Backfilling & Compaction | MH-1.12.2 / MH-1.12.3 | Task | Completed | 2027-05-20 | 2027-05-24 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39000 | Excavation | MH-1.12.2.0 / MH-1.12.2.1 | Task | Completed | 2027-04-22 | 2027-04-24 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39010 | Pipe Laying | MH-1.12.2.0 / MH-1.12.2.1 | Task | Completed | 2027-04-25 | 2027-05-03 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39020 | Install Manhole | MH-1.12.2.0 / MH-1.12.2.1 | Task | Completed | 2027-04-25 | 2027-04-28 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39030 | Testing & Inspection | MH-1.12.2.0 / MH-1.12.2.1 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39030 | Testing & Inspection | MH-1.12.2.0 / MH-1.12.2.1 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39040 | Backfilling & Compaction | MH-1.12.2.0 / MH-1.12.2.1 | Task | Completed | 2027-05-25 | 2027-05-29 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39050 | Excavation | MH-1.12.3.0 / MH-1.12.3.1 | Task | Completed | 2027-04-25 | 2027-04-26 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39060 | Pipe Laying | MH-1.12.3.0 / MH-1.12.3.1 | Task | Completed | 2027-04-27 | 2027-05-05 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39070 | Install Manhole | MH-1.12.3.0 / MH-1.12.3.1 | Task | Completed | 2027-04-27 | 2027-05-01 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39080 | Testing & Inspection | MH-1.12.3.0 / MH-1.12.3.1 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39080 | Testing & Inspection | MH-1.12.3.0 / MH-1.12.3.1 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39090 | Backfilling & Compaction | MH-1.12.3.0 / MH-1.12.3.1 | Task | Completed | 2027-05-30 | 2027-06-02 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39100 | Excavation | MH-1.12.3.1 / MH-1.12.3.2 | Task | Completed | 2027-04-27 | 2027-04-28 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39110 | Pipe Laying | MH-1.12.3.1 / MH-1.12.3.2 | Task | Completed | 2027-04-29 | 2027-05-08 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39120 | Install Manhole | MH-1.12.3.1 / MH-1.12.3.2 | Task | Completed | 2027-04-29 | 2027-05-03 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39130 | Testing & Inspection | MH-1.12.3.1 / MH-1.12.3.2 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39130 | Testing & Inspection | MH-1.12.3.1 / MH-1.12.3.2 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39140 | Backfilling & Compaction | MH-1.12.3.1 / MH-1.12.3.2 | Task | Completed | 2027-06-03 | 2027-06-07 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39150 | Excavation | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Completed | 2027-04-29 | 2027-05-01 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39160 | Pipe Laying | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Completed | 2027-05-02 | 2027-05-10 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39170 | Install Manhole | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Completed | 2027-05-02 | 2027-05-05 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39180 | Testing & Inspection | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39180 | Testing & Inspection | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39190 | Backfilling & Compaction | MH-1.12.3.2.0 / MH-1.12.3.2.1 | Task | Completed | 2027-06-08 | 2027-06-12 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39200 | Excavation | MH-1.9 / MH-1.10 | Task | Completed | 2027-05-02 | 2027-05-03 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39210 | Pipe Laying | MH-1.9 / MH-1.10 | Task | Completed | 2027-05-04 | 2027-05-12 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39220 | Install Manhole | MH-1.9 / MH-1.10 | Task | Completed | 2027-05-04 | 2027-05-08 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39230 | Testing & Inspection | MH-1.9 / MH-1.10 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39230 | Testing & Inspection | MH-1.9 / MH-1.10 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39240 | Backfilling & Compaction | MH-1.9 / MH-1.10 | Task | Completed | 2027-06-13 | 2027-06-16 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39250 | Excavation | MH-2.17 / MH-2.18 | Task | Completed | 2027-05-04 | 2027-05-05 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39260 | Pipe Laying | MH-2.17 / MH-2.18 | Task | Completed | 2027-05-06 | 2027-05-15 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39270 | Install Manhole | MH-2.17 / MH-2.18 | Task | Completed | 2027-05-06 | 2027-05-10 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39280 | Testing & Inspection | MH-2.17 / MH-2.18 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39280 | Testing & Inspection | MH-2.17 / MH-2.18 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39290 | Backfilling & Compaction | MH-2.17 / MH-2.18 | Task | Completed | 2027-06-17 | 2027-06-21 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39300 | Excavation | MH-2.18 / MH-2.19 | Task | Completed | 2027-05-06 | 2027-05-08 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39310 | Pipe Laying | MH-2.18 / MH-2.19 | Task | Completed | 2027-05-09 | 2027-05-17 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39320 | Install Manhole | MH-2.18 / MH-2.19 | Task | Completed | 2027-05-09 | 2027-05-12 | 2026-03-04 | 2026-04-05 | 100 |  |
-| A39330 | Testing & Inspection | MH-2.18 / MH-2.19 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39330 | Testing & Inspection | MH-2.18 / MH-2.19 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39340 | Backfilling & Compaction | MH-2.18 / MH-2.19 | Task | Completed | 2027-06-22 | 2027-06-26 | 2026-03-04 | 2026-04-05 | 100 |  |
 | A39350 | Excavation | MH-2.19 / MH-2.20 | Task | Completed | 2027-05-09 | 2027-05-10 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39360 | Pipe Laying | MH-2.19 / MH-2.20 | Task | Completed | 2027-05-11 | 2027-05-19 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39370 | Install Manhole | MH-2.19 / MH-2.20 | Task | Completed | 2027-05-11 | 2027-05-15 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39380 | Testing & Inspection | MH-2.19 / MH-2.20 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39380 | Testing & Inspection | MH-2.19 / MH-2.20 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39390 | Backfilling & Compaction | MH-2.19 / MH-2.20 | Task | Completed | 2027-06-27 | 2027-06-30 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39400 | Excavation | MH-2.20 / MH-2.21 | Task | Completed | 2027-05-11 | 2027-05-12 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39410 | Pipe Laying | MH-2.20 / MH-2.21 | Task | Completed | 2027-05-13 | 2027-05-22 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39420 | Install Manhole | MH-2.20 / MH-2.21 | Task | Completed | 2027-05-13 | 2027-05-17 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39430 | Testing & Inspection | MH-2.20 / MH-2.21 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39430 | Testing & Inspection | MH-2.20 / MH-2.21 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39440 | Backfilling & Compaction | MH-2.20 / MH-2.21 | Task | Completed | 2027-07-01 | 2027-07-05 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39450 | Excavation | MH-2.21 / MH-2.22 | Task | Completed | 2027-05-13 | 2027-05-15 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39460 | Pipe Laying | MH-2.21 / MH-2.22 | Task | Completed | 2027-05-16 | 2027-05-19 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39470 | Install Manhole | MH-2.21 / MH-2.22 | Task | Completed | 2027-05-16 | 2027-05-19 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39480 | Testing & Inspection | MH-2.21 / MH-2.22 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39480 | Testing & Inspection | MH-2.21 / MH-2.22 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39490 | Backfilling & Compaction | MH-2.21 / MH-2.22 | Task | Completed | 2027-07-06 | 2027-07-10 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39500 | Excavation | MH-2.22 / MH-2.23 | Task | Completed | 2027-05-16 | 2027-05-17 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39510 | Pipe Laying | MH-2.22 / MH-2.23 | Task | Completed | 2027-05-18 | 2027-05-26 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39520 | Install Manhole | MH-2.22 / MH-2.23 | Task | Completed | 2027-05-18 | 2027-05-22 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39530 | Testing & Inspection | MH-2.22 / MH-2.23 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39530 | Testing & Inspection | MH-2.22 / MH-2.23 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39540 | Backfilling & Compaction | MH-2.22 / MH-2.23 | Task | Completed | 2027-07-11 | 2027-07-14 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39550 | Excavation | MH-2.23 / MH-2.24 | Task | Completed | 2027-05-18 | 2027-05-19 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39560 | Pipe Laying | MH-2.23 / MH-2.24 | Task | Completed | 2027-05-20 | 2027-05-29 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39570 | Install Manhole | MH-2.23 / MH-2.24 | Task | Completed | 2027-05-20 | 2027-05-24 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39580 | Testing & Inspection | MH-2.23 / MH-2.24 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 51 |
+| A39580 | Testing & Inspection | MH-2.23 / MH-2.24 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 57 |
 | A39590 | Backfilling & Compaction | MH-2.23 / MH-2.24 | Task | Completed | 2027-07-15 | 2027-07-19 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39600 | Excavation | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | 19.4 |
-| A39610 | Pipe Laying | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-21 | 2026-11-29 |  |  | 0 | 41 |
-| A39620 | Install Manhole | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-21 | 2026-11-24 |  |  | 0 | 47 |
-| A39630 | Testing & Inspection | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | 41 |
-| A39640 | Backfilling & Compaction | MH-2.24 / MH-2.25 | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | 41 |
-| A39650 | Excavation | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | 19.4 |
-| A39660 | Pipe Laying | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-23 | 2026-12-01 |  |  | 0 | 43 |
-| A39670 | Install Manhole | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | 49 |
-| A39680 | Testing & Inspection | MH-2.25 / MH-2.26 | Task | Not Started | 2026-12-02 | 2026-12-03 |  |  | 0 | 43 |
-| A39690 | Backfilling & Compaction | MH-2.25 / MH-2.26 | Task | Not Started | 2026-12-07 | 2026-12-10 |  |  | 0 | 41 |
+| A39600 | Excavation | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-11 | 2026-11-12 |  |  | 0 | 22.5 |
+| A39610 | Pipe Laying | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-14 | 2026-11-22 |  |  | 0 | 47 |
+| A39620 | Install Manhole | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | 53 |
+| A39630 | Testing & Inspection | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 47 |
+| A39640 | Backfilling & Compaction | MH-2.24 / MH-2.25 | Task | Not Started | 2026-11-25 | 2026-11-29 |  |  | 0 | 47 |
+| A39650 | Excavation | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 22.5 |
+| A39660 | Pipe Laying | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-16 | 2026-11-24 |  |  | 0 | 49 |
+| A39670 | Install Manhole | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 55 |
+| A39680 | Testing & Inspection | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-25 | 2026-11-26 |  |  | 0 | 49 |
+| A39690 | Backfilling & Compaction | MH-2.25 / MH-2.26 | Task | Not Started | 2026-11-30 | 2026-12-03 |  |  | 0 | 47 |
 | A39700 | Excavation | MH-2.8.7 / MH-2.8.8 | Task | Completed | 2027-05-25 | 2027-05-26 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39710 | Pipe Laying | MH-2.8.7 / MH-2.8.8 | Task | Completed | 2027-05-27 | 2027-06-05 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39720 | Install Manhole | MH-2.8.7 / MH-2.8.8 | Task | Completed | 2027-05-27 | 2027-05-31 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39730 | Testing & Inspection | MH-2.8.7 / MH-2.8.8 | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | 55 |
+| A39730 | Testing & Inspection | MH-2.8.7 / MH-2.8.8 | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | 61 |
 | A39740 | Backfilling & Compaction | MH-2.8.7 / MH-2.8.8 | Task | Completed | 2027-07-29 | 2027-08-02 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39750 | Excavation | MH-1.7.0 / MH-1.7.1 | Task | Completed | 2026-12-20 | 2026-12-24 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39760 | Pipe Laying | MH-1.7.0 / MH-1.7.1 | Task | Completed | 2026-12-24 | 2027-01-03 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39770 | Install Manhole | MH-1.7.0 / MH-1.7.1 | Task | Completed | 2026-12-24 | 2026-12-29 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39780 | Testing & Inspection | MH-1.7.0 / MH-1.7.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A39780 | Testing & Inspection | MH-1.7.0 / MH-1.7.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A39790 | Backfilling & Compaction | MH-1.7.0 / MH-1.7.1 | Task | Completed | 2027-01-05 | 2027-01-10 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39800 | Excavation | MH-1.7.1 / MH-1.7.2 | Task | Completed | 2026-12-24 | 2026-12-29 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39810 | Pipe Laying | MH-1.7.1 / MH-1.7.2 | Task | Completed | 2026-12-29 | 2027-01-07 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39820 | Install Manhole | MH-1.7.1 / MH-1.7.2 | Task | Completed | 2026-12-29 | 2027-01-03 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39830 | Testing & Inspection | MH-1.7.1 / MH-1.7.2 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A39830 | Testing & Inspection | MH-1.7.1 / MH-1.7.2 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A39840 | Backfilling & Compaction | MH-1.7.1 / MH-1.7.2 | Task | Completed | 2027-01-10 | 2027-01-14 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39850 | Excavation | MH-1.7.1.0 / MH-1.7.1.1 | Task | Completed | 2026-12-29 | 2027-01-03 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39860 | Pipe Laying | MH-1.7.1.0 / MH-1.7.1.1 | Task | Completed | 2027-01-03 | 2027-01-12 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39870 | Install Manhole | MH-1.7.1.0 / MH-1.7.1.1 | Task | Completed | 2027-01-03 | 2027-01-07 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39880 | Testing & Inspection | MH-1.7.1.0 / MH-1.7.1.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A39880 | Testing & Inspection | MH-1.7.1.0 / MH-1.7.1.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A39890 | Backfilling & Compaction | MH-1.7.1.0 / MH-1.7.1.1 | Task | Completed | 2027-01-14 | 2027-01-19 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39900 | Excavation | MH-1.7.10 / MH-1.7.11 | Task | Completed | 2027-01-03 | 2027-01-07 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39910 | Pipe Laying | MH-1.7.10 / MH-1.7.11 | Task | Completed | 2027-01-07 | 2027-01-17 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39920 | Install Manhole | MH-1.7.10 / MH-1.7.11 | Task | Completed | 2027-01-07 | 2027-01-12 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39930 | Testing & Inspection | MH-1.7.10 / MH-1.7.11 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A39930 | Testing & Inspection | MH-1.7.10 / MH-1.7.11 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A39940 | Backfilling & Compaction | MH-1.7.10 / MH-1.7.11 | Task | Completed | 2027-01-19 | 2027-01-24 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39950 | Excavation | MH-1.7.10.0 / MH-1.7.10.1 | Task | Completed | 2027-01-07 | 2027-01-12 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39960 | Pipe Laying | MH-1.7.10.0 / MH-1.7.10.1 | Task | Completed | 2027-01-12 | 2027-01-21 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A39970 | Install Manhole | MH-1.7.10.0 / MH-1.7.10.1 | Task | Completed | 2027-01-12 | 2027-01-17 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A39980 | Testing & Inspection | MH-1.7.10.0 / MH-1.7.10.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A39980 | Testing & Inspection | MH-1.7.10.0 / MH-1.7.10.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A39990 | Backfilling & Compaction | MH-1.7.10.0 / MH-1.7.10.1 | Task | Completed | 2027-01-24 | 2027-01-28 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40000 | Excavation | MH-1.7.11 / MH-1.7.12 | Task | Completed | 2027-01-12 | 2027-01-17 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40010 | Pipe Laying | MH-1.7.11 / MH-1.7.12 | Task | Completed | 2027-01-17 | 2027-01-26 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40020 | Install Manhole | MH-1.7.11 / MH-1.7.12 | Task | Completed | 2027-01-17 | 2027-01-21 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40030 | Testing & Inspection | MH-1.7.11 / MH-1.7.12 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40030 | Testing & Inspection | MH-1.7.11 / MH-1.7.12 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40040 | Backfilling & Compaction | MH-1.7.11 / MH-1.7.12 | Task | Completed | 2027-01-28 | 2027-02-02 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40050 | Excavation | MH-1.7.2 / MH-1.7.3 | Task | Completed | 2027-01-17 | 2027-01-21 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40060 | Pipe Laying | MH-1.7.2 / MH-1.7.3 | Task | Completed | 2027-01-21 | 2027-01-31 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40070 | Install Manhole | MH-1.7.2 / MH-1.7.3 | Task | Completed | 2027-01-21 | 2027-01-26 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40080 | Testing & Inspection | MH-1.7.2 / MH-1.7.3 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40080 | Testing & Inspection | MH-1.7.2 / MH-1.7.3 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40090 | Backfilling & Compaction | MH-1.7.2 / MH-1.7.3 | Task | Completed | 2027-02-02 | 2027-02-07 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40100 | Excavation | MH-1.7.2.0 / MH-1.7.2.1 | Task | Completed | 2027-01-21 | 2027-01-26 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40110 | Pipe Laying | MH-1.7.2.0 / MH-1.7.2.1 | Task | Completed | 2027-01-26 | 2027-02-04 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40120 | Install Manhole | MH-1.7.2.0 / MH-1.7.2.1 | Task | Completed | 2027-01-26 | 2027-01-31 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40130 | Testing & Inspection | MH-1.7.2.0 / MH-1.7.2.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40130 | Testing & Inspection | MH-1.7.2.0 / MH-1.7.2.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40140 | Backfilling & Compaction | MH-1.7.2.0 / MH-1.7.2.1 | Task | Completed | 2027-02-07 | 2027-02-11 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40150 | Excavation | MH-1.7.3 / MH-1.7.4 | Task | Completed | 2027-01-26 | 2027-01-31 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40160 | Pipe Laying | MH-1.7.3 / MH-1.7.4 | Task | Completed | 2027-01-31 | 2027-02-09 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40170 | Install Manhole | MH-1.7.3 / MH-1.7.4 | Task | Completed | 2027-01-31 | 2027-02-04 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40180 | Testing & Inspection | MH-1.7.3 / MH-1.7.4 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40180 | Testing & Inspection | MH-1.7.3 / MH-1.7.4 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40190 | Backfilling & Compaction | MH-1.7.3 / MH-1.7.4 | Task | Completed | 2027-02-11 | 2027-02-16 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40200 | Excavation | MH-1.7.3.0 / MH-1.7.3.1 | Task | Completed | 2027-01-31 | 2027-02-04 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40210 | Pipe Laying | MH-1.7.3.0 / MH-1.7.3.1 | Task | Completed | 2027-02-04 | 2027-02-14 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40220 | Install Manhole | MH-1.7.3.0 / MH-1.7.3.1 | Task | Completed | 2027-02-04 | 2027-02-09 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40230 | Testing & Inspection | MH-1.7.3.0 / MH-1.7.3.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40230 | Testing & Inspection | MH-1.7.3.0 / MH-1.7.3.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40240 | Backfilling & Compaction | MH-1.7.3.0 / MH-1.7.3.1 | Task | Completed | 2027-02-16 | 2027-02-21 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40250 | Excavation | MH-1.7.4 / MH-1.7.5 | Task | Completed | 2027-02-04 | 2027-02-09 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40260 | Pipe Laying | MH-1.7.4 / MH-1.7.5 | Task | Completed | 2027-02-09 | 2027-02-18 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40270 | Install Manhole | MH-1.7.4 / MH-1.7.5 | Task | Completed | 2027-02-09 | 2027-02-14 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40280 | Testing & Inspection | MH-1.7.4 / MH-1.7.5 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40280 | Testing & Inspection | MH-1.7.4 / MH-1.7.5 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40290 | Backfilling & Compaction | MH-1.7.4 / MH-1.7.5 | Task | Completed | 2027-02-21 | 2027-02-25 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40300 | Excavation | MH-1.7.4.0 / MH-1.7.4.1 | Task | Completed | 2027-02-09 | 2027-02-14 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40310 | Pipe Laying | MH-1.7.4.0 / MH-1.7.4.1 | Task | Completed | 2027-02-14 | 2027-02-23 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40320 | Install Manhole | MH-1.7.4.0 / MH-1.7.4.1 | Task | Completed | 2027-02-14 | 2027-02-18 | 2026-04-04 | 2026-05-05 | 100 |  |
-| A40330 | Testing & Inspection | MH-1.7.4.0 / MH-1.7.4.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40330 | Testing & Inspection | MH-1.7.4.0 / MH-1.7.4.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40340 | Backfilling & Compaction | MH-1.7.4.0 / MH-1.7.4.1 | Task | Completed | 2027-02-25 | 2027-03-02 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40350 | Excavation | MH-1.7.5 / MH-1.7.6 | Task | Completed | 2027-02-14 | 2027-02-18 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40360 | Pipe Laying | MH-1.7.5 / MH-1.7.6 | Task | Completed | 2027-02-18 | 2027-02-23 | 2026-04-04 | 2026-05-05 | 100 |  |
 | A40370 | Install Manhole | MH-1.7.5 / MH-1.7.6 | Task | Completed | 2027-02-18 | 2027-02-23 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40380 | Testing & Inspection | MH-1.7.5 / MH-1.7.6 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40380 | Testing & Inspection | MH-1.7.5 / MH-1.7.6 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40390 | Backfilling & Compaction | MH-1.7.5 / MH-1.7.6 | Task | Completed | 2027-03-02 | 2027-03-07 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40400 | Excavation | MH-1.7.5.0 / MH-1.7.5.1 | Task | Completed | 2027-02-18 | 2027-02-23 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40410 | Pipe Laying | MH-1.7.5.0 / MH-1.7.5.1 | Task | Completed | 2027-02-23 | 2027-03-04 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40420 | Install Manhole | MH-1.7.5.0 / MH-1.7.5.1 | Task | Completed | 2027-02-23 | 2027-02-28 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40430 | Testing & Inspection | MH-1.7.5.0 / MH-1.7.5.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40430 | Testing & Inspection | MH-1.7.5.0 / MH-1.7.5.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40440 | Backfilling & Compaction | MH-1.7.5.0 / MH-1.7.5.1 | Task | Completed | 2027-03-07 | 2027-03-11 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40450 | Excavation | MH-1.7.6 / MH-1.7.7 | Task | Completed | 2027-02-23 | 2027-02-28 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40460 | Pipe Laying | MH-1.7.6 / MH-1.7.7 | Task | Completed | 2027-02-28 | 2027-03-09 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40470 | Install Manhole | MH-1.7.6 / MH-1.7.7 | Task | Completed | 2027-02-28 | 2027-03-04 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40480 | Testing & Inspection | MH-1.7.6 / MH-1.7.7 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40480 | Testing & Inspection | MH-1.7.6 / MH-1.7.7 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40490 | Backfilling & Compaction | MH-1.7.6 / MH-1.7.7 | Task | Completed | 2027-03-11 | 2027-03-16 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40500 | Excavation | MH-1.7.6.0 / MH-1.7.6.1 | Task | Completed | 2027-02-28 | 2027-03-04 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40510 | Pipe Laying | MH-1.7.6.0 / MH-1.7.6.1 | Task | Completed | 2027-03-04 | 2027-03-14 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40520 | Install Manhole | MH-1.7.6.0 / MH-1.7.6.1 | Task | Completed | 2027-03-04 | 2027-03-09 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40530 | Testing & Inspection | MH-1.7.6.0 / MH-1.7.6.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40530 | Testing & Inspection | MH-1.7.6.0 / MH-1.7.6.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40540 | Backfilling & Compaction | MH-1.7.6.0 / MH-1.7.6.1 | Task | Completed | 2027-03-16 | 2027-03-21 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40550 | Excavation | MH-1.7.7 / MH-1.7.8 | Task | Completed | 2027-03-04 | 2027-03-09 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40560 | Pipe Laying | MH-1.7.7 / MH-1.7.8 | Task | Completed | 2027-03-09 | 2027-03-18 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40570 | Install Manhole | MH-1.7.7 / MH-1.7.8 | Task | Completed | 2027-03-09 | 2027-03-14 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40580 | Testing & Inspection | MH-1.7.7 / MH-1.7.8 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40580 | Testing & Inspection | MH-1.7.7 / MH-1.7.8 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40590 | Backfilling & Compaction | MH-1.7.7 / MH-1.7.8 | Task | Completed | 2027-03-21 | 2027-03-25 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40600 | Excavation | MH-1.7.7.0 / MH-1.7.7.1 | Task | Completed | 2027-03-09 | 2027-03-14 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40610 | Pipe Laying | MH-1.7.7.0 / MH-1.7.7.1 | Task | Completed | 2027-03-14 | 2027-03-23 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40620 | Install Manhole | MH-1.7.7.0 / MH-1.7.7.1 | Task | Completed | 2027-03-14 | 2027-03-18 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40630 | Testing & Inspection | MH-1.7.7.0 / MH-1.7.7.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40630 | Testing & Inspection | MH-1.7.7.0 / MH-1.7.7.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40640 | Backfilling & Compaction | MH-1.7.7.0 / MH-1.7.7.1 | Task | Completed | 2027-03-25 | 2027-03-30 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40650 | Excavation | MH-1.7.8 / MH-1.7.9 | Task | Completed | 2027-03-14 | 2027-03-18 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40660 | Pipe Laying | MH-1.7.8 / MH-1.7.9 | Task | Completed | 2027-03-18 | 2027-03-28 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40670 | Install Manhole | MH-1.7.8 / MH-1.7.9 | Task | Completed | 2027-03-18 | 2027-03-23 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40680 | Testing & Inspection | MH-1.7.8 / MH-1.7.9 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40680 | Testing & Inspection | MH-1.7.8 / MH-1.7.9 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40690 | Backfilling & Compaction | MH-1.7.8 / MH-1.7.9 | Task | Completed | 2027-03-30 | 2027-04-04 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40700 | Excavation | MH-1.7.8.0 / MH-1.7.8.1 | Task | Completed | 2027-03-18 | 2027-03-23 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40710 | Pipe Laying | MH-1.7.8.0 / MH-1.7.8.1 | Task | Completed | 2027-03-23 | 2027-04-01 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40720 | Install Manhole | MH-1.7.8.0 / MH-1.7.8.1 | Task | Completed | 2027-03-23 | 2027-03-28 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40730 | Testing & Inspection | MH-1.7.8.0 / MH-1.7.8.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40730 | Testing & Inspection | MH-1.7.8.0 / MH-1.7.8.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40740 | Backfilling & Compaction | MH-1.7.8.0 / MH-1.7.8.1 | Task | Completed | 2027-04-04 | 2027-04-08 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40750 | Excavation | MH-1.7.9 / MH-1.7.10 | Task | Completed | 2027-03-23 | 2027-03-28 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40760 | Pipe Laying | MH-1.7.9 / MH-1.7.10 | Task | Completed | 2027-03-28 | 2027-04-06 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40770 | Install Manhole | MH-1.7.9 / MH-1.7.10 | Task | Completed | 2027-03-28 | 2027-04-01 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40780 | Testing & Inspection | MH-1.7.9 / MH-1.7.10 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40780 | Testing & Inspection | MH-1.7.9 / MH-1.7.10 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40790 | Backfilling & Compaction | MH-1.7.9 / MH-1.7.10 | Task | Completed | 2027-04-08 | 2027-04-13 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40800 | Excavation | MH-1.7.9.0 / MH-1.7.9.1 | Task | Completed | 2027-03-28 | 2027-04-01 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40810 | Pipe Laying | MH-1.7.9.0 / MH-1.7.9.1 | Task | Completed | 2027-04-01 | 2027-04-11 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40820 | Install Manhole | MH-1.7.9.0 / MH-1.7.9.1 | Task | Completed | 2027-04-01 | 2027-04-06 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40830 | Testing & Inspection | MH-1.7.9.0 / MH-1.7.9.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40830 | Testing & Inspection | MH-1.7.9.0 / MH-1.7.9.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40840 | Backfilling & Compaction | MH-1.7.9.0 / MH-1.7.9.1 | Task | Completed | 2027-04-13 | 2027-04-18 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40850 | Excavation | MH-2.19.2 / MH-2.19.3 | Task | Completed | 2027-04-01 | 2027-04-06 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40860 | Pipe Laying | MH-2.19.2 / MH-2.19.3 | Task | Completed | 2027-04-06 | 2027-04-15 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40870 | Install Manhole | MH-2.19.2 / MH-2.19.3 | Task | Completed | 2027-04-06 | 2027-04-11 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40880 | Testing & Inspection | MH-2.19.2 / MH-2.19.3 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40880 | Testing & Inspection | MH-2.19.2 / MH-2.19.3 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40890 | Backfilling & Compaction | MH-2.19.2 / MH-2.19.3 | Task | Completed | 2027-04-18 | 2027-04-22 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40900 | Excavation | MH-2.19.3 / MH-2.19.4 | Task | Completed | 2027-04-06 | 2027-04-11 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40910 | Pipe Laying | MH-2.19.3 / MH-2.19.4 | Task | Completed | 2027-04-11 | 2027-04-20 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40920 | Install Manhole | MH-2.19.3 / MH-2.19.4 | Task | Completed | 2027-04-11 | 2027-04-15 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40930 | Testing & Inspection | MH-2.19.3 / MH-2.19.4 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40930 | Testing & Inspection | MH-2.19.3 / MH-2.19.4 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40940 | Backfilling & Compaction | MH-2.19.3 / MH-2.19.4 | Task | Completed | 2027-04-22 | 2027-04-27 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40950 | Excavation | MH-2.19.3.0 / MH-2.19.3.1 | Task | Completed | 2027-04-11 | 2027-04-15 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40960 | Pipe Laying | MH-2.19.3.0 / MH-2.19.3.1 | Task | Completed | 2027-04-15 | 2027-04-25 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A40970 | Install Manhole | MH-2.19.3.0 / MH-2.19.3.1 | Task | Completed | 2027-04-15 | 2027-04-20 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A40980 | Testing & Inspection | MH-2.19.3.0 / MH-2.19.3.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A40980 | Testing & Inspection | MH-2.19.3.0 / MH-2.19.3.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A40990 | Backfilling & Compaction | MH-2.19.3.0 / MH-2.19.3.1 | Task | Completed | 2027-04-27 | 2027-05-02 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41000 | Excavation | MH-2.19.4 / MH-2.19.5 | Task | Completed | 2027-04-15 | 2027-04-20 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41010 | Pipe Laying | MH-2.19.4 / MH-2.19.5 | Task | Completed | 2027-04-20 | 2027-04-29 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41020 | Install Manhole | MH-2.19.4 / MH-2.19.5 | Task | Completed | 2027-04-20 | 2027-04-25 | 2026-05-04 | 2026-06-05 | 100 |  |
-| A41030 | Testing & Inspection | MH-2.19.4 / MH-2.19.5 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
+| A41030 | Testing & Inspection | MH-2.19.4 / MH-2.19.5 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
 | A41040 | Backfilling & Compaction | MH-2.19.4 / MH-2.19.5 | Task | Completed | 2027-05-02 | 2027-05-06 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41050 | Excavation | MH-2.19.4.0 / MH-2.19.4.1 | Task | Completed | 2027-04-20 | 2027-04-25 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41060 | Pipe Laying | MH-2.19.4.0 / MH-2.19.4.1 | Task | Completed | 2027-04-25 | 2027-05-04 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41070 | Install Manhole | MH-2.19.4.0 / MH-2.19.4.1 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41080 | Testing & Inspection | MH-2.19.4.0 / MH-2.19.4.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 58.9 |
-| A41090 | Backfilling & Compaction | MH-2.19.4.0 / MH-2.19.4.1 | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 58.9 |
+| A41080 | Testing & Inspection | MH-2.19.4.0 / MH-2.19.4.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 64.9 |
+| A41090 | Backfilling & Compaction | MH-2.19.4.0 / MH-2.19.4.1 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 64.9 |
 | A41100 | Excavation | MH-2.19.5 / MH-2.19.6 | Task | Completed | 2027-04-25 | 2027-04-29 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41110 | Pipe Laying | MH-2.19.5 / MH-2.19.6 | Task | Completed | 2027-04-29 | 2027-05-09 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41120 | Install Manhole | MH-2.19.5 / MH-2.19.6 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41130 | Testing & Inspection | MH-2.19.5 / MH-2.19.6 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 62.9 |
-| A41140 | Backfilling & Compaction | MH-2.19.5 / MH-2.19.6 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 58.9 |
+| A41130 | Testing & Inspection | MH-2.19.5 / MH-2.19.6 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 68.9 |
+| A41140 | Backfilling & Compaction | MH-2.19.5 / MH-2.19.6 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 64.9 |
 | A41150 | Excavation | MH-2.19.5.0 / MH-2.19.5.1 | Task | Completed | 2027-04-29 | 2027-05-04 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41160 | Pipe Laying | MH-2.19.5.0 / MH-2.19.5.1 | Task | Completed | 2027-05-04 | 2027-05-13 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41170 | Install Manhole | MH-2.19.5.0 / MH-2.19.5.1 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41180 | Testing & Inspection | MH-2.19.5.0 / MH-2.19.5.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 66.9 |
-| A41190 | Backfilling & Compaction | MH-2.19.5.0 / MH-2.19.5.1 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 58.9 |
+| A41180 | Testing & Inspection | MH-2.19.5.0 / MH-2.19.5.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 72.9 |
+| A41190 | Backfilling & Compaction | MH-2.19.5.0 / MH-2.19.5.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 64.9 |
 | A41200 | Excavation | MH-2.19.6 / MH-2.19.7 | Task | Completed | 2027-05-04 | 2027-05-09 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41210 | Pipe Laying | MH-2.19.6 / MH-2.19.7 | Task | Completed | 2027-05-09 | 2027-05-18 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41220 | Install Manhole | MH-2.19.6 / MH-2.19.7 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41230 | Testing & Inspection | MH-2.19.6 / MH-2.19.7 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 70.9 |
-| A41240 | Backfilling & Compaction | MH-2.19.6 / MH-2.19.7 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | 58.9 |
+| A41230 | Testing & Inspection | MH-2.19.6 / MH-2.19.7 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 76.9 |
+| A41240 | Backfilling & Compaction | MH-2.19.6 / MH-2.19.7 | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 64.9 |
 | A41250 | Excavation | MH-2.19.6.0 / MH-2.19.6.1 | Task | Completed | 2027-05-09 | 2027-05-13 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41260 | Pipe Laying | MH-2.19.6.0 / MH-2.19.6.1 | Task | Completed | 2027-05-13 | 2027-05-23 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41270 | Install Manhole | MH-2.19.6.0 / MH-2.19.6.1 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41280 | Testing & Inspection | MH-2.19.6.0 / MH-2.19.6.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 74.9 |
-| A41290 | Backfilling & Compaction | MH-2.19.6.0 / MH-2.19.6.1 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 58.9 |
+| A41280 | Testing & Inspection | MH-2.19.6.0 / MH-2.19.6.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 80.9 |
+| A41290 | Backfilling & Compaction | MH-2.19.6.0 / MH-2.19.6.1 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 64.9 |
 | A41300 | Excavation | MH-2.19.7 / MH-2.19.8 | Task | Completed | 2027-05-13 | 2027-05-18 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41310 | Pipe Laying | MH-2.19.7 / MH-2.19.8 | Task | Completed | 2027-05-18 | 2027-05-27 | 2026-08-21 | 2026-10-01 | 100 |  |
 | A41320 | Install Manhole | MH-2.19.7 / MH-2.19.8 | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-21 | 2026-10-01 | 100 |  |
-| A41330 | Testing & Inspection | MH-2.19.7 / MH-2.19.8 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 78.9 |
-| A41340 | Backfilling & Compaction | MH-2.19.7 / MH-2.19.8 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 58.9 |
+| A41330 | Testing & Inspection | MH-2.19.7 / MH-2.19.8 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 84.9 |
+| A41340 | Backfilling & Compaction | MH-2.19.7 / MH-2.19.8 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 64.9 |
 | A41350 | Excavation | MH-1.10.10 / MH-1.10.11 | Task | Completed | 2027-05-30 | 2027-05-31 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41360 | Pipe Laying | MH-1.10.10 / MH-1.10.11 | Task | Completed | 2027-02-21 | 2027-02-22 | 2026-05-04 | 2026-06-05 | 100 |  |
 | A41370 | Install Manhole | MH-1.10.10 / MH-1.10.11 | Task | Completed | 2027-02-21 | 2027-02-22 | 2026-05-04 | 2026-06-05 | 100 |  |
@@ -1391,72 +1391,72 @@
 | A44100 | Excavation | MH-2.10.0 / MH-2.10.1 | Task | Completed | 2027-01-16 | 2027-01-20 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44110 | Pipe Laying | MH-2.10.0 / MH-2.10.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44120 | Install Manhole | MH-2.10.0 / MH-2.10.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44130 | Testing & Inspection | MH-2.10.0 / MH-2.10.1 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -30.1 |
-| A44140 | Backfilling & Compaction | MH-2.10.0 / MH-2.10.1 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | -34.1 |
+| A44130 | Testing & Inspection | MH-2.10.0 / MH-2.10.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -24.1 |
+| A44140 | Backfilling & Compaction | MH-2.10.0 / MH-2.10.1 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | -28.1 |
 | A44150 | Excavation | MH-2.11 / MH-2.12 | Task | Completed | 2027-01-20 | 2027-01-25 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44160 | Pipe Laying | MH-2.11 / MH-2.12 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44170 | Install Manhole | MH-2.11 / MH-2.12 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44180 | Testing & Inspection | MH-2.11 / MH-2.12 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -26.1 |
-| A44190 | Backfilling & Compaction | MH-2.11 / MH-2.12 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | -34.1 |
+| A44180 | Testing & Inspection | MH-2.11 / MH-2.12 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -20.1 |
+| A44190 | Backfilling & Compaction | MH-2.11 / MH-2.12 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | -28.1 |
 | A44200 | Excavation | MH-2.11.0 / MH-2.11.1 | Task | Completed | 2027-01-25 | 2027-01-30 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44210 | Pipe Laying | MH-2.11.0 / MH-2.11.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44220 | Install Manhole | MH-2.11.0 / MH-2.11.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44230 | Testing & Inspection | MH-2.11.0 / MH-2.11.1 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -22.1 |
-| A44240 | Backfilling & Compaction | MH-2.11.0 / MH-2.11.1 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | -34.1 |
+| A44230 | Testing & Inspection | MH-2.11.0 / MH-2.11.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -16.1 |
+| A44240 | Backfilling & Compaction | MH-2.11.0 / MH-2.11.1 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | -28.1 |
 | A44050 | Excavation | MH-2.10 / MH-2.11 | Task | Completed | 2027-01-11 | 2027-01-16 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44060 | Pipe Laying | MH-2.10 / MH-2.11 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44070 | Install Manhole | MH-2.10 / MH-2.11 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44080 | Testing & Inspection | MH-2.10 / MH-2.11 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -34.1 |
-| A44090 | Backfilling & Compaction | MH-2.10 / MH-2.11 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | -34.1 |
+| A44080 | Testing & Inspection | MH-2.10 / MH-2.11 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -28.1 |
+| A44090 | Backfilling & Compaction | MH-2.10 / MH-2.11 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | -28.1 |
 | A44300 | Excavation | MH-2.12.0 / MH-2.12.1 | Task | Completed | 2027-02-03 | 2027-02-08 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44310 | Pipe Laying | MH-2.12.0 / MH-2.12.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44320 | Install Manhole | MH-2.12.0 / MH-2.12.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44330 | Testing & Inspection | MH-2.12.0 / MH-2.12.1 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -14.1 |
-| A44340 | Backfilling & Compaction | MH-2.12.0 / MH-2.12.1 | Task | Not Started | 2026-11-28 | 2026-12-02 |  |  | 0 | -34.1 |
+| A44330 | Testing & Inspection | MH-2.12.0 / MH-2.12.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -8.1 |
+| A44340 | Backfilling & Compaction | MH-2.12.0 / MH-2.12.1 | Task | Not Started | 2026-11-21 | 2026-11-25 |  |  | 0 | -28.1 |
 | A44350 | Excavation | MH-2.13 / MH-2.14 | Task | Completed | 2027-02-08 | 2027-02-13 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44360 | Pipe Laying | MH-2.13 / MH-2.14 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44370 | Install Manhole | MH-2.13 / MH-2.14 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44380 | Testing & Inspection | MH-2.13 / MH-2.14 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -10.1 |
-| A44390 | Backfilling & Compaction | MH-2.13 / MH-2.14 | Task | Not Started | 2026-12-02 | 2026-12-07 |  |  | 0 | -34.1 |
+| A44380 | Testing & Inspection | MH-2.13 / MH-2.14 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -4.1 |
+| A44390 | Backfilling & Compaction | MH-2.13 / MH-2.14 | Task | Not Started | 2026-11-25 | 2026-11-30 |  |  | 0 | -28.1 |
 | A44400 | Excavation | MH-2.13.0 / MH-2.13.1 | Task | Completed | 2027-02-13 | 2027-02-17 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44410 | Pipe Laying | MH-2.13.0 / MH-2.13.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44420 | Install Manhole | MH-2.13.0 / MH-2.13.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44430 | Testing & Inspection | MH-2.13.0 / MH-2.13.1 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -6.1 |
-| A44440 | Backfilling & Compaction | MH-2.13.0 / MH-2.13.1 | Task | Not Started | 2026-12-07 | 2026-12-12 |  |  | 0 | -34.1 |
+| A44430 | Testing & Inspection | MH-2.13.0 / MH-2.13.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -0.1 |
+| A44440 | Backfilling & Compaction | MH-2.13.0 / MH-2.13.1 | Task | Not Started | 2026-11-30 | 2026-12-05 |  |  | 0 | -28.1 |
 | A44250 | Excavation | MH-2.12 / MH-2.13 | Task | Completed | 2027-01-30 | 2027-02-03 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44260 | Pipe Laying | MH-2.12 / MH-2.13 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44270 | Install Manhole | MH-2.12 / MH-2.13 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44280 | Testing & Inspection | MH-2.12 / MH-2.13 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -18.1 |
-| A44290 | Backfilling & Compaction | MH-2.12 / MH-2.13 | Task | Not Started | 2026-11-23 | 2026-11-28 |  |  | 0 | -34.1 |
+| A44280 | Testing & Inspection | MH-2.12 / MH-2.13 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -12.1 |
+| A44290 | Backfilling & Compaction | MH-2.12 / MH-2.13 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | -28.1 |
 | A44500 | Excavation | MH-2.14.0 / MH-2.14.1 | Task | Completed | 2027-02-22 | 2027-02-27 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44510 | Pipe Laying | MH-2.14.0 / MH-2.14.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44520 | Install Manhole | MH-2.14.0 / MH-2.14.1 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44530 | Testing & Inspection | MH-2.14.0 / MH-2.14.1 | Task | Completed | 2026-10-24 | 2026-10-26 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44540 | Backfilling & Compaction | MH-2.14.0 / MH-2.14.1 | Task | Not Started | 2026-12-16 | 2026-12-21 |  |  | 0 | -34.1 |
+| A44540 | Backfilling & Compaction | MH-2.14.0 / MH-2.14.1 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | -28.1 |
 | A44550 | Excavation | MH-2.15 / MH-2.16 | Task | Completed | 2027-02-27 | 2027-03-03 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44560 | Pipe Laying | MH-2.15 / MH-2.16 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44570 | Install Manhole | MH-2.15 / MH-2.16 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44580 | Testing & Inspection | MH-2.15 / MH-2.16 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 5.9 |
-| A44590 | Backfilling & Compaction | MH-2.15 / MH-2.16 | Task | Not Started | 2026-12-21 | 2026-12-26 |  |  | 0 | -34.1 |
+| A44580 | Testing & Inspection | MH-2.15 / MH-2.16 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 11.9 |
+| A44590 | Backfilling & Compaction | MH-2.15 / MH-2.16 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | -28.1 |
 | A44600 | Excavation | MH-2.15.0 / MH-2.15.1 | Task | Completed | 2027-03-03 | 2027-03-08 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44610 | Pipe Laying | MH-2.15.0 / MH-2.15.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44620 | Install Manhole | MH-2.15.0 / MH-2.15.1 | Task | Completed | 2026-10-26 | 2026-10-31 | 2026-06-04 | 2026-09-30 | 100 |  |
-| A44630 | Testing & Inspection | MH-2.15.0 / MH-2.15.1 | Task | Not Started | 2026-11-02 | 2027-03-01 |  |  | 0 | -90.1 |
+| A44630 | Testing & Inspection | MH-2.15.0 / MH-2.15.1 | Task | Not Started | 2026-10-26 | 2027-02-22 |  |  | 0 | -84.1 |
 | A44640 | Backfilling & Compaction | MH-2.15.0 / MH-2.15.1 | Task | Completed | 2026-12-19 | 2026-12-23 | 2026-06-04 | 2026-09-30 | 100 |  |
 | A44450 | Excavation | MH-2.14 / MH-2.15 | Task | Completed | 2027-02-17 | 2027-02-22 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44460 | Pipe Laying | MH-2.14 / MH-2.15 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44470 | Install Manhole | MH-2.14 / MH-2.15 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44480 | Testing & Inspection | MH-2.14 / MH-2.15 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | -2.1 |
-| A44490 | Backfilling & Compaction | MH-2.14 / MH-2.15 | Task | Not Started | 2026-12-12 | 2026-12-16 |  |  | 0 | -34.1 |
+| A44480 | Testing & Inspection | MH-2.14 / MH-2.15 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 3.9 |
+| A44490 | Backfilling & Compaction | MH-2.14 / MH-2.15 | Task | Not Started | 2026-12-05 | 2026-12-09 |  |  | 0 | -28.1 |
 | A44700 | Excavation | MH-2.16.0 / MH-2.16.1 | Task | Completed | 2027-03-13 | 2027-03-17 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44710 | Pipe Laying | MH-2.16.0 / MH-2.16.1 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44720 | Install Manhole | MH-2.16.0 / MH-2.16.1 | Task | Completed | 2026-10-26 | 2026-10-31 | 2026-06-04 | 2026-09-30 | 100 |  |
-| A44730 | Testing & Inspection | MH-2.16.0 / MH-2.16.1 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 9.9 |
+| A44730 | Testing & Inspection | MH-2.16.0 / MH-2.16.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 15.9 |
 | A44740 | Backfilling & Compaction | MH-2.16.0 / MH-2.16.1 | Task | Completed | 2026-12-28 | 2027-01-02 | 2026-06-04 | 2026-09-30 | 100 |  |
 | A44650 | Excavation | MH-2.16 / MH-2.17 | Task | Completed | 2027-03-08 | 2027-03-13 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44660 | Pipe Laying | MH-2.16 / MH-2.17 | Task | Completed | 2026-10-19 | 2026-10-28 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44670 | Install Manhole | MH-2.16 / MH-2.17 | Task | Completed | 2026-10-26 | 2026-10-31 | 2026-06-04 | 2026-09-30 | 100 |  |
-| A44680 | Testing & Inspection | MH-2.16 / MH-2.17 | Task | Not Started | 2026-11-02 | 2027-03-01 |  |  | 0 | -90.1 |
+| A44680 | Testing & Inspection | MH-2.16 / MH-2.17 | Task | Not Started | 2026-10-26 | 2027-02-22 |  |  | 0 | -84.1 |
 | A44690 | Backfilling & Compaction | MH-2.16 / MH-2.17 | Task | Completed | 2026-12-23 | 2026-12-28 | 2026-06-04 | 2026-09-30 | 100 |  |
 | A44800 | Excavation | MH-2.8.1 / MH-2.8.2 | Task | Completed | 2027-01-28 | 2027-02-02 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44810 | Pipe Laying | MH-2.8.1 / MH-2.8.2 | Task | Completed | 2027-02-02 | 2027-02-11 | 2026-06-04 | 2026-07-05 | 100 |  |
@@ -1466,8 +1466,8 @@
 | A44850 | Excavation | MH-2.8.1.0 / MH-2.8.1.1 | Task | Completed | 2027-02-02 | 2027-02-07 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44860 | Pipe Laying | MH-2.8.1.0 / MH-2.8.1.1 | Task | Completed | 2026-11-18 | 2026-11-28 | 2026-09-13 | 2026-09-29 | 100 |  |
 | A44870 | Install Manhole | MH-2.8.1.0 / MH-2.8.1.1 | Task | Completed | 2026-11-18 | 2026-11-23 | 2026-09-13 | 2026-09-29 | 100 |  |
-| A44880 | Testing & Inspection | MH-2.8.1.0 / MH-2.8.1.1 | Task | Completed | 2026-11-02 | 2026-11-04 | 2026-09-13 | 2026-09-29 | 100 |  |
-| A44890 | Backfilling & Compaction | MH-2.8.1.0 / MH-2.8.1.1 | Task | Completed | 2026-11-04 | 2026-11-09 | 2026-09-13 | 2026-09-29 | 100 |  |
+| A44880 | Testing & Inspection | MH-2.8.1.0 / MH-2.8.1.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | -89.3 |
+| A44890 | Backfilling & Compaction | MH-2.8.1.0 / MH-2.8.1.1 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | -89.3 |
 | A44900 | Excavation | MH-2.8.2 / MH-2.8.3 | Task | Completed | 2027-02-07 | 2027-02-11 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44910 | Pipe Laying | MH-2.8.2 / MH-2.8.3 | Task | Completed | 2027-02-11 | 2027-02-21 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A44920 | Install Manhole | MH-2.8.2 / MH-2.8.3 | Task | Completed | 2027-02-11 | 2027-02-16 | 2026-06-04 | 2026-07-05 | 100 |  |
@@ -1484,45 +1484,45 @@
 | A45030 | Testing & Inspection | MH-2.8.3 / MH-2.8.4 | Task | Completed | 2027-03-02 | 2027-03-04 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45040 | Backfilling & Compaction | MH-2.8.3 / MH-2.8.4 | Task | Completed | 2027-03-04 | 2027-03-09 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45050 | Excavation | MH-2.8.3.0 / MH-2.8.3.1 | Task | Completed | 2027-02-21 | 2027-02-25 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45060 | Pipe Laying | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -75.3 |
-| A45070 | Install Manhole | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -69.3 |
-| A45080 | Testing & Inspection | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -75.3 |
-| A45090 | Backfilling & Compaction | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -79.3 |
+| A45060 | Pipe Laying | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -89.3 |
+| A45070 | Install Manhole | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -83.3 |
+| A45080 | Testing & Inspection | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -89.3 |
+| A45090 | Backfilling & Compaction | MH-2.8.3.0 / MH-2.8.3.1 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | -93.3 |
 | A45100 | Excavation | MH-2.8.4 / MH-2.8.5 | Task | Completed | 2027-02-25 | 2027-03-02 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45110 | Pipe Laying | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -71.3 |
-| A45120 | Install Manhole | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -65.3 |
-| A45130 | Testing & Inspection | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -71.3 |
-| A45140 | Backfilling & Compaction | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | -79.3 |
+| A45110 | Pipe Laying | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -85.3 |
+| A45120 | Install Manhole | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -79.3 |
+| A45130 | Testing & Inspection | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -85.3 |
+| A45140 | Backfilling & Compaction | MH-2.8.4 / MH-2.8.5 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | -93.3 |
 | A44950 | Excavation | MH-2.8.2.0 / MH-2.8.2.1 | Task | Completed | 2027-02-11 | 2027-02-16 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A44960 | Pipe Laying | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -79.3 |
-| A44970 | Install Manhole | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -73.3 |
-| A44980 | Testing & Inspection | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -79.3 |
-| A44990 | Backfilling & Compaction | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | -79.3 |
+| A44960 | Pipe Laying | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -93.3 |
+| A44970 | Install Manhole | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -87.3 |
+| A44980 | Testing & Inspection | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -93.3 |
+| A44990 | Backfilling & Compaction | MH-2.8.2.0 / MH-2.8.2.1 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | -93.3 |
 | A45200 | Excavation | MH-2.8.5 / MH-2.8.6 | Task | Completed | 2027-03-07 | 2027-03-11 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45210 | Pipe Laying | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -63.3 |
-| A45220 | Install Manhole | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -57.3 |
-| A45230 | Testing & Inspection | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -63.3 |
-| A45240 | Backfilling & Compaction | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | -79.3 |
+| A45210 | Pipe Laying | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -77.3 |
+| A45220 | Install Manhole | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -71.3 |
+| A45230 | Testing & Inspection | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -77.3 |
+| A45240 | Backfilling & Compaction | MH-2.8.5 / MH-2.8.6 | Task | Not Started | 2026-11-25 | 2026-11-30 |  |  | 0 | -93.3 |
 | A45250 | Excavation | MH-2.8.5.0 / MH-2.8.5.1 | Task | Completed | 2027-03-11 | 2027-03-16 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45260 | Pipe Laying | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -59.3 |
-| A45270 | Install Manhole | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -53.3 |
-| A45280 | Testing & Inspection | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -59.3 |
-| A45290 | Backfilling & Compaction | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | -79.3 |
+| A45260 | Pipe Laying | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -73.3 |
+| A45270 | Install Manhole | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -67.3 |
+| A45280 | Testing & Inspection | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -73.3 |
+| A45290 | Backfilling & Compaction | MH-2.8.5.0 / MH-2.8.5.1 | Task | Not Started | 2026-11-30 | 2026-12-05 |  |  | 0 | -93.3 |
 | A45300 | Excavation | MH-2.8.6 / MH-2.8.7 | Task | Completed | 2027-03-16 | 2027-03-21 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45310 | Pipe Laying | MH-2.8.6 / MH-2.8.7 | Task | Completed | 2027-03-21 | 2027-03-30 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45320 | Install Manhole | MH-2.8.6 / MH-2.8.7 | Task | Completed | 2027-03-21 | 2027-03-25 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45330 | Testing & Inspection | MH-2.8.6 / MH-2.8.7 | Task | Completed | 2027-03-30 | 2027-04-01 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45340 | Backfilling & Compaction | MH-2.8.6 / MH-2.8.7 | Task | Completed | 2027-04-01 | 2027-04-06 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45150 | Excavation | MH-2.8.4.0 / MH-2.8.4.1 | Task | Completed | 2027-03-02 | 2027-03-07 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45160 | Pipe Laying | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -63.3 |
-| A45170 | Install Manhole | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -61.3 |
-| A45180 | Testing & Inspection | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | -63.3 |
-| A45190 | Backfilling & Compaction | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | -79.3 |
+| A45160 | Pipe Laying | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -77.3 |
+| A45170 | Install Manhole | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -75.3 |
+| A45180 | Testing & Inspection | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | -77.3 |
+| A45190 | Backfilling & Compaction | MH-2.8.4.0 / MH-2.8.4.1 | Task | Not Started | 2026-11-21 | 2026-11-25 |  |  | 0 | -93.3 |
 | A45350 | Excavation | MH-2.8.6.0 / MH-2.8.6.1 | Task | Completed | 2027-03-21 | 2027-03-25 | 2026-06-04 | 2026-07-05 | 100 |  |
-| A45360 | Pipe Laying | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | -55.3 |
-| A45370 | Install Manhole | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -49.3 |
-| A45380 | Testing & Inspection | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | -55.3 |
-| A45390 | Backfilling & Compaction | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | -79.3 |
+| A45360 | Pipe Laying | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | -69.3 |
+| A45370 | Install Manhole | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | -63.3 |
+| A45380 | Testing & Inspection | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | -69.3 |
+| A45390 | Backfilling & Compaction | MH-2.8.6.0 / MH-2.8.6.1 | Task | Not Started | 2026-12-05 | 2026-12-09 |  |  | 0 | -93.3 |
 | A45450 | Excavation | MH-1.12.3.2 / MH-1.12.3.3 | Task | Completed | 2027-01-04 | 2027-01-09 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45460 | Pipe Laying | MH-1.12.3.2 / MH-1.12.3.3 | Task | Completed | 2027-01-09 | 2027-01-18 | 2026-06-04 | 2026-07-05 | 100 |  |
 | A45470 | Install Manhole | MH-1.12.3.2 / MH-1.12.3.3 | Task | Completed | 2027-01-09 | 2027-01-13 | 2026-06-04 | 2026-07-05 | 100 |  |
@@ -1863,116 +1863,116 @@
 | A48770 | Install Manhole | MH-2.4 / MH-2.5 | Task | Completed | 2027-07-01 | 2027-07-06 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A48780 | Testing & Inspection | MH-2.4 / MH-2.5 | Task | Completed | 2027-02-11 | 2027-02-16 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A48790 | Backfilling & Compaction | MH-2.4 / MH-2.5 | Task | Completed | 2027-02-16 | 2027-02-21 | 2026-07-04 | 2026-08-05 | 100 |  |
-| A48850 | Excavation | MH-1.9 / MH-1.9 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 20.3 |
-| A48860 | Pipe Laying | MH-1.9 / MH-1.9 | Task | Not Started | 2026-12-19 | 2026-12-28 |  |  | 0 | 20.3 |
-| A48870 | Install Manhole | MH-1.9 / MH-1.9 | Task | Not Started | 2026-12-19 | 2026-12-23 |  |  | 0 | 26.3 |
-| A48880 | Testing & Inspection | MH-1.9 / MH-1.9 | Task | Not Started | 2026-12-28 | 2026-12-30 |  |  | 0 | 20.3 |
-| A48890 | Backfilling & Compaction | MH-1.9 / MH-1.9 | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | 20.3 |
-| A48900 | Excavation | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 17 |
-| A48910 | Pipe Laying | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-14 | 2026-10-22 |  |  | 0 | 17 |
-| A48920 | Install Manhole | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 23 |
-| A48930 | Testing & Inspection | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 17 |
-| A48940 | Backfilling & Compaction | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-26 | 2026-10-29 |  |  | 0 | 17 |
-| A48950 | Excavation | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 17 |
-| A48960 | Pipe Laying | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-19 | 2026-10-27 |  |  | 0 | 17 |
-| A48970 | Install Manhole | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-19 | 2026-10-22 |  |  | 0 | 23 |
-| A48980 | Testing & Inspection | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 17 |
-| A48990 | Backfilling & Compaction | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | 17 |
-| A48800 | Excavation | MH-1.8 / MH-1.9 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 20.3 |
-| A48810 | Pipe Laying | MH-1.8 / MH-1.9 | Task | Not Started | 2026-12-14 | 2026-12-23 |  |  | 0 | 20.3 |
-| A48820 | Install Manhole | MH-1.8 / MH-1.9 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 26.3 |
-| A48830 | Testing & Inspection | MH-1.8 / MH-1.9 | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | 20.3 |
-| A48840 | Backfilling & Compaction | MH-1.8 / MH-1.9 | Task | Not Started | 2026-12-26 | 2026-12-30 |  |  | 0 | 20.3 |
-| A49050 | Excavation | MH-1.2 / MH-1.3 | Task | Not Started | 2027-01-10 | 2027-01-14 |  |  | 0 | -20.7 |
-| A49060 | Pipe Laying | MH-1.2 / MH-1.3 | Task | Not Started | 2027-01-14 | 2027-01-19 |  |  | 0 | -20.7 |
-| A49070 | Install Manhole | MH-1.2 / MH-1.3 | Task | Not Started | 2027-01-14 | 2027-01-19 |  |  | 0 | -16.7 |
-| A49080 | Testing & Inspection | MH-1.2 / MH-1.3 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -20.7 |
-| A49090 | Backfilling & Compaction | MH-1.2 / MH-1.3 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -20.7 |
-| A49100 | Excavation | MH-1.3 / MH-1.4 | Task | Not Started | 2027-01-14 | 2027-01-19 |  |  | 0 | -20.7 |
-| A49110 | Pipe Laying | MH-1.3 / MH-1.4 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -20.7 |
-| A49120 | Install Manhole | MH-1.3 / MH-1.4 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -16.7 |
-| A49130 | Testing & Inspection | MH-1.3 / MH-1.4 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -20.7 |
-| A49140 | Backfilling & Compaction | MH-1.3 / MH-1.4 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -20.7 |
-| A49150 | Excavation | MH-1.4 / MH-1.5 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -20.7 |
-| A49160 | Pipe Laying | MH-1.4 / MH-1.5 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -20.7 |
-| A49170 | Install Manhole | MH-1.4 / MH-1.5 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -16.7 |
-| A49180 | Testing & Inspection | MH-1.4 / MH-1.5 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -20.7 |
-| A49190 | Backfilling & Compaction | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -20.7 |
-| A49000 | Excavation | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-05 | 2027-01-10 |  |  | 0 | -21.0 |
-| A49010 | Pipe Laying | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-10 | 2027-01-14 |  |  | 0 | -20.7 |
-| A49020 | Install Manhole | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-10 | 2027-01-14 |  |  | 0 | -16.7 |
-| A49030 | Testing & Inspection | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-14 | 2027-01-19 |  |  | 0 | -20.7 |
-| A49040 | Backfilling & Compaction | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -20.7 |
-| A49200 | Excavation | MH-1.5 / MH-1.6 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -20.7 |
-| A49210 | Pipe Laying | MH-1.5 / MH-1.6 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -20.7 |
-| A49220 | Install Manhole | MH-1.5 / MH-1.6 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -16.7 |
-| A49230 | Testing & Inspection | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -20.7 |
-| A49240 | Backfilling & Compaction | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -20.7 |
-| A49250 | Excavation | MH-1.6 / MH-1.7 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -20.7 |
-| A49260 | Pipe Laying | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -20.7 |
-| A49270 | Install Manhole | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -16.7 |
-| A49280 | Testing & Inspection | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -20.7 |
-| A49290 | Backfilling & Compaction | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -20.7 |
-| A49300 | Excavation | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -20.7 |
-| A49310 | Pipe Laying | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -20.7 |
-| A49320 | Install Manhole | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -16.7 |
-| A49330 | Testing & Inspection | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -20.7 |
-| A49340 | Backfilling & Compaction | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -20.7 |
-| A49400 | Excavation | MH-1.10.3 / MH-1.10.4 | Task | In Progress | 2027-06-26 | 2027-06-30 | 2026-08-21 |  | 0 | -17.2 |
-| A49410 | Pipe Laying | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -17.2 |
-| A49420 | Install Manhole | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -13.2 |
-| A49430 | Testing & Inspection | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -17.2 |
-| A49440 | Backfilling & Compaction | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -21.0 |
-| A49450 | Excavation | MH-1.10.4 / MH-1.10.5 | Task | In Progress | 2027-06-30 | 2027-07-05 | 2026-08-21 |  | 0 | -14.4 |
-| A49460 | Pipe Laying | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -13.4 |
-| A49470 | Install Manhole | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -9.4 |
-| A49480 | Testing & Inspection | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -13.4 |
-| A49490 | Backfilling & Compaction | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -21.0 |
-| A49500 | Excavation | MH-1.10.5 / MH-1.10.6 | Task | In Progress | 2027-07-05 | 2027-07-10 | 2026-08-21 |  | 0 | -14.4 |
-| A49510 | Pipe Laying | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -9.7 |
-| A49520 | Install Manhole | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -5.7 |
-| A49530 | Testing & Inspection | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -9.7 |
-| A49540 | Backfilling & Compaction | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -21.0 |
-| A49350 | Excavation | MH-1.10.2 / MH-1.10.3 | Task | In Progress | 2027-06-21 | 2027-06-26 | 2026-08-21 |  | 0 | -21.0 |
-| A49360 | Pipe Laying | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-01-10 | 2027-01-14 |  |  | 0 | -21.0 |
-| A49370 | Install Manhole | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-01-10 | 2027-01-14 |  |  | 0 | -17.0 |
-| A49380 | Testing & Inspection | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-01-14 | 2027-01-19 |  |  | 0 | -21.0 |
-| A49390 | Backfilling & Compaction | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -21.0 |
-| A49550 | Excavation | MH-1.10.6 / MH-1.10.7 | Task | In Progress | 2027-07-10 | 2027-07-14 | 2026-08-21 |  | 0 | -14.4 |
-| A49560 | Pipe Laying | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -5.9 |
-| A49570 | Install Manhole | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -1.9 |
-| A49580 | Testing & Inspection | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -5.9 |
-| A49590 | Backfilling & Compaction | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -21.0 |
-| A49600 | Excavation | MH-1.10.7 / MH-1.10.8 | Task | In Progress | 2027-07-14 | 2027-07-19 | 2026-08-21 |  | 0 | -14.4 |
-| A49610 | Pipe Laying | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | -2.2 |
-| A49620 | Install Manhole | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | 1.8 |
-| A49630 | Testing & Inspection | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | -2.2 |
-| A49640 | Backfilling & Compaction | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -21.0 |
-| A49650 | Excavation | MH-1.10.8 / MH-1.10.9 | Task | In Progress | 2027-07-19 | 2027-07-24 | 2026-08-21 |  | 0 | -14.4 |
-| A49660 | Pipe Laying | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | 1.6 |
-| A49670 | Install Manhole | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | 5.6 |
-| A49680 | Testing & Inspection | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | 1.6 |
-| A49690 | Backfilling & Compaction | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -21.0 |
-| A49750 | Excavation | MH-2.1 / MH-2.2 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | -14.4 |
-| A49760 | Pipe Laying | MH-2.1 / MH-2.2 | Task | Not Started | 2027-01-21 | 2027-01-26 |  |  | 0 | -14.4 |
-| A49770 | Install Manhole | MH-2.1 / MH-2.2 | Task | Not Started | 2027-01-21 | 2027-01-26 |  |  | 0 | -10.4 |
-| A49780 | Testing & Inspection | MH-2.1 / MH-2.2 | Task | Not Started | 2027-01-26 | 2027-01-31 |  |  | 0 | -14.4 |
-| A49790 | Backfilling & Compaction | MH-2.1 / MH-2.2 | Task | Not Started | 2027-01-31 | 2027-02-04 |  |  | 0 | -14.4 |
-| A49800 | Excavation | MH-2.2 / MH-2.3 | Task | Not Started | 2027-01-21 | 2027-01-26 |  |  | 0 | -14.4 |
-| A49810 | Pipe Laying | MH-2.2 / MH-2.3 | Task | Not Started | 2027-01-26 | 2027-01-31 |  |  | 0 | -14.4 |
-| A49820 | Install Manhole | MH-2.2 / MH-2.3 | Task | Not Started | 2027-01-26 | 2027-01-31 |  |  | 0 | -10.4 |
-| A49830 | Testing & Inspection | MH-2.2 / MH-2.3 | Task | Not Started | 2027-01-31 | 2027-02-04 |  |  | 0 | -14.4 |
-| A49840 | Backfilling & Compaction | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-04 | 2027-02-09 |  |  | 0 | -14.4 |
+| A48850 | Excavation | MH-1.9 / MH-1.9 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 1.0 |
+| A48860 | Pipe Laying | MH-1.9 / MH-1.9 | Task | Not Started | 2027-01-11 | 2027-01-20 |  |  | 0 | 1.0 |
+| A48870 | Install Manhole | MH-1.9 / MH-1.9 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | 7.0 |
+| A48880 | Testing & Inspection | MH-1.9 / MH-1.9 | Task | Not Started | 2027-01-20 | 2027-01-23 |  |  | 0 | 1.0 |
+| A48890 | Backfilling & Compaction | MH-1.9 / MH-1.9 | Task | Not Started | 2027-01-23 | 2027-01-27 |  |  | 0 | 1.0 |
+| A48900 | Excavation | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 23 |
+| A48910 | Pipe Laying | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-07 | 2026-10-15 |  |  | 0 | 23 |
+| A48920 | Install Manhole | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 29 |
+| A48930 | Testing & Inspection | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-17 | 2026-10-18 |  |  | 0 | 23 |
+| A48940 | Backfilling & Compaction | MH-2.19.0 / MH-2.19.1 | Task | Not Started | 2026-10-19 | 2026-10-22 |  |  | 0 | 23 |
+| A48950 | Excavation | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 23 |
+| A48960 | Pipe Laying | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-12 | 2026-10-20 |  |  | 0 | 23 |
+| A48970 | Install Manhole | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 29 |
+| A48980 | Testing & Inspection | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-21 | 2026-10-22 |  |  | 0 | 23 |
+| A48990 | Backfilling & Compaction | MH-2.19.1 / MH-2.19.2 | Task | Not Started | 2026-10-24 | 2026-10-27 |  |  | 0 | 23 |
+| A48800 | Excavation | MH-1.8 / MH-1.9 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 1.0 |
+| A48810 | Pipe Laying | MH-1.8 / MH-1.9 | Task | Not Started | 2027-01-06 | 2027-01-16 |  |  | 0 | 1.0 |
+| A48820 | Install Manhole | MH-1.8 / MH-1.9 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 7.0 |
+| A48830 | Testing & Inspection | MH-1.8 / MH-1.9 | Task | Not Started | 2027-01-16 | 2027-01-18 |  |  | 0 | 1.0 |
+| A48840 | Backfilling & Compaction | MH-1.8 / MH-1.9 | Task | Not Started | 2027-01-18 | 2027-01-23 |  |  | 0 | 1.0 |
+| A49050 | Excavation | MH-1.2 / MH-1.3 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -40.0 |
+| A49060 | Pipe Laying | MH-1.2 / MH-1.3 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -40.0 |
+| A49070 | Install Manhole | MH-1.2 / MH-1.3 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -36.0 |
+| A49080 | Testing & Inspection | MH-1.2 / MH-1.3 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -40.0 |
+| A49090 | Backfilling & Compaction | MH-1.2 / MH-1.3 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -40.0 |
+| A49100 | Excavation | MH-1.3 / MH-1.4 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -40.0 |
+| A49110 | Pipe Laying | MH-1.3 / MH-1.4 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -40.0 |
+| A49120 | Install Manhole | MH-1.3 / MH-1.4 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -36.0 |
+| A49130 | Testing & Inspection | MH-1.3 / MH-1.4 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -40.0 |
+| A49140 | Backfilling & Compaction | MH-1.3 / MH-1.4 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -40.0 |
+| A49150 | Excavation | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -40.0 |
+| A49160 | Pipe Laying | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -40.0 |
+| A49170 | Install Manhole | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -36.0 |
+| A49180 | Testing & Inspection | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -40.0 |
+| A49190 | Backfilling & Compaction | MH-1.4 / MH-1.5 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -40.0 |
+| A49000 | Excavation | MH-1.1 / MH-1.2 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | -40.3 |
+| A49010 | Pipe Laying | MH-1.1 / MH-1.2 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -40.0 |
+| A49020 | Install Manhole | MH-1.1 / MH-1.2 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -36.0 |
+| A49030 | Testing & Inspection | MH-1.1 / MH-1.2 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -40.0 |
+| A49040 | Backfilling & Compaction | MH-1.1 / MH-1.2 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -40.0 |
+| A49200 | Excavation | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -40.0 |
+| A49210 | Pipe Laying | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -40.0 |
+| A49220 | Install Manhole | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -36.0 |
+| A49230 | Testing & Inspection | MH-1.5 / MH-1.6 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -40.0 |
+| A49240 | Backfilling & Compaction | MH-1.5 / MH-1.6 | Task | Not Started | 2027-03-02 | 2027-03-07 |  |  | 0 | -40.0 |
+| A49250 | Excavation | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -40.0 |
+| A49260 | Pipe Laying | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -40.0 |
+| A49270 | Install Manhole | MH-1.6 / MH-1.7 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -36.0 |
+| A49280 | Testing & Inspection | MH-1.6 / MH-1.7 | Task | Not Started | 2027-03-02 | 2027-03-07 |  |  | 0 | -40.0 |
+| A49290 | Backfilling & Compaction | MH-1.6 / MH-1.7 | Task | Not Started | 2027-03-07 | 2027-03-11 |  |  | 0 | -40.0 |
+| A49300 | Excavation | MH-1.7 / MH-1.8 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -40.0 |
+| A49310 | Pipe Laying | MH-1.7 / MH-1.8 | Task | Not Started | 2027-03-02 | 2027-03-07 |  |  | 0 | -40.0 |
+| A49320 | Install Manhole | MH-1.7 / MH-1.8 | Task | Not Started | 2027-03-02 | 2027-03-07 |  |  | 0 | -36.0 |
+| A49330 | Testing & Inspection | MH-1.7 / MH-1.8 | Task | Not Started | 2027-03-07 | 2027-03-11 |  |  | 0 | -40.0 |
+| A49340 | Backfilling & Compaction | MH-1.7 / MH-1.8 | Task | Not Started | 2027-03-11 | 2027-03-16 |  |  | 0 | -40.0 |
+| A49400 | Excavation | MH-1.10.3 / MH-1.10.4 | Task | In Progress | 2027-06-26 | 2027-06-30 | 2026-08-21 |  | 0 | -36.5 |
+| A49410 | Pipe Laying | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -36.5 |
+| A49420 | Install Manhole | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -32.5 |
+| A49430 | Testing & Inspection | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -36.5 |
+| A49440 | Backfilling & Compaction | MH-1.10.3 / MH-1.10.4 | Task | Not Started | 2027-02-16 | 2027-02-21 |  |  | 0 | -40.3 |
+| A49450 | Excavation | MH-1.10.4 / MH-1.10.5 | Task | In Progress | 2027-06-30 | 2027-07-05 | 2026-08-21 |  | 0 | -33.7 |
+| A49460 | Pipe Laying | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -32.7 |
+| A49470 | Install Manhole | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -28.7 |
+| A49480 | Testing & Inspection | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -32.7 |
+| A49490 | Backfilling & Compaction | MH-1.10.4 / MH-1.10.5 | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | -40.3 |
+| A49500 | Excavation | MH-1.10.5 / MH-1.10.6 | Task | In Progress | 2027-07-05 | 2027-07-10 | 2026-08-21 |  | 0 | -33.7 |
+| A49510 | Pipe Laying | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -29.0 |
+| A49520 | Install Manhole | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -25.0 |
+| A49530 | Testing & Inspection | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -29.0 |
+| A49540 | Backfilling & Compaction | MH-1.10.5 / MH-1.10.6 | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | -40.3 |
+| A49350 | Excavation | MH-1.10.2 / MH-1.10.3 | Task | In Progress | 2027-06-21 | 2027-06-26 | 2026-08-21 |  | 0 | -40.3 |
+| A49360 | Pipe Laying | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -40.3 |
+| A49370 | Install Manhole | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-02-02 | 2027-02-07 |  |  | 0 | -36.3 |
+| A49380 | Testing & Inspection | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-02-07 | 2027-02-11 |  |  | 0 | -40.3 |
+| A49390 | Backfilling & Compaction | MH-1.10.2 / MH-1.10.3 | Task | Not Started | 2027-02-11 | 2027-02-16 |  |  | 0 | -40.3 |
+| A49550 | Excavation | MH-1.10.6 / MH-1.10.7 | Task | In Progress | 2027-07-10 | 2027-07-14 | 2026-08-21 |  | 0 | -33.7 |
+| A49560 | Pipe Laying | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -25.2 |
+| A49570 | Install Manhole | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -21.2 |
+| A49580 | Testing & Inspection | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -25.2 |
+| A49590 | Backfilling & Compaction | MH-1.10.6 / MH-1.10.7 | Task | Not Started | 2027-03-02 | 2027-03-07 |  |  | 0 | -40.3 |
+| A49600 | Excavation | MH-1.10.7 / MH-1.10.8 | Task | In Progress | 2027-07-14 | 2027-07-19 | 2026-08-21 |  | 0 | -33.7 |
+| A49610 | Pipe Laying | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -21.5 |
+| A49620 | Install Manhole | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -17.5 |
+| A49630 | Testing & Inspection | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -21.5 |
+| A49640 | Backfilling & Compaction | MH-1.10.7 / MH-1.10.8 | Task | Not Started | 2027-03-07 | 2027-03-11 |  |  | 0 | -40.3 |
+| A49650 | Excavation | MH-1.10.8 / MH-1.10.9 | Task | In Progress | 2027-07-19 | 2027-07-24 | 2026-08-21 |  | 0 | -33.7 |
+| A49660 | Pipe Laying | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -17.7 |
+| A49670 | Install Manhole | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -13.7 |
+| A49680 | Testing & Inspection | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -17.7 |
+| A49690 | Backfilling & Compaction | MH-1.10.8 / MH-1.10.9 | Task | Not Started | 2027-03-11 | 2027-03-16 |  |  | 0 | -40.3 |
+| A49750 | Excavation | MH-2.1 / MH-2.2 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -33.7 |
+| A49760 | Pipe Laying | MH-2.1 / MH-2.2 | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | -33.7 |
+| A49770 | Install Manhole | MH-2.1 / MH-2.2 | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | -29.7 |
+| A49780 | Testing & Inspection | MH-2.1 / MH-2.2 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -33.7 |
+| A49790 | Backfilling & Compaction | MH-2.1 / MH-2.2 | Task | Not Started | 2027-02-22 | 2027-02-27 |  |  | 0 | -33.7 |
+| A49800 | Excavation | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | -33.7 |
+| A49810 | Pipe Laying | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -33.7 |
+| A49820 | Install Manhole | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -29.7 |
+| A49830 | Testing & Inspection | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-22 | 2027-02-27 |  |  | 0 | -33.7 |
+| A49840 | Backfilling & Compaction | MH-2.2 / MH-2.3 | Task | Not Started | 2027-02-27 | 2027-03-03 |  |  | 0 | -33.7 |
 | A49850 | Excavation | MH-2.3 / MH-2.4 | Task | Completed | 2027-08-07 | 2027-08-11 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A49860 | Pipe Laying | MH-2.3 / MH-2.4 | Task | Completed | 2027-08-11 | 2027-08-16 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A49870 | Install Manhole | MH-2.3 / MH-2.4 | Task | Completed | 2027-08-11 | 2027-08-16 | 2026-07-04 | 2026-08-05 | 100 |  |
-| A49880 | Testing & Inspection | MH-2.3 / MH-2.4 | Task | Not Started | 2027-01-26 | 2027-01-31 |  |  | 0 | -6.4 |
-| A49890 | Backfilling & Compaction | MH-2.3 / MH-2.4 | Task | Not Started | 2027-02-09 | 2027-02-14 |  |  | 0 | -14.4 |
-| A49700 | Excavation | MH-2.0 / MH-2.1 | Task | Not Started | 2027-01-12 | 2027-01-17 |  |  | 0 | -14.4 |
-| A49710 | Pipe Laying | MH-2.0 / MH-2.1 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | -14.4 |
-| A49720 | Install Manhole | MH-2.0 / MH-2.1 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | -10.4 |
-| A49730 | Testing & Inspection | MH-2.0 / MH-2.1 | Task | Not Started | 2027-01-21 | 2027-01-26 |  |  | 0 | -14.4 |
-| A49740 | Backfilling & Compaction | MH-2.0 / MH-2.1 | Task | Not Started | 2027-01-26 | 2027-01-31 |  |  | 0 | -14.4 |
+| A49880 | Testing & Inspection | MH-2.3 / MH-2.4 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -25.7 |
+| A49890 | Backfilling & Compaction | MH-2.3 / MH-2.4 | Task | Not Started | 2027-03-03 | 2027-03-08 |  |  | 0 | -33.7 |
+| A49700 | Excavation | MH-2.0 / MH-2.1 | Task | Not Started | 2027-02-03 | 2027-02-08 |  |  | 0 | -33.7 |
+| A49710 | Pipe Laying | MH-2.0 / MH-2.1 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -33.7 |
+| A49720 | Install Manhole | MH-2.0 / MH-2.1 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -29.7 |
+| A49730 | Testing & Inspection | MH-2.0 / MH-2.1 | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | -33.7 |
+| A49740 | Backfilling & Compaction | MH-2.0 / MH-2.1 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -33.7 |
 | A49950 | Excavation | MH-3.7 / MH-3.8 | Task | Completed | 2026-12-24 | 2026-12-29 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A49960 | Pipe Laying | MH-3.7 / MH-3.8 | Task | Completed | 2026-12-29 | 2027-01-07 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A49970 | Install Manhole | MH-3.7 / MH-3.8 | Task | Completed | 2026-12-29 | 2027-01-03 | 2026-07-04 | 2026-08-05 | 100 |  |
@@ -1988,11 +1988,11 @@
 | A50070 | Install Manhole | MH-3.9 / MH-3.10 | Task | Completed | 2027-01-07 | 2027-01-12 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50080 | Testing & Inspection | MH-3.9 / MH-3.10 | Task | Completed | 2027-01-17 | 2027-01-19 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50090 | Backfilling & Compaction | MH-3.9 / MH-3.10 | Task | Completed | 2027-01-19 | 2027-01-24 | 2026-07-04 | 2026-08-05 | 100 |  |
-| A49900 | Excavation | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-02 | 2026-11-05 |  |  | 0 | -12.9 |
-| A49910 | Pipe Laying | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-07 | 2026-11-15 |  |  | 0 | -12.9 |
-| A49920 | Install Manhole | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | -6.9 |
-| A49930 | Testing & Inspection | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-16 | 2026-11-17 |  |  | 0 | -12.9 |
-| A49940 | Backfilling & Compaction | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-18 | 2026-11-22 |  |  | 0 | -12.9 |
+| A49900 | Excavation | MH-3.10 / MH-3.11 | Task | Not Started | 2026-10-26 | 2026-10-29 |  |  | 0 | -11 |
+| A49910 | Pipe Laying | MH-3.10 / MH-3.11 | Task | Not Started | 2026-10-31 | 2026-11-08 |  |  | 0 | -11 |
+| A49920 | Install Manhole | MH-3.10 / MH-3.11 | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | -5 |
+| A49930 | Testing & Inspection | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | -11 |
+| A49940 | Backfilling & Compaction | MH-3.10 / MH-3.11 | Task | Not Started | 2026-11-11 | 2026-11-15 |  |  | 0 | -11 |
 | A50150 | Excavation | MH-3.43 / MH-3.44 | Task | Completed | 2027-01-12 | 2027-01-17 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50160 | Pipe Laying | MH-3.43 / MH-3.44 | Task | Completed | 2027-01-17 | 2027-01-26 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50170 | Install Manhole | MH-3.43 / MH-3.44 | Task | Completed | 2027-01-17 | 2027-01-21 | 2026-07-04 | 2026-08-05 | 100 |  |
@@ -2028,11 +2028,11 @@
 | A50470 | Install Manhole | MH-3.40 / MH-3.41 | Task | Completed | 2027-02-04 | 2027-02-09 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50480 | Testing & Inspection | MH-3.40 / MH-3.41 | Task | Completed | 2027-02-14 | 2027-02-16 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50490 | Backfilling & Compaction | MH-3.40 / MH-3.41 | Task | Completed | 2027-02-21 | 2027-02-25 | 2026-07-04 | 2026-08-05 | 100 |  |
-| A50500 | Excavation | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | -0.9 |
-| A50510 | Pipe Laying | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-11 | 2026-11-19 |  |  | 0 | -0.9 |
-| A50520 | Install Manhole | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-11 | 2026-11-15 |  |  | 0 | 5.1 |
-| A50530 | Testing & Inspection | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | -0.9 |
-| A50540 | Backfilling & Compaction | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | -0.9 |
+| A50500 | Excavation | MH-3.41 / MH-3.42 | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | 1 |
+| A50510 | Pipe Laying | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-04 | 2026-11-12 |  |  | 0 | 1 |
+| A50520 | Install Manhole | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-04 | 2026-11-08 |  |  | 0 | 7 |
+| A50530 | Testing & Inspection | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | 1 |
+| A50540 | Backfilling & Compaction | MH-3.41 / MH-3.42 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | 1 |
 | A50400 | Excavation | MH-3.39 / MH-3.40 | Task | Completed | 2027-01-26 | 2027-01-31 | 2026-07-04 | 2026-08-05 | 100 |  |
 | A50410 | Pipe Laying | MH-3.39 / MH-3.40 | Task | Completed | 2027-01-31 | 2027-02-09 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A50420 | Install Manhole | MH-3.39 / MH-3.40 | Task | Completed | 2027-01-31 | 2027-02-04 | 2026-08-04 | 2026-09-05 | 100 |  |
@@ -2043,21 +2043,21 @@
 | A50570 | Install Manhole | MH-3.11 / MH-3.12 | Task | Completed | 2027-01-21 | 2027-01-26 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A50580 | Testing & Inspection | MH-3.11 / MH-3.12 | Task | Completed | 2027-01-31 | 2027-02-02 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A50590 | Backfilling & Compaction | MH-3.11 / MH-3.12 | Task | Completed | 2027-02-02 | 2027-02-07 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A50650 | Excavation | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-11 | 2026-11-15 |  |  | 0 | -8.9 |
-| A50660 | Pipe Laying | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-16 | 2026-11-24 |  |  | 0 | -8.9 |
-| A50670 | Install Manhole | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | -2.9 |
-| A50680 | Testing & Inspection | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-25 | 2026-11-26 |  |  | 0 | -8.9 |
-| A50690 | Backfilling & Compaction | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | -8.9 |
-| A50700 | Excavation | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | -8.9 |
-| A50710 | Pipe Laying | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-21 | 2026-11-29 |  |  | 0 | -8.9 |
-| A50720 | Install Manhole | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-21 | 2026-11-24 |  |  | 0 | -2.9 |
-| A50730 | Testing & Inspection | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | -8.9 |
-| A50740 | Backfilling & Compaction | MH-3.2 / MH-3.3 | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | -8.9 |
-| A50600 | Excavation | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-07 | 2026-11-10 |  |  | 0 | -8.9 |
-| A50610 | Pipe Laying | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-11 | 2026-11-19 |  |  | 0 | -8.9 |
-| A50620 | Install Manhole | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-11 | 2026-11-15 |  |  | 0 | -2.9 |
-| A50630 | Testing & Inspection | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | -8.9 |
-| A50640 | Backfilling & Compaction | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | -8.9 |
+| A50650 | Excavation | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-04 | 2026-11-08 |  |  | 0 | -7 |
+| A50660 | Pipe Laying | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-09 | 2026-11-17 |  |  | 0 | -7 |
+| A50670 | Install Manhole | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-09 | 2026-11-12 |  |  | 0 | -1 |
+| A50680 | Testing & Inspection | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -7 |
+| A50690 | Backfilling & Compaction | MH-3.1 / MH-3.2 | Task | Not Started | 2026-11-21 | 2026-11-24 |  |  | 0 | -7 |
+| A50700 | Excavation | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-09 | 2026-11-12 |  |  | 0 | -7 |
+| A50710 | Pipe Laying | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-14 | 2026-11-22 |  |  | 0 | -7 |
+| A50720 | Install Manhole | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-14 | 2026-11-17 |  |  | 0 | -1 |
+| A50730 | Testing & Inspection | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | -7 |
+| A50740 | Backfilling & Compaction | MH-3.2 / MH-3.3 | Task | Not Started | 2026-11-25 | 2026-11-29 |  |  | 0 | -7 |
+| A50600 | Excavation | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-10-31 | 2026-11-03 |  |  | 0 | -7 |
+| A50610 | Pipe Laying | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-04 | 2026-11-12 |  |  | 0 | -7 |
+| A50620 | Install Manhole | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-04 | 2026-11-08 |  |  | 0 | -1 |
+| A50630 | Testing & Inspection | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | -7 |
+| A50640 | Backfilling & Compaction | EX. MH Connection / MH-3.1 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | -7 |
 | A50800 | Excavation | MH-3.4 / MH-3.5 | Task | Completed | 2027-02-09 | 2027-02-14 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A50810 | Pipe Laying | MH-3.4 / MH-3.5 | Task | Completed | 2027-02-14 | 2027-02-23 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A50820 | Install Manhole | MH-3.4 / MH-3.5 | Task | Completed | 2027-02-14 | 2027-02-18 | 2026-08-04 | 2026-09-05 | 100 |  |
@@ -2101,333 +2101,333 @@
 | A51200 | Excavation | MH-3.46 / MH-3.47 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51210 | Pipe Laying | MH-3.46 / MH-3.47 | Task | Completed | 2026-12-19 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51220 | Install Manhole | MH-3.46 / MH-3.47 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51230 | Testing & Inspection | MH-3.46 / MH-3.47 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.3 |
+| A51230 | Testing & Inspection | MH-3.46 / MH-3.47 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51240 | Backfilling & Compaction | MH-3.46 / MH-3.47 | Task | Completed | 2027-01-02 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51250 | Excavation | MH-3.47 / MH-3.48 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51260 | Pipe Laying | MH-3.47 / MH-3.48 | Task | Completed | 2026-12-23 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51270 | Install Manhole | MH-3.47 / MH-3.48 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51280 | Testing & Inspection | MH-3.47 / MH-3.48 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.3 |
+| A51280 | Testing & Inspection | MH-3.47 / MH-3.48 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51290 | Backfilling & Compaction | MH-3.47 / MH-3.48 | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51150 | Excavation | MH-3.45 / MH-3.46 | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51160 | Pipe Laying | MH-3.45 / MH-3.46 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51170 | Install Manhole | MH-3.45 / MH-3.46 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51180 | Testing & Inspection | MH-3.45 / MH-3.46 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.3 |
+| A51180 | Testing & Inspection | MH-3.45 / MH-3.46 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51190 | Backfilling & Compaction | MH-3.45 / MH-3.46 | Task | Completed | 2026-12-21 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51350 | Excavation | MH-3.42.1 / MH-3.42.2 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51360 | Pipe Laying | MH-3.42.1 / MH-3.42.2 | Task | Completed | 2026-12-19 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51370 | Install Manhole | MH-3.42.1 / MH-3.42.2 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51380 | Testing & Inspection | MH-3.42.1 / MH-3.42.2 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A51380 | Testing & Inspection | MH-3.42.1 / MH-3.42.2 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51390 | Backfilling & Compaction | MH-3.42.1 / MH-3.42.2 | Task | Completed | 2027-01-02 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51400 | Excavation | MH-3.42.2 / MH-3.42.3 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51410 | Pipe Laying | MH-3.42.2 / MH-3.42.3 | Task | Completed | 2026-12-23 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51420 | Install Manhole | MH-3.42.2 / MH-3.42.3 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51430 | Testing & Inspection | MH-3.42.2 / MH-3.42.3 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A51430 | Testing & Inspection | MH-3.42.2 / MH-3.42.3 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51440 | Backfilling & Compaction | MH-3.42.2 / MH-3.42.3 | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51300 | Excavation | MH-3.42.0 / MH-3.42.1 | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51310 | Pipe Laying | MH-3.42.0 / MH-3.42.1 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51320 | Install Manhole | MH-3.42.0 / MH-3.42.1 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51330 | Testing & Inspection | MH-3.42.0 / MH-3.42.1 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A51330 | Testing & Inspection | MH-3.42.0 / MH-3.42.1 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51340 | Backfilling & Compaction | MH-3.42.0 / MH-3.42.1 | Task | Completed | 2026-12-21 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51450 | Excavation | MH-3.42.3 / MH-3.42.4 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51460 | Pipe Laying | MH-3.42.3 / MH-3.42.4 | Task | Completed | 2026-12-28 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51470 | Install Manhole | MH-3.42.3 / MH-3.42.4 | Task | Completed | 2026-12-28 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51480 | Testing & Inspection | MH-3.42.3 / MH-3.42.4 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A51480 | Testing & Inspection | MH-3.42.3 / MH-3.42.4 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A51490 | Backfilling & Compaction | MH-3.42.3 / MH-3.42.4 | Task | Completed | 2027-01-18 | 2027-01-28 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51550 | Excavation | MH-3.33.0 / MH-3.33.1 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51560 | Pipe Laying | MH-3.33.0 / MH-3.33.1 | Task | Completed | 2027-01-04 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51570 | Install Manhole | MH-3.33.0 / MH-3.33.1 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51580 | Testing & Inspection | MH-3.33.0 / MH-3.33.1 | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 13 |
+| A51580 | Testing & Inspection | MH-3.33.0 / MH-3.33.1 | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 18.4 |
 | A51590 | Backfilling & Compaction | MH-3.33.0 / MH-3.33.1 | Task | Completed | 2027-01-18 | 2027-01-28 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51600 | Excavation | MH-3.34 / MH-3.35 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51610 | Pipe Laying | MH-3.34 / MH-3.35 | Task | Completed | 2027-01-09 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51620 | Install Manhole | MH-3.34 / MH-3.35 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51630 | Testing & Inspection | MH-3.34 / MH-3.35 | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 13 |
+| A51630 | Testing & Inspection | MH-3.34 / MH-3.35 | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 18.4 |
 | A51640 | Backfilling & Compaction | MH-3.34 / MH-3.35 | Task | Completed | 2027-01-30 | 2027-02-02 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51500 | Excavation | MH-3.33 / MH-3.34 | Task | Completed | 2026-12-26 | 2026-12-29 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51510 | Pipe Laying | MH-3.33 / MH-3.34 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51520 | Install Manhole | MH-3.33 / MH-3.34 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51530 | Testing & Inspection | MH-3.33 / MH-3.34 | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 13 |
+| A51530 | Testing & Inspection | MH-3.33 / MH-3.34 | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 18.4 |
 | A51540 | Backfilling & Compaction | MH-3.33 / MH-3.34 | Task | Completed | 2027-01-06 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51650 | Excavation | MH-3.35 / MH-3.36 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51660 | Pipe Laying | MH-3.35 / MH-3.36 | Task | Completed | 2027-01-13 | 2027-01-21 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51670 | Install Manhole | MH-3.35 / MH-3.36 | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51680 | Testing & Inspection | MH-3.35 / MH-3.36 | Task | Not Started | 2026-11-09 | 2026-11-10 |  |  | 0 | 13 |
+| A51680 | Testing & Inspection | MH-3.35 / MH-3.36 | Task | Not Started | 2026-11-02 | 2026-11-03 |  |  | 0 | 18.4 |
 | A51690 | Backfilling & Compaction | MH-3.35 / MH-3.36 | Task | Completed | 2027-02-03 | 2027-02-14 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51750 | Excavation | MH-3.31.1 / MH-3.31.2 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51760 | Pipe Laying | MH-3.31.1 / MH-3.31.2 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51770 | Install Manhole | MH-3.31.1 / MH-3.31.2 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51780 | Testing & Inspection | MH-3.31.1 / MH-3.31.2 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51780 | Testing & Inspection | MH-3.31.1 / MH-3.31.2 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51790 | Backfilling & Compaction | MH-3.31.1 / MH-3.31.2 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51800 | Excavation | MH-3.31.1.0 / MH-3.31.1.1 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51810 | Pipe Laying | MH-3.31.1.0 / MH-3.31.1.1 | Task | Completed | 2026-12-28 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51820 | Install Manhole | MH-3.31.1.0 / MH-3.31.1.1 | Task | Completed | 2026-12-28 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51830 | Testing & Inspection | MH-3.31.1.0 / MH-3.31.1.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51830 | Testing & Inspection | MH-3.31.1.0 / MH-3.31.1.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51840 | Backfilling & Compaction | MH-3.31.1.0 / MH-3.31.1.1 | Task | Completed | 2027-01-09 | 2027-01-19 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51700 | Excavation | MH-3.31.0 / MH-3.31.1 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51710 | Pipe Laying | MH-3.31.0 / MH-3.31.1 | Task | Completed | 2026-12-19 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51720 | Install Manhole | MH-3.31.0 / MH-3.31.1 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51730 | Testing & Inspection | MH-3.31.0 / MH-3.31.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51730 | Testing & Inspection | MH-3.31.0 / MH-3.31.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51740 | Backfilling & Compaction | MH-3.31.0 / MH-3.31.1 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51850 | Excavation | MH-3.31.2 / MH-3.31.3 | Task | Completed | 2026-12-28 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51860 | Pipe Laying | MH-3.31.2 / MH-3.31.3 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51870 | Install Manhole | MH-3.31.2 / MH-3.31.3 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51880 | Testing & Inspection | MH-3.31.2 / MH-3.31.3 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51880 | Testing & Inspection | MH-3.31.2 / MH-3.31.3 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51890 | Backfilling & Compaction | MH-3.31.2 / MH-3.31.3 | Task | Completed | 2027-01-20 | 2027-01-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51900 | Excavation | MH-3.31.2.0 / MH-3.31.2.1 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51910 | Pipe Laying | MH-3.31.2.0 / MH-3.31.2.1 | Task | Completed | 2027-01-06 | 2027-01-14 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51920 | Install Manhole | MH-3.31.2.0 / MH-3.31.2.1 | Task | Completed | 2027-01-06 | 2027-01-10 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51930 | Testing & Inspection | MH-3.31.2.0 / MH-3.31.2.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51930 | Testing & Inspection | MH-3.31.2.0 / MH-3.31.2.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51940 | Backfilling & Compaction | MH-3.31.2.0 / MH-3.31.2.1 | Task | Completed | 2027-02-01 | 2027-02-11 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51950 | Excavation | MH-3.31.3 / MH-3.31.4 | Task | Completed | 2027-01-06 | 2027-01-10 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51960 | Pipe Laying | MH-3.31.3 / MH-3.31.4 | Task | Completed | 2027-01-11 | 2027-01-19 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A51970 | Install Manhole | MH-3.31.3 / MH-3.31.4 | Task | Completed | 2027-01-11 | 2027-01-14 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A51980 | Testing & Inspection | MH-3.31.3 / MH-3.31.4 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 27.8 |
+| A51980 | Testing & Inspection | MH-3.31.3 / MH-3.31.4 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 20 |
 | A51990 | Backfilling & Compaction | MH-3.31.3 / MH-3.31.4 | Task | Completed | 2027-02-13 | 2027-02-23 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52050 | Excavation | MH-3.28.1 / MH-3.28.2 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52060 | Pipe Laying | MH-3.28.1 / MH-3.28.2 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52070 | Install Manhole | MH-3.28.1 / MH-3.28.2 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52080 | Testing & Inspection | MH-3.28.1 / MH-3.28.2 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52080 | Testing & Inspection | MH-3.28.1 / MH-3.28.2 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52090 | Backfilling & Compaction | MH-3.28.1 / MH-3.28.2 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52100 | Excavation | MH-3.28.1.0 / MH-3.28.1.1 | Task | Completed | 2026-12-23 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52110 | Pipe Laying | MH-3.28.1.0 / MH-3.28.1.1 | Task | Completed | 2026-12-28 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52120 | Install Manhole | MH-3.28.1.0 / MH-3.28.1.1 | Task | Completed | 2026-12-28 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52130 | Testing & Inspection | MH-3.28.1.0 / MH-3.28.1.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52130 | Testing & Inspection | MH-3.28.1.0 / MH-3.28.1.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52140 | Backfilling & Compaction | MH-3.28.1.0 / MH-3.28.1.1 | Task | Completed | 2027-01-09 | 2027-01-19 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52000 | Excavation | MH-3.28.0 / MH-3.28.1 | Task | Completed | 2026-12-14 | 2026-12-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52010 | Pipe Laying | MH-3.28.0 / MH-3.28.1 | Task | Completed | 2026-12-19 | 2026-12-27 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52020 | Install Manhole | MH-3.28.0 / MH-3.28.1 | Task | Completed | 2026-12-19 | 2026-12-22 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52030 | Testing & Inspection | MH-3.28.0 / MH-3.28.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52030 | Testing & Inspection | MH-3.28.0 / MH-3.28.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52040 | Backfilling & Compaction | MH-3.28.0 / MH-3.28.1 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52150 | Excavation | MH-3.28.2 / MH-3.28.3 | Task | Completed | 2026-12-28 | 2026-12-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52160 | Pipe Laying | MH-3.28.2 / MH-3.28.3 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52170 | Install Manhole | MH-3.28.2 / MH-3.28.3 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52180 | Testing & Inspection | MH-3.28.2 / MH-3.28.3 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52180 | Testing & Inspection | MH-3.28.2 / MH-3.28.3 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52190 | Backfilling & Compaction | MH-3.28.2 / MH-3.28.3 | Task | Completed | 2027-01-20 | 2027-01-31 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52200 | Excavation | MH-3.28.2.0 / MH-3.28.2.1 | Task | Completed | 2027-01-02 | 2027-01-05 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52210 | Pipe Laying | MH-3.28.2.0 / MH-3.28.2.1 | Task | Completed | 2027-01-06 | 2027-01-14 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52220 | Install Manhole | MH-3.28.2.0 / MH-3.28.2.1 | Task | Completed | 2027-01-06 | 2027-01-10 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52230 | Testing & Inspection | MH-3.28.2.0 / MH-3.28.2.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52230 | Testing & Inspection | MH-3.28.2.0 / MH-3.28.2.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52240 | Backfilling & Compaction | MH-3.28.2.0 / MH-3.28.2.1 | Task | Completed | 2027-02-01 | 2027-02-11 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52250 | Excavation | MH-3.28.3 / MH-3.28.4 | Task | Completed | 2027-01-06 | 2027-01-10 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52260 | Pipe Laying | MH-3.28.3 / MH-3.28.4 | Task | Completed | 2027-01-11 | 2027-01-19 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52270 | Install Manhole | MH-3.28.3 / MH-3.28.4 | Task | Completed | 2027-01-11 | 2027-01-14 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52280 | Testing & Inspection | MH-3.28.3 / MH-3.28.4 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 34.8 |
+| A52280 | Testing & Inspection | MH-3.28.3 / MH-3.28.4 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 34 |
 | A52290 | Backfilling & Compaction | MH-3.28.3 / MH-3.28.4 | Task | Completed | 2027-02-13 | 2027-02-23 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52350 | Excavation | MH-3.23 / MH-3.24 | Task | Completed | 2026-12-26 | 2026-12-29 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52360 | Pipe Laying | MH-3.23 / MH-3.24 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52370 | Install Manhole | MH-3.23 / MH-3.24 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52380 | Testing & Inspection | MH-3.23 / MH-3.24 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52380 | Testing & Inspection | MH-3.23 / MH-3.24 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52390 | Backfilling & Compaction | MH-3.23 / MH-3.24 | Task | Completed | 2027-01-18 | 2027-01-21 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52400 | Excavation | MH-3.24 / MH-3.25 | Task | Completed | 2026-12-30 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52410 | Pipe Laying | MH-3.24 / MH-3.25 | Task | Completed | 2027-01-04 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52420 | Install Manhole | MH-3.24 / MH-3.25 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52430 | Testing & Inspection | MH-3.24 / MH-3.25 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52430 | Testing & Inspection | MH-3.24 / MH-3.25 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52440 | Backfilling & Compaction | MH-3.24 / MH-3.25 | Task | Completed | 2027-01-23 | 2027-02-02 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52300 | Excavation | MH-3.13.7 / MH-3.13.8 | Task | Completed | 2026-12-21 | 2026-12-24 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52310 | Pipe Laying | MH-3.13.7 / MH-3.13.8 | Task | Completed | 2026-12-26 | 2027-01-03 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52320 | Install Manhole | MH-3.13.7 / MH-3.13.8 | Task | Completed | 2026-12-26 | 2026-12-29 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52330 | Testing & Inspection | MH-3.13.7 / MH-3.13.8 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52330 | Testing & Inspection | MH-3.13.7 / MH-3.13.8 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52340 | Backfilling & Compaction | MH-3.13.7 / MH-3.13.8 | Task | Completed | 2027-01-06 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52450 | Excavation | MH-3.24.0 / MH-3.24.1 | Task | Completed | 2027-01-04 | 2027-01-07 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52460 | Pipe Laying | MH-3.24.0 / MH-3.24.1 | Task | Completed | 2027-01-09 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52470 | Install Manhole | MH-3.24.0 / MH-3.24.1 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52480 | Testing & Inspection | MH-3.24.0 / MH-3.24.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52480 | Testing & Inspection | MH-3.24.0 / MH-3.24.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52490 | Backfilling & Compaction | MH-3.24.0 / MH-3.24.1 | Task | Completed | 2027-02-03 | 2027-02-14 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52550 | Excavation | MH-3.23.0 / MH-3.23.1A | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52560 | Pipe Laying | MH-3.23.0 / MH-3.23.1A | Task | Completed | 2027-01-18 | 2027-01-26 | 2026-08-04 | 2026-09-05 | 100 |  |
 | A52570 | Install Manhole | MH-3.23.0 / MH-3.23.1A | Task | Completed | 2027-01-18 | 2027-01-21 | 2026-08-04 | 2026-09-05 | 100 |  |
-| A52580 | Testing & Inspection | MH-3.23.0 / MH-3.23.1A | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52580 | Testing & Inspection | MH-3.23.0 / MH-3.23.1A | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52590 | Backfilling & Compaction | MH-3.23.0 / MH-3.23.1A | Task | Completed | 2027-02-27 | 2027-03-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52600 | Excavation | MH-3.23.0 / MH-3.23.1 | Task | Completed | 2027-01-18 | 2027-01-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52610 | Pipe Laying | MH-3.23.0 / MH-3.23.1 | Task | Completed | 2027-01-23 | 2027-01-31 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52620 | Install Manhole | MH-3.23.0 / MH-3.23.1 | Task | Completed | 2027-01-23 | 2027-01-26 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52630 | Testing & Inspection | MH-3.23.0 / MH-3.23.1 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52630 | Testing & Inspection | MH-3.23.0 / MH-3.23.1 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52640 | Backfilling & Compaction | MH-3.23.0 / MH-3.23.1 | Task | Completed | 2027-03-10 | 2027-03-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52500 | Excavation | MH-3.25 / MH-3.26 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52510 | Pipe Laying | MH-3.25 / MH-3.26 | Task | Completed | 2027-01-13 | 2027-01-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52520 | Install Manhole | MH-3.25 / MH-3.26 | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52530 | Testing & Inspection | MH-3.25 / MH-3.26 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52530 | Testing & Inspection | MH-3.25 / MH-3.26 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52540 | Backfilling & Compaction | MH-3.25 / MH-3.26 | Task | Completed | 2027-02-15 | 2027-02-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52650 | Excavation | MH-3.23.1 / MH-3.23.2 | Task | Completed | 2027-01-23 | 2027-01-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52660 | Pipe Laying | MH-3.23.1 / MH-3.23.2 | Task | Completed | 2027-01-27 | 2027-02-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52670 | Install Manhole | MH-3.23.1 / MH-3.23.2 | Task | Completed | 2027-01-27 | 2027-01-31 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52680 | Testing & Inspection | MH-3.23.1 / MH-3.23.2 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 23 |
+| A52680 | Testing & Inspection | MH-3.23.1 / MH-3.23.2 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 29 |
 | A52690 | Backfilling & Compaction | MH-3.23.1 / MH-3.23.2 | Task | Completed | 2027-03-22 | 2027-04-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52750 | Excavation | MH-3.27 / MH-3.28 | Task | Completed | 2026-11-17 | 2026-11-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52760 | Pipe Laying | MH-3.27 / MH-3.28 | Task | Completed | 2026-11-22 | 2026-11-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52770 | Install Manhole | MH-3.27 / MH-3.28 | Task | Completed | 2026-11-22 | 2026-11-25 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52780 | Testing & Inspection | MH-3.27 / MH-3.28 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52780 | Testing & Inspection | MH-3.27 / MH-3.28 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52790 | Backfilling & Compaction | MH-3.27 / MH-3.28 | Task | Completed | 2026-12-03 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52800 | Excavation | MH-3.28 / MH-3.29 | Task | Completed | 2026-11-22 | 2026-11-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52810 | Pipe Laying | MH-3.28 / MH-3.29 | Task | Completed | 2026-11-26 | 2026-12-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52820 | Install Manhole | MH-3.28 / MH-3.29 | Task | Completed | 2026-11-26 | 2026-11-30 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52830 | Testing & Inspection | MH-3.28 / MH-3.29 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52830 | Testing & Inspection | MH-3.28 / MH-3.29 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52840 | Backfilling & Compaction | MH-3.28 / MH-3.29 | Task | Completed | 2026-12-15 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52700 | Excavation | MH-3.26 / MH-3.27 | Task | Completed | 2026-11-12 | 2026-11-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52710 | Pipe Laying | MH-3.26 / MH-3.27 | Task | Completed | 2026-11-17 | 2026-11-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52720 | Install Manhole | MH-3.26 / MH-3.27 | Task | Completed | 2026-11-17 | 2026-11-21 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52730 | Testing & Inspection | MH-3.26 / MH-3.27 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52730 | Testing & Inspection | MH-3.26 / MH-3.27 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52740 | Backfilling & Compaction | MH-3.26 / MH-3.27 | Task | Completed | 2026-11-24 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52850 | Excavation | MH-3.29 / MH-3.30 | Task | Completed | 2026-11-26 | 2026-11-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52860 | Pipe Laying | MH-3.29 / MH-3.30 | Task | Completed | 2026-12-01 | 2026-12-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52870 | Install Manhole | MH-3.29 / MH-3.30 | Task | Completed | 2026-12-01 | 2026-12-05 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52880 | Testing & Inspection | MH-3.29 / MH-3.30 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52880 | Testing & Inspection | MH-3.29 / MH-3.30 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52890 | Backfilling & Compaction | MH-3.29 / MH-3.30 | Task | Completed | 2026-12-27 | 2027-01-06 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52950 | Excavation | MH-3.31 / MH-3.32 | Task | Completed | 2026-12-06 | 2026-12-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52960 | Pipe Laying | MH-3.31 / MH-3.32 | Task | Completed | 2026-12-10 | 2026-12-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52970 | Install Manhole | MH-3.31 / MH-3.32 | Task | Completed | 2026-12-10 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52980 | Testing & Inspection | MH-3.31 / MH-3.32 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52980 | Testing & Inspection | MH-3.31 / MH-3.32 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52990 | Backfilling & Compaction | MH-3.31 / MH-3.32 | Task | Completed | 2027-01-19 | 2027-01-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53000 | Excavation | MH-3.32 / MH-3.33 | Task | Completed | 2026-12-10 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53010 | Pipe Laying | MH-3.32 / MH-3.33 | Task | Completed | 2026-12-15 | 2026-12-23 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53020 | Install Manhole | MH-3.32 / MH-3.33 | Task | Completed | 2026-12-15 | 2026-12-19 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53030 | Testing & Inspection | MH-3.32 / MH-3.33 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A53030 | Testing & Inspection | MH-3.32 / MH-3.33 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A53040 | Backfilling & Compaction | MH-3.32 / MH-3.33 | Task | Completed | 2027-01-31 | 2027-02-10 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52900 | Excavation | MH-3.30 / MH-3.31 | Task | Completed | 2026-12-01 | 2026-12-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52910 | Pipe Laying | MH-3.30 / MH-3.31 | Task | Completed | 2026-12-06 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A52920 | Install Manhole | MH-3.30 / MH-3.31 | Task | Completed | 2026-12-06 | 2026-12-09 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A52930 | Testing & Inspection | MH-3.30 / MH-3.31 | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | 37 |
+| A52930 | Testing & Inspection | MH-3.30 / MH-3.31 | Task | Not Started | 2026-10-05 | 2026-10-06 |  |  | 0 | 41.9 |
 | A52940 | Backfilling & Compaction | MH-3.30 / MH-3.31 | Task | Completed | 2027-01-07 | 2027-01-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53100 | Excavation | MH-3.13 / MH-3.14 | Task | Completed | 2026-11-18 | 2026-11-23 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53110 | Pipe Laying | MH-3.13 / MH-3.14 | Task | Completed | 2026-11-23 | 2026-12-02 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53120 | Install Manhole | MH-3.13 / MH-3.14 | Task | Completed | 2026-11-23 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53130 | Testing & Inspection | MH-3.13 / MH-3.14 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53130 | Testing & Inspection | MH-3.13 / MH-3.14 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53140 | Backfilling & Compaction | MH-3.13 / MH-3.14 | Task | Completed | 2026-12-05 | 2026-12-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53150 | Excavation | MH-3.13.0 / MH-3.13.1 | Task | Completed | 2026-11-23 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53160 | Pipe Laying | MH-3.13.0 / MH-3.13.1 | Task | Completed | 2026-11-28 | 2026-12-07 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53170 | Install Manhole | MH-3.13.0 / MH-3.13.1 | Task | Completed | 2026-11-28 | 2026-12-02 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53180 | Testing & Inspection | MH-3.13.0 / MH-3.13.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53180 | Testing & Inspection | MH-3.13.0 / MH-3.13.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53190 | Backfilling & Compaction | MH-3.13.0 / MH-3.13.1 | Task | Completed | 2026-12-09 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53050 | Excavation | MH-3.12 / MH-3.13 | Task | Completed | 2026-11-14 | 2026-11-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53060 | Pipe Laying | MH-3.12 / MH-3.13 | Task | Completed | 2026-11-18 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53070 | Install Manhole | MH-3.12 / MH-3.13 | Task | Completed | 2026-11-18 | 2026-11-23 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53080 | Testing & Inspection | MH-3.12 / MH-3.13 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53080 | Testing & Inspection | MH-3.12 / MH-3.13 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53090 | Backfilling & Compaction | MH-3.12 / MH-3.13 | Task | Completed | 2026-11-30 | 2026-12-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53200 | Excavation | MH-3.13.1 / MH-3.13.1A | Task | Completed | 2026-11-28 | 2026-12-02 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53210 | Pipe Laying | MH-3.13.1 / MH-3.13.1A | Task | Completed | 2026-12-02 | 2026-12-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53220 | Install Manhole | MH-3.13.1 / MH-3.13.1A | Task | Completed | 2026-12-02 | 2026-12-07 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53230 | Testing & Inspection | MH-3.13.1 / MH-3.13.1A | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53230 | Testing & Inspection | MH-3.13.1 / MH-3.13.1A | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53240 | Backfilling & Compaction | MH-3.13.1 / MH-3.13.1A | Task | Completed | 2026-12-14 | 2026-12-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53300 | Excavation | MH-3.13.1 / MH-3.13.1.1 | Task | Completed | 2026-12-07 | 2026-12-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53310 | Pipe Laying | MH-3.13.1 / MH-3.13.1.1 | Task | Completed | 2026-12-12 | 2026-12-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53320 | Install Manhole | MH-3.13.1 / MH-3.13.1.1 | Task | Completed | 2026-12-12 | 2026-12-16 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53330 | Testing & Inspection | MH-3.13.1 / MH-3.13.1.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53330 | Testing & Inspection | MH-3.13.1 / MH-3.13.1.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53340 | Backfilling & Compaction | MH-3.13.1 / MH-3.13.1.1 | Task | Completed | 2026-12-23 | 2026-12-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53350 | Excavation | MH-3.13.1.0 / MH-3.13.1.1 | Task | Completed | 2026-12-12 | 2026-12-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53360 | Pipe Laying | MH-3.13.1.0 / MH-3.13.1.1 | Task | Completed | 2026-12-16 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53370 | Install Manhole | MH-3.13.1.0 / MH-3.13.1.1 | Task | Completed | 2026-12-16 | 2026-12-21 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53380 | Testing & Inspection | MH-3.13.1.0 / MH-3.13.1.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53380 | Testing & Inspection | MH-3.13.1.0 / MH-3.13.1.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53390 | Backfilling & Compaction | MH-3.13.1.0 / MH-3.13.1.1 | Task | Completed | 2026-12-28 | 2027-01-02 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53250 | Excavation | MH-3.13.1 / MH-3.13.2 | Task | Completed | 2026-12-02 | 2026-12-07 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53260 | Pipe Laying | MH-3.13.1 / MH-3.13.2 | Task | Completed | 2026-12-07 | 2026-12-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53270 | Install Manhole | MH-3.13.1 / MH-3.13.2 | Task | Completed | 2026-12-07 | 2026-12-12 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53280 | Testing & Inspection | MH-3.13.1 / MH-3.13.2 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53280 | Testing & Inspection | MH-3.13.1 / MH-3.13.2 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53290 | Backfilling & Compaction | MH-3.13.1 / MH-3.13.2 | Task | Completed | 2026-12-19 | 2026-12-23 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53400 | Excavation | MH-3.13.2 / MH-3.13.3 | Task | Completed | 2026-12-16 | 2026-12-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53410 | Pipe Laying | MH-3.13.2 / MH-3.13.3 | Task | Completed | 2026-12-21 | 2026-12-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53420 | Install Manhole | MH-3.13.2 / MH-3.13.3 | Task | Completed | 2026-12-21 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53430 | Testing & Inspection | MH-3.13.2 / MH-3.13.3 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53430 | Testing & Inspection | MH-3.13.2 / MH-3.13.3 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53440 | Backfilling & Compaction | MH-3.13.2 / MH-3.13.3 | Task | Completed | 2027-01-02 | 2027-01-06 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53500 | Excavation | MH-3.13.3 / MH-3.13.4 | Task | Completed | 2026-12-26 | 2026-12-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53510 | Pipe Laying | MH-3.13.3 / MH-3.13.4 | Task | Completed | 2026-12-30 | 2027-01-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53520 | Install Manhole | MH-3.13.3 / MH-3.13.4 | Task | Completed | 2026-12-30 | 2027-01-04 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53530 | Testing & Inspection | MH-3.13.3 / MH-3.13.4 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53530 | Testing & Inspection | MH-3.13.3 / MH-3.13.4 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53540 | Backfilling & Compaction | MH-3.13.3 / MH-3.13.4 | Task | Completed | 2027-01-11 | 2027-01-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53550 | Excavation | MH-3.13.3.0 / MH-3.13.3.1 | Task | Completed | 2026-12-30 | 2027-01-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53560 | Pipe Laying | MH-3.13.3.0 / MH-3.13.3.1 | Task | Completed | 2027-01-04 | 2027-01-13 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53570 | Install Manhole | MH-3.13.3.0 / MH-3.13.3.1 | Task | Completed | 2027-01-04 | 2027-01-09 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53580 | Testing & Inspection | MH-3.13.3.0 / MH-3.13.3.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53580 | Testing & Inspection | MH-3.13.3.0 / MH-3.13.3.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53590 | Backfilling & Compaction | MH-3.13.3.0 / MH-3.13.3.1 | Task | Completed | 2027-01-16 | 2027-01-20 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53450 | Excavation | MH-3.13.2.0 / MH-3.13.2.1 | Task | Completed | 2026-12-21 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53460 | Pipe Laying | MH-3.13.2.0 / MH-3.13.2.1 | Task | Completed | 2026-12-26 | 2027-01-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53470 | Install Manhole | MH-3.13.2.0 / MH-3.13.2.1 | Task | Completed | 2026-12-26 | 2026-12-30 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53480 | Testing & Inspection | MH-3.13.2.0 / MH-3.13.2.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53480 | Testing & Inspection | MH-3.13.2.0 / MH-3.13.2.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53490 | Backfilling & Compaction | MH-3.13.2.0 / MH-3.13.2.1 | Task | Completed | 2027-01-06 | 2027-01-11 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53600 | Excavation | MH-3.13.4 / MH-3.13.5 | Task | Completed | 2027-01-04 | 2027-01-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53610 | Pipe Laying | MH-3.13.4 / MH-3.13.5 | Task | Completed | 2027-01-09 | 2027-01-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53620 | Install Manhole | MH-3.13.4 / MH-3.13.5 | Task | Completed | 2027-01-09 | 2027-01-13 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53630 | Testing & Inspection | MH-3.13.4 / MH-3.13.5 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 17 |
+| A53630 | Testing & Inspection | MH-3.13.4 / MH-3.13.5 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 18.1 |
 | A53640 | Backfilling & Compaction | MH-3.13.4 / MH-3.13.5 | Task | Completed | 2027-01-20 | 2027-01-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53700 | Excavation | MH-3.13.5 / MH-3.13.6 | Task | Completed | 2027-01-13 | 2027-01-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53710 | Pipe Laying | MH-3.13.5 / MH-3.13.6 | Task | Completed | 2027-01-18 | 2027-01-27 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53720 | Install Manhole | MH-3.13.5 / MH-3.13.6 | Task | Completed | 2027-01-18 | 2027-01-23 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53730 | Testing & Inspection | MH-3.13.5 / MH-3.13.6 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 17 |
+| A53730 | Testing & Inspection | MH-3.13.5 / MH-3.13.6 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 18.1 |
 | A53740 | Backfilling & Compaction | MH-3.13.5 / MH-3.13.6 | Task | Completed | 2027-01-30 | 2027-02-03 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53750 | Excavation | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 5 |
-| A53760 | Pipe Laying | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 9 |
-| A53770 | Install Manhole | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 11 |
-| A53780 | Testing & Inspection | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 9 |
-| A53790 | Backfilling & Compaction | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-11-23 | 2026-11-26 |  |  | 0 | -12.9 |
-| A53650 | Excavation | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 5 |
-| A53660 | Pipe Laying | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-17 | 2026-10-26 |  |  | 0 | 5 |
-| A53670 | Install Manhole | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 11 |
-| A53680 | Testing & Inspection | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 5 |
-| A53690 | Backfilling & Compaction | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 5 |
+| A53750 | Excavation | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 6.2 |
+| A53760 | Pipe Laying | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 10.2 |
+| A53770 | Install Manhole | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 12.2 |
+| A53780 | Testing & Inspection | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 10.2 |
+| A53790 | Backfilling & Compaction | MH-3.13.5.0 / MH-3.13.5.1 | Task | Not Started | 2026-11-16 | 2026-11-19 |  |  | 0 | -11 |
+| A53650 | Excavation | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-05 | 2026-10-10 |  |  | 0 | 6.2 |
+| A53660 | Pipe Laying | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-10 | 2026-10-19 |  |  | 0 | 6.2 |
+| A53670 | Install Manhole | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 12.2 |
+| A53680 | Testing & Inspection | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-19 | 2026-10-21 |  |  | 0 | 6.2 |
+| A53690 | Backfilling & Compaction | MH-3.13.4.0 / MH-3.13.4.1 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 6.2 |
 | A53800 | Excavation | MH-3.13.6 / MH-3.13.7 | Task | Completed | 2027-01-23 | 2027-01-27 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53810 | Pipe Laying | MH-3.13.6 / MH-3.13.7 | Task | Completed | 2027-01-27 | 2027-02-06 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53820 | Install Manhole | MH-3.13.6 / MH-3.13.7 | Task | Completed | 2027-01-27 | 2027-02-01 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53830 | Testing & Inspection | MH-3.13.6 / MH-3.13.7 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A53830 | Testing & Inspection | MH-3.13.6 / MH-3.13.7 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A53840 | Backfilling & Compaction | MH-3.13.6 / MH-3.13.7 | Task | Completed | 2027-02-08 | 2027-02-13 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53900 | Excavation | MH-3.14 / MH-3.15 | Task | Completed | 2027-02-01 | 2027-02-06 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53910 | Pipe Laying | MH-3.14 / MH-3.15 | Task | Completed | 2027-02-06 | 2027-02-15 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53920 | Install Manhole | MH-3.14 / MH-3.15 | Task | Completed | 2027-02-06 | 2027-02-10 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53930 | Testing & Inspection | MH-3.14 / MH-3.15 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A53930 | Testing & Inspection | MH-3.14 / MH-3.15 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A53940 | Backfilling & Compaction | MH-3.14 / MH-3.15 | Task | Completed | 2027-02-17 | 2027-02-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53950 | Excavation | MH-3.14.0 / MH-3.14.1 | Task | Completed | 2027-02-06 | 2027-02-10 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53960 | Pipe Laying | MH-3.14.0 / MH-3.14.1 | Task | Completed | 2027-02-10 | 2027-02-20 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53970 | Install Manhole | MH-3.14.0 / MH-3.14.1 | Task | Completed | 2027-02-10 | 2027-02-15 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53980 | Testing & Inspection | MH-3.14.0 / MH-3.14.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A53980 | Testing & Inspection | MH-3.14.0 / MH-3.14.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A53990 | Backfilling & Compaction | MH-3.14.0 / MH-3.14.1 | Task | Completed | 2027-02-22 | 2027-02-27 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53850 | Excavation | MH-3.13.6.0 / MH-3.13.6.1 | Task | Completed | 2027-01-27 | 2027-02-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53860 | Pipe Laying | MH-3.13.6.0 / MH-3.13.6.1 | Task | Completed | 2027-02-01 | 2027-02-10 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A53870 | Install Manhole | MH-3.13.6.0 / MH-3.13.6.1 | Task | Completed | 2027-02-01 | 2027-02-06 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A53880 | Testing & Inspection | MH-3.13.6.0 / MH-3.13.6.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A53880 | Testing & Inspection | MH-3.13.6.0 / MH-3.13.6.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A53890 | Backfilling & Compaction | MH-3.13.6.0 / MH-3.13.6.1 | Task | Completed | 2027-02-13 | 2027-02-17 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54000 | Excavation | MH-3.15 / MH-3.16 | Task | Completed | 2027-02-10 | 2027-02-15 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54010 | Pipe Laying | MH-3.15 / MH-3.16 | Task | Completed | 2027-02-15 | 2027-02-24 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54020 | Install Manhole | MH-3.15 / MH-3.16 | Task | Completed | 2027-02-15 | 2027-02-20 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A54030 | Testing & Inspection | MH-3.15 / MH-3.16 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A54030 | Testing & Inspection | MH-3.15 / MH-3.16 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A54040 | Backfilling & Compaction | MH-3.15 / MH-3.16 | Task | Completed | 2027-02-27 | 2027-03-03 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A54100 | Excavation | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 5 |
-| A54110 | Pipe Laying | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-26 | 2026-11-04 |  |  | 0 | 5 |
-| A54120 | Install Manhole | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 11 |
-| A54130 | Testing & Inspection | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 5 |
-| A54140 | Backfilling & Compaction | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | -12.9 |
-| A54150 | Excavation | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 5 |
-| A54160 | Pipe Laying | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-31 | 2026-11-09 |  |  | 0 | 5 |
-| A54170 | Install Manhole | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 11 |
-| A54180 | Testing & Inspection | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 5 |
-| A54190 | Backfilling & Compaction | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-12-02 | 2026-12-06 |  |  | 0 | -12.9 |
+| A54100 | Excavation | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 6.2 |
+| A54110 | Pipe Laying | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-19 | 2026-10-28 |  |  | 0 | 6.2 |
+| A54120 | Install Manhole | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 12.2 |
+| A54130 | Testing & Inspection | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 6.2 |
+| A54140 | Backfilling & Compaction | MH-3.16.0 / MH-3.16.1 | Task | Not Started | 2026-11-21 | 2026-11-24 |  |  | 0 | -11 |
+| A54150 | Excavation | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 6.2 |
+| A54160 | Pipe Laying | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-24 | 2026-11-02 |  |  | 0 | 6.2 |
+| A54170 | Install Manhole | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 12.2 |
+| A54180 | Testing & Inspection | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 6.2 |
+| A54190 | Backfilling & Compaction | MH-3.16.0 / MH-3.16.1A | Task | Not Started | 2026-11-25 | 2026-11-29 |  |  | 0 | -11 |
 | A54050 | Excavation | MH-3.15.0 / MH-3.15.1 | Task | Completed | 2027-02-15 | 2027-02-20 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54060 | Pipe Laying | MH-3.15.0 / MH-3.15.1 | Task | Completed | 2027-02-20 | 2027-03-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54070 | Install Manhole | MH-3.15.0 / MH-3.15.1 | Task | Completed | 2027-02-20 | 2027-02-24 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A54080 | Testing & Inspection | MH-3.15.0 / MH-3.15.1 | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 17 |
+| A54080 | Testing & Inspection | MH-3.15.0 / MH-3.15.1 | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 18.1 |
 | A54090 | Backfilling & Compaction | MH-3.15.0 / MH-3.15.1 | Task | Completed | 2027-03-03 | 2027-03-08 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A54200 | Excavation | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 5 |
-| A54210 | Pipe Laying | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-11-04 | 2026-11-14 |  |  | 0 | 5 |
-| A54220 | Install Manhole | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 11 |
-| A54230 | Testing & Inspection | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 5 |
-| A54240 | Backfilling & Compaction | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-12-07 | 2026-12-10 |  |  | 0 | -12.9 |
-| A54300 | Excavation | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 5 |
-| A54310 | Pipe Laying | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-14 | 2026-11-23 |  |  | 0 | 5 |
-| A54320 | Install Manhole | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 11 |
-| A54330 | Testing & Inspection | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 5 |
-| A54340 | Backfilling & Compaction | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-12-16 | 2026-12-20 |  |  | 0 | -12.9 |
-| A54350 | Excavation | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 5 |
-| A54360 | Pipe Laying | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-18 | 2026-11-28 |  |  | 0 | 5 |
-| A54370 | Install Manhole | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | 11 |
-| A54380 | Testing & Inspection | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-28 | 2026-11-30 |  |  | 0 | 5 |
-| A54390 | Backfilling & Compaction | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-12-21 | 2026-12-24 |  |  | 0 | -12.9 |
-| A54250 | Excavation | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 5 |
-| A54260 | Pipe Laying | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-09 | 2026-11-18 |  |  | 0 | 5 |
-| A54270 | Install Manhole | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 11 |
-| A54280 | Testing & Inspection | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-18 | 2026-11-21 |  |  | 0 | 5 |
-| A54290 | Backfilling & Compaction | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | -12.9 |
-| A54400 | Excavation | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | 5 |
-| A54410 | Pipe Laying | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-23 | 2026-12-02 |  |  | 0 | 5 |
-| A54420 | Install Manhole | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-23 | 2026-11-28 |  |  | 0 | 11 |
-| A54430 | Testing & Inspection | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-12-02 | 2026-12-05 |  |  | 0 | 5 |
-| A54440 | Backfilling & Compaction | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-12-26 | 2026-12-29 |  |  | 0 | -12.9 |
+| A54200 | Excavation | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 6.2 |
+| A54210 | Pipe Laying | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-10-28 | 2026-11-07 |  |  | 0 | 6.2 |
+| A54220 | Install Manhole | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 12.2 |
+| A54230 | Testing & Inspection | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 6.2 |
+| A54240 | Backfilling & Compaction | MH-3.16.1 / MH-3.16.2 | Task | Not Started | 2026-11-30 | 2026-12-03 |  |  | 0 | -11 |
+| A54300 | Excavation | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 6.2 |
+| A54310 | Pipe Laying | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-07 | 2026-11-16 |  |  | 0 | 6.2 |
+| A54320 | Install Manhole | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | 12.2 |
+| A54330 | Testing & Inspection | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 6.2 |
+| A54340 | Backfilling & Compaction | MH-3.16.10 / MH-3.16.11 | Task | Not Started | 2026-12-09 | 2026-12-13 |  |  | 0 | -11 |
+| A54350 | Excavation | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | 6.2 |
+| A54360 | Pipe Laying | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-11 | 2026-11-21 |  |  | 0 | 6.2 |
+| A54370 | Install Manhole | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 12.2 |
+| A54380 | Testing & Inspection | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-11-21 | 2026-11-23 |  |  | 0 | 6.2 |
+| A54390 | Backfilling & Compaction | MH-3.16.2 / MH-3.16.3 | Task | Not Started | 2026-12-14 | 2026-12-17 |  |  | 0 | -11 |
+| A54250 | Excavation | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 6.2 |
+| A54260 | Pipe Laying | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-02 | 2026-11-11 |  |  | 0 | 6.2 |
+| A54270 | Install Manhole | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 12.2 |
+| A54280 | Testing & Inspection | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 6.2 |
+| A54290 | Backfilling & Compaction | MH-3.16.1.0 / MH-3.16.1.1 | Task | Not Started | 2026-12-05 | 2026-12-08 |  |  | 0 | -11 |
+| A54400 | Excavation | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 6.2 |
+| A54410 | Pipe Laying | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-16 | 2026-11-25 |  |  | 0 | 6.2 |
+| A54420 | Install Manhole | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 12.2 |
+| A54430 | Testing & Inspection | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-11-25 | 2026-11-28 |  |  | 0 | 6.2 |
+| A54440 | Backfilling & Compaction | MH-3.16.2.0 / MH-3.16.2.1 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | -11 |
 | A54500 | Excavation | MH-3.16.3.0 / MH-3.16.3.1 | Task | Completed | 2026-11-10 | 2026-11-15 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54510 | Pipe Laying | MH-3.16.3.0 / MH-3.16.3.1 | Task | Completed | 2026-11-15 | 2026-11-24 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A54520 | Install Manhole | MH-3.16.3.0 / MH-3.16.3.1 | Task | Completed | 2026-11-15 | 2026-11-19 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -2501,88 +2501,88 @@
 | A55150 | Excavation | MH-3.17.0 / MH-3.17.1 | Task | Completed | 2026-11-04 | 2026-11-08 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55160 | Pipe Laying | MH-3.17.0 / MH-3.17.1 | Task | Completed | 2026-11-08 | 2026-11-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55170 | Install Manhole | MH-3.17.0 / MH-3.17.1 | Task | Completed | 2026-11-08 | 2026-11-12 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55180 | Testing & Inspection | MH-3.17.0 / MH-3.17.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55180 | Testing & Inspection | MH-3.17.0 / MH-3.17.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55190 | Backfilling & Compaction | MH-3.17.0 / MH-3.17.1 | Task | Completed | 2026-11-15 | 2026-11-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55200 | Excavation | MH-3.18.0 / MH-3.18.1 | Task | Completed | 2026-11-08 | 2026-11-11 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55210 | Pipe Laying | MH-3.18.0 / MH-3.18.1 | Task | Completed | 2026-11-11 | 2026-11-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55220 | Install Manhole | MH-3.18.0 / MH-3.18.1 | Task | Completed | 2026-11-11 | 2026-11-16 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55230 | Testing & Inspection | MH-3.18.0 / MH-3.18.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55230 | Testing & Inspection | MH-3.18.0 / MH-3.18.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55240 | Backfilling & Compaction | MH-3.18.0 / MH-3.18.1 | Task | Completed | 2026-11-23 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55250 | Excavation | MH-3.19.0 / MH-3.19.1 | Task | Completed | 2026-11-11 | 2026-11-15 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55260 | Pipe Laying | MH-3.19.0 / MH-3.19.1 | Task | Completed | 2026-11-15 | 2026-11-24 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55270 | Install Manhole | MH-3.19.0 / MH-3.19.1 | Task | Completed | 2026-11-15 | 2026-11-19 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55280 | Testing & Inspection | MH-3.19.0 / MH-3.19.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55280 | Testing & Inspection | MH-3.19.0 / MH-3.19.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55290 | Backfilling & Compaction | MH-3.19.0 / MH-3.19.1 | Task | Completed | 2026-11-28 | 2026-12-02 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55300 | Excavation | MH-3.20.0 / MH-3.20.1 | Task | Completed | 2026-11-15 | 2026-11-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55310 | Pipe Laying | MH-3.20.0 / MH-3.20.1 | Task | Completed | 2026-11-18 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55320 | Install Manhole | MH-3.20.0 / MH-3.20.1 | Task | Completed | 2026-11-18 | 2026-11-23 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55330 | Testing & Inspection | MH-3.20.0 / MH-3.20.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55330 | Testing & Inspection | MH-3.20.0 / MH-3.20.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55340 | Backfilling & Compaction | MH-3.20.0 / MH-3.20.1 | Task | Completed | 2026-12-02 | 2026-12-07 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55350 | Excavation | MH-3.21.0 / MH-3.21.1 | Task | Completed | 2026-11-18 | 2026-11-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55360 | Pipe Laying | MH-3.21.0 / MH-3.21.1 | Task | Completed | 2026-11-22 | 2026-12-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55370 | Install Manhole | MH-3.21.0 / MH-3.21.1 | Task | Completed | 2026-11-22 | 2026-11-26 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55380 | Testing & Inspection | MH-3.21.0 / MH-3.21.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55380 | Testing & Inspection | MH-3.21.0 / MH-3.21.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55390 | Backfilling & Compaction | MH-3.21.0 / MH-3.21.1 | Task | Completed | 2026-12-07 | 2026-12-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55400 | Excavation | MH-3.22 / MH-3.23 | Task | Completed | 2026-11-22 | 2026-11-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55410 | Pipe Laying | MH-3.22 / MH-3.23 | Task | Completed | 2026-11-25 | 2026-12-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55420 | Install Manhole | MH-3.22 / MH-3.23 | Task | Completed | 2026-11-25 | 2026-11-30 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55430 | Testing & Inspection | MH-3.22 / MH-3.23 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55430 | Testing & Inspection | MH-3.22 / MH-3.23 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55440 | Backfilling & Compaction | MH-3.22 / MH-3.23 | Task | Completed | 2026-12-12 | 2026-12-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55450 | Excavation | MH-3.22.0 / MH-3.22.1 | Task | Completed | 2026-11-25 | 2026-11-29 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55460 | Pipe Laying | MH-3.22.0 / MH-3.22.1 | Task | Completed | 2026-11-29 | 2026-12-08 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55470 | Install Manhole | MH-3.22.0 / MH-3.22.1 | Task | Completed | 2026-11-29 | 2026-12-03 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55480 | Testing & Inspection | MH-3.22.0 / MH-3.22.1 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55480 | Testing & Inspection | MH-3.22.0 / MH-3.22.1 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55490 | Backfilling & Compaction | MH-3.22.0 / MH-3.22.1 | Task | Completed | 2026-12-16 | 2026-12-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55500 | Excavation | MH-3.16 / MH-3.17 | Task | Completed | 2026-11-29 | 2026-12-02 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55510 | Pipe Laying | MH-3.16 / MH-3.17 | Task | Completed | 2026-12-02 | 2026-12-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55520 | Install Manhole | MH-3.16 / MH-3.17 | Task | Completed | 2026-12-02 | 2026-12-07 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55530 | Testing & Inspection | MH-3.16 / MH-3.17 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55530 | Testing & Inspection | MH-3.16 / MH-3.17 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55540 | Backfilling & Compaction | MH-3.16 / MH-3.17 | Task | Completed | 2026-12-21 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55550 | Excavation | MH-3.17 / MH-3.18 | Task | Completed | 2026-12-02 | 2026-12-06 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55560 | Pipe Laying | MH-3.17 / MH-3.18 | Task | Completed | 2026-12-06 | 2026-12-15 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55570 | Install Manhole | MH-3.17 / MH-3.18 | Task | Completed | 2026-12-06 | 2026-12-10 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55580 | Testing & Inspection | MH-3.17 / MH-3.18 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55580 | Testing & Inspection | MH-3.17 / MH-3.18 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55590 | Backfilling & Compaction | MH-3.17 / MH-3.18 | Task | Completed | 2026-12-26 | 2026-12-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55600 | Excavation | MH-3.18 / MH-3.19 | Task | Completed | 2026-12-06 | 2026-12-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55610 | Pipe Laying | MH-3.18 / MH-3.19 | Task | Completed | 2026-12-09 | 2026-12-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55620 | Install Manhole | MH-3.18 / MH-3.19 | Task | Completed | 2026-12-09 | 2026-12-14 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55630 | Testing & Inspection | MH-3.18 / MH-3.19 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55630 | Testing & Inspection | MH-3.18 / MH-3.19 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55640 | Backfilling & Compaction | MH-3.18 / MH-3.19 | Task | Completed | 2026-12-30 | 2027-01-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55650 | Excavation | MH-3.19 / MH-3.20 | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55660 | Pipe Laying | MH-3.19 / MH-3.20 | Task | Completed | 2026-12-13 | 2026-12-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55670 | Install Manhole | MH-3.19 / MH-3.20 | Task | Completed | 2026-12-13 | 2026-12-17 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55680 | Testing & Inspection | MH-3.19 / MH-3.20 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55680 | Testing & Inspection | MH-3.19 / MH-3.20 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55690 | Backfilling & Compaction | MH-3.19 / MH-3.20 | Task | Completed | 2027-01-04 | 2027-01-09 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55700 | Excavation | MH-3.20 / MH-3.21 | Task | Completed | 2026-12-13 | 2026-12-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55710 | Pipe Laying | MH-3.20 / MH-3.21 | Task | Completed | 2026-12-16 | 2026-12-26 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55720 | Install Manhole | MH-3.20 / MH-3.21 | Task | Completed | 2026-12-16 | 2026-12-21 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55730 | Testing & Inspection | MH-3.20 / MH-3.21 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55730 | Testing & Inspection | MH-3.20 / MH-3.21 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55740 | Backfilling & Compaction | MH-3.20 / MH-3.21 | Task | Completed | 2027-01-09 | 2027-01-13 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55750 | Excavation | MH-3.21 / MH-3.22 | Task | Completed | 2026-12-16 | 2026-12-20 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55760 | Pipe Laying | MH-3.21 / MH-3.22 | Task | Completed | 2026-12-20 | 2026-12-29 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55770 | Install Manhole | MH-3.21 / MH-3.22 | Task | Completed | 2026-12-20 | 2026-12-24 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55780 | Testing & Inspection | MH-3.21 / MH-3.22 | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 9.6 |
+| A55780 | Testing & Inspection | MH-3.21 / MH-3.22 | Task | Not Started | 2026-10-05 | 2026-10-07 |  |  | 0 | 15.6 |
 | A55790 | Backfilling & Compaction | MH-3.21 / MH-3.22 | Task | Completed | 2027-01-13 | 2027-01-18 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55800 | Excavation for Mosque Footings | Mosque – Foundations | Task | Completed | 2027-11-10 | 2027-11-17 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A55810 | RC Footings Reinforcement for Mosque | Mosque – Foundations | Task | Completed | 2027-11-18 | 2027-12-01 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A55820 | RC Footings Concreting for Mosque | Mosque – Foundations | Task | In Progress | 2027-12-02 | 2027-12-07 | 2026-08-21 |  | 100 | 20.7 |
-| A55830 | Backfilling & Compaction for Mosque | Mosque – Foundations | Task | In Progress | 2027-12-08 | 2027-12-12 | 2026-08-21 |  | 100 | 20.7 |
-| A55840 | Columns Reinforcement & Shuttering for Mosque | Mosque – Superstructure | Task | In Progress | 2027-12-13 | 2027-12-26 | 2026-08-21 |  | 100 | 52.5 |
-| A55850 | Columns Concreting for Mosque | Mosque – Superstructure | Task | In Progress | 2027-12-27 | 2027-12-30 | 2026-08-21 |  | 100 | 52.5 |
-| A55860 | Slab / beams Formwork & Reinforcement for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-01 | 2028-01-13 | 2026-08-21 |  | 100 | 52.5 |
-| A55870 | Slab / beams Concreting for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-15 | 2028-01-18 | 2026-08-21 |  | 100 | 52.5 |
-| A55880 | External Blockwork walls for Mosque | Mosque – Masonry & Roofing | Task | In Progress | 2028-01-31 | 2028-02-08 | 2026-08-21 |  | 100 | 52.5 |
-| A55890 | Internal Plastering for Mosque | Mosque – Finishes | Task | Not Started | 2027-04-22 | 2027-05-10 |  |  | 0 | 52.5 |
-| A55900 | Floor Finishes for Mosque | Mosque – Finishes | Task | Not Started | 2027-04-29 | 2027-05-17 |  |  | 0 | 54.5 |
-| A55910 | Ceiling Works for Mosque | Mosque – Finishes | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 55.5 |
-| A55920 | painting and cladding works for Mosque | Mosque – Finishes | Task | Not Started | 2027-05-17 | 2027-05-31 |  |  | 0 | 54.5 |
-| A55930 | MEP First Fix for Mosque | Mosque – Finishes | Task | In Progress | 2028-02-09 | 2028-02-20 | 2026-08-21 |  | 0 | 52.5 |
-| A55940 | MEP Second Fix for Mosque | Mosque – Finishes | Task | Not Started | 2027-06-02 | 2027-06-12 |  |  | 0 | 52.5 |
-| A55950 | Internal Blockwork walls for Mosque | Mosque – Masonry & Roofing | Task | In Progress | 2028-01-31 | 2028-02-08 | 2026-08-21 |  | 100 | 52.5 |
-| A55960 | Install handrails / Ladders / GRC works | Mosque – Finishes | Task | Not Started | 2027-05-22 | 2027-06-02 |  |  | 0 | 52.5 |
-| A55970 | Install Doors & Windows | Mosque – Finishes | Task | Not Started | 2027-05-10 | 2027-05-22 |  |  | 0 | 52.5 |
-| A55980 | Required finished works includes Quran shelf / shoe rack and other requirments | Mosque – Finishes | Task | Not Started | 2027-06-12 | 2027-06-28 |  |  | 0 | 52.5 |
-| A55990 | Slab on grade for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-19 | 2028-01-30 | 2026-08-21 |  | 100 | 52.5 |
+| A55820 | RC Footings Concreting for Mosque | Mosque – Foundations | Task | In Progress | 2027-12-02 | 2027-12-07 | 2026-08-21 |  | 100 | 0 |
+| A55830 | Backfilling & Compaction for Mosque | Mosque – Foundations | Task | In Progress | 2027-12-08 | 2027-12-12 | 2026-08-21 |  | 100 | 0 |
+| A55840 | Columns Reinforcement & Shuttering for Mosque | Mosque – Superstructure | Task | In Progress | 2027-12-13 | 2027-12-26 | 2026-08-21 |  | 100 | 31.8 |
+| A55850 | Columns Concreting for Mosque | Mosque – Superstructure | Task | In Progress | 2027-12-27 | 2027-12-30 | 2026-08-21 |  | 100 | 31.8 |
+| A55860 | Slab / beams Formwork & Reinforcement for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-01 | 2028-01-13 | 2026-08-21 |  | 100 | 31.8 |
+| A55870 | Slab / beams Concreting for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-15 | 2028-01-18 | 2026-08-21 |  | 100 | 31.8 |
+| A55880 | External Blockwork walls for Mosque | Mosque – Masonry & Roofing | Task | In Progress | 2028-01-31 | 2028-02-08 | 2026-08-21 |  | 100 | 31.8 |
+| A55890 | Internal Plastering for Mosque | Mosque – Finishes | Task | Not Started | 2027-05-31 | 2027-06-17 |  |  | 0 | 31.8 |
+| A55900 | Floor Finishes for Mosque | Mosque – Finishes | Task | Not Started | 2027-06-07 | 2027-06-24 |  |  | 0 | 33.8 |
+| A55910 | Ceiling Works for Mosque | Mosque – Finishes | Task | Not Started | 2027-06-07 | 2027-06-23 |  |  | 0 | 34.8 |
+| A55920 | painting and cladding works for Mosque | Mosque – Finishes | Task | Not Started | 2027-06-24 | 2027-07-08 |  |  | 0 | 33.8 |
+| A55930 | MEP First Fix for Mosque | Mosque – Finishes | Task | In Progress | 2028-02-09 | 2028-02-20 | 2026-08-21 |  | 0 | 31.8 |
+| A55940 | MEP Second Fix for Mosque | Mosque – Finishes | Task | Not Started | 2027-07-11 | 2027-07-20 |  |  | 0 | 31.8 |
+| A55950 | Internal Blockwork walls for Mosque | Mosque – Masonry & Roofing | Task | In Progress | 2028-01-31 | 2028-02-08 | 2026-08-21 |  | 100 | 31.8 |
+| A55960 | Install handrails / Ladders / GRC works | Mosque – Finishes | Task | Not Started | 2027-06-29 | 2027-07-11 |  |  | 0 | 31.8 |
+| A55970 | Install Doors & Windows | Mosque – Finishes | Task | Not Started | 2027-06-17 | 2027-06-29 |  |  | 0 | 31.8 |
+| A55980 | Required finished works includes Quran shelf / shoe rack and other requirments | Mosque – Finishes | Task | Not Started | 2027-07-20 | 2027-08-05 |  |  | 0 | 31.8 |
+| A55990 | Slab on grade for Mosque | Mosque – Superstructure | Task | In Progress | 2028-01-19 | 2028-01-30 | 2026-08-21 |  | 100 | 31.8 |
 | A56000 | Excavation for Mosque Footings | Minaret – Foundations | Task | Completed | 2027-12-13 | 2027-12-20 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56010 | RC Footings Reinforcement for minaret | Minaret – Foundations | Task | Completed | 2027-12-21 | 2028-01-03 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56020 | RC Footings Concreting for minaret | Minaret – Foundations | Task | Completed | 2028-01-04 | 2028-01-09 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -2591,104 +2591,104 @@
 | A56050 | Columns Concreting for minaret | Minaret – RC Structure | Task | Completed | 2028-01-24 | 2028-02-13 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56060 | Slab / beams Formwork & Reinforcement for minaret | Minaret – RC Structure | Task | Completed | 2028-02-14 | 2028-02-27 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56070 | Slab / beams Concreting for minaret | Minaret – RC Structure | Task | Completed | 2028-02-28 | 2028-03-02 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A56080 | Slab on grade for minaret | Minaret – RC Structure | Task | Not Started | 2027-03-08 | 2027-03-20 |  |  | 0 | 118.7 |
-| A56090 | Block works | Minaret – Finishes | Task | Not Started | 2027-03-20 | 2027-03-29 |  |  | 0 | 118.7 |
-| A56100 | Finishes & GRC | Minaret – Finishes | Task | Not Started | 2027-03-29 | 2027-04-12 |  |  | 0 | 118.7 |
-| A56110 | Excavation for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-03-08 | 2027-03-16 |  |  | 0 | 20.7 |
-| A56120 | RC Footings Reinforcement for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-03-16 | 2027-03-30 |  |  | 0 | 20.7 |
-| A56130 | RC Footings Concreting for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-03-30 | 2027-04-05 |  |  | 0 | 20.7 |
-| A56140 | Backfilling & Compaction for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-04-05 | 2027-04-10 |  |  | 0 | 20.7 |
-| A56150 | Columns Reinforcement & Shuttering for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-04-10 | 2027-05-01 |  |  | 0 | 20.7 |
-| A56160 | Columns Concreting for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-04-14 | 2027-05-05 |  |  | 0 | 20.7 |
-| A56170 | Slab / beams Formwork & Reinforcement for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-05-05 | 2027-05-19 |  |  | 0 | 20.7 |
-| A56180 | Slab / beams Concreting for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-05-19 | 2027-05-24 |  |  | 0 | 20.7 |
-| A56190 | Slab on grade for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-05-24 | 2027-06-05 |  |  | 0 | 20.7 |
-| A56200 | External Blockwork walls for toilet & wash area | Toilet – MEP Works | Task | Not Started | 2027-06-05 | 2027-06-14 |  |  | 0 | 20.7 |
-| A56210 | Internal walls for toilet & wash area | Toilet – MEP Works | Task | Not Started | 2027-06-05 | 2027-06-14 |  |  | 0 | 20.7 |
-| A56220 | Internal Plastering for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-06-20 | 2027-07-04 |  |  | 0 | 20.7 |
-| A56230 | Floor Finishes for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-06-27 | 2027-07-12 |  |  | 0 | 20.7 |
-| A56240 | Ceiling Works for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-06-27 | 2027-07-11 |  |  | 0 | 21.7 |
-| A56250 | Painting and cladding works for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-07-12 | 2027-07-24 |  |  | 0 | 20.7 |
-| A56260 | MEP First Fix for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-06-14 | 2027-06-23 |  |  | 0 | 20.7 |
-| A56270 | MEP Second Fix | Toilet – Finishes | Task | Not Started | 2027-07-24 | 2027-07-31 |  |  | 0 | 24.7 |
-| A56280 | Sanitary fixtures installation | Toilet – Finishes | Task | Not Started | 2027-07-13 | 2027-07-22 |  |  | 0 | 31.7 |
-| A56290 | Install Doors & Windows for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-07-04 | 2027-07-13 |  |  | 0 | 31.7 |
-| A56300 | Installation of toilet partitions | Toilet – Finishes | Task | Not Started | 2027-07-24 | 2027-08-04 |  |  | 0 | 20.7 |
-| A56310 | Setting out for hygiene & sanitary accessories | Toilet – Finishes | Task | Not Started | 2027-08-04 | 2027-08-10 |  |  | 0 | 20.7 |
-| A56320 | Excavation for cabin foundations / pads | Prepration works and foundations | Task | Not Started | 2027-02-17 | 2027-02-24 |  |  | 0 | 0 |
-| A56330 | RC foundations / plinths | Prepration works and foundations | Task | Not Started | 2027-02-24 | 2027-03-03 |  |  | 0 | 90 |
-| A56340 | Backfilling & compaction around pads | Prepration works and foundations | Task | Not Started | 2027-03-03 | 2027-03-08 |  |  | 0 | 125 |
-| A56350 | Alignment & leveling of cabins | Cabins installation | Task | Not Started | 2027-03-08 | 2027-03-17 |  |  | 0 | 125 |
-| A56360 | Electrical conduits & DB installation | Cabins installation | Task | Not Started | 2027-03-17 | 2027-03-25 |  |  | 0 | 130 |
-| A56370 | Plumbing & drainage rough-in | Cabins installation | Task | Not Started | 2027-03-17 | 2027-03-25 |  |  | 0 | 130 |
-| A56380 | Power sockets & switches | Cabins installation | Task | Not Started | 2027-03-17 | 2027-03-27 |  |  | 0 | 125 |
-| A56390 | AC units installation | Cabins installation | Task | Not Started | 2027-03-27 | 2027-03-31 |  |  | 0 | 125 |
-| A56400 | Parking sub-base & kerbstone works | Parking & Landscape | Task | Not Started | 2027-03-03 | 2027-03-15 |  |  | 0 | 90 |
-| A56410 | Asphalt base & wearing course | Parking & Landscape | Task | Not Started | 2027-03-15 | 2027-03-29 |  |  | 0 | 90 |
-| A56420 | Parking line marking & signage | Parking & Landscape | Task | Not Started | 2027-03-29 | 2027-04-07 |  |  | 0 | 90 |
-| A56430 | Interlock & walkways | Parking & Landscape | Task | Not Started | 2027-04-07 | 2027-04-18 |  |  | 0 | 90 |
-| A56440 | Softscape & irrigation works | Parking & Landscape | Task | Not Started | 2027-04-18 | 2027-04-29 |  |  | 0 | 90 |
-| A56450 | Final inspection & snag rectification | Cabins installation | Task | Not Started | 2027-04-29 | 2027-05-11 |  |  | 0 | 90 |
-| A56460 | Final cleaning & handover | Cabins installation | Task | Not Started | 2027-05-11 | 2027-05-20 |  |  | 0 | 90 |
+| A56080 | Slab on grade for minaret | Minaret – RC Structure | Task | Not Started | 2027-04-15 | 2027-04-27 |  |  | 0 | 98 |
+| A56090 | Block works | Minaret – Finishes | Task | Not Started | 2027-04-27 | 2027-05-06 |  |  | 0 | 98 |
+| A56100 | Finishes & GRC | Minaret – Finishes | Task | Not Started | 2027-05-06 | 2027-05-20 |  |  | 0 | 98 |
+| A56110 | Excavation for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-04-15 | 2027-04-24 |  |  | 0 | 0 |
+| A56120 | RC Footings Reinforcement for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-04-24 | 2027-05-08 |  |  | 0 | 0 |
+| A56130 | RC Footings Concreting for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-05-08 | 2027-05-13 |  |  | 0 | 0 |
+| A56140 | Backfilling & Compaction for toilet & wash area | Toilet – Foundations | Task | Not Started | 2027-05-13 | 2027-05-18 |  |  | 0 | 0 |
+| A56150 | Columns Reinforcement & Shuttering for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-05-18 | 2027-06-08 |  |  | 0 | 0 |
+| A56160 | Columns Concreting for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-05-23 | 2027-06-13 |  |  | 0 | 0 |
+| A56170 | Slab / beams Formwork & Reinforcement for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-06-13 | 2027-06-27 |  |  | 0 | 0 |
+| A56180 | Slab / beams Concreting for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-06-27 | 2027-07-01 |  |  | 0 | 0 |
+| A56190 | Slab on grade for toilet & wash area | Toilet – Superstructure | Task | Not Started | 2027-07-01 | 2027-07-13 |  |  | 0 | 0 |
+| A56200 | External Blockwork walls for toilet & wash area | Toilet – MEP Works | Task | Not Started | 2027-07-13 | 2027-07-22 |  |  | 0 | 0 |
+| A56210 | Internal walls for toilet & wash area | Toilet – MEP Works | Task | Not Started | 2027-07-13 | 2027-07-22 |  |  | 0 | 0 |
+| A56220 | Internal Plastering for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-07-28 | 2027-08-11 |  |  | 0 | 0 |
+| A56230 | Floor Finishes for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-08-04 | 2027-08-19 |  |  | 0 | 0 |
+| A56240 | Ceiling Works for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-08-04 | 2027-08-18 |  |  | 0 | 1 |
+| A56250 | Painting and cladding works for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-08-19 | 2027-08-31 |  |  | 0 | 0 |
+| A56260 | MEP First Fix for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-07-22 | 2027-08-01 |  |  | 0 | 0 |
+| A56270 | MEP Second Fix | Toilet – Finishes | Task | Not Started | 2027-08-31 | 2027-09-07 |  |  | 0 | 4 |
+| A56280 | Sanitary fixtures installation | Toilet – Finishes | Task | Not Started | 2027-08-21 | 2027-08-30 |  |  | 0 | 11 |
+| A56290 | Install Doors & Windows for toilet & wash area | Toilet – Finishes | Task | Not Started | 2027-08-11 | 2027-08-21 |  |  | 0 | 11 |
+| A56300 | Installation of toilet partitions | Toilet – Finishes | Task | Not Started | 2027-08-31 | 2027-09-12 |  |  | 0 | 0 |
+| A56310 | Setting out for hygiene & sanitary accessories | Toilet – Finishes | Task | Not Started | 2027-09-12 | 2027-09-18 |  |  | 0 | 0 |
+| A56320 | Excavation for cabin foundations / pads | Prepration works and foundations | Task | Not Started | 2027-02-25 | 2027-03-04 |  |  | 0 | 6.3 |
+| A56330 | RC foundations / plinths | Prepration works and foundations | Task | Not Started | 2027-03-04 | 2027-03-11 |  |  | 0 | 96.3 |
+| A56340 | Backfilling & compaction around pads | Prepration works and foundations | Task | Not Started | 2027-03-11 | 2027-03-16 |  |  | 0 | 131.3 |
+| A56350 | Alignment & leveling of cabins | Cabins installation | Task | Not Started | 2027-03-16 | 2027-03-25 |  |  | 0 | 131.3 |
+| A56360 | Electrical conduits & DB installation | Cabins installation | Task | Not Started | 2027-03-25 | 2027-04-03 |  |  | 0 | 136.3 |
+| A56370 | Plumbing & drainage rough-in | Cabins installation | Task | Not Started | 2027-03-25 | 2027-04-03 |  |  | 0 | 136.3 |
+| A56380 | Power sockets & switches | Cabins installation | Task | Not Started | 2027-03-25 | 2027-04-04 |  |  | 0 | 131.3 |
+| A56390 | AC units installation | Cabins installation | Task | Not Started | 2027-04-04 | 2027-04-08 |  |  | 0 | 131.3 |
+| A56400 | Parking sub-base & kerbstone works | Parking & Landscape | Task | Not Started | 2027-03-11 | 2027-03-23 |  |  | 0 | 96.3 |
+| A56410 | Asphalt base & wearing course | Parking & Landscape | Task | Not Started | 2027-03-23 | 2027-04-06 |  |  | 0 | 96.3 |
+| A56420 | Parking line marking & signage | Parking & Landscape | Task | Not Started | 2027-04-06 | 2027-04-15 |  |  | 0 | 96.3 |
+| A56430 | Interlock & walkways | Parking & Landscape | Task | Not Started | 2027-04-15 | 2027-04-26 |  |  | 0 | 96.3 |
+| A56440 | Softscape & irrigation works | Parking & Landscape | Task | Not Started | 2027-04-26 | 2027-05-08 |  |  | 0 | 96.3 |
+| A56450 | Final inspection & snag rectification | Cabins installation | Task | Not Started | 2027-05-08 | 2027-05-19 |  |  | 0 | 96.3 |
+| A56460 | Final cleaning & handover | Cabins installation | Task | Not Started | 2027-05-19 | 2027-05-29 |  |  | 0 | 96.3 |
 | A56600 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-20 | 2026-02-04 | 2026-01-20 | 2026-09-20 | 100 |  |
-| A56610 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-05 | 2026-03-01 | 2026-08-21 |  | 0 | -59.4 |
-| A56620 | Subgrade | Earth Work | Task | In Progress | 2026-03-02 | 2026-03-12 | 2026-08-21 |  | 0 | -59.4 |
+| A56610 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-05 | 2026-03-01 | 2026-08-21 |  | 0 | -54.4 |
+| A56620 | Subgrade | Earth Work | Task | In Progress | 2026-03-02 | 2026-03-12 | 2026-08-21 |  | 0 | -54.4 |
 | A56630 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-10-26 | 2026-10-31 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56640 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-01 | 2026-11-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A56650 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-07 | 2026-11-11 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A56660 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-04-18 | 2026-04-26 | 2026-08-21 |  | 0 | -82.8 |
-| A56670 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-17 | 2026-05-19 | 2026-08-21 |  | 0 | -43.2 |
-| A56680 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | 0 |
-| A56690 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-04-27 | 2026-05-05 | 2026-08-21 |  | 0 | -43.2 |
-| A56700 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-05-06 | 2026-05-11 | 2026-08-21 |  | 0 | -43.2 |
-| A56710 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-05-12 | 2026-05-16 | 2026-08-21 |  | 0 | -43.2 |
-| A56720 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-02-17 | 2027-02-20 |  |  | 0 | 120.3 |
-| A56730 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-02-20 | 2027-02-22 |  |  | 0 | 120.3 |
-| A56740 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-02-22 | 2027-02-25 |  |  | 0 | 120.3 |
-| A56750 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-02-25 | 2027-02-28 |  |  | 0 | 179 |
-| A56760 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-02-28 | 2027-03-04 |  |  | 0 | 179 |
-| A56770 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-04 | 2027-03-08 |  |  | 0 | 194 |
-| A56780 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-11 |  |  | 0 | 194 |
-| A56790 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-14 |  |  | 0 | 213 |
-| A59160 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 179 |
-| A59170 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 179 |
-| A59180 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 179 |
-| A59190 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 179 |
-| A59040 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 200 |
-| A59050 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 200 |
-| A59060 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 200 |
-| A59070 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 200 |
-| A59080 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 200 |
-| A59090 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-04 | 2027-03-29 |  |  | 0 | 179 |
-| A59100 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A59110 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A59120 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A59130 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A59140 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A59150 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
+| A56660 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-04-18 | 2026-04-26 | 2026-08-21 |  | 0 | -102.8 |
+| A56670 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-17 | 2026-05-19 | 2026-08-21 |  | 0 | -62.2 |
+| A56680 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-02-21 | 2027-02-25 |  |  | 0 | 6.3 |
+| A56690 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-04-27 | 2026-05-05 | 2026-08-21 |  | 0 | -62.2 |
+| A56700 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-05-06 | 2026-05-11 | 2026-08-21 |  | 0 | -62.2 |
+| A56710 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-05-12 | 2026-05-16 | 2026-08-21 |  | 0 | -62.2 |
+| A56720 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-02-25 | 2027-02-28 |  |  | 0 | 126.1 |
+| A56730 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-02-28 | 2027-03-02 |  |  | 0 | 126.1 |
+| A56740 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-02 | 2027-03-06 |  |  | 0 | 126.1 |
+| A56750 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-06 | 2027-03-08 |  |  | 0 | 185.3 |
+| A56760 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-13 |  |  | 0 | 185.3 |
+| A56770 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-16 |  |  | 0 | 200.3 |
+| A56780 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-20 |  |  | 0 | 200.3 |
+| A56790 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-22 |  |  | 0 | 219.3 |
+| A59160 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 185.3 |
+| A59170 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 185.3 |
+| A59180 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 185.3 |
+| A59190 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 185.3 |
+| A59040 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 206.3 |
+| A59050 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 206.3 |
+| A59060 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 206.3 |
+| A59070 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 206.3 |
+| A59080 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 206.3 |
+| A59090 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 185.3 |
+| A59100 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A59110 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A59120 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A59130 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A59140 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A59150 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
 | A59200 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-05 | 2026-02-21 | 2026-02-05 | 2026-09-20 | 100 |  |
-| A59210 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-22 | 2026-03-09 | 2026-08-21 |  | 0 | -58.8 |
-| A59220 | Subgrade | Earth Work | Task | In Progress | 2026-03-10 | 2026-03-21 | 2026-08-21 |  | 0 | -58.8 |
+| A59210 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-22 | 2026-03-09 | 2026-08-21 |  | 0 | -53.8 |
+| A59220 | Subgrade | Earth Work | Task | In Progress | 2026-03-10 | 2026-03-21 | 2026-08-21 |  | 0 | -53.8 |
 | A59230 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-11-01 | 2026-11-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59240 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-15 | 2026-11-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59250 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-23 | 2026-11-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59260 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-09 | 2026-02-24 | 2026-02-09 | 2026-09-20 | 100 |  |
-| A59270 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-25 | 2026-03-12 | 2026-08-21 |  | 0 | -60.2 |
-| A59280 | Subgrade | Earth Work | Task | In Progress | 2026-03-14 | 2026-03-21 | 2026-08-21 |  | 0 | -60.2 |
+| A59270 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-25 | 2026-03-12 | 2026-08-21 |  | 0 | -57.9 |
+| A59280 | Subgrade | Earth Work | Task | In Progress | 2026-03-14 | 2026-03-21 | 2026-08-21 |  | 0 | -57.9 |
 | A59290 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-11-15 | 2026-11-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59300 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-21 | 2026-11-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59310 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-26 | 2026-12-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59320 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-25 | 2026-03-02 | 2026-02-25 | 2026-09-20 | 100 |  |
-| A59330 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-10 | 2026-11-02 |  |  | 0 | -78.9 |
-| A59340 | Subgrade | Earth Work | Task | In Progress | 2026-03-28 | 2026-04-01 | 2026-08-21 |  | 0 | -78.9 |
+| A59330 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-03 | 2026-10-26 |  |  | 0 | -73.6 |
+| A59340 | Subgrade | Earth Work | Task | In Progress | 2026-03-28 | 2026-04-01 | 2026-08-21 |  | 0 | -73.6 |
 | A59350 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-03-03 | 2026-03-18 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59360 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-03-19 | 2026-03-30 | 2026-08-21 |  | 0 | -90.1 |
-| A59370 | Subgrade | Earth Work | Task | In Progress | 2026-03-31 | 2026-04-05 | 2026-08-21 |  | 0 | -60.3 |
+| A59360 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-03-19 | 2026-03-30 | 2026-08-21 |  | 0 | -84.1 |
+| A59370 | Subgrade | Earth Work | Task | In Progress | 2026-03-31 | 2026-04-05 | 2026-08-21 |  | 0 | -55.0 |
 | A59380 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-03-19 | 2026-04-04 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59390 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-04-05 | 2026-04-15 | 2026-08-21 |  | 0 | -79.3 |
-| A59400 | Subgrade | Earth Work | Task | In Progress | 2026-04-16 | 2026-04-27 | 2026-08-29 |  | 0 | -59.3 |
+| A59390 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-04-05 | 2026-04-15 | 2026-08-21 |  | 0 | -93.3 |
+| A59400 | Subgrade | Earth Work | Task | In Progress | 2026-04-16 | 2026-04-27 | 2026-08-29 |  | 0 | -54.0 |
 | A59410 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-04-05 | 2026-04-09 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59420 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-04-11 | 2026-04-21 | 2026-08-29 |  | 0 | -49.6 |
+| A59420 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-04-11 | 2026-04-21 | 2026-08-29 |  | 0 | -44.3 |
 | A59430 | Subgrade | Earth Work | Task | Completed | 2026-04-22 | 2026-05-03 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59440 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-04-11 | 2026-04-15 | 2026-03-15 | 2026-09-20 | 100 |  |
 | A59450 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-04-16 | 2026-05-10 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -2697,7 +2697,7 @@
 | A59480 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-19 | 2026-02-11 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59490 | Subgrade | Earth Work | Task | Completed | 2026-02-12 | 2026-02-23 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59500 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-19 | 2026-02-03 | 2026-01-19 | 2026-09-20 | 100 |  |
-| A59510 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-04 | 2026-02-28 | 2026-08-29 |  | 0 | -49.6 |
+| A59510 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-04 | 2026-02-28 | 2026-08-29 |  | 0 | -44.4 |
 | A59520 | Subgrade | Earth Work | Task | Completed | 2026-03-01 | 2026-03-11 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59530 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-04 | 2026-02-19 | 2026-02-04 | 2026-09-20 | 100 |  |
 | A59540 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-02-21 | 2026-03-16 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -2712,17 +2712,17 @@
 | A59630 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-04-11 | 2026-05-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59640 | Subgrade | Earth Work | Task | Completed | 2026-05-05 | 2026-05-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59650 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-04-11 | 2026-04-26 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59660 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-10 | 2026-11-02 |  |  | 0 | -45.7 |
+| A59660 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-03 | 2026-10-26 |  |  | 0 | -39.7 |
 | A59670 | Subgrade | Earth Work | Task | Completed | 2026-05-21 | 2026-06-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59680 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-05-17 | 2026-06-01 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59690 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-06-02 | 2026-06-07 | 2026-08-29 |  | 0 | -31.1 |
-| A59700 | Subgrade | Earth Work | Task | In Progress | 2026-06-08 | 2026-06-13 | 2026-08-29 |  | 100 | -31.1 |
+| A59690 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-06-02 | 2026-06-07 | 2026-08-29 |  | 0 | -25.1 |
+| A59700 | Subgrade | Earth Work | Task | In Progress | 2026-06-08 | 2026-06-13 | 2026-08-29 |  | 100 | -25.1 |
 | A59710 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-10-26 | 2026-11-01 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59720 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-02 | 2026-11-08 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59730 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-09 | 2026-11-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59740 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-05-21 | 2026-05-26 | 2026-03-15 | 2026-09-20 | 100 |  |
-| A59750 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-05-27 | 2026-06-07 | 2026-08-29 |  | 0 | -32.4 |
-| A59760 | Subgrade | Earth Work | Task | In Progress | 2026-06-08 | 2026-06-18 | 2026-08-29 |  | 0 | -32.4 |
+| A59750 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-05-27 | 2026-06-07 | 2026-08-29 |  | 0 | -26.4 |
+| A59760 | Subgrade | Earth Work | Task | In Progress | 2026-06-08 | 2026-06-18 | 2026-08-29 |  | 0 | -26.4 |
 | A59770 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-11-02 | 2026-11-07 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59780 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-08 | 2026-11-12 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59790 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-14 | 2026-11-18 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -2732,549 +2732,549 @@
 | A59830 | Demolition of existing Asphalt | Demolition | Task | Completed | 2026-11-08 | 2026-11-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59840 | Compaction of existing aggregate base course layer | Demolition | Task | Completed | 2026-11-15 | 2026-11-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A59850 | Demolition of existing Kerbs | Demolition | Task | Completed | 2026-11-21 | 2026-11-25 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A59860 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 174 |
-| A59870 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 174 |
-| A59880 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 174 |
-| A59890 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 174 |
-| A59900 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 195 |
-| A59910 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 195 |
-| A59920 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 195 |
-| A59930 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 195 |
-| A59940 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 195 |
-| A59950 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-04-04 |  |  | 0 | 174 |
-| A59960 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A59970 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A59980 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A59990 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60000 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60010 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60020 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A60030 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A60040 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A60050 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A60060 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A60070 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A60080 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A60090 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A60100 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A60110 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 162 |
-| A60120 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60130 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60140 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60150 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60160 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60170 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 175 |
-| A60180 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60190 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60200 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60210 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60220 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 213 |
-| A60230 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 213 |
-| A60240 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 213 |
-| A60250 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 213 |
-| A60260 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 213 |
-| A60270 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 192 |
-| A60280 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60290 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60300 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60310 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60320 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60330 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60340 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 173 |
-| A60350 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 173 |
-| A60360 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 173 |
-| A60370 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 173 |
-| A60380 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A60390 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A60400 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A60410 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A60420 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 194 |
-| A60430 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-11 | 2027-04-05 |  |  | 0 | 173 |
-| A60440 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60450 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60460 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60470 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60480 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60490 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60500 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A60510 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A60520 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A60530 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A60540 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60550 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60560 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60570 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60580 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 193 |
-| A60590 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-13 | 2027-04-06 |  |  | 0 | 172 |
-| A60600 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60610 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60620 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60630 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60640 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60650 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60660 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 171 |
-| A60670 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 171 |
-| A60680 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 171 |
-| A60690 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 171 |
-| A60700 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60710 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60720 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60730 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60740 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 192 |
-| A60750 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-14 | 2027-04-07 |  |  | 0 | 171 |
-| A60760 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60770 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60780 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60790 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60800 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60810 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A60820 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-08 | 2027-05-03 |  |  | 0 | 170 |
-| A60830 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-08 | 2027-05-03 |  |  | 0 | 170 |
-| A60840 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-08 | 2027-05-03 |  |  | 0 | 170 |
-| A60850 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-08 | 2027-05-03 |  |  | 0 | 170 |
-| A60860 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60870 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60880 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60890 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60900 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 191 |
-| A60910 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 170 |
-| A60920 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60930 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60940 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60950 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60960 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60970 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A60980 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 169 |
-| A60990 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 169 |
-| A61000 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 169 |
-| A61010 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 169 |
-| A61020 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A61030 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A61040 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A61050 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A61060 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 190 |
-| A61070 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-16 | 2027-04-10 |  |  | 0 | 169 |
-| A61080 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61090 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61100 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61110 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61120 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61130 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61140 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A61150 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A61160 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A61170 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A61180 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A61190 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A61200 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A61210 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A61220 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 189 |
-| A61230 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-17 | 2027-04-11 |  |  | 0 | 168 |
-| A61240 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61250 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61260 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61270 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61280 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61290 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61300 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 167 |
-| A61310 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 167 |
-| A61320 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 167 |
-| A61330 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 167 |
-| A61340 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61350 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61360 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61370 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61380 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 188 |
-| A61390 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 167 |
-| A61400 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61410 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61420 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61430 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61440 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61450 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61460 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 166 |
-| A61470 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 166 |
-| A61480 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 166 |
-| A61490 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 166 |
-| A61500 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61510 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61520 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61530 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61540 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 187 |
-| A61550 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 166 |
-| A61560 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61570 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61580 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61590 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61600 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61610 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61620 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 165 |
-| A61630 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 165 |
-| A61640 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 165 |
-| A61650 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 165 |
-| A61660 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61670 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61680 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61690 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61700 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 186 |
-| A61710 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 165 |
-| A61720 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61730 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61740 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61750 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61760 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61770 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61780 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 164 |
-| A61790 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 164 |
-| A61800 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 164 |
-| A61810 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 164 |
-| A61820 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61830 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61840 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61850 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61860 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 185 |
-| A61870 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 164 |
-| A61880 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61890 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61900 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61910 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61920 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61930 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A61940 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 163 |
-| A61950 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 163 |
-| A61960 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 163 |
-| A61970 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 163 |
-| A61980 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A61990 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A62000 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A62010 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A62020 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 184 |
-| A62030 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 163 |
-| A62040 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62050 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62060 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62070 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62080 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62090 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 182 |
-| A62100 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A62110 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A62120 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A62130 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 162 |
-| A62140 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A62150 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A62160 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A62170 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A62180 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 183 |
-| A62190 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 162 |
-| A62200 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62210 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62220 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62230 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62240 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62250 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 181 |
-| A62260 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 155 |
-| A62270 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 155 |
-| A62280 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 155 |
-| A62290 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 155 |
-| A62300 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 178 |
-| A62310 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 178 |
-| A62320 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 178 |
-| A62330 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 178 |
-| A62340 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 178 |
-| A62350 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 155 |
-| A62360 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62370 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62380 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62390 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62400 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62410 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 176 |
-| A62420 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-25 |  |  | 0 | 151 |
-| A62430 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-25 |  |  | 0 | 151 |
-| A62440 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-25 |  |  | 0 | 151 |
-| A62450 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-25 |  |  | 0 | 151 |
-| A62460 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A62470 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A62480 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A62490 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A62500 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 172 |
-| A62510 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-05-01 |  |  | 0 | 151 |
-| A62520 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A62530 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A62540 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A62550 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A62560 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
-| A62570 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 168 |
+| A59860 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 180.3 |
+| A59870 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 180.3 |
+| A59880 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 180.3 |
+| A59890 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-12 | 2027-05-06 |  |  | 0 | 180.3 |
+| A59900 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 201.3 |
+| A59910 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 201.3 |
+| A59920 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 201.3 |
+| A59930 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 201.3 |
+| A59940 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 201.3 |
+| A59950 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-04-12 |  |  | 0 | 180.3 |
+| A59960 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A59970 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A59980 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A59990 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60000 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60010 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60020 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A60030 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A60040 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A60050 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A60060 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A60070 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A60080 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A60090 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A60100 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A60110 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 168.3 |
+| A60120 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60130 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60140 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60150 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60160 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60170 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-05-05 |  |  | 0 | 181.3 |
+| A60180 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60190 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60200 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60210 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60220 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 219.3 |
+| A60230 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 219.3 |
+| A60240 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 219.3 |
+| A60250 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 219.3 |
+| A60260 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 219.3 |
+| A60270 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 198.3 |
+| A60280 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60290 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60300 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60310 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60320 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60330 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60340 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 179.3 |
+| A60350 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 179.3 |
+| A60360 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 179.3 |
+| A60370 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 179.3 |
+| A60380 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A60390 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A60400 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A60410 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A60420 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 200.3 |
+| A60430 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-20 | 2027-04-13 |  |  | 0 | 179.3 |
+| A60440 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60450 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60460 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60470 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60480 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60490 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60500 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A60510 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A60520 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A60530 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A60540 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60550 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60560 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60570 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60580 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 199.3 |
+| A60590 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-21 | 2027-04-14 |  |  | 0 | 178.3 |
+| A60600 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60610 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60620 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60630 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60640 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60650 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60660 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 177.3 |
+| A60670 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 177.3 |
+| A60680 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 177.3 |
+| A60690 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-15 | 2027-05-10 |  |  | 0 | 177.3 |
+| A60700 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60710 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60720 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60730 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60740 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 198.3 |
+| A60750 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-22 | 2027-04-15 |  |  | 0 | 177.3 |
+| A60760 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60770 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60780 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60790 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60800 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60810 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A60820 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 176.3 |
+| A60830 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 176.3 |
+| A60840 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 176.3 |
+| A60850 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-17 | 2027-05-11 |  |  | 0 | 176.3 |
+| A60860 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60870 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60880 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60890 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60900 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 197.3 |
+| A60910 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 176.3 |
+| A60920 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60930 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60940 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60950 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60960 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60970 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A60980 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 175.3 |
+| A60990 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 175.3 |
+| A61000 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 175.3 |
+| A61010 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-12 |  |  | 0 | 175.3 |
+| A61020 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A61030 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A61040 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A61050 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A61060 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 196.3 |
+| A61070 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-24 | 2027-04-18 |  |  | 0 | 175.3 |
+| A61080 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61090 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61100 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61110 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61120 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61130 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61140 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A61150 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A61160 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A61170 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A61180 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A61190 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A61200 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A61210 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A61220 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 195.3 |
+| A61230 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-25 | 2027-04-19 |  |  | 0 | 174.3 |
+| A61240 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61250 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61260 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61270 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61280 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61290 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61300 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-20 | 2027-05-15 |  |  | 0 | 173.3 |
+| A61310 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-20 | 2027-05-15 |  |  | 0 | 173.3 |
+| A61320 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-20 | 2027-05-15 |  |  | 0 | 173.3 |
+| A61330 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-20 | 2027-05-15 |  |  | 0 | 173.3 |
+| A61340 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61350 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61360 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61370 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61380 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 194.3 |
+| A61390 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-27 | 2027-04-20 |  |  | 0 | 173.3 |
+| A61400 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61410 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61420 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61430 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61440 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61450 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61460 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-16 |  |  | 0 | 172.3 |
+| A61470 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-16 |  |  | 0 | 172.3 |
+| A61480 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-16 |  |  | 0 | 172.3 |
+| A61490 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-16 |  |  | 0 | 172.3 |
+| A61500 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61510 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61520 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61530 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61540 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 193.3 |
+| A61550 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-28 | 2027-04-21 |  |  | 0 | 172.3 |
+| A61560 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61570 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61580 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61590 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61600 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61610 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61620 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-17 |  |  | 0 | 171.3 |
+| A61630 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-17 |  |  | 0 | 171.3 |
+| A61640 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-17 |  |  | 0 | 171.3 |
+| A61650 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-17 |  |  | 0 | 171.3 |
+| A61660 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61670 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61680 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61690 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61700 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 192.3 |
+| A61710 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-29 | 2027-04-22 |  |  | 0 | 171.3 |
+| A61720 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61730 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61740 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61750 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61760 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61770 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61780 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-18 |  |  | 0 | 170.3 |
+| A61790 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-18 |  |  | 0 | 170.3 |
+| A61800 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-18 |  |  | 0 | 170.3 |
+| A61810 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-18 |  |  | 0 | 170.3 |
+| A61820 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61830 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61840 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61850 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61860 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 191.3 |
+| A61870 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-30 | 2027-04-24 |  |  | 0 | 170.3 |
+| A61880 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61890 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61900 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61910 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61920 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61930 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A61940 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-19 |  |  | 0 | 169.3 |
+| A61950 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-19 |  |  | 0 | 169.3 |
+| A61960 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-19 |  |  | 0 | 169.3 |
+| A61970 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-19 |  |  | 0 | 169.3 |
+| A61980 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A61990 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A62000 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A62010 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A62020 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 190.3 |
+| A62030 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-03-31 | 2027-04-25 |  |  | 0 | 169.3 |
+| A62040 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62050 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62060 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62070 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62080 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62090 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-03 | 2027-04-27 |  |  | 0 | 188.3 |
+| A62100 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A62110 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A62120 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A62130 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 168.3 |
+| A62140 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A62150 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A62160 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A62170 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A62180 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 189.3 |
+| A62190 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-26 |  |  | 0 | 168.3 |
+| A62200 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62210 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62220 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62230 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62240 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62250 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-28 |  |  | 0 | 187.3 |
+| A62260 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 161.3 |
+| A62270 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 161.3 |
+| A62280 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 161.3 |
+| A62290 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 161.3 |
+| A62300 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 184.3 |
+| A62310 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 184.3 |
+| A62320 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 184.3 |
+| A62330 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 184.3 |
+| A62340 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-05-02 |  |  | 0 | 184.3 |
+| A62350 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 161.3 |
+| A62360 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62370 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62380 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62390 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62400 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62410 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-05-04 |  |  | 0 | 182.3 |
+| A62420 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-06-02 |  |  | 0 | 157.3 |
+| A62430 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-06-02 |  |  | 0 | 157.3 |
+| A62440 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-06-02 |  |  | 0 | 157.3 |
+| A62450 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-06-02 |  |  | 0 | 157.3 |
+| A62460 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A62470 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A62480 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A62490 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A62500 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 178.3 |
+| A62510 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-09 |  |  | 0 | 157.3 |
+| A62520 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A62530 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A62540 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A62550 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A62560 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
+| A62570 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-13 |  |  | 0 | 174.3 |
 | A62580 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-04-27 | 2026-05-05 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A62590 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-05-18 | 2026-05-20 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A62600 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | 4 |
-| A62610 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-05-06 | 2026-05-09 | 2026-08-29 |  | 0 | -37.4 |
-| A62620 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-05-10 | 2026-05-12 | 2026-08-29 |  | 0 | -37.4 |
-| A62630 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-05-13 | 2026-05-17 | 2026-08-29 |  | 0 | -37.4 |
-| A62640 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-02-22 | 2027-02-24 |  |  | 0 | 174 |
-| A62650 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-02-24 | 2027-02-27 |  |  | 0 | 174 |
-| A62660 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-02-27 | 2027-03-02 |  |  | 0 | 174 |
-| A62670 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-02 | 2027-03-04 |  |  | 0 | 174 |
-| A62680 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-04 | 2027-03-10 |  |  | 0 | 174 |
-| A62690 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 189 |
-| A62700 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-17 |  |  | 0 | 189 |
-| A62710 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-20 |  |  | 0 | 208 |
-| A56800 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-06 | 2026-05-12 | 2026-08-29 |  | 0 | -82.8 |
-| A56810 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-28 | 2026-06-02 | 2026-08-29 |  | 0 | -45.7 |
-| A56820 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-02-22 | 2027-03-01 |  |  | 0 | 4 |
-| A56830 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-08 | 2026-11-12 |  |  | 0 | -45.7 |
-| A56840 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-12 | 2026-11-17 |  |  | 0 | -45.7 |
-| A56850 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-23 |  |  | 0 | -45.7 |
-| A56860 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-01 | 2027-03-04 |  |  | 0 | 162 |
-| A56870 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-04 | 2027-03-08 |  |  | 0 | 162 |
-| A56880 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-13 |  |  | 0 | 162 |
-| A56890 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-16 |  |  | 0 | 162 |
-| A56900 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-24 |  |  | 0 | 162 |
-| A56910 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-29 |  |  | 0 | 175 |
-| A56920 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-04-03 |  |  | 0 | 175 |
-| A56930 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-06 |  |  | 0 | 193 |
-| A56940 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-13 | 2026-05-19 | 2026-08-29 |  | 0 | -82.8 |
-| A56950 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-28 | 2026-05-28 | 2026-08-29 |  | 0 | -38.6 |
-| A56960 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-01 | 2027-03-02 |  |  | 0 | 4 |
-| A56970 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-08 | 2026-11-11 |  |  | 0 | -38.6 |
-| A56980 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | -38.6 |
-| A56990 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | -38.6 |
-| A57000 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-02 | 2027-03-03 |  |  | 0 | 192 |
-| A57010 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-03 | 2027-03-04 |  |  | 0 | 192 |
-| A57020 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-04 | 2027-03-06 |  |  | 0 | 192 |
-| A57030 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-06 | 2027-03-07 |  |  | 0 | 192 |
-| A57040 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-07 | 2027-03-10 |  |  | 0 | 192 |
-| A57050 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 193 |
-| A57060 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 193 |
-| A57070 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 213 |
-| A57080 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-20 | 2026-05-26 | 2026-08-29 |  | 0 | -82.8 |
-| A57090 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-31 | 2026-05-31 | 2026-08-29 |  | 0 | -39.6 |
-| A57100 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-02 | 2027-03-03 |  |  | 0 | 4 |
-| A57110 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-12 | 2026-11-14 |  |  | 0 | -39.6 |
-| A57120 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-14 | 2026-11-15 |  |  | 0 | -39.6 |
-| A57130 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-15 | 2026-11-16 |  |  | 0 | -39.6 |
-| A57140 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-03 | 2027-03-04 |  |  | 0 | 173 |
-| A57150 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-04 | 2027-03-06 |  |  | 0 | 173 |
-| A57160 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-06 | 2027-03-07 |  |  | 0 | 173 |
-| A57170 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-07 | 2027-03-08 |  |  | 0 | 173 |
-| A57180 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-11 |  |  | 0 | 173 |
-| A57190 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 192 |
-| A57200 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 192 |
-| A57210 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 212 |
-| A57220 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-27 | 2026-06-02 | 2026-08-29 |  | 0 | -82.8 |
-| A57230 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-07 | 2026-06-11 | 2026-08-29 |  | 0 | -47.2 |
-| A57240 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-03 | 2027-03-04 |  |  | 0 | 4 |
-| A57250 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -47.2 |
-| A57260 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -47.2 |
-| A57270 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -47.2 |
-| A57280 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-04 | 2027-03-06 |  |  | 0 | 172 |
-| A57290 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-06 | 2027-03-07 |  |  | 0 | 172 |
-| A57300 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-07 | 2027-03-08 |  |  | 0 | 172 |
-| A57310 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-09 |  |  | 0 | 172 |
-| A57320 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-09 | 2027-03-13 |  |  | 0 | 172 |
-| A57330 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 191 |
-| A57340 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 191 |
-| A57350 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 211 |
-| A57360 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-06-03 | 2026-06-09 | 2026-08-29 |  | 0 | -82.8 |
-| A57370 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-14 | 2026-06-18 | 2026-08-29 |  | 0 | -42.9 |
-| A57380 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-04 | 2027-03-06 |  |  | 0 | 4 |
-| A57390 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -42.9 |
-| A57400 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -42.9 |
-| A57410 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -42.9 |
-| A57420 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-06 | 2027-03-07 |  |  | 0 | 171 |
-| A57430 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-07 | 2027-03-08 |  |  | 0 | 171 |
-| A57440 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-08 | 2027-03-09 |  |  | 0 | 171 |
-| A57450 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 171 |
-| A57460 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-14 |  |  | 0 | 171 |
-| A57470 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 190 |
-| A57480 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 190 |
-| A57490 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 210 |
+| A62600 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-02-25 | 2027-03-02 |  |  | 0 | 10.3 |
+| A62610 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-05-06 | 2026-05-09 | 2026-08-29 |  | 0 | -56.4 |
+| A62620 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-05-10 | 2026-05-12 | 2026-08-29 |  | 0 | -56.4 |
+| A62630 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-05-13 | 2026-05-17 | 2026-08-29 |  | 0 | -56.4 |
+| A62640 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-02 | 2027-03-04 |  |  | 0 | 180.3 |
+| A62650 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-04 | 2027-03-07 |  |  | 0 | 180.3 |
+| A62660 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-07 | 2027-03-10 |  |  | 0 | 180.3 |
+| A62670 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-13 |  |  | 0 | 180.3 |
+| A62680 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-18 |  |  | 0 | 180.3 |
+| A62690 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 195.3 |
+| A62700 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-25 |  |  | 0 | 195.3 |
+| A62710 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-28 |  |  | 0 | 214.3 |
+| A56800 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-06 | 2026-05-12 | 2026-08-29 |  | 0 | -102.8 |
+| A56810 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-28 | 2026-06-02 | 2026-08-29 |  | 0 | -65.0 |
+| A56820 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-02 | 2027-03-09 |  |  | 0 | 10.3 |
+| A56830 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-05 |  |  | 0 | -65.0 |
+| A56840 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-05 | 2026-12-09 |  |  | 0 | -65.0 |
+| A56850 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-09 | 2026-12-15 |  |  | 0 | -65.0 |
+| A56860 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-09 | 2027-03-13 |  |  | 0 | 168.3 |
+| A56870 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-13 | 2027-03-16 |  |  | 0 | 168.3 |
+| A56880 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-21 |  |  | 0 | 168.3 |
+| A56890 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-24 |  |  | 0 | 168.3 |
+| A56900 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-04-01 |  |  | 0 | 168.3 |
+| A56910 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-06 |  |  | 0 | 181.3 |
+| A56920 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-11 |  |  | 0 | 181.3 |
+| A56930 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-14 |  |  | 0 | 199.3 |
+| A56940 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-13 | 2026-05-19 | 2026-08-29 |  | 0 | -102.8 |
+| A56950 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-28 | 2026-05-28 | 2026-08-29 |  | 0 | -57.9 |
+| A56960 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 10.3 |
+| A56970 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-03 |  |  | 0 | -57.9 |
+| A56980 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-03 | 2026-12-06 |  |  | 0 | -57.9 |
+| A56990 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-06 | 2026-12-08 |  |  | 0 | -57.9 |
+| A57000 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 198.3 |
+| A57010 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 198.3 |
+| A57020 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 198.3 |
+| A57030 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 198.3 |
+| A57040 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-18 |  |  | 0 | 198.3 |
+| A57050 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 199.3 |
+| A57060 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 199.3 |
+| A57070 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 219.3 |
+| A57080 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-20 | 2026-05-26 | 2026-08-29 |  | 0 | -102.8 |
+| A57090 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-05-31 | 2026-05-31 | 2026-08-29 |  | 0 | -58.9 |
+| A57100 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 10.3 |
+| A57110 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-06 | 2026-12-07 |  |  | 0 | -58.9 |
+| A57120 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-07 | 2026-12-08 |  |  | 0 | -58.9 |
+| A57130 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-08 | 2026-12-09 |  |  | 0 | -58.9 |
+| A57140 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 179.3 |
+| A57150 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 179.3 |
+| A57160 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 179.3 |
+| A57170 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 179.3 |
+| A57180 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-20 |  |  | 0 | 179.3 |
+| A57190 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 198.3 |
+| A57200 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 198.3 |
+| A57210 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 218.3 |
+| A57220 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-05-27 | 2026-06-02 | 2026-08-29 |  | 0 | -102.8 |
+| A57230 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-07 | 2026-06-11 | 2026-08-29 |  | 0 | -66.5 |
+| A57240 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 10.3 |
+| A57250 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | -66.5 |
+| A57260 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -66.5 |
+| A57270 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -66.5 |
+| A57280 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 178.3 |
+| A57290 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 178.3 |
+| A57300 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 178.3 |
+| A57310 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 178.3 |
+| A57320 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-21 |  |  | 0 | 178.3 |
+| A57330 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 197.3 |
+| A57340 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 197.3 |
+| A57350 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 217.3 |
+| A57360 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-06-03 | 2026-06-09 | 2026-08-29 |  | 0 | -102.8 |
+| A57370 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-14 | 2026-06-18 | 2026-08-29 |  | 0 | -62.3 |
+| A57380 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 10.3 |
+| A57390 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.3 |
+| A57400 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.3 |
+| A57410 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.3 |
+| A57420 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 177.3 |
+| A57430 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 177.3 |
+| A57440 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 177.3 |
+| A57450 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 177.3 |
+| A57460 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 177.3 |
+| A57470 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 196.3 |
+| A57480 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 196.3 |
+| A57490 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 216.3 |
 | A57500 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-06-10 | 2026-06-16 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A57510 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-06-21 | 2026-06-25 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A57520 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-06 | 2027-03-07 |  |  | 0 | 4 |
-| A57530 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -42.8 |
-| A57540 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -42.8 |
-| A57550 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -42.8 |
-| A57560 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-07 | 2027-03-08 |  |  | 0 | 170 |
-| A57570 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-08 | 2027-03-09 |  |  | 0 | 170 |
-| A57580 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 170 |
-| A57590 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 170 |
-| A57600 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-15 |  |  | 0 | 170 |
-| A57610 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 189 |
-| A57620 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 189 |
-| A57630 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 209 |
+| A57520 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 10.3 |
+| A57530 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.1 |
+| A57540 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.1 |
+| A57550 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.1 |
+| A57560 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 176.3 |
+| A57570 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 176.3 |
+| A57580 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 176.3 |
+| A57590 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 176.3 |
+| A57600 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-23 |  |  | 0 | 176.3 |
+| A57610 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 195.3 |
+| A57620 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 195.3 |
+| A57630 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 215.3 |
 | A57640 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-06-17 | 2026-06-23 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A57650 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-28 | 2026-07-02 | 2026-08-29 |  | 0 | -42.9 |
-| A57660 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-07 | 2027-03-08 |  |  | 0 | 4 |
-| A57670 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -42.9 |
-| A57680 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -42.9 |
-| A57690 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -42.9 |
-| A57700 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-08 | 2027-03-09 |  |  | 0 | 169 |
-| A57710 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 169 |
-| A57720 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 169 |
-| A57730 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 169 |
-| A57740 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-16 |  |  | 0 | 169 |
-| A57750 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 188 |
-| A57760 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 188 |
-| A57770 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 208 |
-| A57780 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-06-24 | 2026-06-30 | 2026-08-29 |  | 0 | -82.8 |
-| A57790 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-05 | 2026-07-09 | 2026-08-29 |  | 0 | -43.6 |
-| A57800 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-08 | 2027-03-09 |  |  | 0 | 4 |
-| A57810 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -43.6 |
-| A57820 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -43.6 |
-| A57830 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -43.6 |
-| A57840 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 168 |
-| A57850 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 168 |
-| A57860 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 168 |
-| A57870 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 168 |
-| A57880 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-17 |  |  | 0 | 168 |
-| A57890 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 187 |
-| A57900 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 187 |
-| A57910 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 207 |
-| A57920 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-01 | 2026-07-07 | 2026-08-29 |  | 0 | -58.7 |
-| A57930 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-12 | 2026-07-16 | 2026-08-29 |  | 0 | -43.0 |
-| A57940 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | 4 |
-| A57950 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-17 | 2026-11-18 |  |  | 0 | -43.0 |
-| A57960 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -43.0 |
-| A57970 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -43.0 |
-| A57980 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 167 |
-| A57990 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 167 |
-| A58000 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 167 |
-| A58010 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 167 |
-| A58020 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-18 |  |  | 0 | 167 |
-| A58030 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 186 |
-| A58040 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 186 |
-| A58050 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 206 |
-| A58060 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-01 | 2026-07-07 | 2026-08-29 |  | 0 | -58.7 |
-| A58070 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-12 | 2026-07-16 | 2026-08-29 |  | 0 | -43.6 |
-| A58080 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-10 | 2027-03-11 |  |  | 0 | 4 |
-| A58090 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -43.6 |
-| A58100 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -43.6 |
-| A58110 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | -43.6 |
-| A58120 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 166 |
-| A58130 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 166 |
-| A58140 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 166 |
-| A58150 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 166 |
-| A58160 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-20 |  |  | 0 | 166 |
-| A58170 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 185 |
-| A58180 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 185 |
-| A58190 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 205 |
+| A57650 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-06-28 | 2026-07-02 | 2026-08-29 |  | 0 | -62.2 |
+| A57660 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 10.3 |
+| A57670 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.2 |
+| A57680 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.2 |
+| A57690 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.2 |
+| A57700 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 175.3 |
+| A57710 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 175.3 |
+| A57720 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 175.3 |
+| A57730 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 175.3 |
+| A57740 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-24 |  |  | 0 | 175.3 |
+| A57750 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 194.3 |
+| A57760 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 194.3 |
+| A57770 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 214.3 |
+| A57780 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-06-24 | 2026-06-30 | 2026-08-29 |  | 0 | -102.8 |
+| A57790 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-05 | 2026-07-09 | 2026-08-29 |  | 0 | -64.7 |
+| A57800 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 10.3 |
+| A57810 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -64.7 |
+| A57820 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -64.7 |
+| A57830 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -64.7 |
+| A57840 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 174.3 |
+| A57850 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 174.3 |
+| A57860 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 174.3 |
+| A57870 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 174.3 |
+| A57880 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-25 |  |  | 0 | 174.3 |
+| A57890 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 193.3 |
+| A57900 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 193.3 |
+| A57910 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 213.3 |
+| A57920 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-01 | 2026-07-07 | 2026-08-29 |  | 0 | -78.0 |
+| A57930 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-12 | 2026-07-16 | 2026-08-29 |  | 0 | -62.3 |
+| A57940 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 10.3 |
+| A57950 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.3 |
+| A57960 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.3 |
+| A57970 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.3 |
+| A57980 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 173.3 |
+| A57990 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 173.3 |
+| A58000 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 173.3 |
+| A58010 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 173.3 |
+| A58020 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-27 |  |  | 0 | 173.3 |
+| A58030 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 192.3 |
+| A58040 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 192.3 |
+| A58050 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 212.3 |
+| A58060 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-01 | 2026-07-07 | 2026-08-29 |  | 0 | -78.0 |
+| A58070 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-07-12 | 2026-07-16 | 2026-08-29 |  | 0 | -63.6 |
+| A58080 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 10.3 |
+| A58090 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -63.6 |
+| A58100 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -63.6 |
+| A58110 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -63.6 |
+| A58120 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 172.3 |
+| A58130 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 172.3 |
+| A58140 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 172.3 |
+| A58150 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 172.3 |
+| A58160 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-28 |  |  | 0 | 172.3 |
+| A58170 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 191.3 |
+| A58180 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 191.3 |
+| A58190 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 211.3 |
 | A58200 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-07-08 | 2026-07-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A58210 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-07-19 | 2026-07-23 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A58220 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-11 | 2027-03-13 |  |  | 0 | 4 |
-| A58230 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -43.0 |
-| A58240 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -43.0 |
-| A58250 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | -43.0 |
-| A58260 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 165 |
-| A58270 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 165 |
-| A58280 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 165 |
-| A58290 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 165 |
-| A58300 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-21 |  |  | 0 | 165 |
-| A58310 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 184 |
-| A58320 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 184 |
-| A58330 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 204 |
+| A58220 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 10.3 |
+| A58230 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.3 |
+| A58240 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.3 |
+| A58250 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.3 |
+| A58260 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 171.3 |
+| A58270 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 171.3 |
+| A58280 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 171.3 |
+| A58290 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 171.3 |
+| A58300 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-29 |  |  | 0 | 171.3 |
+| A58310 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 190.3 |
+| A58320 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 190.3 |
+| A58330 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 210.3 |
 | A58340 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-07-15 | 2026-07-21 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A58350 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-07-26 | 2026-07-30 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A58360 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-13 | 2027-03-14 |  |  | 0 | 4 |
-| A58370 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-18 | 2026-11-19 |  |  | 0 | -43.0 |
-| A58380 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-19 | 2026-11-21 |  |  | 0 | -43.0 |
-| A58390 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-21 | 2026-11-22 |  |  | 0 | -43.0 |
-| A58400 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 164 |
-| A58410 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 164 |
-| A58420 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 164 |
-| A58430 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 164 |
-| A58440 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-22 |  |  | 0 | 164 |
-| A58450 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 183 |
-| A58460 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 183 |
-| A58470 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 203 |
+| A58360 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-21 | 2027-03-22 |  |  | 0 | 10.3 |
+| A58370 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-10 | 2026-12-12 |  |  | 0 | -62.3 |
+| A58380 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | -62.3 |
+| A58390 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | -62.3 |
+| A58400 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 170.3 |
+| A58410 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 170.3 |
+| A58420 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 170.3 |
+| A58430 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 170.3 |
+| A58440 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-30 |  |  | 0 | 170.3 |
+| A58450 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 189.3 |
+| A58460 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 189.3 |
+| A58470 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 209.3 |
 | A58480 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-07-22 | 2026-07-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A58490 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-08-02 | 2026-08-02 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A58500 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-14 | 2027-03-15 |  |  | 0 | 4 |
-| A58510 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2027-04-20 | 2027-04-21 | 2026-08-29 |  | 0 | -42.6 |
-| A58520 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2027-04-21 | 2027-04-22 | 2026-08-29 |  | 0 | -42.6 |
-| A58530 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2027-04-22 | 2027-04-24 | 2026-08-29 |  | 0 | -42.6 |
-| A58540 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 163 |
-| A58550 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 163 |
-| A58560 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 163 |
-| A58570 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 163 |
-| A58580 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-23 |  |  | 0 | 163 |
-| A58590 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 182 |
-| A58600 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 182 |
-| A58610 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 202 |
-| A58620 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-29 | 2026-08-04 | 2026-08-29 |  | 0 | -58.7 |
-| A58630 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Not Started | 2026-11-26 | 2026-12-02 |  |  | 0 | -52.5 |
-| A58640 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | 4 |
-| A58650 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-23 | 2026-11-24 |  |  | 0 | -52.5 |
-| A58660 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-24 | 2026-11-25 |  |  | 0 | -52.5 |
-| A58670 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-25 | 2026-11-26 |  |  | 0 | -52.5 |
-| A58680 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | 162 |
-| A58690 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | 162 |
-| A58700 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-18 | 2027-03-20 |  |  | 0 | 162 |
-| A58710 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-20 | 2027-03-21 |  |  | 0 | 162 |
-| A58720 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-21 | 2027-03-24 |  |  | 0 | 162 |
-| A58730 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 181 |
-| A58740 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 181 |
-| A58750 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 201 |
-| A58760 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-05 | 2026-08-11 | 2026-08-29 |  | 0 | -58.7 |
-| A58770 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Not Started | 2026-12-01 | 2026-12-07 |  |  | 0 | -56.7 |
-| A58780 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-16 | 2027-03-22 |  |  | 0 | 4 |
-| A58790 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -56.7 |
-| A58800 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -56.7 |
-| A58810 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | -56.7 |
-| A58820 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 155 |
-| A58830 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 155 |
-| A58840 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 155 |
-| A58850 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 155 |
-| A58860 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-30 |  |  | 0 | 155 |
-| A58870 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 155 |
-| A58880 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 155 |
-| A58890 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 196 |
+| A58500 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | 10.3 |
+| A58510 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2027-04-20 | 2027-04-21 | 2026-08-29 |  | 0 | -61.9 |
+| A58520 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2027-04-21 | 2027-04-22 | 2026-08-29 |  | 0 | -61.9 |
+| A58530 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2027-04-22 | 2027-04-24 | 2026-08-29 |  | 0 | -61.9 |
+| A58540 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 169.3 |
+| A58550 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 169.3 |
+| A58560 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 169.3 |
+| A58570 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 169.3 |
+| A58580 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-28 | 2027-03-31 |  |  | 0 | 169.3 |
+| A58590 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 188.3 |
+| A58600 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 188.3 |
+| A58610 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 208.3 |
+| A58620 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-07-29 | 2026-08-04 | 2026-08-29 |  | 0 | -78.0 |
+| A58630 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Not Started | 2026-12-19 | 2026-12-24 |  |  | 0 | -71.8 |
+| A58640 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | 10.3 |
+| A58650 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-15 | 2026-12-16 |  |  | 0 | -71.8 |
+| A58660 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | -71.8 |
+| A58670 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-17 | 2026-12-19 |  |  | 0 | -71.8 |
+| A58680 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | 168.3 |
+| A58690 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 168.3 |
+| A58700 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 168.3 |
+| A58710 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 168.3 |
+| A58720 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-04-01 |  |  | 0 | 168.3 |
+| A58730 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 187.3 |
+| A58740 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 187.3 |
+| A58750 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 207.3 |
+| A58760 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-05 | 2026-08-11 | 2026-08-29 |  | 0 | -78.0 |
+| A58770 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Not Started | 2026-12-24 | 2026-12-30 |  |  | 0 | -76.0 |
+| A58780 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-24 | 2027-03-30 |  |  | 0 | 10.3 |
+| A58790 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -76.0 |
+| A58800 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -76.0 |
+| A58810 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-24 |  |  | 0 | -76.0 |
+| A58820 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 161.3 |
+| A58830 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 161.3 |
+| A58840 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 161.3 |
+| A58850 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 161.3 |
+| A58860 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-07 |  |  | 0 | 161.3 |
+| A58870 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 161.3 |
+| A58880 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 161.3 |
+| A58890 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 202.3 |
 | A58900 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-08-12 | 2026-08-25 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A58910 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-09-07 | 2026-09-22 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A58920 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-22 | 2027-03-25 |  |  | 0 | 4 |
-| A58930 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | -58.7 |
-| A58940 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-01 | 2026-12-05 |  |  | 0 | -58.7 |
-| A58950 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-05 | 2026-12-09 |  |  | 0 | -58.7 |
-| A58960 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-25 | 2027-03-28 |  |  | 0 | 9 |
-| A58970 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-28 | 2027-03-30 |  |  | 0 | 9 |
-| A58980 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-04-01 |  |  | 0 | 9 |
-| A58990 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 9 |
-| A59000 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-06 |  |  | 0 | 9 |
-| A59010 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-08 |  |  | 0 | 9 |
-| A59020 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-11 |  |  | 0 | 9 |
-| A59030 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 9 |
+| A58920 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-30 | 2027-04-03 |  |  | 0 | 10.3 |
+| A58930 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-24 |  |  | 0 | -78.0 |
+| A58940 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-28 |  |  | 0 | -78.0 |
+| A58950 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | -78.0 |
+| A58960 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-03 | 2027-04-05 |  |  | 0 | 15.3 |
+| A58970 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-05 | 2027-04-07 |  |  | 0 | 15.3 |
+| A58980 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-10 |  |  | 0 | 15.3 |
+| A58990 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 15.3 |
+| A59000 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-14 |  |  | 0 | 15.3 |
+| A59010 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-17 |  |  | 0 | 15.3 |
+| A59020 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 15.3 |
+| A59030 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-19 | 2027-04-20 |  |  | 0 | 15.3 |
 | A62720 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-03 | 2026-01-06 | 2026-01-03 | 2026-09-20 | 100 |  |
 | A62730 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-07 | 2026-01-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A62740 | Subgrade | Earth Work | Task | Completed | 2026-01-24 | 2026-01-28 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A62750 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-07-28 | 2026-07-30 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A62760 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-08-04 | 2026-08-06 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A62770 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-25 | 2027-03-27 |  |  | 0 | 4 |
-| A62780 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-01 | 2026-08-01 | 2026-08-29 |  | 0 | -50.1 |
-| A62790 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-02 | 2026-08-02 | 2026-08-29 |  | 0 | -50.1 |
-| A62800 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-03 | 2026-08-03 | 2026-08-29 |  | 0 | -50.1 |
-| A62810 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 4 |
-| A62820 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 4 |
-| A62830 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 4 |
-| A62840 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 4 |
-| A62850 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 4 |
-| A62860 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 181 |
-| A62870 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 181 |
-| A62880 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 194 |
-| A64310 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 169 |
-| A64320 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 169 |
-| A64330 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 169 |
-| A64340 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 169 |
-| A64190 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 4 |
-| A64200 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 183 |
-| A64210 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 183 |
-| A64220 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 183 |
-| A64230 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 183 |
-| A64240 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-01 | 2027-04-18 |  |  | 0 | 169 |
-| A64250 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
-| A64260 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
-| A64270 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
-| A64280 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
-| A64290 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
-| A64300 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 181 |
+| A62770 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 10.3 |
+| A62780 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-01 | 2026-08-01 | 2026-08-29 |  | 0 | -70.6 |
+| A62790 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-02 | 2026-08-02 | 2026-08-29 |  | 0 | -70.6 |
+| A62800 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-03 | 2026-08-03 | 2026-08-29 |  | 0 | -70.6 |
+| A62810 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 10.3 |
+| A62820 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 10.3 |
+| A62830 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 10.3 |
+| A62840 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 10.3 |
+| A62850 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 10.3 |
+| A62860 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 187.3 |
+| A62870 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 187.3 |
+| A62880 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-13 |  |  | 0 | 200.3 |
+| A64310 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-12 |  |  | 0 | 175.3 |
+| A64320 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-12 |  |  | 0 | 175.3 |
+| A64330 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-12 |  |  | 0 | 175.3 |
+| A64340 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-26 | 2027-05-12 |  |  | 0 | 175.3 |
+| A64190 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 10.3 |
+| A64200 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 189.3 |
+| A64210 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 189.3 |
+| A64220 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 189.3 |
+| A64230 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 189.3 |
+| A64240 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 175.3 |
+| A64250 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
+| A64260 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
+| A64270 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
+| A64280 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
+| A64290 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
+| A64300 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-12 | 2027-04-28 |  |  | 0 | 187.3 |
 | A64350 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-07 | 2026-01-11 | 2026-01-07 | 2026-09-20 | 100 |  |
 | A64360 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-12 | 2026-01-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64370 | Subgrade | Earth Work | Task | Completed | 2026-01-24 | 2026-01-28 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -3283,22 +3283,22 @@
 | A64400 | Subgrade | Earth Work | Task | Completed | 2026-01-22 | 2026-01-27 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64410 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-17 | 2026-01-20 | 2026-01-17 | 2026-09-20 | 100 |  |
 | A64420 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-21 | 2026-01-26 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A64430 | Subgrade | Earth Work | Task | In Progress | 2026-01-27 | 2026-02-01 | 2026-08-29 |  | 0 | -17.0 |
+| A64430 | Subgrade | Earth Work | Task | In Progress | 2026-01-27 | 2026-02-01 | 2026-08-29 |  | 0 | -13.1 |
 | A64440 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-21 | 2026-01-25 | 2026-01-21 | 2026-09-20 | 100 |  |
 | A64450 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-26 | 2026-01-31 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A64460 | Subgrade | Earth Work | Task | In Progress | 2026-02-01 | 2026-02-05 | 2026-08-29 |  | 0 | -17.1 |
+| A64460 | Subgrade | Earth Work | Task | In Progress | 2026-02-01 | 2026-02-05 | 2026-08-29 |  | 0 | -13.2 |
 | A64470 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-26 | 2026-01-29 | 2026-01-26 | 2026-09-20 | 100 |  |
 | A64480 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-01-31 | 2026-02-04 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A64490 | Subgrade | Earth Work | Task | In Progress | 2026-02-05 | 2026-02-10 | 2026-08-29 |  | 0 | -17.0 |
+| A64490 | Subgrade | Earth Work | Task | In Progress | 2026-02-05 | 2026-02-10 | 2026-08-29 |  | 0 | -13.2 |
 | A64500 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-01-31 | 2026-02-03 | 2026-01-31 | 2026-09-20 | 100 |  |
 | A64510 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-02-04 | 2026-02-09 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A64520 | Subgrade | Earth Work | Task | In Progress | 2026-02-10 | 2026-02-15 | 2026-08-29 |  | 0 | -17.0 |
+| A64520 | Subgrade | Earth Work | Task | In Progress | 2026-02-10 | 2026-02-15 | 2026-08-29 |  | 0 | -13.1 |
 | A64530 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-04 | 2026-02-08 | 2026-02-04 | 2026-09-20 | 100 |  |
 | A64540 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-02-09 | 2026-02-14 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64550 | Subgrade | Earth Work | Task | Completed | 2026-02-15 | 2026-02-19 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64560 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-18 | 2026-02-26 | 2026-02-18 | 2026-09-20 | 100 |  |
-| A64570 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-28 | 2026-03-08 | 2026-08-29 |  | 0 | -16.9 |
-| A64580 | Subgrade | Earth Work | Task | In Progress | 2026-03-09 | 2026-03-15 | 2026-08-29 |  | 0 | -16.9 |
+| A64570 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-28 | 2026-03-08 | 2026-08-29 |  | 0 | -10.9 |
+| A64580 | Subgrade | Earth Work | Task | In Progress | 2026-03-09 | 2026-03-15 | 2026-08-29 |  | 0 | -10.9 |
 | A64590 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-28 | 2026-03-04 | 2026-02-28 | 2026-09-20 | 100 |  |
 | A64600 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-03-05 | 2026-03-10 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64610 | Subgrade | Earth Work | Task | Completed | 2026-03-11 | 2026-03-16 | 2026-08-15 | 2026-09-20 | 100 |  |
@@ -3307,425 +3307,425 @@
 | A64640 | Subgrade | Earth Work | Task | Completed | 2026-03-17 | 2026-03-22 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64650 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-08-01 | 2026-08-04 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64660 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-08-09 | 2026-08-12 | 2026-08-15 | 2026-09-20 | 100 |  |
-| A64670 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-27 | 2027-03-28 |  |  | 0 | 42 |
-| A64680 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-05 | 2026-08-05 | 2026-08-29 |  | 0 | -50.5 |
-| A64690 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-06 | 2026-08-06 | 2026-08-29 |  | 0 | -50.5 |
-| A64700 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-08 | 2026-08-08 | 2026-08-29 |  | 0 | -50.5 |
-| A64710 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 168 |
-| A64720 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 168 |
-| A64730 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 168 |
-| A64740 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 168 |
-| A64750 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 168 |
-| A64760 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 180 |
-| A64770 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 180 |
-| A64780 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 193 |
+| A64670 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 48.3 |
+| A64680 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-05 | 2026-08-05 | 2026-08-29 |  | 0 | -70.9 |
+| A64690 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-06 | 2026-08-06 | 2026-08-29 |  | 0 | -70.9 |
+| A64700 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-08 | 2026-08-08 | 2026-08-29 |  | 0 | -70.9 |
+| A64710 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 174.3 |
+| A64720 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 174.3 |
+| A64730 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 174.3 |
+| A64740 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 174.3 |
+| A64750 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 174.3 |
+| A64760 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 186.3 |
+| A64770 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-13 |  |  | 0 | 186.3 |
+| A64780 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 199.3 |
 | A64790 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-08-05 | 2026-08-08 | 2026-08-15 | 2026-09-20 | 100 |  |
 | A64800 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-08-13 | 2026-08-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A64810 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-28 | 2027-03-29 |  |  | 0 | 42 |
-| A64820 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-09 | 2026-08-09 | 2026-08-29 |  | 0 | -51.0 |
-| A64830 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-10 | 2026-08-10 | 2026-08-29 |  | 0 | -51.0 |
-| A64840 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-11 | 2026-08-12 | 2026-08-29 |  | 0 | -51.0 |
-| A64850 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 166 |
-| A64860 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 166 |
-| A64870 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 166 |
-| A64880 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 166 |
-| A64890 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-05 |  |  | 0 | 166 |
-| A64900 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 178 |
-| A64910 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 178 |
-| A64920 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 191 |
-| A64930 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-09 | 2026-08-11 | 2026-08-29 |  | 0 | -58.9 |
-| A64940 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-17 | 2026-08-17 | 2026-08-29 |  | 0 | -52.0 |
-| A64950 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-29 | 2027-03-30 |  |  | 0 | 42 |
-| A64960 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -52.0 |
-| A64970 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -52.0 |
-| A64980 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | -52.0 |
-| A64990 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-03-30 | 2027-03-31 |  |  | 0 | 165 |
-| A65000 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-03-31 | 2027-04-01 |  |  | 0 | 165 |
-| A65010 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 165 |
-| A65020 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 165 |
-| A62890 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-06 |  |  | 0 | 165 |
-| A62900 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 177 |
-| A62910 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 177 |
-| A62920 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 190 |
-| A62930 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-12 | 2026-08-15 | 2026-08-29 |  | 0 | -58.9 |
-| A62940 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-19 | 2026-08-19 | 2026-08-29 |  | 0 | -51.1 |
-| A62950 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-03-30 | 2027-04-01 |  |  | 0 | 42 |
-| A62960 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -51.1 |
-| A62970 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -51.1 |
-| A62980 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | -51.1 |
-| A62990 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 164 |
-| A63000 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 164 |
-| A63010 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 164 |
-| A63020 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 164 |
-| A63030 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 164 |
-| A63040 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 176 |
-| A63050 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 176 |
-| A63060 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 189 |
-| A63070 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-16 | 2026-08-18 | 2026-08-29 |  | 0 | -58.9 |
-| A63080 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-23 | 2026-08-23 | 2026-08-29 |  | 0 | -51.1 |
-| A63090 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-01 | 2027-04-03 |  |  | 0 | 42 |
-| A63100 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -51.1 |
-| A63110 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -51.1 |
-| A63120 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | -51.1 |
-| A63130 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-03 | 2027-04-04 |  |  | 0 | 163 |
-| A63140 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-04 | 2027-04-05 |  |  | 0 | 163 |
-| A63150 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 163 |
-| A63160 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 163 |
-| A63170 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 163 |
-| A63180 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 175 |
-| A63190 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 175 |
-| A63200 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 188 |
-| A63210 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-19 | 2026-08-22 | 2026-08-29 |  | 0 | -58.9 |
-| A63220 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-27 | 2026-08-27 | 2026-08-29 |  | 0 | -52.2 |
-| A63230 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-03 | 2027-04-05 |  |  | 0 | 42 |
-| A63240 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -52.2 |
-| A63250 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -52.2 |
-| A63260 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | -52.2 |
-| A63270 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 161 |
-| A63280 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 161 |
-| A63290 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 161 |
-| A63300 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 161 |
-| A63310 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 161 |
-| A63320 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 173 |
-| A63330 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-13 |  |  | 0 | 173 |
-| A63340 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 186 |
+| A64810 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-05 | 2027-04-06 |  |  | 0 | 48.3 |
+| A64820 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-09 | 2026-08-09 | 2026-08-29 |  | 0 | -71.4 |
+| A64830 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-10 | 2026-08-10 | 2026-08-29 |  | 0 | -71.4 |
+| A64840 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-11 | 2026-08-12 | 2026-08-29 |  | 0 | -71.4 |
+| A64850 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 172.3 |
+| A64860 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 172.3 |
+| A64870 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 172.3 |
+| A64880 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 172.3 |
+| A64890 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-13 |  |  | 0 | 172.3 |
+| A64900 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 184.3 |
+| A64910 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 184.3 |
+| A64920 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 197.3 |
+| A64930 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-09 | 2026-08-11 | 2026-08-29 |  | 0 | -81.4 |
+| A64940 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-17 | 2026-08-17 | 2026-08-29 |  | 0 | -72.5 |
+| A64950 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-06 | 2027-04-07 |  |  | 0 | 48.3 |
+| A64960 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -72.5 |
+| A64970 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -72.5 |
+| A64980 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | -72.5 |
+| A64990 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 171.3 |
+| A65000 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 171.3 |
+| A65010 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 171.3 |
+| A65020 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 171.3 |
+| A62890 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-14 |  |  | 0 | 171.3 |
+| A62900 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 183.3 |
+| A62910 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 183.3 |
+| A62920 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 196.3 |
+| A62930 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-12 | 2026-08-15 | 2026-08-29 |  | 0 | -81.4 |
+| A62940 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-19 | 2026-08-19 | 2026-08-29 |  | 0 | -71.5 |
+| A62950 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-07 | 2027-04-10 |  |  | 0 | 48.3 |
+| A62960 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -71.5 |
+| A62970 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -71.5 |
+| A62980 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-24 |  |  | 0 | -71.5 |
+| A62990 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 170.3 |
+| A63000 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 170.3 |
+| A63010 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-13 |  |  | 0 | 170.3 |
+| A63020 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 170.3 |
+| A63030 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 170.3 |
+| A63040 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 182.3 |
+| A63050 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 182.3 |
+| A63060 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-18 | 2027-04-19 |  |  | 0 | 195.3 |
+| A63070 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-16 | 2026-08-18 | 2026-08-29 |  | 0 | -81.4 |
+| A63080 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-23 | 2026-08-23 | 2026-08-29 |  | 0 | -71.6 |
+| A63090 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 48.3 |
+| A63100 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -71.6 |
+| A63110 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -71.6 |
+| A63120 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-24 |  |  | 0 | -71.6 |
+| A63130 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 169.3 |
+| A63140 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-12 | 2027-04-13 |  |  | 0 | 169.3 |
+| A63150 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 169.3 |
+| A63160 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 169.3 |
+| A63170 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 169.3 |
+| A63180 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 181.3 |
+| A63190 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-18 | 2027-04-19 |  |  | 0 | 181.3 |
+| A63200 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-19 | 2027-04-20 |  |  | 0 | 194.3 |
+| A63210 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-19 | 2026-08-22 | 2026-08-29 |  | 0 | -81.4 |
+| A63220 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-27 | 2026-08-27 | 2026-08-29 |  | 0 | -72.7 |
+| A63230 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-11 | 2027-04-13 |  |  | 0 | 48.3 |
+| A63240 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -72.7 |
+| A63250 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -72.7 |
+| A63260 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | -72.7 |
+| A63270 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-13 | 2027-04-14 |  |  | 0 | 167.3 |
+| A63280 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 167.3 |
+| A63290 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 167.3 |
+| A63300 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 167.3 |
+| A63310 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-18 | 2027-04-19 |  |  | 0 | 167.3 |
+| A63320 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-19 | 2027-04-20 |  |  | 0 | 179.3 |
+| A63330 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-20 | 2027-04-21 |  |  | 0 | 179.3 |
+| A63340 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-21 | 2027-04-22 |  |  | 0 | 192.3 |
 | A63350 | Aggregate base course | Aggregate Base Course | Task | Completed | 2026-08-23 | 2026-08-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A63360 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | Completed | 2026-08-31 | 2026-08-31 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A63370 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-05 | 2027-04-07 |  |  | 0 | 42 |
-| A63380 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -52.2 |
-| A63390 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -52.2 |
-| A63400 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | -52.2 |
-| A63410 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-07 | 2027-04-08 |  |  | 0 | 169 |
-| A63420 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-08 | 2027-04-10 |  |  | 0 | 169 |
-| A63430 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-10 | 2027-04-11 |  |  | 0 | 169 |
-| A63440 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-11 | 2027-04-12 |  |  | 0 | 169 |
-| A63450 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-12 | 2027-04-14 |  |  | 0 | 169 |
-| A63460 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 181 |
-| A63470 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 181 |
-| A63480 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 183 |
-| A63490 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-09-02 | 2026-09-06 | 2026-08-29 |  | 0 | -58.9 |
-| A63500 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-19 | 2026-09-22 | 2026-08-29 |  | 0 | -58.9 |
-| A63510 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-14 | 2027-04-20 |  |  | 0 | 42 |
-| A63520 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-12-01 |  |  | 0 | -58.9 |
-| A63530 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-01 | 2026-12-05 |  |  | 0 | -58.9 |
-| A63540 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-05 | 2026-12-09 |  |  | 0 | -58.9 |
-| A63550 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 53.5 |
-| A63560 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 53.5 |
-| A63570 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 53.5 |
-| A63580 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 53.5 |
-| A63590 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 53.5 |
-| A63600 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-22 | 2027-04-25 |  |  | 0 | 53.5 |
-| A63610 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 53.5 |
-| A63620 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-27 | 2027-04-29 |  |  | 0 | 53.5 |
-| A63630 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-09 | 2026-08-13 | 2026-08-29 |  | 0 | -51.1 |
-| A63640 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-19 | 2026-08-22 | 2026-08-29 |  | 0 | -50.9 |
-| A63650 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-20 | 2027-04-25 |  |  | 0 | 42 |
-| A63660 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -50.9 |
-| A63670 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -50.9 |
-| A63680 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-18 | 2026-08-29 |  | 0 | -50.9 |
-| A63690 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 42 |
-| A63700 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 42 |
-| A63710 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-27 | 2027-04-29 |  |  | 0 | 42 |
-| A63720 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-27 | 2027-04-29 |  |  | 0 | 42 |
-| A63730 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-29 | 2027-05-02 |  |  | 0 | 42 |
-| A63740 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-05-02 | 2027-05-06 |  |  | 0 | 79 |
-| A63750 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-06 | 2027-05-11 |  |  | 0 | 79 |
-| A63760 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-11 | 2027-05-13 |  |  | 0 | 161 |
-| A63770 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -51.1 |
-| A63780 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-22 | 2026-08-22 | 2026-08-29 |  | 0 | -51.1 |
-| A63790 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-25 | 2027-04-26 |  |  | 0 | 145 |
-| A63800 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -51.1 |
-| A63810 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -51.1 |
-| A63820 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-01 |  |  | 0 | -51.1 |
-| A63830 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-26 | 2027-04-28 |  |  | 0 | 145 |
-| A63840 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 145 |
-| A63850 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-01 | 2027-05-03 |  |  | 0 | 145 |
-| A63860 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-03 | 2027-05-05 |  |  | 0 | 145 |
-| A63870 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 145 |
-| A63880 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-05-08 | 2027-05-10 |  |  | 0 | 148 |
-| A63890 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-10 | 2027-05-12 |  |  | 0 | 148 |
-| A63900 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-12 | 2027-05-15 |  |  | 0 | 160 |
-| A65030 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A65040 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A65050 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A65060 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A65070 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 182 |
-| A65080 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 182 |
-| A65090 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 182 |
-| A65100 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 182 |
-| A65110 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 182 |
-| A65120 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-03 | 2027-04-19 |  |  | 0 | 168 |
-| A65130 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65140 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65150 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65160 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65170 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65180 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65190 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A65200 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A65210 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A65220 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A65230 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65240 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65250 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65260 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65270 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 180 |
-| A65280 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-05 | 2027-04-21 |  |  | 0 | 166 |
-| A65290 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65300 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65310 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65320 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65330 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65340 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65350 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A65360 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A65370 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A65380 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A65390 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 179 |
-| A65400 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 179 |
-| A65410 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 179 |
-| A65420 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 179 |
-| A65430 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 179 |
-| A65440 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-06 | 2027-04-22 |  |  | 0 | 165 |
-| A65450 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65460 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65470 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65480 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65490 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65500 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65510 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A65520 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A65530 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A65540 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A65550 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65560 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65570 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65580 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65590 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 178 |
-| A65600 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-07 | 2027-04-24 |  |  | 0 | 164 |
-| A65610 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65620 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65630 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65640 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65650 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65660 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 176 |
-| A65670 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-11 |  |  | 0 | 163 |
-| A65680 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-11 |  |  | 0 | 163 |
-| A65690 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-11 |  |  | 0 | 163 |
-| A65700 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-25 | 2027-05-11 |  |  | 0 | 163 |
-| A65710 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65720 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65730 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65740 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65750 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 177 |
-| A65760 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-08 | 2027-04-25 |  |  | 0 | 163 |
-| A65770 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65780 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65790 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65800 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65810 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65820 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65830 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A65840 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A65850 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A65860 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A65870 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65880 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65890 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65900 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65910 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 175 |
-| A65920 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 161 |
-| A65930 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65940 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65950 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65960 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65970 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65980 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 173 |
-| A65990 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-04 |  |  | 0 | 169 |
-| A66000 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-04 |  |  | 0 | 169 |
-| A66010 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-04 |  |  | 0 | 169 |
-| A66020 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-04 |  |  | 0 | 169 |
-| A66030 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 172 |
-| A66040 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 172 |
-| A66050 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 172 |
-| A66060 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 172 |
-| A66070 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 172 |
-| A66080 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 169 |
-| A66090 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66100 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66110 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66120 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66130 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66140 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-04-20 |  |  | 0 | 181 |
-| A66150 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-25 |  |  | 0 | 151 |
-| A66160 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-25 |  |  | 0 | 151 |
-| A66170 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-25 |  |  | 0 | 151 |
-| A66180 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-25 |  |  | 0 | 151 |
-| A66190 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A66200 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A66210 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A66220 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A66230 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 165 |
-| A66240 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 151 |
-| A66250 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66260 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66270 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66280 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66290 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66300 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 161 |
-| A66310 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-07-26 | 2027-08-11 |  |  | 0 | 42 |
-| A66320 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-08-11 | 2027-08-28 |  |  | 0 | 42 |
-| A66330 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-08-28 | 2027-09-13 |  |  | 0 | 42 |
-| A66340 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-09-13 | 2027-09-29 |  |  | 0 | 42 |
-| A66350 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 42 |
-| A66360 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-05-18 | 2027-05-22 |  |  | 0 | 42 |
-| A66370 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-05-22 | 2027-06-07 |  |  | 0 | 42 |
-| A66380 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-06-07 | 2027-06-23 |  |  | 0 | 42 |
-| A66390 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-06-23 | 2027-07-10 |  |  | 0 | 42 |
-| A66400 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-07-10 | 2027-07-26 |  |  | 0 | 42 |
-| A66410 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-11 | 2027-05-27 |  |  | 0 | 79 |
-| A66420 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-27 | 2027-06-13 |  |  | 0 | 79 |
-| A66430 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-06-13 | 2027-06-29 |  |  | 0 | 79 |
-| A66440 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-06-29 | 2027-07-15 |  |  | 0 | 79 |
-| A66450 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-07-15 | 2027-08-01 |  |  | 0 | 79 |
-| A66460 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-08-01 | 2027-08-17 |  |  | 0 | 79 |
-| A66470 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-29 | 2027-06-01 |  |  | 0 | 145 |
-| A66480 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-29 | 2027-06-01 |  |  | 0 | 145 |
-| A66490 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-29 | 2027-06-01 |  |  | 0 | 145 |
-| A66500 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-29 | 2027-06-01 |  |  | 0 | 145 |
-| A66510 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-05-08 | 2027-05-11 |  |  | 0 | 145 |
-| A66520 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-05-11 | 2027-05-15 |  |  | 0 | 145 |
-| A66530 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-05-15 | 2027-05-18 |  |  | 0 | 145 |
-| A66540 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-05-18 | 2027-05-22 |  |  | 0 | 145 |
-| A66550 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-05-22 | 2027-05-25 |  |  | 0 | 145 |
-| A66560 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-05-25 | 2027-05-29 |  |  | 0 | 145 |
-| A66570 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
-| A66580 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
-| A66590 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
-| A66600 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
-| A66610 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
-| A66620 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-12 | 2027-05-29 |  |  | 0 | 148 |
+| A63370 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-13 | 2027-04-15 |  |  | 0 | 48.3 |
+| A63380 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -72.7 |
+| A63390 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -72.7 |
+| A63400 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | -72.7 |
+| A63410 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 175.3 |
+| A63420 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 175.3 |
+| A63430 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-18 | 2027-04-19 |  |  | 0 | 175.3 |
+| A63440 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-19 | 2027-04-20 |  |  | 0 | 175.3 |
+| A63450 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 175.3 |
+| A63460 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-22 | 2027-04-24 |  |  | 0 | 187.3 |
+| A63470 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-24 | 2027-04-25 |  |  | 0 | 187.3 |
+| A63480 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-26 |  |  | 0 | 189.3 |
+| A63490 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-09-02 | 2026-09-06 | 2026-08-29 |  | 0 | -81.4 |
+| A63500 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-19 | 2026-09-22 | 2026-08-29 |  | 0 | -81.4 |
+| A63510 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-22 | 2027-04-28 |  |  | 0 | 48.3 |
+| A63520 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-28 |  |  | 0 | -81.4 |
+| A63530 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-28 | 2026-12-31 |  |  | 0 | -81.4 |
+| A63540 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-31 | 2027-01-05 |  |  | 0 | -81.4 |
+| A63550 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 59.8 |
+| A63560 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 59.8 |
+| A63570 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 59.8 |
+| A63580 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 59.8 |
+| A63590 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-28 | 2027-05-01 |  |  | 0 | 59.8 |
+| A63600 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-05-01 | 2027-05-03 |  |  | 0 | 59.8 |
+| A63610 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-03 | 2027-05-05 |  |  | 0 | 59.8 |
+| A63620 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 59.8 |
+| A63630 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-09 | 2026-08-13 | 2026-08-29 |  | 0 | -71.5 |
+| A63640 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-19 | 2026-08-22 | 2026-08-29 |  | 0 | -71.3 |
+| A63650 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-28 | 2027-05-03 |  |  | 0 | 48.3 |
+| A63660 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -71.3 |
+| A63670 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -71.3 |
+| A63680 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | In Progress | 2026-08-15 | 2026-08-18 | 2026-08-29 |  | 0 | -71.3 |
+| A63690 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-05-03 | 2027-05-05 |  |  | 0 | 48.3 |
+| A63700 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-05-03 | 2027-05-05 |  |  | 0 | 48.3 |
+| A63710 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 48.3 |
+| A63720 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-05 | 2027-05-08 |  |  | 0 | 48.3 |
+| A63730 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-05-08 | 2027-05-10 |  |  | 0 | 48.3 |
+| A63740 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-05-10 | 2027-05-15 |  |  | 0 | 85.3 |
+| A63750 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-15 | 2027-05-19 |  |  | 0 | 85.3 |
+| A63760 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-19 | 2027-05-22 |  |  | 0 | 167.3 |
+| A63770 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-15 | 2026-08-17 | 2026-08-29 |  | 0 | -71.5 |
+| A63780 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-08-22 | 2026-08-22 | 2026-08-29 |  | 0 | -71.5 |
+| A63790 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-05-03 | 2027-05-04 |  |  | 0 | 151.3 |
+| A63800 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | -71.5 |
+| A63810 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | -71.5 |
+| A63820 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-23 | 2026-12-24 |  |  | 0 | -71.5 |
+| A63830 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-05-04 | 2027-05-06 |  |  | 0 | 151.3 |
+| A63840 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-05-06 | 2027-05-09 |  |  | 0 | 151.3 |
+| A63850 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-09 | 2027-05-11 |  |  | 0 | 151.3 |
+| A63860 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-05-11 | 2027-05-13 |  |  | 0 | 151.3 |
+| A63870 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-05-13 | 2027-05-16 |  |  | 0 | 151.3 |
+| A63880 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-05-16 | 2027-05-18 |  |  | 0 | 154.3 |
+| A63890 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-18 | 2027-05-20 |  |  | 0 | 154.3 |
+| A63900 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-20 | 2027-05-23 |  |  | 0 | 166.3 |
+| A65030 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A65040 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A65050 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A65060 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A65070 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 188.3 |
+| A65080 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 188.3 |
+| A65090 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 188.3 |
+| A65100 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 188.3 |
+| A65110 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 188.3 |
+| A65120 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-11 | 2027-04-27 |  |  | 0 | 174.3 |
+| A65130 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65140 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65150 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65160 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65170 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65180 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65190 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A65200 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A65210 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A65220 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A65230 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65240 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65250 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65260 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65270 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 186.3 |
+| A65280 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-13 | 2027-04-29 |  |  | 0 | 172.3 |
+| A65290 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65300 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65310 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65320 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65330 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65340 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65350 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A65360 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A65370 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A65380 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A65390 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 185.3 |
+| A65400 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 185.3 |
+| A65410 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 185.3 |
+| A65420 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 185.3 |
+| A65430 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 185.3 |
+| A65440 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-14 | 2027-05-01 |  |  | 0 | 171.3 |
+| A65450 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65460 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65470 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65480 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65490 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65500 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65510 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A65520 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A65530 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A65540 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A65550 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65560 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65570 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65580 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65590 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 184.3 |
+| A65600 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 170.3 |
+| A65610 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65620 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65630 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65640 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65650 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65660 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-18 | 2027-05-04 |  |  | 0 | 182.3 |
+| A65670 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-03 | 2027-05-19 |  |  | 0 | 169.3 |
+| A65680 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-03 | 2027-05-19 |  |  | 0 | 169.3 |
+| A65690 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-03 | 2027-05-19 |  |  | 0 | 169.3 |
+| A65700 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-03 | 2027-05-19 |  |  | 0 | 169.3 |
+| A65710 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65720 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65730 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65740 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65750 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 183.3 |
+| A65760 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-17 | 2027-05-03 |  |  | 0 | 169.3 |
+| A65770 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65780 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65790 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65800 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65810 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65820 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65830 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A65840 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A65850 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A65860 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A65870 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65880 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65890 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65900 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65910 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 181.3 |
+| A65920 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 167.3 |
+| A65930 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65940 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65950 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65960 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65970 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65980 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 179.3 |
+| A65990 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-12 |  |  | 0 | 175.3 |
+| A66000 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-12 |  |  | 0 | 175.3 |
+| A66010 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-12 |  |  | 0 | 175.3 |
+| A66020 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-09 | 2027-05-12 |  |  | 0 | 175.3 |
+| A66030 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 178.3 |
+| A66040 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 178.3 |
+| A66050 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 178.3 |
+| A66060 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 178.3 |
+| A66070 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 178.3 |
+| A66080 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-22 | 2027-05-09 |  |  | 0 | 175.3 |
+| A66090 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66100 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66110 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66120 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66130 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66140 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-25 | 2027-04-28 |  |  | 0 | 187.3 |
+| A66150 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-17 | 2027-06-02 |  |  | 0 | 157.3 |
+| A66160 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-17 | 2027-06-02 |  |  | 0 | 157.3 |
+| A66170 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-17 | 2027-06-02 |  |  | 0 | 157.3 |
+| A66180 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-17 | 2027-06-02 |  |  | 0 | 157.3 |
+| A66190 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A66200 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A66210 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A66220 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A66230 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 171.3 |
+| A66240 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-05-01 | 2027-05-17 |  |  | 0 | 157.3 |
+| A66250 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66260 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66270 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66280 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66290 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66300 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 167.3 |
+| A66310 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-08-03 | 2027-08-19 |  |  | 0 | 48.3 |
+| A66320 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-08-19 | 2027-09-05 |  |  | 0 | 48.3 |
+| A66330 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-09-05 | 2027-09-21 |  |  | 0 | 48.3 |
+| A66340 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-09-21 | 2027-10-07 |  |  | 0 | 48.3 |
+| A66350 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-05-10 | 2027-05-26 |  |  | 0 | 48.3 |
+| A66360 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-05-26 | 2027-05-30 |  |  | 0 | 48.3 |
+| A66370 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-05-30 | 2027-06-15 |  |  | 0 | 48.3 |
+| A66380 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-06-15 | 2027-07-01 |  |  | 0 | 48.3 |
+| A66390 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-07-01 | 2027-07-18 |  |  | 0 | 48.3 |
+| A66400 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-07-18 | 2027-08-03 |  |  | 0 | 48.3 |
+| A66410 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-19 | 2027-06-05 |  |  | 0 | 85.3 |
+| A66420 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-06-05 | 2027-06-21 |  |  | 0 | 85.3 |
+| A66430 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-06-21 | 2027-07-07 |  |  | 0 | 85.3 |
+| A66440 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-07-07 | 2027-07-24 |  |  | 0 | 85.3 |
+| A66450 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-07-24 | 2027-08-09 |  |  | 0 | 85.3 |
+| A66460 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-08-09 | 2027-08-25 |  |  | 0 | 85.3 |
+| A66470 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-06-06 | 2027-06-09 |  |  | 0 | 151.3 |
+| A66480 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-06-06 | 2027-06-09 |  |  | 0 | 151.3 |
+| A66490 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-06-06 | 2027-06-09 |  |  | 0 | 151.3 |
+| A66500 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-06-06 | 2027-06-09 |  |  | 0 | 151.3 |
+| A66510 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-05-16 | 2027-05-19 |  |  | 0 | 151.3 |
+| A66520 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-05-19 | 2027-05-23 |  |  | 0 | 151.3 |
+| A66530 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-05-23 | 2027-05-26 |  |  | 0 | 151.3 |
+| A66540 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-05-26 | 2027-05-30 |  |  | 0 | 151.3 |
+| A66550 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-05-30 | 2027-06-02 |  |  | 0 | 151.3 |
+| A66560 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-06-02 | 2027-06-06 |  |  | 0 | 151.3 |
+| A66570 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
+| A66580 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
+| A66590 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
+| A66600 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
+| A66610 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
+| A66620 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-20 | 2027-06-06 |  |  | 0 | 154.3 |
 | A66630 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-09 | 2026-02-12 | 2026-02-09 | 2026-09-28 | 100 |  |
-| A66640 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-14 | 2026-02-18 | 2026-09-05 |  | 0 | -16.8 |
-| A66650 | Subgrade | Earth Work | Task | In Progress | 2026-02-19 | 2026-02-24 | 2026-09-05 |  | 0 | -16.8 |
+| A66640 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-14 | 2026-02-18 | 2026-09-05 |  | 0 | -14.4 |
+| A66650 | Subgrade | Earth Work | Task | In Progress | 2026-02-19 | 2026-02-24 | 2026-09-05 |  | 0 | -14.4 |
 | A66660 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-02-14 | 2026-02-17 | 2026-02-14 | 2026-09-28 | 100 |  |
-| A66670 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-18 | 2026-02-22 | 2026-09-05 |  | 0 | -74.2 |
-| A66680 | Subgrade | Earth Work | Task | In Progress | 2026-02-23 | 2026-02-28 | 2026-09-05 |  | 0 | -16.8 |
+| A66670 | Earthworks - Fill & Compaction | Earth Work | Task | In Progress | 2026-02-18 | 2026-02-22 | 2026-09-05 |  | 0 | -79.2 |
+| A66680 | Subgrade | Earth Work | Task | In Progress | 2026-02-23 | 2026-02-28 | 2026-09-05 |  | 0 | -10.8 |
 | A66690 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-03-11 | 2026-03-16 | 2026-03-15 | 2026-09-28 | 100 |  |
-| A66700 | Earthworks - Fill & Compaction | Earth Work | Task | Completed | 2026-10-10 | 2026-10-14 | 2026-09-10 | 2026-10-08 | 100 |  |
-| A66710 | Subgrade | Earth Work | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -16 |
+| A66700 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | -15 |
+| A66710 | Subgrade | Earth Work | Task | Not Started | 2026-10-08 | 2026-10-13 |  |  | 0 | -15 |
 | A66720 | Earthworks - Cut Excavation | Earth Work | Task | Completed | 2026-03-17 | 2026-03-22 | 2026-03-15 | 2026-09-28 | 100 |  |
-| A66730 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -16 |
-| A66740 | Subgrade | Earth Work | Task | Not Started | 2026-10-15 | 2026-10-20 |  |  | 0 | -16 |
-| A63910 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-26 | 2026-08-29 | 2026-09-05 |  | 0 | -58.9 |
-| A63920 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-03 | 2026-09-05 | 2026-09-05 |  | 0 | -52.9 |
-| A63930 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-07 | 2027-04-12 |  |  | 0 | 42 |
-| A63940 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-12-02 |  |  | 0 | -52.9 |
-| A63950 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-12-02 |  |  | 0 | -52.9 |
-| A63960 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-12-02 |  |  | 0 | -52.9 |
-| A63970 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-12 | 2027-04-14 |  |  | 0 | 154 |
-| A63980 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-14 | 2027-04-17 |  |  | 0 | 154 |
-| A63990 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 182 |
-| A64000 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 182 |
-| A64010 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 154 |
-| A64020 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 182 |
-| A64030 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 168 |
-| A64040 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-19 |  |  | 0 | 182 |
-| A64050 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-30 | 2026-09-01 | 2026-09-05 |  | 0 | -58.9 |
-| A64060 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-07 | 2026-09-07 | 2026-09-05 |  | 0 | -52.8 |
-| A64070 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-12 | 2027-04-14 |  |  | 0 | 42 |
-| A64080 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-11-28 | 2026-11-29 |  |  | 0 | -52.8 |
-| A64090 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-11-29 | 2026-11-30 |  |  | 0 | -52.8 |
-| A64100 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | -52.8 |
-| A64110 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-14 | 2027-04-15 |  |  | 0 | 152 |
-| A64120 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-15 | 2027-04-17 |  |  | 0 | 152 |
-| A64130 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-17 | 2027-04-18 |  |  | 0 | 152 |
-| A64140 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-18 | 2027-04-19 |  |  | 0 | 152 |
-| A64150 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-19 | 2027-04-21 |  |  | 0 | 152 |
-| A64160 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-21 | 2027-04-22 |  |  | 0 | 164 |
-| A64170 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-22 | 2027-04-24 |  |  | 0 | 164 |
-| A64180 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-24 | 2027-04-25 |  |  | 0 | 177 |
-| A66750 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 154 |
-| A66760 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 154 |
-| A66770 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 154 |
-| A66780 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-05 | 2027-05-22 |  |  | 0 | 154 |
-| A66790 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66800 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66810 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66820 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66830 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66840 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 154 |
-| A66850 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66860 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66870 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66880 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66890 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66900 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-19 | 2027-05-05 |  |  | 0 | 168 |
-| A66910 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-08 | 2027-05-24 |  |  | 0 | 152 |
-| A66920 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-08 | 2027-05-24 |  |  | 0 | 152 |
-| A66930 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-08 | 2027-05-24 |  |  | 0 | 152 |
-| A66940 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-08 | 2027-05-24 |  |  | 0 | 152 |
-| A66950 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A66960 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A66970 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A66980 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A66990 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 166 |
-| A67000 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 152 |
-| A67010 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A67020 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A67030 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A67040 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A67050 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
-| A67060 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-24 | 2027-05-10 |  |  | 0 | 164 |
+| A66730 | Earthworks - Fill & Compaction | Earth Work | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | -10 |
+| A66740 | Subgrade | Earth Work | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | -15 |
+| A63910 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-26 | 2026-08-29 | 2026-09-05 |  | 0 | -81.4 |
+| A63920 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-03 | 2026-09-05 | 2026-09-05 |  | 0 | -76.7 |
+| A63930 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-15 | 2027-04-20 |  |  | 0 | 48.3 |
+| A63940 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-29 |  |  | 0 | -76.7 |
+| A63950 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-29 |  |  | 0 | -76.7 |
+| A63960 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-29 |  |  | 0 | -76.7 |
+| A63970 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 160.3 |
+| A63980 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-22 | 2027-04-25 |  |  | 0 | 160.3 |
+| A63990 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 188.3 |
+| A64000 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 188.3 |
+| A64010 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 160.3 |
+| A64020 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 188.3 |
+| A64030 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 174.3 |
+| A64040 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-27 |  |  | 0 | 188.3 |
+| A64050 | Aggregate base course | Aggregate Base Course | Task | In Progress | 2026-08-30 | 2026-09-01 | 2026-09-05 |  | 0 | -81.4 |
+| A64060 | Bituminous base course (Grading I - Class A) | Bituminous Construction | Task | In Progress | 2026-09-07 | 2026-09-07 | 2026-09-05 |  | 0 | -75.3 |
+| A64070 | Bituminous concrete wearing course | Asphalt Wearing Course | Task | Not Started | 2027-04-20 | 2027-04-22 |  |  | 0 | 48.3 |
+| A64080 | Concrete curb, Type (K1A) | Precast Concrete Curb | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | -75.3 |
+| A64090 | Concrete curb, Type (K1B) | Precast Concrete Curb | Task | Not Started | 2026-12-26 | 2026-12-27 |  |  | 0 | -75.3 |
+| A64100 | Concrete curb, Type (K2) | Precast Concrete Curb | Task | Not Started | 2026-12-27 | 2026-12-29 |  |  | 0 | -75.3 |
+| A64110 | Retroreflective Thermoplastic White Traffic lines | Pavement Markings | Task | Not Started | 2027-04-22 | 2027-04-24 |  |  | 0 | 158.3 |
+| A64120 | Retroreflective Thermoplastic Yellow Traffic lines | Pavement Markings | Task | Not Started | 2027-04-24 | 2027-04-25 |  |  | 0 | 158.3 |
+| A64130 | Traffic signs,  ground mounted, 1 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-25 | 2027-04-26 |  |  | 0 | 158.3 |
+| A64140 | Traffic signs,  ground mounted, 2 Sheet Alumenium, (breakaway) Single post | Traffic Signage | Task | Not Started | 2027-04-26 | 2027-04-27 |  |  | 0 | 158.3 |
+| A64150 | Traffic signs, ground mounted, Sheet Alumenium, (breakaway) Double post | Traffic Signage | Task | Not Started | 2027-04-27 | 2027-04-29 |  |  | 0 | 158.3 |
+| A64160 | Retroreflective raised pavement markers (Type A) | Traffic Signage | Task | Not Started | 2027-04-29 | 2027-05-01 |  |  | 0 | 170.3 |
+| A64170 | Ceramic raised pavement markers | Traffic Signage | Task | Not Started | 2027-05-01 | 2027-05-02 |  |  | 0 | 170.3 |
+| A64180 | Solar powered lighting cateyes pavement markers | Traffic Signage | Task | Not Started | 2027-05-02 | 2027-05-03 |  |  | 0 | 183.3 |
+| A66750 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 160.3 |
+| A66760 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 160.3 |
+| A66770 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 160.3 |
+| A66780 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-13 | 2027-05-30 |  |  | 0 | 160.3 |
+| A66790 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66800 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66810 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66820 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66830 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66840 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 160.3 |
+| A66850 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66860 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66870 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66880 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66890 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66900 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-04-27 | 2027-05-13 |  |  | 0 | 174.3 |
+| A66910 | Lantana montevidensis | Ground Cover And Shrubs | Task | Not Started | 2027-05-16 | 2027-06-01 |  |  | 0 | 158.3 |
+| A66920 | Portulaca grandiflora | Ground Cover And Shrubs | Task | Not Started | 2027-05-16 | 2027-06-01 |  |  | 0 | 158.3 |
+| A66930 | Dodonaea viscosa | Ground Cover And Shrubs | Task | Not Started | 2027-05-16 | 2027-06-01 |  |  | 0 | 158.3 |
+| A66940 | Atriplex halimus | Ground Cover And Shrubs | Task | Not Started | 2027-05-16 | 2027-06-01 |  |  | 0 | 158.3 |
+| A66950 | Roadside tree - Cordia sebestena | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A66960 | Roadside tree - Parkinsonia aculeata | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A66970 | Roadside tree - Dalbergia sissoo | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A66980 | Roadside tree - Acacia stenophylla | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A66990 | Roadside tree - Hibiscus tiliaceus | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 172.3 |
+| A67000 | Roadside tree - Azadirachla indica | Trees/ Palms | Task | Not Started | 2027-04-29 | 2027-05-16 |  |  | 0 | 158.3 |
+| A67010 | Install Precast concrete block paving for sidewalk, mixed grey colour | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A67020 | Install Precast concrete block paving for main intrsection, colour light grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A67030 | install Precast concrete block paving for main intrsection, colour mid grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A67040 | install Precast concrete block paving for main intrsection, colour dark grey | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A67050 | Gravel, mixed dark beige + medium beige + light beige | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
+| A67060 | Concrete heel kerb | Miscellaneous Landscaping Items | Task | Not Started | 2027-05-02 | 2027-05-18 |  |  | 0 | 170.3 |
 | A67080 | Excavation | MH-1-Q /MH-2-Q | Task | Completed | 2026-03-17 | 2026-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67090 | Pipe Laying | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-10 | 2026-10-18 |  |  | 0 | -12.9 |
-| A67100 | Install Manhole | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | -6.9 |
-| A67110 | Testing & Inspection | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | -12.9 |
-| A67120 | Backfilling & Compaction | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-21 | 2026-11-01 |  |  | 0 | -12.9 |
+| A67090 | Pipe Laying | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-03 | 2026-10-11 |  |  | 0 | -11 |
+| A67100 | Install Manhole | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | -5 |
+| A67110 | Testing & Inspection | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | -11 |
+| A67120 | Backfilling & Compaction | MH-1-Q /MH-2-Q | Task | Not Started | 2026-10-14 | 2026-10-25 |  |  | 0 | -11 |
 | A67130 | Excavation | MH-2-Q /MH-3-Q | Task | Completed | 2026-03-22 | 2026-03-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67140 | Pipe Laying | MH-2-Q /MH-3-Q | Task | Completed | 2026-03-26 | 2026-04-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67150 | Install Manhole | MH-2-Q /MH-3-Q | Task | Completed | 2026-03-26 | 2026-03-30 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67160 | Testing & Inspection | MH-2-Q /MH-3-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67160 | Testing & Inspection | MH-2-Q /MH-3-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67170 | Backfilling & Compaction | MH-2-Q /MH-3-Q | Task | Completed | 2026-11-26 | 2026-12-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67180 | Excavation | MH-3-Q /MH-4-Q | Task | Completed | 2026-03-26 | 2026-03-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67190 | Pipe Laying | MH-3-Q /MH-4-Q | Task | Completed | 2026-03-31 | 2026-04-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67200 | Install Manhole | MH-3-Q /MH-4-Q | Task | Completed | 2026-03-31 | 2026-04-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67210 | Testing & Inspection | MH-3-Q /MH-4-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67210 | Testing & Inspection | MH-3-Q /MH-4-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67220 | Backfilling & Compaction | MH-3-Q /MH-4-Q | Task | Completed | 2026-12-08 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67230 | Excavation | MH-4-Q /MH-5-Q | Task | Completed | 2026-03-31 | 2026-04-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67240 | Pipe Laying | MH-4-Q /MH-5-Q | Task | Completed | 2026-04-05 | 2026-04-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67250 | Install Manhole | MH-4-Q /MH-5-Q | Task | Completed | 2026-04-05 | 2026-04-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67260 | Testing & Inspection | MH-4-Q /MH-5-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67260 | Testing & Inspection | MH-4-Q /MH-5-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67270 | Backfilling & Compaction | MH-4-Q /MH-5-Q | Task | Completed | 2026-12-20 | 2026-12-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67280 | Excavation | MH-5-Q /MH-6-Q | Task | Completed | 2026-04-05 | 2026-04-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67290 | Pipe Laying | MH-5-Q /MH-6-Q | Task | Completed | 2026-04-09 | 2026-04-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67300 | Install Manhole | MH-5-Q /MH-6-Q | Task | Completed | 2026-04-09 | 2026-04-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67310 | Testing & Inspection | MH-5-Q /MH-6-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67310 | Testing & Inspection | MH-5-Q /MH-6-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67320 | Backfilling & Compaction | MH-5-Q /MH-6-Q | Task | Completed | 2026-12-31 | 2027-01-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67330 | Excavation | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 62 |
-| A67340 | Pipe Laying | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-19 | 2026-11-03 |  |  | 0 | 62 |
-| A67350 | Install Manhole | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-19 | 2026-10-22 |  |  | 0 | 74 |
-| A67360 | Testing & Inspection | MH-10-Q /MH-11-Q | Task | Not Started | 2026-11-04 | 2026-11-05 |  |  | 0 | 62 |
-| A67370 | Backfilling & Compaction | MH-10-Q /MH-11-Q | Task | Not Started | 2026-11-14 | 2026-11-24 |  |  | 0 | 56 |
-| A67380 | Excavation | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 56 |
-| A67390 | Pipe Laying | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-14 | 2026-10-29 |  |  | 0 | 56 |
-| A67400 | Install Manhole | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | 68 |
-| A67410 | Testing & Inspection | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-31 | 2026-11-01 |  |  | 0 | 56 |
-| A67420 | Backfilling & Compaction | MH-9-Q /MH-10-Q | Task | Not Started | 2026-11-02 | 2026-11-12 |  |  | 0 | 56 |
+| A67330 | Excavation | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 68 |
+| A67340 | Pipe Laying | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-12 | 2026-10-27 |  |  | 0 | 68 |
+| A67350 | Install Manhole | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-12 | 2026-10-15 |  |  | 0 | 80 |
+| A67360 | Testing & Inspection | MH-10-Q /MH-11-Q | Task | Not Started | 2026-10-28 | 2026-10-29 |  |  | 0 | 68 |
+| A67370 | Backfilling & Compaction | MH-10-Q /MH-11-Q | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 62 |
+| A67380 | Excavation | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 62 |
+| A67390 | Pipe Laying | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-07 | 2026-10-22 |  |  | 0 | 62 |
+| A67400 | Install Manhole | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | 74 |
+| A67410 | Testing & Inspection | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-24 | 2026-10-25 |  |  | 0 | 62 |
+| A67420 | Backfilling & Compaction | MH-9-Q /MH-10-Q | Task | Not Started | 2026-10-26 | 2026-11-05 |  |  | 0 | 62 |
 | A67430 | Excavation | MH-6-Q /MH-7-Q | Task | Completed | 2026-04-09 | 2026-04-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67440 | Pipe Laying | MH-6-Q /MH-7-Q | Task | Completed | 2026-04-14 | 2026-04-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67450 | Install Manhole | MH-6-Q /MH-7-Q | Task | Completed | 2026-04-14 | 2026-04-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67460 | Testing & Inspection | MH-6-Q /MH-7-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67460 | Testing & Inspection | MH-6-Q /MH-7-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67470 | Backfilling & Compaction | MH-6-Q /MH-7-Q | Task | Completed | 2027-01-12 | 2027-01-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67480 | Excavation | MH-7-Q /MH-8-Q | Task | Completed | 2026-04-14 | 2026-04-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67490 | Pipe Laying | MH-7-Q /MH-8-Q | Task | Completed | 2026-04-19 | 2026-05-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67500 | Install Manhole | MH-7-Q /MH-8-Q | Task | Completed | 2026-04-19 | 2026-04-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67510 | Testing & Inspection | MH-7-Q /MH-8-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67510 | Testing & Inspection | MH-7-Q /MH-8-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67520 | Backfilling & Compaction | MH-7-Q /MH-8-Q | Task | Completed | 2027-01-24 | 2027-02-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67530 | Excavation | MH-8-Q /MH-9-Q | Task | Completed | 2026-04-19 | 2026-04-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67540 | Pipe Laying | MH-8-Q /MH-9-Q | Task | Completed | 2026-04-23 | 2026-05-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67550 | Install Manhole | MH-8-Q /MH-9-Q | Task | Completed | 2026-04-23 | 2026-04-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67560 | Testing & Inspection | MH-8-Q /MH-9-Q | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 74 |
+| A67560 | Testing & Inspection | MH-8-Q /MH-9-Q | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 80 |
 | A67570 | Backfilling & Compaction | MH-8-Q /MH-9-Q | Task | Completed | 2027-02-04 | 2027-02-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67580 | Excavation | MH-11-Q-8 /MH-11-Q-9 | Task | Completed | 2026-10-04 | 2026-10-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67590 | Pipe Laying | MH-11-Q-8 /MH-11-Q-9 | Task | Completed | 2026-10-08 | 2026-11-01 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -3767,25 +3767,25 @@
 | A67950 | Install Manhole | MH-11-Q-1 /MH-11-Q-2 | Task | Completed | 2026-09-06 | 2026-09-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67960 | Testing & Inspection | MH-11-Q-1 /MH-11-Q-2 | Task | Completed | 2027-06-07 | 2027-06-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A67970 | Backfilling & Compaction | MH-11-Q-1 /MH-11-Q-2 | Task | Completed | 2027-07-15 | 2027-07-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A67980 | Excavation | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | 25.0 |
-| A67990 | Pipe Laying | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-11-23 | 2026-12-17 |  |  | 0 | 25.0 |
-| A68000 | Install Manhole | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-11-23 | 2026-11-28 |  |  | 0 | 44.0 |
-| A68010 | Testing & Inspection | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-12-17 | 2026-12-20 |  |  | 0 | 25.0 |
-| A68020 | Backfilling & Compaction | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-12-20 | 2026-12-31 |  |  | 0 | 25.0 |
-| A68030 | Excavation | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | -12.9 |
-| A68040 | Pipe Laying | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | -12.9 |
-| A68050 | Install Manhole | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-14 | 2026-10-18 |  |  | 0 | -10.9 |
-| A68060 | Testing & Inspection | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | -12.9 |
-| A68070 | Backfilling & Compaction | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-21 | 2026-11-01 |  |  | 0 | -12.9 |
+| A67980 | Excavation | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-12-10 | 2026-12-15 |  |  | 0 | 5.7 |
+| A67990 | Pipe Laying | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-12-15 | 2027-01-09 |  |  | 0 | 5.7 |
+| A68000 | Install Manhole | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2026-12-15 | 2026-12-20 |  |  | 0 | 24.7 |
+| A68010 | Testing & Inspection | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2027-01-09 | 2027-01-11 |  |  | 0 | 5.7 |
+| A68020 | Backfilling & Compaction | MH-11-Q /MH-11-Q-1 | Task | Not Started | 2027-01-11 | 2027-01-23 |  |  | 0 | 5.7 |
+| A68030 | Excavation | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | -11 |
+| A68040 | Pipe Laying | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | -11 |
+| A68050 | Install Manhole | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-07 | 2026-10-11 |  |  | 0 | -9 |
+| A68060 | Testing & Inspection | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-12 | 2026-10-13 |  |  | 0 | -11 |
+| A68070 | Backfilling & Compaction | MH-0-Q /MH-11-Q | Task | Not Started | 2026-10-14 | 2026-10-25 |  |  | 0 | -11 |
 | A68080 | Excavation | MH-1-C /MH-2-C | Task | Completed | 2026-03-09 | 2026-03-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68090 | Pipe Laying | MH-1-C /MH-2-C | Task | Completed | 2026-03-14 | 2026-03-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68100 | Install Manhole | MH-1-C /MH-2-C | Task | Completed | 2026-03-14 | 2026-03-17 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68110 | Testing & Inspection | MH-1-C /MH-2-C | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 6.4 |
+| A68110 | Testing & Inspection | MH-1-C /MH-2-C | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 12.4 |
 | A68120 | Backfilling & Compaction | MH-1-C /MH-2-C | Task | Completed | 2026-11-01 | 2026-11-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68130 | Excavation | MH-2-C /MH-3-C | Task | Completed | 2026-03-14 | 2026-03-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68140 | Pipe Laying | MH-2-C /MH-3-C | Task | Completed | 2026-03-18 | 2026-03-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68150 | Install Manhole | MH-2-C /MH-3-C | Task | Completed | 2026-03-18 | 2026-03-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68160 | Testing & Inspection | MH-2-C /MH-3-C | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 6.4 |
+| A68160 | Testing & Inspection | MH-2-C /MH-3-C | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 12.4 |
 | A68170 | Backfilling & Compaction | MH-2-C /MH-3-C | Task | Completed | 2026-11-07 | 2026-11-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68180 | Excavation | MH-58-A-1 /MH-58-A | Task | Completed | 2026-09-17 | 2026-09-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68190 | Pipe Laying | MH-58-A-1 /MH-58-A | Task | Completed | 2026-09-29 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -3830,48 +3830,48 @@
 | A68580 | Excavation | MH-59-A-1 /MH-1 | Task | Completed | 2026-09-17 | 2026-09-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68590 | Pipe Laying | MH-59-A-1 /MH-1 | Task | Completed | 2026-09-29 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68600 | Install Manhole | MH-59-A-1 /MH-1 | Task | Completed | 2026-09-29 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68610 | Testing & Inspection | MH-59-A-1 /MH-1 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68610 | Testing & Inspection | MH-59-A-1 /MH-1 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68620 | Backfilling & Compaction | MH-59-A-1 /MH-1 | Task | Completed | 2027-03-18 | 2027-03-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68630 | Excavation | MH-32-A-14-5 /MH-32-A-14-4 | Task | Completed | 2026-09-06 | 2026-09-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68640 | Pipe Laying | MH-32-A-14-5 /MH-32-A-14-4 | Task | Completed | 2026-09-17 | 2026-09-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68650 | Install Manhole | MH-32-A-14-5 /MH-32-A-14-4 | Task | Completed | 2026-09-17 | 2026-09-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68660 | Testing & Inspection | MH-32-A-14-5 /MH-32-A-14-4 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68660 | Testing & Inspection | MH-32-A-14-5 /MH-32-A-14-4 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68670 | Backfilling & Compaction | MH-32-A-14-5 /MH-32-A-14-4 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68680 | Excavation | MH-32-A-14-4 /MH-32-A-14-3 | Task | Completed | 2026-08-25 | 2026-09-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68690 | Pipe Laying | MH-32-A-14-4 /MH-32-A-14-3 | Task | Completed | 2026-09-06 | 2026-09-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68700 | Install Manhole | MH-32-A-14-4 /MH-32-A-14-3 | Task | Completed | 2026-09-06 | 2026-09-16 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68710 | Testing & Inspection | MH-32-A-14-4 /MH-32-A-14-3 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68710 | Testing & Inspection | MH-32-A-14-4 /MH-32-A-14-3 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68720 | Backfilling & Compaction | MH-32-A-14-4 /MH-32-A-14-3 | Task | Completed | 2027-02-23 | 2027-03-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68730 | Excavation | MH-32-A-14-3 /MH-32-A-14-2 | Task | Completed | 2026-08-13 | 2026-08-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68740 | Pipe Laying | MH-32-A-14-3 /MH-32-A-14-2 | Task | Completed | 2026-08-25 | 2026-09-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68750 | Install Manhole | MH-32-A-14-3 /MH-32-A-14-2 | Task | Completed | 2026-08-25 | 2026-09-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68760 | Testing & Inspection | MH-32-A-14-3 /MH-32-A-14-2 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68760 | Testing & Inspection | MH-32-A-14-3 /MH-32-A-14-2 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68770 | Backfilling & Compaction | MH-32-A-14-3 /MH-32-A-14-2 | Task | Completed | 2027-02-11 | 2027-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68780 | Excavation | MH-32-A-14-2 /MH-32-A-14-1 | Task | Completed | 2026-08-02 | 2026-08-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68790 | Pipe Laying | MH-32-A-14-2 /MH-32-A-14-1 | Task | Completed | 2026-08-13 | 2026-08-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68800 | Install Manhole | MH-32-A-14-2 /MH-32-A-14-1 | Task | Completed | 2026-08-13 | 2026-08-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68810 | Testing & Inspection | MH-32-A-14-2 /MH-32-A-14-1 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68810 | Testing & Inspection | MH-32-A-14-2 /MH-32-A-14-1 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68820 | Backfilling & Compaction | MH-32-A-14-2 /MH-32-A-14-1 | Task | Completed | 2027-01-31 | 2027-02-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68830 | Excavation | MH-32-A-14-1 /MH-32-A-14 | Task | Completed | 2026-07-21 | 2026-08-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68840 | Pipe Laying | MH-32-A-14-1 /MH-32-A-14 | Task | Completed | 2026-08-02 | 2026-08-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68850 | Install Manhole | MH-32-A-14-1 /MH-32-A-14 | Task | Completed | 2026-08-02 | 2026-08-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68860 | Testing & Inspection | MH-32-A-14-1 /MH-32-A-14 | Task | Not Started | 2026-10-10 | 2026-10-20 |  |  | 0 | 86 |
+| A68860 | Testing & Inspection | MH-32-A-14-1 /MH-32-A-14 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68870 | Backfilling & Compaction | MH-32-A-14-1 /MH-32-A-14 | Task | Completed | 2027-01-19 | 2027-01-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68880 | Excavation | MH-32-A-14 /MH-32-A-13 | Task | Completed | 2026-07-09 | 2026-07-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68890 | Pipe Laying | MH-32-A-14 /MH-32-A-13 | Task | Completed | 2026-07-21 | 2026-08-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68900 | Install Manhole | MH-32-A-14 /MH-32-A-13 | Task | Completed | 2026-07-21 | 2026-08-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68910 | Testing & Inspection | MH-32-A-14 /MH-32-A-13 | Task | Completed | 2026-10-10 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
+| A68910 | Testing & Inspection | MH-32-A-14 /MH-32-A-13 | Task | Not Started | 2026-10-03 | 2026-10-13 |  |  | 0 | 92 |
 | A68920 | Backfilling & Compaction | MH-32-A-14 /MH-32-A-13 | Task | Completed | 2027-01-07 | 2027-01-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68930 | Excavation | MH-32-A-13 /MH-32-A-12 | Task | Completed | 2026-06-28 | 2026-07-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68940 | Pipe Laying | MH-32-A-13 /MH-32-A-12 | Task | Completed | 2026-07-09 | 2026-07-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68950 | Install Manhole | MH-32-A-13 /MH-32-A-12 | Task | Completed | 2026-09-26 | 2026-10-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68960 | Testing & Inspection | MH-32-A-13 /MH-32-A-12 | Task | Completed | 2026-10-07 | 2026-10-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A68970 | Backfilling & Compaction | MH-32-A-13 /MH-32-A-12 | Task | Completed | 2026-10-19 | 2026-10-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A68980 | Excavation | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2026-12-09 | 2026-12-16 |  |  | 0 | -21.0 |
-| A68990 | Pipe Laying | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2026-12-16 | 2026-12-23 |  |  | 0 | -21.0 |
-| A69000 | Install Manhole | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2026-12-16 | 2026-12-23 |  |  | 0 | -15.0 |
-| A69010 | Testing & Inspection | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2026-12-23 | 2026-12-30 |  |  | 0 | -21.0 |
-| A69020 | Backfilling & Compaction | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2026-12-30 | 2027-01-05 |  |  | 0 | -21.0 |
+| A68980 | Excavation | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2027-01-02 | 2027-01-09 |  |  | 0 | -40.3 |
+| A68990 | Pipe Laying | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2027-01-09 | 2027-01-16 |  |  | 0 | -40.3 |
+| A69000 | Install Manhole | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2027-01-09 | 2027-01-16 |  |  | 0 | -34.3 |
+| A69010 | Testing & Inspection | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2027-01-16 | 2027-01-23 |  |  | 0 | -40.3 |
+| A69020 | Backfilling & Compaction | MH-32-A-12-9 /MH-32-A-12-8 | Task | Not Started | 2027-01-23 | 2027-01-28 |  |  | 0 | -40.3 |
 | A69030 | Excavation | MH-36-A-3-9 /MH-36-A-3-8 | Task | Completed | 2026-10-05 | 2026-10-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69040 | Pipe Laying | MH-36-A-3-9 /MH-36-A-3-8 | Task | Completed | 2026-10-12 | 2026-10-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69050 | Install Manhole | MH-36-A-3-9 /MH-36-A-3-8 | Task | Completed | 2026-10-12 | 2026-10-18 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -3925,12 +3925,12 @@
 | A69530 | Excavation | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Completed | 2026-11-01 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69540 | Pipe Laying | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Completed | 2026-11-12 | 2026-11-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69550 | Install Manhole | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Completed | 2026-11-12 | 2026-11-16 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A69560 | Testing & Inspection | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A69560 | Testing & Inspection | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A69570 | Backfilling & Compaction | MH-32-A-16-5-1 /MH-32-A-16-5 | Task | Completed | 2027-06-08 | 2027-06-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69580 | Excavation | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Completed | 2026-10-20 | 2026-10-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69590 | Pipe Laying | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Completed | 2026-11-01 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69600 | Install Manhole | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Completed | 2026-11-01 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A69610 | Testing & Inspection | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Not Started | 2026-12-09 | 2026-12-12 |  |  | 0 | 41.3 |
+| A69610 | Testing & Inspection | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Not Started | 2027-01-02 | 2027-01-04 |  |  | 0 | 22.0 |
 | A69620 | Backfilling & Compaction | MH-32-A-16-5-2 /MH-32-A-16-5-1 | Task | Completed | 2027-05-27 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69630 | Excavation | MH-32-A-16-5-3 /MH-32-A-16-5-2 | Task | Completed | 2026-10-17 | 2026-10-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A69640 | Pipe Laying | MH-32-A-16-5-3 /MH-32-A-16-5-2 | Task | Completed | 2026-10-20 | 2026-10-22 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4055,38 +4055,38 @@
 | A70880 | Excavation | MH-55-A-1 /MH-55-A | Task | Completed | 2026-11-09 | 2026-11-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70890 | Pipe Laying | MH-55-A-1 /MH-55-A | Task | Completed | 2026-11-21 | 2026-12-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70900 | Install Manhole | MH-55-A-1 /MH-55-A | Task | Completed | 2026-11-21 | 2026-12-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A70910 | Testing & Inspection | MH-55-A-1 /MH-55-A | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A70910 | Testing & Inspection | MH-55-A-1 /MH-55-A | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A70920 | Backfilling & Compaction | MH-55-A-1 /MH-55-A | Task | Completed | 2027-07-29 | 2027-08-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70930 | Excavation | MH-55-A-2 /MH-55-A-1 | Task | Completed | 2026-10-28 | 2026-11-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70940 | Pipe Laying | MH-55-A-2 /MH-55-A-1 | Task | Completed | 2026-11-09 | 2026-11-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70950 | Install Manhole | MH-55-A-2 /MH-55-A-1 | Task | Completed | 2026-11-09 | 2026-11-19 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A70960 | Testing & Inspection | MH-55-A-2 /MH-55-A-1 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A70960 | Testing & Inspection | MH-55-A-2 /MH-55-A-1 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A70970 | Backfilling & Compaction | MH-55-A-2 /MH-55-A-1 | Task | Completed | 2027-07-18 | 2027-07-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70980 | Excavation | MH-55-A-3 /MH-55-A-2 | Task | Completed | 2026-10-17 | 2026-10-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A70990 | Pipe Laying | MH-55-A-3 /MH-55-A-2 | Task | Completed | 2026-10-28 | 2026-11-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71000 | Install Manhole | MH-55-A-3 /MH-55-A-2 | Task | Completed | 2026-10-28 | 2026-11-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71010 | Testing & Inspection | MH-55-A-3 /MH-55-A-2 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A71010 | Testing & Inspection | MH-55-A-3 /MH-55-A-2 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A71020 | Backfilling & Compaction | MH-55-A-3 /MH-55-A-2 | Task | Completed | 2027-07-06 | 2027-07-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71030 | Excavation | MH-55-A-4 /MH-55-A-3 | Task | Completed | 2026-10-05 | 2026-10-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71040 | Pipe Laying | MH-55-A-4 /MH-55-A-3 | Task | Completed | 2027-01-02 | 2027-01-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71050 | Install Manhole | MH-55-A-4 /MH-55-A-3 | Task | Completed | 2027-01-02 | 2027-01-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71060 | Testing & Inspection | MH-55-A-4 /MH-55-A-3 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 23.3 |
-| A71070 | Backfilling & Compaction | MH-55-A-4 /MH-55-A-3 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 13.3 |
+| A71060 | Testing & Inspection | MH-55-A-4 /MH-55-A-3 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 4.0 |
+| A71070 | Backfilling & Compaction | MH-55-A-4 /MH-55-A-3 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -6.0 |
 | A71080 | Excavation | MH-55-A-5 /MH-55-A-4 | Task | Completed | 2026-09-23 | 2026-10-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71090 | Pipe Laying | MH-55-A-5 /MH-55-A-4 | Task | Completed | 2027-01-02 | 2027-01-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71100 | Install Manhole | MH-55-A-5 /MH-55-A-4 | Task | Completed | 2027-01-02 | 2027-01-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71110 | Testing & Inspection | MH-55-A-5 /MH-55-A-4 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 13.3 |
-| A71120 | Backfilling & Compaction | MH-55-A-5 /MH-55-A-4 | Task | Not Started | 2026-12-21 | 2027-01-02 |  |  | 0 | 13.3 |
+| A71110 | Testing & Inspection | MH-55-A-5 /MH-55-A-4 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -6.0 |
+| A71120 | Backfilling & Compaction | MH-55-A-5 /MH-55-A-4 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -6.0 |
 | A71130 | Excavation | MH-26-10-1 /MH-26-10 | Task | Completed | 2026-10-03 | 2026-10-14 | 2026-09-20 | 2026-09-29 | 100 |  |
 | A71140 | Pipe Laying | MH-26-10-1 /MH-26-10 | Task | Completed | 2026-10-14 | 2026-10-26 | 2026-09-20 | 2026-09-29 | 100 |  |
-| A71150 | Install Manhole | MH-26-10-1 /MH-26-10 | Task | Completed | 2026-10-10 | 2026-10-21 | 2026-09-20 | 2026-09-29 | 100 |  |
-| A71160 | Testing & Inspection | MH-26-10-1 /MH-26-10 | Task | Completed | 2026-10-10 | 2026-10-21 | 2026-09-20 | 2026-09-29 | 100 |  |
-| A71170 | Backfilling & Compaction | MH-26-10-1 /MH-26-10 | Task | Completed | 2026-10-21 | 2026-11-02 | 2026-09-20 | 2026-09-29 | 100 |  |
+| A71150 | Install Manhole | MH-26-10-1 /MH-26-10 | Task | Not Started | 2026-10-03 | 2026-10-14 |  |  | 0 | -93.3 |
+| A71160 | Testing & Inspection | MH-26-10-1 /MH-26-10 | Task | Not Started | 2026-10-03 | 2026-10-14 |  |  | 0 | -93.3 |
+| A71170 | Backfilling & Compaction | MH-26-10-1 /MH-26-10 | Task | Not Started | 2026-10-14 | 2026-10-26 |  |  | 0 | -93.3 |
 | A71180 | Excavation | MH-36-A-13 /MH-36-A-15=2 | Task | Completed | 2026-11-11 | 2026-11-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71190 | Pipe Laying | MH-36-A-13 /MH-36-A-15=2 | Task | Completed | 2027-01-02 | 2027-01-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71200 | Install Manhole | MH-36-A-13 /MH-36-A-15=2 | Task | Completed | 2027-01-02 | 2027-01-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71210 | Testing & Inspection | MH-36-A-13 /MH-36-A-15=2 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | 15.3 |
-| A71220 | Backfilling & Compaction | MH-36-A-13 /MH-36-A-15=2 | Task | Not Started | 2027-01-27 | 2027-02-13 |  |  | 0 | -12.7 |
+| A71210 | Testing & Inspection | MH-36-A-13 /MH-36-A-15=2 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -4.0 |
+| A71220 | Backfilling & Compaction | MH-36-A-13 /MH-36-A-15=2 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -32.0 |
 | A71230 | Excavation | MH-36-A-14 /MH-36-A-13 | Task | Completed | 2026-10-26 | 2026-11-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71240 | Pipe Laying | MH-36-A-14 /MH-36-A-13 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71250 | Install Manhole | MH-36-A-14 /MH-36-A-13 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-09-05 | 2026-09-28 | 100 |  |
@@ -4095,32 +4095,32 @@
 | A71280 | Excavation | MH-36-A-15 /MH-36-A-14 | Task | Completed | 2026-10-10 | 2026-10-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71290 | Pipe Laying | MH-36-A-15 /MH-36-A-14 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71300 | Install Manhole | MH-36-A-15 /MH-36-A-14 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71310 | Testing & Inspection | MH-36-A-15 /MH-36-A-14 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | 1.3 |
-| A71320 | Backfilling & Compaction | MH-36-A-15 /MH-36-A-14 | Task | Not Started | 2027-01-11 | 2027-01-27 |  |  | 0 | -12.7 |
+| A71310 | Testing & Inspection | MH-36-A-15 /MH-36-A-14 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -18.0 |
+| A71320 | Backfilling & Compaction | MH-36-A-15 /MH-36-A-14 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -32.0 |
 | A71330 | Excavation | MH-36-A-16 /MH-36-A-15 | Task | Completed | 2026-09-23 | 2026-10-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71340 | Pipe Laying | MH-36-A-16 /MH-36-A-15 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71350 | Install Manhole | MH-36-A-16 /MH-36-A-15 | Task | Completed | 2027-02-11 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71360 | Testing & Inspection | MH-36-A-16 /MH-36-A-15 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -12.7 |
-| A71370 | Backfilling & Compaction | MH-36-A-16 /MH-36-A-15 | Task | Not Started | 2026-12-26 | 2027-01-11 |  |  | 0 | -12.7 |
+| A71360 | Testing & Inspection | MH-36-A-16 /MH-36-A-15 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -32.0 |
+| A71370 | Backfilling & Compaction | MH-36-A-16 /MH-36-A-15 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -32.0 |
 | A71380 | Excavation | MH-36-A-17 /MH-36-A-16 | Task | Completed | 2026-03-31 | 2026-04-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71390 | Pipe Laying | MH-36-A-17 /MH-36-A-16 | Task | Completed | 2026-12-07 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71400 | Install Manhole | MH-36-A-17 /MH-36-A-16 | Task | Completed | 2026-09-26 | 2026-10-07 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71410 | Testing & Inspection | MH-36-A-17 /MH-36-A-16 | Task | Not Started | 2026-10-10 | 2026-10-21 |  |  | 0 | -90.1 |
-| A71420 | Backfilling & Compaction | MH-36-A-17 /MH-36-A-16 | Task | Not Started | 2026-10-21 | 2026-11-02 |  |  | 0 | -90.1 |
+| A71410 | Testing & Inspection | MH-36-A-17 /MH-36-A-16 | Task | Not Started | 2026-10-03 | 2026-10-14 |  |  | 0 | -84.1 |
+| A71420 | Backfilling & Compaction | MH-36-A-17 /MH-36-A-16 | Task | Not Started | 2026-10-14 | 2026-10-26 |  |  | 0 | -84.1 |
 | A71430 | Excavation | MH-32-A-16-7 /MH-32-A-16-6 | Task | Completed | 2026-11-14 | 2026-11-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71440 | Pipe Laying | MH-32-A-16-7 /MH-32-A-16-6 | Task | Completed | 2026-11-25 | 2026-12-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71450 | Install Manhole | MH-32-A-16-7 /MH-32-A-16-6 | Task | Completed | 2026-11-25 | 2026-12-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71460 | Testing & Inspection | MH-32-A-16-7 /MH-32-A-16-6 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A71460 | Testing & Inspection | MH-32-A-16-7 /MH-32-A-16-6 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A71470 | Backfilling & Compaction | MH-32-A-16-7 /MH-32-A-16-6 | Task | Completed | 2027-07-29 | 2027-08-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71480 | Excavation | MH-32-A-16-6 /MH-32-A-16-5 | Task | Completed | 2026-11-02 | 2026-11-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71490 | Pipe Laying | MH-32-A-16-6 /MH-32-A-16-5 | Task | Completed | 2026-11-14 | 2026-11-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71500 | Install Manhole | MH-32-A-16-6 /MH-32-A-16-5 | Task | Completed | 2026-11-14 | 2026-11-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71510 | Testing & Inspection | MH-32-A-16-6 /MH-32-A-16-5 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A71510 | Testing & Inspection | MH-32-A-16-6 /MH-32-A-16-5 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A71520 | Backfilling & Compaction | MH-32-A-16-6 /MH-32-A-16-5 | Task | Completed | 2027-07-18 | 2027-07-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71530 | Excavation | MH-32-A-16-5 /MH-32-A-16-4 | Task | Completed | 2026-10-21 | 2026-11-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71540 | Pipe Laying | MH-32-A-16-5 /MH-32-A-16-4 | Task | Completed | 2026-11-02 | 2026-11-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71550 | Install Manhole | MH-32-A-16-5 /MH-32-A-16-4 | Task | Completed | 2026-11-02 | 2026-11-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71560 | Testing & Inspection | MH-32-A-16-5 /MH-32-A-16-4 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 33.3 |
+| A71560 | Testing & Inspection | MH-32-A-16-5 /MH-32-A-16-4 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | 14.0 |
 | A71570 | Backfilling & Compaction | MH-32-A-16-5 /MH-32-A-16-4 | Task | Completed | 2027-07-06 | 2027-07-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71580 | Excavation | MH-32-A-16-4 /MH-32-A-16-3 | Task | Completed | 2026-10-10 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71590 | Pipe Laying | MH-32-A-16-4 /MH-32-A-16-3 | Task | Completed | 2026-10-21 | 2026-11-01 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4145,97 +4145,97 @@
 | A71780 | Excavation | MH-32-A-21 /MH-32-A-21-1 | Task | Completed | 2026-12-20 | 2026-12-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71790 | Pipe Laying | MH-32-A-21 /MH-32-A-21-1 | Task | Completed | 2026-12-23 | 2026-12-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71800 | Install Manhole | MH-32-A-21 /MH-32-A-21-1 | Task | Completed | 2026-12-23 | 2026-12-26 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71810 | Testing & Inspection | MH-32-A-21 /MH-32-A-21-1 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 32.3 |
+| A71810 | Testing & Inspection | MH-32-A-21 /MH-32-A-21-1 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -5.0 |
 | A71820 | Backfilling & Compaction | MH-32-A-21 /MH-32-A-21-1 | Task | Completed | 2027-08-18 | 2027-08-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71830 | Excavation | MH-32-A-22 /MH-32-A-21 | Task | Completed | 2026-12-16 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71840 | Pipe Laying | MH-32-A-22 /MH-32-A-21 | Task | Completed | 2026-12-20 | 2026-12-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71850 | Install Manhole | MH-32-A-22 /MH-32-A-21 | Task | Completed | 2026-12-20 | 2026-12-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71860 | Testing & Inspection | MH-32-A-22 /MH-32-A-21 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 32.3 |
+| A71860 | Testing & Inspection | MH-32-A-22 /MH-32-A-21 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -5.0 |
 | A71870 | Backfilling & Compaction | MH-32-A-22 /MH-32-A-21 | Task | Completed | 2027-08-15 | 2027-08-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71880 | Excavation | MH-32-A-23 /MH-32-A-22 | Task | Completed | 2026-12-13 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71890 | Pipe Laying | MH-32-A-23 /MH-32-A-22 | Task | Completed | 2026-12-16 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71900 | Install Manhole | MH-32-A-23 /MH-32-A-22 | Task | Completed | 2026-12-16 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71910 | Testing & Inspection | MH-32-A-23 /MH-32-A-22 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 32.3 |
+| A71910 | Testing & Inspection | MH-32-A-23 /MH-32-A-22 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -5.0 |
 | A71920 | Backfilling & Compaction | MH-32-A-23 /MH-32-A-22 | Task | Completed | 2027-08-11 | 2027-08-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71930 | Excavation | MH-32-A-24 /MH-32-A-23 | Task | Completed | 2026-12-09 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71940 | Pipe Laying | MH-32-A-24 /MH-32-A-23 | Task | Completed | 2026-12-13 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71950 | Install Manhole | MH-32-A-24 /MH-32-A-23 | Task | Completed | 2026-12-13 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A71960 | Testing & Inspection | MH-32-A-24 /MH-32-A-23 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 32.3 |
+| A71960 | Testing & Inspection | MH-32-A-24 /MH-32-A-23 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -5.0 |
 | A71970 | Backfilling & Compaction | MH-32-A-24 /MH-32-A-23 | Task | Completed | 2027-08-08 | 2027-08-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71980 | Excavation | MH-32-A-25 /MH-32-A-24 | Task | Completed | 2026-12-06 | 2026-12-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A71990 | Pipe Laying | MH-32-A-25 /MH-32-A-24 | Task | Completed | 2026-12-09 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72000 | Install Manhole | MH-32-A-25 /MH-32-A-24 | Task | Completed | 2026-12-09 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72010 | Testing & Inspection | MH-32-A-25 /MH-32-A-24 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 32.3 |
+| A72010 | Testing & Inspection | MH-32-A-25 /MH-32-A-24 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -5.0 |
 | A72020 | Backfilling & Compaction | MH-32-A-25 /MH-32-A-24 | Task | Completed | 2027-08-04 | 2027-08-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72030 | Excavation | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | 26.3 |
-| A72040 | Pipe Laying | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 26.3 |
-| A72050 | Install Manhole | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | 29.3 |
-| A72060 | Testing & Inspection | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2026-12-22 | 2026-12-26 |  |  | 0 | 26.3 |
-| A72070 | Backfilling & Compaction | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-02-14 | 2027-02-17 |  |  | 0 | -16.7 |
-| A72080 | Excavation | MH-32-A-27 /MH-32-A-26 | Task | Completed | 2027-01-31 | 2027-02-03 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72090 | Pipe Laying | MH-32-A-27 /MH-32-A-26 | Task | Completed | 2027-02-03 | 2027-02-07 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72100 | Install Manhole | MH-32-A-27 /MH-32-A-26 | Task | Completed | 2027-02-03 | 2027-02-07 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72110 | Testing & Inspection | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | 29.3 |
-| A72120 | Backfilling & Compaction | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-02-10 | 2027-02-14 |  |  | 0 | -16.7 |
-| A72130 | Excavation | MH-A64 /MH-A63 | Task | Completed | 2027-01-27 | 2027-01-31 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72140 | Pipe Laying | MH-A64 /MH-A63 | Task | Completed | 2027-01-31 | 2027-02-03 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72150 | Install Manhole | MH-A64 /MH-A63 | Task | Completed | 2027-01-31 | 2027-02-03 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72160 | Testing & Inspection | MH-A64 /MH-A63 | Task | Not Started | 2026-12-15 | 2026-12-24 |  |  | 0 | 16.3 |
-| A72170 | Backfilling & Compaction | MH-A64 /MH-A63 | Task | Not Started | 2027-02-01 | 2027-02-10 |  |  | 0 | -16.7 |
-| A72180 | Excavation | MH-A63 /MH-A62 | Task | Completed | 2027-01-24 | 2027-01-27 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72190 | Pipe Laying | MH-A63 /MH-A62 | Task | Completed | 2027-01-27 | 2027-01-31 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72200 | Install Manhole | MH-A63 /MH-A62 | Task | Completed | 2027-01-27 | 2027-01-31 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72210 | Testing & Inspection | MH-A63 /MH-A62 | Task | Not Started | 2026-12-15 | 2026-12-24 |  |  | 0 | 8.3 |
-| A72220 | Backfilling & Compaction | MH-A63 /MH-A62 | Task | Not Started | 2027-01-23 | 2027-02-01 |  |  | 0 | -16.7 |
-| A72230 | Excavation | MH-A62 /MH-A61 | Task | Completed | 2027-01-20 | 2027-01-24 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72240 | Pipe Laying | MH-A62 /MH-A61 | Task | Completed | 2027-01-24 | 2027-01-27 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72250 | Install Manhole | MH-A62 /MH-A61 | Task | Completed | 2027-01-24 | 2027-01-27 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72260 | Testing & Inspection | MH-A62 /MH-A61 | Task | Not Started | 2026-12-15 | 2026-12-24 |  |  | 0 | 0.3 |
-| A72270 | Backfilling & Compaction | MH-A62 /MH-A61 | Task | Not Started | 2027-01-13 | 2027-01-23 |  |  | 0 | -16.7 |
-| A72280 | Excavation | MH-A61 /MH-A60 | Task | Completed | 2027-01-17 | 2027-01-20 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72290 | Pipe Laying | MH-A61 /MH-A60 | Task | Completed | 2027-01-20 | 2027-01-24 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72300 | Install Manhole | MH-A61 /MH-A60 | Task | Completed | 2027-01-20 | 2027-01-24 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72310 | Testing & Inspection | MH-A61 /MH-A60 | Task | Not Started | 2026-12-15 | 2026-12-24 |  |  | 0 | -7.7 |
-| A72320 | Backfilling & Compaction | MH-A61 /MH-A60 | Task | Not Started | 2027-01-04 | 2027-01-13 |  |  | 0 | -16.7 |
-| A72330 | Excavation | MH-A60 /MH-A59 | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72340 | Pipe Laying | MH-A60 /MH-A59 | Task | Completed | 2027-01-17 | 2027-01-20 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72350 | Install Manhole | MH-A60 /MH-A59 | Task | Completed | 2027-01-17 | 2027-01-20 | 2026-09-29 | 2026-10-07 | 100 |  |
-| A72360 | Testing & Inspection | MH-A60 /MH-A59 | Task | Not Started | 2026-12-15 | 2026-12-24 |  |  | 0 | -15.7 |
-| A72370 | Backfilling & Compaction | MH-A60 /MH-A59 | Task | Not Started | 2026-12-26 | 2027-01-04 |  |  | 0 | -16.7 |
+| A72030 | Excavation | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-01-28 | 2027-02-01 |  |  | 0 | -11.0 |
+| A72040 | Pipe Laying | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -11.0 |
+| A72050 | Install Manhole | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -8.0 |
+| A72060 | Testing & Inspection | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-02-04 | 2027-02-08 |  |  | 0 | -11.0 |
+| A72070 | Backfilling & Compaction | MH-32-A-26 /MH-32-A-25 | Task | Not Started | 2027-02-08 | 2027-02-11 |  |  | 0 | -11.0 |
+| A72080 | Excavation | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-01-25 | 2027-01-28 |  |  | 0 | -11.0 |
+| A72090 | Pipe Laying | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-01-28 | 2027-02-01 |  |  | 0 | -11.0 |
+| A72100 | Install Manhole | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-01-28 | 2027-02-01 |  |  | 0 | -8.0 |
+| A72110 | Testing & Inspection | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -11.0 |
+| A72120 | Backfilling & Compaction | MH-32-A-27 /MH-32-A-26 | Task | Not Started | 2027-02-04 | 2027-02-08 |  |  | 0 | -11.0 |
+| A72130 | Excavation | MH-A64 /MH-A63 | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | -11.0 |
+| A72140 | Pipe Laying | MH-A64 /MH-A63 | Task | Not Started | 2027-01-25 | 2027-01-28 |  |  | 0 | -11.0 |
+| A72150 | Install Manhole | MH-A64 /MH-A63 | Task | Not Started | 2027-01-25 | 2027-01-28 |  |  | 0 | -8.0 |
+| A72160 | Testing & Inspection | MH-A64 /MH-A63 | Task | Not Started | 2027-01-28 | 2027-02-01 |  |  | 0 | -11.0 |
+| A72170 | Backfilling & Compaction | MH-A64 /MH-A63 | Task | Not Started | 2027-02-01 | 2027-02-04 |  |  | 0 | -11.0 |
+| A72180 | Excavation | MH-A63 /MH-A62 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | -11.0 |
+| A72190 | Pipe Laying | MH-A63 /MH-A62 | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | -11.0 |
+| A72200 | Install Manhole | MH-A63 /MH-A62 | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | -8.0 |
+| A72210 | Testing & Inspection | MH-A63 /MH-A62 | Task | Not Started | 2027-01-25 | 2027-01-28 |  |  | 0 | -11.0 |
+| A72220 | Backfilling & Compaction | MH-A63 /MH-A62 | Task | Not Started | 2027-01-28 | 2027-02-01 |  |  | 0 | -11.0 |
+| A72230 | Excavation | MH-A62 /MH-A61 | Task | Not Started | 2027-01-14 | 2027-01-18 |  |  | 0 | -11.0 |
+| A72240 | Pipe Laying | MH-A62 /MH-A61 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | -11.0 |
+| A72250 | Install Manhole | MH-A62 /MH-A61 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | -8.0 |
+| A72260 | Testing & Inspection | MH-A62 /MH-A61 | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | -11.0 |
+| A72270 | Backfilling & Compaction | MH-A62 /MH-A61 | Task | Not Started | 2027-01-25 | 2027-01-28 |  |  | 0 | -11.0 |
+| A72280 | Excavation | MH-A61 /MH-A60 | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | -11.0 |
+| A72290 | Pipe Laying | MH-A61 /MH-A60 | Task | Not Started | 2027-01-14 | 2027-01-18 |  |  | 0 | -11.0 |
+| A72300 | Install Manhole | MH-A61 /MH-A60 | Task | Not Started | 2027-01-14 | 2027-01-18 |  |  | 0 | -8.0 |
+| A72310 | Testing & Inspection | MH-A61 /MH-A60 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | -11.0 |
+| A72320 | Backfilling & Compaction | MH-A61 /MH-A60 | Task | Not Started | 2027-01-21 | 2027-01-25 |  |  | 0 | -11.0 |
+| A72330 | Excavation | MH-A60 /MH-A59 | Task | Not Started | 2027-01-07 | 2027-01-11 |  |  | 0 | -11.0 |
+| A72340 | Pipe Laying | MH-A60 /MH-A59 | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | -11.0 |
+| A72350 | Install Manhole | MH-A60 /MH-A59 | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | -8.0 |
+| A72360 | Testing & Inspection | MH-A60 /MH-A59 | Task | Not Started | 2027-01-14 | 2027-01-18 |  |  | 0 | -11.0 |
+| A72370 | Backfilling & Compaction | MH-A60 /MH-A59 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | -11.0 |
 | A72380 | Excavation | MH-A59 /MH-A58 | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72390 | Pipe Laying | MH-A59 /MH-A58 | Task | Completed | 2026-11-11 | 2026-11-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72400 | Install Manhole | MH-A59 /MH-A58 | Task | Completed | 2026-11-11 | 2026-11-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72410 | Testing & Inspection | MH-A59 /MH-A58 | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | -10.7 |
+| A72410 | Testing & Inspection | MH-A59 /MH-A58 | Task | Not Started | 2027-01-07 | 2027-01-11 |  |  | 0 | -5.0 |
 | A72420 | Backfilling & Compaction | MH-A59 /MH-A58 | Task | Completed | 2027-07-07 | 2027-07-11 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72430 | Excavation | MH-A58 /MH-A57 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | -16.7 |
-| A72440 | Pipe Laying | MH-A58 /MH-A57 | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | -16.7 |
-| A72450 | Install Manhole | MH-A58 /MH-A57 | Task | Not Started | 2026-12-15 | 2026-12-19 |  |  | 0 | -13.7 |
-| A72460 | Testing & Inspection | MH-A58 /MH-A57 | Task | Not Started | 2026-12-19 | 2026-12-22 |  |  | 0 | -16.7 |
-| A72470 | Backfilling & Compaction | MH-A58 /MH-A57 | Task | Not Started | 2026-12-22 | 2026-12-26 |  |  | 0 | -16.7 |
+| A72430 | Excavation | MH-A58 /MH-A57 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | -11.0 |
+| A72440 | Pipe Laying | MH-A58 /MH-A57 | Task | Not Started | 2027-01-07 | 2027-01-11 |  |  | 0 | -11.0 |
+| A72450 | Install Manhole | MH-A58 /MH-A57 | Task | Not Started | 2027-01-07 | 2027-01-11 |  |  | 0 | -8.0 |
+| A72460 | Testing & Inspection | MH-A58 /MH-A57 | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | -11.0 |
+| A72470 | Backfilling & Compaction | MH-A58 /MH-A57 | Task | Not Started | 2027-01-14 | 2027-01-18 |  |  | 0 | -11.0 |
 | A72480 | Excavation | MH-A57 /MH-A56 | Task | Completed | 2027-01-05 | 2027-01-09 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A72490 | Pipe Laying | MH-A57 /MH-A56 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A72500 | Install Manhole | MH-A57 /MH-A56 | Task | Completed | 2027-01-09 | 2027-01-12 | 2026-09-26 | 2026-10-01 | 100 |  |
-| A72510 | Testing & Inspection | MH-A57 /MH-A56 | Task | Not Started | 2026-12-12 | 2026-12-19 |  |  | 0 | -13.7 |
+| A72510 | Testing & Inspection | MH-A57 /MH-A56 | Task | Not Started | 2027-01-04 | 2027-01-11 |  |  | 0 | -8.0 |
 | A72520 | Backfilling & Compaction | MH-A57 /MH-A56 | Task | Completed | 2027-01-16 | 2027-01-19 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A72530 | Excavation | MH-A56 /MH-A55 | Task | Completed | 2026-10-28 | 2026-10-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72540 | Pipe Laying | MH-A56 /MH-A55 | Task | Completed | 2026-11-01 | 2026-11-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72550 | Install Manhole | MH-A56 /MH-A55 | Task | Completed | 2026-11-01 | 2026-11-03 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72560 | Testing & Inspection | MH-A56 /MH-A55 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | 43.3 |
+| A72560 | Testing & Inspection | MH-A56 /MH-A55 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | 24.0 |
 | A72570 | Backfilling & Compaction | MH-A56 /MH-A55 | Task | Completed | 2027-06-27 | 2027-06-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72580 | Excavation | MH-A55 /MH-A54 | Task | Completed | 2026-10-25 | 2026-10-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72590 | Pipe Laying | MH-A55 /MH-A54 | Task | Completed | 2026-10-28 | 2026-10-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72600 | Install Manhole | MH-A55 /MH-A54 | Task | Completed | 2026-10-28 | 2026-10-31 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72610 | Testing & Inspection | MH-A55 /MH-A54 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | 43.3 |
+| A72610 | Testing & Inspection | MH-A55 /MH-A54 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | 24.0 |
 | A72620 | Backfilling & Compaction | MH-A55 /MH-A54 | Task | Completed | 2027-06-23 | 2027-06-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72630 | Excavation | MH-A54 /MH-A53 | Task | Completed | 2026-10-21 | 2026-10-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72640 | Pipe Laying | MH-A54 /MH-A53 | Task | Completed | 2026-10-25 | 2026-10-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72650 | Install Manhole | MH-A54 /MH-A53 | Task | Completed | 2026-10-25 | 2026-10-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72660 | Testing & Inspection | MH-A54 /MH-A53 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | 43.3 |
+| A72660 | Testing & Inspection | MH-A54 /MH-A53 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | 24.0 |
 | A72670 | Backfilling & Compaction | MH-A54 /MH-A53 | Task | Completed | 2027-06-20 | 2027-06-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72680 | Excavation | MH-A53 /MH-A52 | Task | Completed | 2026-10-18 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72690 | Pipe Laying | MH-A53 /MH-A52 | Task | Completed | 2026-10-21 | 2026-10-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72700 | Install Manhole | MH-A53 /MH-A52 | Task | Completed | 2026-10-21 | 2026-10-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72710 | Testing & Inspection | MH-A53 /MH-A52 | Task | Not Started | 2026-12-12 | 2026-12-15 |  |  | 0 | 43.3 |
+| A72710 | Testing & Inspection | MH-A53 /MH-A52 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | 24.0 |
 | A72720 | Backfilling & Compaction | MH-A53 /MH-A52 | Task | Completed | 2027-06-16 | 2027-06-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72730 | Excavation | MH-A52 /MH-A51 | Task | Completed | 2026-10-14 | 2026-10-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72740 | Pipe Laying | MH-A52 /MH-A51 | Task | Completed | 2026-10-18 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4257,11 +4257,11 @@
 | A72900 | Install Manhole | MH-A49 /MH-A48 | Task | Completed | 2026-10-07 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72910 | Testing & Inspection | MH-A49 /MH-A48 | Task | Completed | 2027-05-23 | 2027-05-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72920 | Backfilling & Compaction | MH-A49 /MH-A48 | Task | Completed | 2027-06-02 | 2027-06-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72930 | Excavation | MH-A45 /MH-A44 | Task | Not Started | 2026-12-09 | 2026-12-12 |  |  | 0 | -16.7 |
-| A72940 | Pipe Laying | MH-A45 /MH-A44 | Task | Not Started | 2026-12-12 | 2026-12-14 |  |  | 0 | 1.3 |
-| A72950 | Install Manhole | MH-A45 /MH-A44 | Task | Not Started | 2026-12-12 | 2026-12-14 |  |  | 0 | 3.3 |
-| A72960 | Testing & Inspection | MH-A45 /MH-A44 | Task | Not Started | 2026-12-14 | 2026-12-16 |  |  | 0 | 1.3 |
-| A72970 | Backfilling & Compaction | MH-A45 /MH-A44 | Task | Not Started | 2026-12-16 | 2026-12-19 |  |  | 0 | 1.3 |
+| A72930 | Excavation | MH-A45 /MH-A44 | Task | Not Started | 2027-01-02 | 2027-01-04 |  |  | 0 | -18.0 |
+| A72940 | Pipe Laying | MH-A45 /MH-A44 | Task | Not Started | 2027-01-04 | 2027-01-06 |  |  | 0 | -18.0 |
+| A72950 | Install Manhole | MH-A45 /MH-A44 | Task | Not Started | 2027-01-04 | 2027-01-06 |  |  | 0 | -16.0 |
+| A72960 | Testing & Inspection | MH-A45 /MH-A44 | Task | Not Started | 2027-01-06 | 2027-01-09 |  |  | 0 | -18.0 |
+| A72970 | Backfilling & Compaction | MH-A45 /MH-A44 | Task | Not Started | 2027-01-09 | 2027-01-11 |  |  | 0 | -18.0 |
 | A72980 | Excavation | MH-A46 /MH-A45 | Task | Completed | 2026-09-26 | 2026-09-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A72990 | Pipe Laying | MH-A46 /MH-A45 | Task | Completed | 2026-09-28 | 2026-09-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73000 | Install Manhole | MH-A46 /MH-A45 | Task | Completed | 2026-09-28 | 2026-09-29 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4280,102 +4280,102 @@
 | A73130 | Excavation | MH-32-A-12-8 /MH-32-A-12-7 | Task | Completed | 2026-12-16 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73140 | Pipe Laying | MH-32-A-12-8 /MH-32-A-12-7 | Task | Completed | 2026-12-21 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73150 | Install Manhole | MH-32-A-12-8 /MH-32-A-12-7 | Task | Completed | 2026-12-21 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73160 | Testing & Inspection | MH-32-A-12-8 /MH-32-A-12-7 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
-| A73170 | Backfilling & Compaction | MH-32-A-12-8 /MH-32-A-12-7 | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | 28.3 |
+| A73160 | Testing & Inspection | MH-32-A-12-8 /MH-32-A-12-7 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
+| A73170 | Backfilling & Compaction | MH-32-A-12-8 /MH-32-A-12-7 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | 9.0 |
 | A73180 | Excavation | MH-32-A-12-7 /MH-32-A-12-6 | Task | Completed | 2026-12-12 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73190 | Pipe Laying | MH-32-A-12-7 /MH-32-A-12-6 | Task | Completed | 2026-12-16 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73200 | Install Manhole | MH-32-A-12-7 /MH-32-A-12-6 | Task | Completed | 2026-12-16 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73210 | Testing & Inspection | MH-32-A-12-7 /MH-32-A-12-6 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73210 | Testing & Inspection | MH-32-A-12-7 /MH-32-A-12-6 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73220 | Backfilling & Compaction | MH-32-A-12-7 /MH-32-A-12-6 | Task | Completed | 2027-08-10 | 2027-08-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73230 | Excavation | MH-32-A-12-6 /MH-32-A-12-5 | Task | Completed | 2026-12-07 | 2026-12-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73240 | Pipe Laying | MH-32-A-12-6 /MH-32-A-12-5 | Task | Completed | 2026-12-12 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73250 | Install Manhole | MH-32-A-12-6 /MH-32-A-12-5 | Task | Completed | 2026-12-12 | 2026-12-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73260 | Testing & Inspection | MH-32-A-12-6 /MH-32-A-12-5 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73260 | Testing & Inspection | MH-32-A-12-6 /MH-32-A-12-5 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73270 | Backfilling & Compaction | MH-32-A-12-6 /MH-32-A-12-5 | Task | Completed | 2027-08-05 | 2027-08-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73280 | Excavation | MH-32-A-12-5 /MH-32-A-12-6 | Task | Completed | 2026-12-02 | 2026-12-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73290 | Pipe Laying | MH-32-A-12-5 /MH-32-A-12-6 | Task | Completed | 2026-12-07 | 2026-12-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73300 | Install Manhole | MH-32-A-12-5 /MH-32-A-12-6 | Task | Completed | 2026-12-07 | 2026-12-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73310 | Testing & Inspection | MH-32-A-12-5 /MH-32-A-12-6 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73310 | Testing & Inspection | MH-32-A-12-5 /MH-32-A-12-6 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73320 | Backfilling & Compaction | MH-32-A-12-5 /MH-32-A-12-6 | Task | Completed | 2027-08-01 | 2027-08-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73330 | Excavation | MH-32-A-12-4 /MH-32-A-12-3 | Task | Completed | 2026-11-28 | 2026-12-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73340 | Pipe Laying | MH-32-A-12-4 /MH-32-A-12-3 | Task | Completed | 2026-12-02 | 2026-12-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73350 | Install Manhole | MH-32-A-12-4 /MH-32-A-12-3 | Task | Completed | 2026-12-02 | 2026-12-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73360 | Testing & Inspection | MH-32-A-12-4 /MH-32-A-12-3 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73360 | Testing & Inspection | MH-32-A-12-4 /MH-32-A-12-3 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73370 | Backfilling & Compaction | MH-32-A-12-4 /MH-32-A-12-3 | Task | Completed | 2027-07-27 | 2027-08-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73380 | Excavation | MH-32-A-12-3 /MH-32-A-12-2 | Task | Completed | 2026-11-23 | 2026-11-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73390 | Pipe Laying | MH-32-A-12-3 /MH-32-A-12-2 | Task | Completed | 2026-11-28 | 2026-12-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73400 | Install Manhole | MH-32-A-12-3 /MH-32-A-12-2 | Task | Completed | 2026-11-28 | 2026-12-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73410 | Testing & Inspection | MH-32-A-12-3 /MH-32-A-12-2 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73410 | Testing & Inspection | MH-32-A-12-3 /MH-32-A-12-2 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73420 | Backfilling & Compaction | MH-32-A-12-3 /MH-32-A-12-2 | Task | Completed | 2027-07-22 | 2027-07-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73430 | Excavation | MH-32-A-12-2 /MH-32-A-12-1 | Task | Completed | 2026-11-18 | 2026-11-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73440 | Pipe Laying | MH-32-A-12-2 /MH-32-A-12-1 | Task | Completed | 2026-11-23 | 2026-11-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73450 | Install Manhole | MH-32-A-12-2 /MH-32-A-12-1 | Task | Completed | 2026-11-23 | 2026-11-26 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73460 | Testing & Inspection | MH-32-A-12-2 /MH-32-A-12-1 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73460 | Testing & Inspection | MH-32-A-12-2 /MH-32-A-12-1 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73470 | Backfilling & Compaction | MH-32-A-12-2 /MH-32-A-12-1 | Task | Completed | 2027-07-18 | 2027-07-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73480 | Excavation | MH-32-A-12-1 /MH-32-A-12 | Task | Completed | 2026-11-14 | 2026-11-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73490 | Pipe Laying | MH-32-A-12-1 /MH-32-A-12 | Task | Completed | 2026-11-18 | 2026-11-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73500 | Install Manhole | MH-32-A-12-1 /MH-32-A-12 | Task | Completed | 2026-11-18 | 2026-11-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73510 | Testing & Inspection | MH-32-A-12-1 /MH-32-A-12 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73510 | Testing & Inspection | MH-32-A-12-1 /MH-32-A-12 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73520 | Backfilling & Compaction | MH-32-A-12-1 /MH-32-A-12 | Task | Completed | 2027-07-13 | 2027-07-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73530 | Excavation | MH-32-A-12 /MH-32-A-11 | Task | Completed | 2026-11-09 | 2026-11-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73540 | Pipe Laying | MH-32-A-12 /MH-32-A-11 | Task | Completed | 2026-11-14 | 2026-11-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73550 | Install Manhole | MH-32-A-12 /MH-32-A-11 | Task | Completed | 2026-11-14 | 2026-11-17 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73560 | Testing & Inspection | MH-32-A-12 /MH-32-A-11 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 36.3 |
+| A73560 | Testing & Inspection | MH-32-A-12 /MH-32-A-11 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 17.0 |
 | A73570 | Backfilling & Compaction | MH-32-A-12 /MH-32-A-11 | Task | Completed | 2027-07-08 | 2027-07-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73580 | Excavation | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 28.3 |
-| A73590 | Pipe Laying | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 28.3 |
-| A73600 | Install Manhole | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2026-12-14 | 2026-12-19 |  |  | 0 | 32.3 |
-| A73610 | Testing & Inspection | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2026-12-19 | 2026-12-23 |  |  | 0 | 28.3 |
-| A73620 | Backfilling & Compaction | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2026-12-23 | 2026-12-28 |  |  | 0 | 28.3 |
+| A73580 | Excavation | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 9.0 |
+| A73590 | Pipe Laying | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 9.0 |
+| A73600 | Install Manhole | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2027-01-06 | 2027-01-11 |  |  | 0 | 13.0 |
+| A73610 | Testing & Inspection | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | 9.0 |
+| A73620 | Backfilling & Compaction | MH-32-A-11 /MH-32A-10 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | 9.0 |
 | A73630 | Excavation | MH-32-A-10 /MH-32A-09 | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73640 | Pipe Laying | MH-32-A-10 /MH-32A-09 | Task | Completed | 2026-11-04 | 2026-11-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73650 | Install Manhole | MH-32-A-10 /MH-32A-09 | Task | Completed | 2026-11-04 | 2026-11-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73660 | Testing & Inspection | MH-32-A-10 /MH-32A-09 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73660 | Testing & Inspection | MH-32-A-10 /MH-32A-09 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73670 | Backfilling & Compaction | MH-32-A-10 /MH-32A-09 | Task | Completed | 2027-06-29 | 2027-07-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73680 | Excavation | MH-32-A-09 /MH-32A-08 | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73690 | Pipe Laying | MH-32-A-09 /MH-32A-08 | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73700 | Install Manhole | MH-32-A-09 /MH-32A-08 | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73710 | Testing & Inspection | MH-32-A-09 /MH-32A-08 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73710 | Testing & Inspection | MH-32-A-09 /MH-32A-08 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73720 | Backfilling & Compaction | MH-32-A-09 /MH-32A-08 | Task | Completed | 2027-06-24 | 2027-06-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73730 | Excavation | MH-32-A-08 /MH-32A-07 | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73740 | Pipe Laying | MH-32-A-08 /MH-32A-07 | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73750 | Install Manhole | MH-32-A-08 /MH-32A-07 | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73760 | Testing & Inspection | MH-32-A-08 /MH-32A-07 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73760 | Testing & Inspection | MH-32-A-08 /MH-32A-07 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73770 | Backfilling & Compaction | MH-32-A-08 /MH-32A-07 | Task | Completed | 2027-06-20 | 2027-06-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73780 | Excavation | MH-32-A-07 /MH-32A-06 | Task | Completed | 2026-10-17 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73790 | Pipe Laying | MH-32-A-07 /MH-32A-06 | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73800 | Install Manhole | MH-32-A-07 /MH-32A-06 | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73810 | Testing & Inspection | MH-32-A-07 /MH-32A-06 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73810 | Testing & Inspection | MH-32-A-07 /MH-32A-06 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73820 | Backfilling & Compaction | MH-32-A-07 /MH-32A-06 | Task | Completed | 2027-06-15 | 2027-06-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73830 | Excavation | MH-32-A-06 /MH-32A-05 | Task | Completed | 2026-10-12 | 2026-10-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73840 | Pipe Laying | MH-32-A-06 /MH-32A-05 | Task | Completed | 2026-10-17 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73850 | Install Manhole | MH-32-A-06 /MH-32A-05 | Task | Completed | 2026-10-17 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73860 | Testing & Inspection | MH-32-A-06 /MH-32A-05 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73860 | Testing & Inspection | MH-32-A-06 /MH-32A-05 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73870 | Backfilling & Compaction | MH-32-A-06 /MH-32A-05 | Task | Completed | 2027-06-10 | 2027-06-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73880 | Excavation | MH-32-A-05 /MH-32A-04 | Task | Completed | 2026-10-07 | 2026-10-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73890 | Pipe Laying | MH-32-A-05 /MH-32A-04 | Task | Completed | 2026-10-12 | 2026-10-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73900 | Install Manhole | MH-32-A-05 /MH-32A-04 | Task | Completed | 2026-10-12 | 2026-10-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73910 | Testing & Inspection | MH-32-A-05 /MH-32A-04 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73910 | Testing & Inspection | MH-32-A-05 /MH-32A-04 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73920 | Backfilling & Compaction | MH-32-A-05 /MH-32A-04 | Task | Completed | 2027-06-06 | 2027-06-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73930 | Excavation | MH-32-A-04 /MH-32A-03 | Task | Completed | 2026-10-03 | 2026-10-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73940 | Pipe Laying | MH-32-A-04 /MH-32A-03 | Task | Completed | 2026-10-07 | 2026-10-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73950 | Install Manhole | MH-32-A-04 /MH-32A-03 | Task | Completed | 2026-10-07 | 2026-10-11 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A73960 | Testing & Inspection | MH-32-A-04 /MH-32A-03 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A73960 | Testing & Inspection | MH-32-A-04 /MH-32A-03 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A73970 | Backfilling & Compaction | MH-32-A-04 /MH-32A-03 | Task | Completed | 2027-06-01 | 2027-06-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73980 | Excavation | MH-32A-03 /MH-32A-02 | Task | Completed | 2026-09-28 | 2026-10-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A73990 | Pipe Laying | MH-32A-03 /MH-32A-02 | Task | Completed | 2026-10-03 | 2026-10-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74000 | Install Manhole | MH-32A-03 /MH-32A-02 | Task | Completed | 2026-10-03 | 2026-10-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74010 | Testing & Inspection | MH-32A-03 /MH-32A-02 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 36.3 |
+| A74010 | Testing & Inspection | MH-32A-03 /MH-32A-02 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 17.0 |
 | A74020 | Backfilling & Compaction | MH-32A-03 /MH-32A-02 | Task | Completed | 2027-05-27 | 2027-06-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74030 | Excavation | MH-32A-02 /MH-32A-01 | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74040 | Pipe Laying | MH-32A-02 /MH-32A-01 | Task | Completed | 2026-09-28 | 2026-10-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74050 | Install Manhole | MH-32A-02 /MH-32A-01 | Task | Completed | 2026-09-28 | 2026-10-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74060 | Testing & Inspection | MH-32A-02 /MH-32A-01 | Task | Not Started | 2026-12-09 | 2026-12-12 |  |  | 0 | 38.3 |
+| A74060 | Testing & Inspection | MH-32A-02 /MH-32A-01 | Task | Not Started | 2027-01-02 | 2027-01-04 |  |  | 0 | 19.0 |
 | A74070 | Backfilling & Compaction | MH-32A-02 /MH-32A-01 | Task | Completed | 2027-05-23 | 2027-05-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74080 | Excavation | MH-32-01 /MH-32A | Task | Completed | 2026-03-10 | 2026-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74090 | Pipe Laying | MH-32-01 /MH-32A | Task | Completed | 2026-03-22 | 2026-03-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74100 | Install Manhole | MH-32-01 /MH-32A | Task | Completed | 2026-03-22 | 2026-03-25 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74110 | Testing & Inspection | MH-32-01 /MH-32A | Task | Not Started | 2026-10-10 | 2026-10-21 |  |  | 0 | 41.2 |
+| A74110 | Testing & Inspection | MH-32-01 /MH-32A | Task | Not Started | 2026-10-03 | 2026-10-14 |  |  | 0 | 45.2 |
 | A74120 | Backfilling & Compaction | MH-32-01 /MH-32A | Task | Completed | 2026-12-15 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74130 | Excavation | MH-32-A-21 /MH-32-A-20 | Task | Completed | 2026-12-03 | 2026-12-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74140 | Pipe Laying | MH-32-A-21 /MH-32-A-20 | Task | Completed | 2026-12-15 | 2026-12-26 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4383,99 +4383,99 @@
 | A74160 | Testing & Inspection | MH-32-A-21 /MH-32-A-20 | Task | Completed | 2026-11-21 | 2026-12-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74170 | Backfilling & Compaction | MH-32-A-21 /MH-32-A-20 | Task | Completed | 2026-12-02 | 2026-12-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74180 | Excavation | MH-32-A-20 /MH-32-A-19 | Task | Completed | 2026-11-22 | 2026-12-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74190 | Pipe Laying | MH-32-A-20 /MH-32-A-19 | Task | In Progress | 2026-12-03 | 2026-12-14 | 2026-09-05 |  | 0 | 51 |
-| A74200 | Install Manhole | MH-32-A-20 /MH-32-A-19 | Task | In Progress | 2026-12-03 | 2026-12-14 | 2026-09-05 |  | 0 | 61 |
-| A74210 | Testing & Inspection | MH-32-A-20 /MH-32-A-19 | Task | Not Started | 2026-11-08 | 2026-11-18 |  |  | 0 | 51 |
-| A74220 | Backfilling & Compaction | MH-32-A-20 /MH-32-A-19 | Task | Not Started | 2026-11-19 | 2026-11-30 |  |  | 0 | 51 |
+| A74190 | Pipe Laying | MH-32-A-20 /MH-32-A-19 | Task | In Progress | 2026-12-03 | 2026-12-14 | 2026-09-05 |  | 0 | 57 |
+| A74200 | Install Manhole | MH-32-A-20 /MH-32-A-19 | Task | In Progress | 2026-12-03 | 2026-12-14 | 2026-09-05 |  | 0 | 67 |
+| A74210 | Testing & Inspection | MH-32-A-20 /MH-32-A-19 | Task | Not Started | 2026-11-01 | 2026-11-11 |  |  | 0 | 57 |
+| A74220 | Backfilling & Compaction | MH-32-A-20 /MH-32-A-19 | Task | Not Started | 2026-11-12 | 2026-11-23 |  |  | 0 | 57 |
 | A74230 | Excavation | MH-32-A-19 /MH-32-A-18 | Task | Completed | 2026-11-10 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74240 | Pipe Laying | MH-32-A-19 /MH-32-A-18 | Task | Completed | 2026-11-22 | 2026-12-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74250 | Install Manhole | MH-32-A-19 /MH-32-A-18 | Task | Completed | 2026-11-22 | 2026-12-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74260 | Testing & Inspection | MH-32-A-19 /MH-32-A-18 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74260 | Testing & Inspection | MH-32-A-19 /MH-32-A-18 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74270 | Backfilling & Compaction | MH-32-A-19 /MH-32-A-18 | Task | Completed | 2027-09-07 | 2027-09-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74280 | Excavation | MH-32-A-18 /MH-32-A-17 | Task | Completed | 2026-10-29 | 2026-11-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74290 | Pipe Laying | MH-32-A-18 /MH-32-A-17 | Task | Completed | 2026-11-10 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74300 | Install Manhole | MH-32-A-18 /MH-32-A-17 | Task | Completed | 2026-11-10 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74310 | Testing & Inspection | MH-32-A-18 /MH-32-A-17 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74310 | Testing & Inspection | MH-32-A-18 /MH-32-A-17 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74320 | Backfilling & Compaction | MH-32-A-18 /MH-32-A-17 | Task | Completed | 2027-08-26 | 2027-09-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74330 | Excavation | MH-32-A-17 /MH-32-A-16 | Task | Completed | 2026-10-18 | 2026-10-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74340 | Pipe Laying | MH-32-A-17 /MH-32-A-16 | Task | Completed | 2026-10-29 | 2026-11-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74350 | Install Manhole | MH-32-A-17 /MH-32-A-16 | Task | Completed | 2026-10-29 | 2026-11-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74360 | Testing & Inspection | MH-32-A-17 /MH-32-A-16 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74360 | Testing & Inspection | MH-32-A-17 /MH-32-A-16 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74370 | Backfilling & Compaction | MH-32-A-17 /MH-32-A-16 | Task | Completed | 2027-08-15 | 2027-08-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74380 | Excavation | MH-32-A-16 /MH-32-A-15 | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74390 | Pipe Laying | MH-32-A-16 /MH-32-A-15 | Task | Completed | 2026-10-18 | 2026-10-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74400 | Install Manhole | MH-32-A-16 /MH-32-A-15 | Task | Completed | 2026-10-18 | 2026-10-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74410 | Testing & Inspection | MH-32-A-16 /MH-32-A-15 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74410 | Testing & Inspection | MH-32-A-16 /MH-32-A-15 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74420 | Backfilling & Compaction | MH-32-A-16 /MH-32-A-15 | Task | Completed | 2027-08-03 | 2027-08-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74430 | Excavation | MH-32-A-15 /MH-32-A-14 | Task | Completed | 2026-09-24 | 2026-10-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74440 | Pipe Laying | MH-32-A-15 /MH-32-A-14 | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74450 | Install Manhole | MH-32-A-15 /MH-32-A-14 | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74460 | Testing & Inspection | MH-32-A-15 /MH-32-A-14 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74460 | Testing & Inspection | MH-32-A-15 /MH-32-A-14 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74470 | Backfilling & Compaction | MH-32-A-15 /MH-32-A-14 | Task | Completed | 2027-07-22 | 2027-08-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74480 | Excavation | MH-36-A-12 /MH-36-A-11 | Task | Completed | 2026-09-13 | 2026-09-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74490 | Pipe Laying | MH-36-A-12 /MH-36-A-11 | Task | Completed | 2026-09-24 | 2026-10-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74500 | Install Manhole | MH-36-A-12 /MH-36-A-11 | Task | Completed | 2026-09-24 | 2026-10-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74510 | Testing & Inspection | MH-36-A-12 /MH-36-A-11 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74510 | Testing & Inspection | MH-36-A-12 /MH-36-A-11 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74520 | Backfilling & Compaction | MH-36-A-12 /MH-36-A-11 | Task | Completed | 2027-07-11 | 2027-07-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74530 | Excavation | MH-36-A-11 /MH-36-A-10 | Task | Completed | 2026-09-01 | 2026-09-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74540 | Pipe Laying | MH-36-A-11 /MH-36-A-10 | Task | Completed | 2026-09-13 | 2026-09-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74550 | Install Manhole | MH-36-A-11 /MH-36-A-10 | Task | Completed | 2026-09-13 | 2026-09-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74560 | Testing & Inspection | MH-36-A-11 /MH-36-A-10 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74560 | Testing & Inspection | MH-36-A-11 /MH-36-A-10 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74570 | Backfilling & Compaction | MH-36-A-11 /MH-36-A-10 | Task | Completed | 2027-07-06 | 2027-07-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74580 | Excavation | MH-36-A-1 /MH-36 | Task | Completed | 2026-05-07 | 2026-05-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74590 | Pipe Laying | MH-36-A-1 /MH-36 | Task | Completed | 2026-05-19 | 2026-05-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74600 | Install Manhole | MH-36-A-1 /MH-36 | Task | Completed | 2026-05-19 | 2026-05-30 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74610 | Testing & Inspection | MH-36-A-1 /MH-36 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 19.4 |
+| A74610 | Testing & Inspection | MH-36-A-1 /MH-36 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 22.5 |
 | A74620 | Backfilling & Compaction | MH-36-A-1 /MH-36 | Task | Completed | 2027-03-23 | 2027-04-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74630 | Excavation | MH-36-A-2 /MH-36-A-1 | Task | Completed | 2026-05-19 | 2026-05-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74640 | Pipe Laying | MH-36-A-2 /MH-36-A-1 | Task | Completed | 2026-05-31 | 2026-06-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74650 | Install Manhole | MH-36-A-2 /MH-36-A-1 | Task | Completed | 2026-05-31 | 2026-06-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74660 | Testing & Inspection | MH-36-A-2 /MH-36-A-1 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74660 | Testing & Inspection | MH-36-A-2 /MH-36-A-1 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74670 | Backfilling & Compaction | MH-36-A-2 /MH-36-A-1 | Task | Completed | 2027-03-23 | 2027-04-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74680 | Excavation | MH-36-A-3 /MH-36-A-2 | Task | Completed | 2026-05-31 | 2026-06-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74690 | Pipe Laying | MH-36-A-3 /MH-36-A-2 | Task | Completed | 2026-06-11 | 2026-06-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74700 | Install Manhole | MH-36-A-3 /MH-36-A-2 | Task | Completed | 2026-06-11 | 2026-06-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74710 | Testing & Inspection | MH-36-A-3 /MH-36-A-2 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74710 | Testing & Inspection | MH-36-A-3 /MH-36-A-2 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74720 | Backfilling & Compaction | MH-36-A-3 /MH-36-A-2 | Task | Completed | 2027-04-04 | 2027-04-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74730 | Excavation | MH-36-A-4 /MH-36-A-3 | Task | Completed | 2026-06-11 | 2026-06-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74740 | Pipe Laying | MH-36-A-4 /MH-36-A-3 | Task | Completed | 2026-06-23 | 2026-07-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74750 | Install Manhole | MH-36-A-4 /MH-36-A-3 | Task | Completed | 2026-06-23 | 2026-07-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74760 | Testing & Inspection | MH-36-A-4 /MH-36-A-3 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74760 | Testing & Inspection | MH-36-A-4 /MH-36-A-3 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74770 | Backfilling & Compaction | MH-36-A-4 /MH-36-A-3 | Task | Completed | 2027-04-15 | 2027-04-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74780 | Excavation | MH-36-A-5 /MH-36-A-4 | Task | Completed | 2026-06-23 | 2026-07-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74790 | Pipe Laying | MH-36-A-5 /MH-36-A-4 | Task | Completed | 2026-07-05 | 2026-07-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74800 | Install Manhole | MH-36-A-5 /MH-36-A-4 | Task | Completed | 2026-07-05 | 2026-07-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74810 | Testing & Inspection | MH-36-A-5 /MH-36-A-4 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74810 | Testing & Inspection | MH-36-A-5 /MH-36-A-4 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74820 | Backfilling & Compaction | MH-36-A-5 /MH-36-A-4 | Task | Completed | 2027-04-27 | 2027-05-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74830 | Excavation | MH-36-A-6 /MH-36-A-5 | Task | Completed | 2026-07-05 | 2026-07-15 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74840 | Pipe Laying | MH-36-A-6 /MH-36-A-5 | Task | Completed | 2026-07-16 | 2026-07-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74850 | Install Manhole | MH-36-A-6 /MH-36-A-5 | Task | Completed | 2026-07-16 | 2026-07-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74860 | Testing & Inspection | MH-36-A-6 /MH-36-A-5 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74860 | Testing & Inspection | MH-36-A-6 /MH-36-A-5 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74870 | Backfilling & Compaction | MH-36-A-6 /MH-36-A-5 | Task | Completed | 2027-05-09 | 2027-05-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74880 | Excavation | MH-36-A-7 /MH-36-A-6 | Task | Completed | 2026-07-16 | 2026-07-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74890 | Pipe Laying | MH-36-A-7 /MH-36-A-6 | Task | Completed | 2026-07-28 | 2026-08-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74900 | Install Manhole | MH-36-A-7 /MH-36-A-6 | Task | Completed | 2026-07-28 | 2026-08-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74910 | Testing & Inspection | MH-36-A-7 /MH-36-A-6 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74910 | Testing & Inspection | MH-36-A-7 /MH-36-A-6 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74920 | Backfilling & Compaction | MH-36-A-7 /MH-36-A-6 | Task | Completed | 2027-05-20 | 2027-05-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74930 | Excavation | MH-36-A-8 /MH-36-A-7 | Task | Completed | 2026-07-28 | 2026-08-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74940 | Pipe Laying | MH-36-A-8 /MH-36-A-7 | Task | Completed | 2026-08-09 | 2026-08-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74950 | Install Manhole | MH-36-A-8 /MH-36-A-7 | Task | Completed | 2026-08-09 | 2026-08-19 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A74960 | Testing & Inspection | MH-36-A-8 /MH-36-A-7 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A74960 | Testing & Inspection | MH-36-A-8 /MH-36-A-7 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A74970 | Backfilling & Compaction | MH-36-A-8 /MH-36-A-7 | Task | Completed | 2027-06-01 | 2027-06-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74980 | Excavation | MH-36-A-9 /MH-36-A-8 | Task | Completed | 2026-08-09 | 2026-08-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A74990 | Pipe Laying | MH-36-A-9 /MH-36-A-8 | Task | Completed | 2026-08-20 | 2026-08-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75000 | Install Manhole | MH-36-A-9 /MH-36-A-8 | Task | Completed | 2026-08-20 | 2026-08-31 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75010 | Testing & Inspection | MH-36-A-9 /MH-36-A-8 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A75010 | Testing & Inspection | MH-36-A-9 /MH-36-A-8 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A75020 | Backfilling & Compaction | MH-36-A-9 /MH-36-A-8 | Task | Completed | 2027-06-13 | 2027-06-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75030 | Excavation | MH-36-A-10 /MH-36-A-9 | Task | Completed | 2026-08-20 | 2026-08-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75040 | Pipe Laying | MH-36-A-10 /MH-36-A-9 | Task | Completed | 2026-09-01 | 2026-09-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75050 | Install Manhole | MH-36-A-10 /MH-36-A-9 | Task | Completed | 2026-09-01 | 2026-09-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75060 | Testing & Inspection | MH-36-A-10 /MH-36-A-9 | Task | Not Started | 2026-11-07 | 2026-11-17 |  |  | 0 | 52 |
+| A75060 | Testing & Inspection | MH-36-A-10 /MH-36-A-9 | Task | Not Started | 2026-10-31 | 2026-11-10 |  |  | 0 | 58 |
 | A75070 | Backfilling & Compaction | MH-36-A-10 /MH-36-A-9 | Task | Completed | 2027-06-24 | 2027-07-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75080 | Excavation | MH-3-C / 0-C | Task | Completed | 2026-03-18 | 2026-03-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75090 | Pipe Laying | MH-3-C / 0-C | Task | Completed | 2026-03-23 | 2026-03-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75100 | Install Manhole | MH-3-C / 0-C | Task | Completed | 2026-03-23 | 2026-03-26 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75110 | Testing & Inspection | MH-3-C / 0-C | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 6.4 |
+| A75110 | Testing & Inspection | MH-3-C / 0-C | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 12.4 |
 | A75120 | Backfilling & Compaction | MH-3-C / 0-C | Task | Completed | 2026-11-12 | 2026-11-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75130 | Excavation | MH-8-O-2 /MH-8-O-0 | Task | Completed | 2026-03-14 | 2026-03-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75140 | Pipe Laying | MH-8-O-2 /MH-8-O-0 | Task | Completed | 2026-09-26 | 2026-10-05 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4490,217 +4490,217 @@
 | A75230 | Excavation | MH-8-O-4 /MH-8-O-2 | Task | Completed | 2026-03-04 | 2026-03-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75240 | Pipe Laying | MH-8-O-4 /MH-8-O-2 | Task | Completed | 2026-03-09 | 2026-03-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75250 | Install Manhole | MH-8-O-4 /MH-8-O-2 | Task | Completed | 2026-03-09 | 2026-03-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75260 | Testing & Inspection | MH-8-O-4 /MH-8-O-2 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 11.6 |
+| A75260 | Testing & Inspection | MH-8-O-4 /MH-8-O-2 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 17.6 |
 | A75270 | Backfilling & Compaction | MH-8-O-4 /MH-8-O-2 | Task | Completed | 2026-11-09 | 2026-11-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75280 | Excavation | MH-8-O-4 /MH-8-O-3 | Task | Completed | 2026-02-28 | 2026-03-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75290 | Pipe Laying | MH-8-O-4 /MH-8-O-3 | Task | Completed | 2026-03-04 | 2026-03-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75300 | Install Manhole | MH-8-O-4 /MH-8-O-3 | Task | Completed | 2026-03-04 | 2026-03-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75310 | Testing & Inspection | MH-8-O-4 /MH-8-O-3 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 11.6 |
+| A75310 | Testing & Inspection | MH-8-O-4 /MH-8-O-3 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 17.6 |
 | A75320 | Backfilling & Compaction | MH-8-O-4 /MH-8-O-3 | Task | Completed | 2026-11-04 | 2026-11-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75330 | Excavation | MH-7-M-1 /MH-7-M | Task | Completed | 2026-02-23 | 2026-02-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75340 | Pipe Laying | MH-7-M-1 /MH-7-M | Task | Completed | 2026-02-28 | 2026-03-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75350 | Install Manhole | MH-7-M-1 /MH-7-M | Task | Completed | 2026-02-28 | 2026-03-03 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75360 | Testing & Inspection | MH-7-M-1 /MH-7-M | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 4.9 |
+| A75360 | Testing & Inspection | MH-7-M-1 /MH-7-M | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 6.8 |
 | A75370 | Backfilling & Compaction | MH-7-M-1 /MH-7-M | Task | Completed | 2026-10-31 | 2026-11-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75380 | Excavation | MH-13-O-1 /MH-13-O-0 | Task | Completed | 2026-05-24 | 2026-05-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75390 | Pipe Laying | MH-13-O-1 /MH-13-O-0 | Task | Completed | 2026-05-28 | 2026-06-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75400 | Install Manhole | MH-13-O-1 /MH-13-O-0 | Task | Completed | 2026-05-28 | 2026-06-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75410 | Testing & Inspection | MH-13-O-1 /MH-13-O-0 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75410 | Testing & Inspection | MH-13-O-1 /MH-13-O-0 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75420 | Backfilling & Compaction | MH-13-O-1 /MH-13-O-0 | Task | Completed | 2027-06-09 | 2027-06-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75430 | Excavation | MH-13-O-2 /MH-13-O-1 | Task | Completed | 2026-05-19 | 2026-05-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75440 | Pipe Laying | MH-13-O-2 /MH-13-O-1 | Task | Completed | 2026-05-24 | 2026-06-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75450 | Install Manhole | MH-13-O-2 /MH-13-O-1 | Task | Completed | 2026-05-24 | 2026-05-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75460 | Testing & Inspection | MH-13-O-2 /MH-13-O-1 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75460 | Testing & Inspection | MH-13-O-2 /MH-13-O-1 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75470 | Backfilling & Compaction | MH-13-O-2 /MH-13-O-1 | Task | Completed | 2027-05-29 | 2027-06-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75480 | Excavation | MH-13-O-3 /MH-13-O-2 | Task | Completed | 2026-05-14 | 2026-05-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75490 | Pipe Laying | MH-13-O-3 /MH-13-O-2 | Task | Completed | 2026-05-19 | 2026-05-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75500 | Install Manhole | MH-13-O-3 /MH-13-O-2 | Task | Completed | 2026-05-19 | 2026-05-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75510 | Testing & Inspection | MH-13-O-3 /MH-13-O-2 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75510 | Testing & Inspection | MH-13-O-3 /MH-13-O-2 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75520 | Backfilling & Compaction | MH-13-O-3 /MH-13-O-2 | Task | Completed | 2027-05-17 | 2027-05-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75530 | Excavation | MH-13-O-4 /MH-13-O-3 | Task | Completed | 2026-05-10 | 2026-05-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75540 | Pipe Laying | MH-13-O-4 /MH-13-O-3 | Task | Completed | 2026-05-14 | 2026-05-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75550 | Install Manhole | MH-13-O-4 /MH-13-O-3 | Task | Completed | 2026-05-14 | 2026-05-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75560 | Testing & Inspection | MH-13-O-4 /MH-13-O-3 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75560 | Testing & Inspection | MH-13-O-4 /MH-13-O-3 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75570 | Backfilling & Compaction | MH-13-O-4 /MH-13-O-3 | Task | Completed | 2027-05-05 | 2027-05-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75580 | Excavation | MH-13-O-5 /MH-13-O-4 | Task | Completed | 2026-05-05 | 2026-05-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75590 | Pipe Laying | MH-13-O-5 /MH-13-O-4 | Task | Completed | 2026-05-10 | 2026-05-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75600 | Install Manhole | MH-13-O-5 /MH-13-O-4 | Task | Completed | 2026-05-10 | 2026-05-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75610 | Testing & Inspection | MH-13-O-5 /MH-13-O-4 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75610 | Testing & Inspection | MH-13-O-5 /MH-13-O-4 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75620 | Backfilling & Compaction | MH-13-O-5 /MH-13-O-4 | Task | Completed | 2027-05-01 | 2027-05-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75630 | Excavation | MH-13-O-6 /MH-13-O-5 | Task | Completed | 2026-04-30 | 2026-05-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75640 | Pipe Laying | MH-13-O-6 /MH-13-O-5 | Task | Completed | 2026-05-05 | 2026-05-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75650 | Install Manhole | MH-13-O-6 /MH-13-O-5 | Task | Completed | 2026-05-05 | 2026-05-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75660 | Testing & Inspection | MH-13-O-6 /MH-13-O-5 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 81.9 |
+| A75660 | Testing & Inspection | MH-13-O-6 /MH-13-O-5 | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 87.2 |
 | A75670 | Backfilling & Compaction | MH-13-O-6 /MH-13-O-5 | Task | Completed | 2027-04-19 | 2027-05-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75680 | Excavation | MH-11-O /MH-12-O | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 53.9 |
-| A75690 | Pipe Laying | MH-11-O /MH-12-O | Task | Not Started | 2026-10-24 | 2026-11-02 |  |  | 0 | 53.9 |
-| A75700 | Install Manhole | MH-11-O /MH-12-O | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 59.9 |
-| A75710 | Testing & Inspection | MH-11-O /MH-12-O | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 53.9 |
-| A75720 | Backfilling & Compaction | MH-11-O /MH-12-O | Task | Not Started | 2026-11-30 | 2026-12-12 |  |  | 0 | 31.9 |
+| A75680 | Excavation | MH-11-O /MH-12-O | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 59.1 |
+| A75690 | Pipe Laying | MH-11-O /MH-12-O | Task | Not Started | 2026-10-17 | 2026-10-26 |  |  | 0 | 59.1 |
+| A75700 | Install Manhole | MH-11-O /MH-12-O | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 65.2 |
+| A75710 | Testing & Inspection | MH-11-O /MH-12-O | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 59.1 |
+| A75720 | Backfilling & Compaction | MH-11-O /MH-12-O | Task | Not Started | 2026-11-30 | 2026-12-12 |  |  | 0 | 31.1 |
 | A75730 | Excavation | MH-13-O-7 /MH-13-O-6 | Task | Completed | 2026-04-26 | 2026-04-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75740 | Pipe Laying | MH-13-O-7 /MH-13-O-6 | Task | Completed | 2026-10-24 | 2026-11-02 | 2026-10-03 | 2026-10-08 | 100 |  |
-| A75750 | Install Manhole | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 69.9 |
-| A75760 | Testing & Inspection | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 71.9 |
-| A75770 | Backfilling & Compaction | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-12-12 | 2026-12-23 |  |  | 0 | 31.9 |
-| A75780 | Excavation | MH-10-O /MH-11-O | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 47.9 |
-| A75790 | Pipe Laying | MH-10-O /MH-11-O | Task | Not Started | 2026-10-19 | 2026-10-28 |  |  | 0 | 47.9 |
-| A75800 | Install Manhole | MH-10-O /MH-11-O | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 53.9 |
-| A75810 | Testing & Inspection | MH-10-O /MH-11-O | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 47.9 |
-| A75820 | Backfilling & Compaction | MH-10-O /MH-11-O | Task | Not Started | 2026-11-18 | 2026-11-30 |  |  | 0 | 31.9 |
+| A75740 | Pipe Laying | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-10-17 | 2026-10-26 |  |  | 0 | 69.2 |
+| A75750 | Install Manhole | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 75.2 |
+| A75760 | Testing & Inspection | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-10-26 | 2026-10-28 |  |  | 0 | 69.2 |
+| A75770 | Backfilling & Compaction | MH-13-O-7 /MH-13-O-6 | Task | Not Started | 2026-12-12 | 2026-12-23 |  |  | 0 | 31.1 |
+| A75780 | Excavation | MH-10-O /MH-11-O | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 53.1 |
+| A75790 | Pipe Laying | MH-10-O /MH-11-O | Task | Not Started | 2026-10-12 | 2026-10-21 |  |  | 0 | 53.1 |
+| A75800 | Install Manhole | MH-10-O /MH-11-O | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 59.1 |
+| A75810 | Testing & Inspection | MH-10-O /MH-11-O | Task | Not Started | 2026-10-21 | 2026-10-24 |  |  | 0 | 53.1 |
+| A75820 | Backfilling & Compaction | MH-10-O /MH-11-O | Task | Not Started | 2026-11-18 | 2026-11-30 |  |  | 0 | 31.1 |
 | A75830 | Excavation | MH-5-M-3 /MH-5-M-2 | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75840 | Pipe Laying | MH-5-M-3 /MH-5-M-2 | Task | Completed | 2026-02-24 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75850 | Install Manhole | MH-5-M-3 /MH-5-M-2 | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75860 | Testing & Inspection | MH-5-M-3 /MH-5-M-2 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 5 |
+| A75860 | Testing & Inspection | MH-5-M-3 /MH-5-M-2 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 6.2 |
 | A75870 | Backfilling & Compaction | MH-5-M-3 /MH-5-M-2 | Task | Completed | 2026-11-02 | 2026-11-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75880 | Excavation | MH-5-M-2 /MH-5-M-1 | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75890 | Pipe Laying | MH-5-M-2 /MH-5-M-1 | Task | Completed | 2026-03-01 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75900 | Install Manhole | MH-5-M-2 /MH-5-M-1 | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75910 | Testing & Inspection | MH-5-M-2 /MH-5-M-1 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
+| A75910 | Testing & Inspection | MH-5-M-2 /MH-5-M-1 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 39.1 |
 | A75920 | Backfilling & Compaction | MH-5-M-2 /MH-5-M-1 | Task | Completed | 2026-11-14 | 2026-11-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75930 | Excavation | MH-1-O /MH-2-O | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75940 | Pipe Laying | MH-1-O /MH-2-O | Task | Completed | 2026-03-05 | 2026-03-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75950 | Install Manhole | MH-1-O /MH-2-O | Task | Completed | 2026-03-05 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A75960 | Testing & Inspection | MH-1-O /MH-2-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
+| A75960 | Testing & Inspection | MH-1-O /MH-2-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 39.1 |
 | A75970 | Backfilling & Compaction | MH-1-O /MH-2-O | Task | Completed | 2026-11-18 | 2026-11-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75980 | Excavation | MH-2-O /MH-3-O | Task | Completed | 2026-03-05 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A75990 | Pipe Laying | MH-2-O /MH-3-O | Task | Completed | 2026-03-10 | 2026-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76000 | Install Manhole | MH-2-O /MH-3-O | Task | Completed | 2026-03-10 | 2026-03-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76010 | Testing & Inspection | MH-2-O /MH-3-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
+| A76010 | Testing & Inspection | MH-2-O /MH-3-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 39.1 |
 | A76020 | Backfilling & Compaction | MH-2-O /MH-3-O | Task | Completed | 2026-11-30 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76030 | Excavation | MH-3-O /MH-4-O | Task | Completed | 2026-03-10 | 2026-03-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76040 | Pipe Laying | MH-3-O /MH-4-O | Task | Completed | 2026-03-15 | 2026-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76050 | Install Manhole | MH-3-O /MH-4-O | Task | Completed | 2026-03-15 | 2026-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76060 | Testing & Inspection | MH-3-O /MH-4-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
+| A76060 | Testing & Inspection | MH-3-O /MH-4-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 39.1 |
 | A76070 | Backfilling & Compaction | MH-3-O /MH-4-O | Task | Completed | 2026-12-12 | 2026-12-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76080 | Excavation | MH-4-O /MH-5-O | Task | Completed | 2026-03-15 | 2026-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76090 | Pipe Laying | MH-4-O /MH-5-O | Task | Completed | 2026-03-19 | 2026-03-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76100 | Install Manhole | MH-4-O /MH-5-O | Task | Completed | 2026-03-19 | 2026-03-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76110 | Testing & Inspection | MH-4-O /MH-5-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
+| A76110 | Testing & Inspection | MH-4-O /MH-5-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 39.1 |
 | A76120 | Backfilling & Compaction | MH-4-O /MH-5-O | Task | Completed | 2026-12-23 | 2027-01-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76130 | Excavation | MH-5-O /MH-6-O | Task | Completed | 2026-03-19 | 2026-03-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76140 | Pipe Laying | MH-5-O /MH-6-O | Task | Completed | 2026-10-10 | 2026-10-19 | 2026-10-03 | 2026-10-08 | 100 |  |
-| A76150 | Install Manhole | MH-5-O /MH-6-O | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 31.9 |
-| A76160 | Testing & Inspection | MH-5-O /MH-6-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 33.9 |
-| A76170 | Backfilling & Compaction | MH-5-O /MH-6-O | Task | Not Started | 2026-10-14 | 2026-10-26 |  |  | 0 | 31.9 |
+| A76140 | Pipe Laying | MH-5-O /MH-6-O | Task | Not Started | 2026-10-03 | 2026-10-12 |  |  | 0 | 31.1 |
+| A76150 | Install Manhole | MH-5-O /MH-6-O | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 37.1 |
+| A76160 | Testing & Inspection | MH-5-O /MH-6-O | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 31.1 |
+| A76170 | Backfilling & Compaction | MH-5-O /MH-6-O | Task | Not Started | 2026-10-14 | 2026-10-26 |  |  | 0 | 31.1 |
 | A76180 | Excavation | MH-6-O /MH-7-O | Task | Completed | 2026-03-24 | 2026-03-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76190 | Pipe Laying | MH-6-O /MH-7-O | Task | Completed | 2026-03-29 | 2026-04-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76200 | Install Manhole | MH-6-O /MH-7-O | Task | Completed | 2026-03-29 | 2026-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76210 | Testing & Inspection | MH-6-O /MH-7-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 43.9 |
+| A76210 | Testing & Inspection | MH-6-O /MH-7-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 49.1 |
 | A76220 | Backfilling & Compaction | MH-6-O /MH-7-O | Task | Completed | 2027-01-16 | 2027-01-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76230 | Excavation | MH-7-O /MH-8-O | Task | Completed | 2026-03-29 | 2026-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76240 | Pipe Laying | MH-7-O /MH-8-O | Task | Completed | 2026-04-02 | 2026-04-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76250 | Install Manhole | MH-7-O /MH-8-O | Task | Completed | 2026-04-02 | 2026-04-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76260 | Testing & Inspection | MH-7-O /MH-8-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 43.9 |
+| A76260 | Testing & Inspection | MH-7-O /MH-8-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 49.1 |
 | A76270 | Backfilling & Compaction | MH-7-O /MH-8-O | Task | Completed | 2027-01-27 | 2027-02-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76280 | Excavation | MH-8-O /MH-9-O | Task | Completed | 2026-04-02 | 2026-04-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76290 | Pipe Laying | MH-8-O /MH-9-O | Task | Completed | 2026-10-10 | 2026-10-19 | 2026-10-03 | 2026-10-08 | 100 |  |
-| A76300 | Install Manhole | MH-8-O /MH-9-O | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 41.9 |
-| A76310 | Testing & Inspection | MH-8-O /MH-9-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 43.9 |
-| A76320 | Backfilling & Compaction | MH-8-O /MH-9-O | Task | Not Started | 2026-10-26 | 2026-11-07 |  |  | 0 | 31.9 |
-| A76380 | Excavation | MH-6-O /MH-10-O | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 41.9 |
-| A76390 | Pipe Laying | MH-6-O /MH-10-O | Task | Not Started | 2026-10-14 | 2026-10-24 |  |  | 0 | 41.9 |
-| A76400 | Install Manhole | MH-6-O /MH-10-O | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 47.9 |
-| A76410 | Testing & Inspection | MH-6-O /MH-10-O | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 41.9 |
-| A76420 | Backfilling & Compaction | MH-6-O /MH-10-O | Task | Not Started | 2026-11-07 | 2026-11-18 |  |  | 0 | 31.9 |
+| A76290 | Pipe Laying | MH-8-O /MH-9-O | Task | Not Started | 2026-10-03 | 2026-10-12 |  |  | 0 | 41.1 |
+| A76300 | Install Manhole | MH-8-O /MH-9-O | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 47.1 |
+| A76310 | Testing & Inspection | MH-8-O /MH-9-O | Task | Not Started | 2026-10-12 | 2026-10-14 |  |  | 0 | 41.1 |
+| A76320 | Backfilling & Compaction | MH-8-O /MH-9-O | Task | Not Started | 2026-10-26 | 2026-11-07 |  |  | 0 | 31.1 |
+| A76380 | Excavation | MH-6-O /MH-10-O | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 47.1 |
+| A76390 | Pipe Laying | MH-6-O /MH-10-O | Task | Not Started | 2026-10-07 | 2026-10-17 |  |  | 0 | 47.1 |
+| A76400 | Install Manhole | MH-6-O /MH-10-O | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 53.1 |
+| A76410 | Testing & Inspection | MH-6-O /MH-10-O | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 47.1 |
+| A76420 | Backfilling & Compaction | MH-6-O /MH-10-O | Task | Not Started | 2026-11-07 | 2026-11-18 |  |  | 0 | 31.1 |
 | A76430 | Excavation | MH-9-O /MH-6-O | Task | Completed | 2026-04-07 | 2026-04-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76440 | Pipe Laying | MH-9-O /MH-6-O | Task | Completed | 2026-04-12 | 2026-04-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76450 | Install Manhole | MH-9-O /MH-6-O | Task | Completed | 2026-04-12 | 2026-04-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76460 | Testing & Inspection | MH-9-O /MH-6-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 53.9 |
+| A76460 | Testing & Inspection | MH-9-O /MH-6-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 59.1 |
 | A76470 | Backfilling & Compaction | MH-9-O /MH-6-O | Task | Completed | 2027-02-20 | 2027-03-03 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76480 | Excavation | MH-2-F /MH-2-F-2 | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76490 | Pipe Laying | MH-2-F /MH-2-F-2 | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76500 | Install Manhole | MH-2-F /MH-2-F-2 | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76510 | Testing & Inspection | MH-2-F /MH-2-F-2 | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 37 |
+| A76510 | Testing & Inspection | MH-2-F /MH-2-F-2 | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 41.9 |
 | A76520 | Backfilling & Compaction | MH-2-F /MH-2-F-2 | Task | Completed | 2026-11-01 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76530 | Excavation | MH-1-M /MH-2-M | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76540 | Pipe Laying | MH-1-M /MH-2-M | Task | Completed | 2026-02-24 | 2026-03-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76550 | Install Manhole | MH-1-M /MH-2-M | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76560 | Testing & Inspection | MH-1-M /MH-2-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 39 |
+| A76560 | Testing & Inspection | MH-1-M /MH-2-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 43.9 |
 | A76570 | Backfilling & Compaction | MH-1-M /MH-2-M | Task | Completed | 2026-11-12 | 2026-11-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76580 | Excavation | MH-2-M /MH-3-M | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76590 | Pipe Laying | MH-2-M /MH-3-M | Task | Completed | 2026-03-01 | 2026-03-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76600 | Install Manhole | MH-2-M /MH-3-M | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76610 | Testing & Inspection | MH-2-M /MH-3-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 39 |
+| A76610 | Testing & Inspection | MH-2-M /MH-3-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 43.9 |
 | A76620 | Backfilling & Compaction | MH-2-M /MH-3-M | Task | Completed | 2026-11-24 | 2026-11-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76630 | Excavation | MH-3-M /MH-4-M | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76640 | Pipe Laying | MH-3-M /MH-4-M | Task | Completed | 2026-03-05 | 2026-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76650 | Install Manhole | MH-3-M /MH-4-M | Task | Completed | 2026-03-05 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76660 | Testing & Inspection | MH-3-M /MH-4-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 39 |
+| A76660 | Testing & Inspection | MH-3-M /MH-4-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 43.9 |
 | A76670 | Backfilling & Compaction | MH-3-M /MH-4-M | Task | Completed | 2026-11-29 | 2026-12-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76680 | Excavation | MH-4-M /MH-5-M | Task | Completed | 2026-03-05 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76690 | Pipe Laying | MH-4-M /MH-5-M | Task | Completed | 2026-03-10 | 2026-03-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76700 | Install Manhole | MH-4-M /MH-5-M | Task | Completed | 2026-03-10 | 2026-03-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76710 | Testing & Inspection | MH-4-M /MH-5-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 39 |
+| A76710 | Testing & Inspection | MH-4-M /MH-5-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 43.9 |
 | A76720 | Backfilling & Compaction | MH-4-M /MH-5-M | Task | Completed | 2026-12-10 | 2026-12-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76730 | Excavation | MH-5-M-1 /MH-5-M | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76740 | Pipe Laying | MH-5-M-1 /MH-5-M | Task | Completed | 2026-02-15 | 2026-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76750 | Install Manhole | MH-5-M-1 /MH-5-M | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76760 | Testing & Inspection | MH-5-M-1 /MH-5-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 23 |
+| A76760 | Testing & Inspection | MH-5-M-1 /MH-5-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 29 |
 | A76770 | Backfilling & Compaction | MH-5-M-1 /MH-5-M | Task | Completed | 2026-12-09 | 2026-12-20 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76780 | Excavation | MH-5-M /MH-6-M | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76790 | Pipe Laying | MH-5-M /MH-6-M | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76800 | Install Manhole | MH-5-M /MH-6-M | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76810 | Testing & Inspection | MH-5-M /MH-6-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 25 |
+| A76810 | Testing & Inspection | MH-5-M /MH-6-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 31 |
 | A76820 | Backfilling & Compaction | MH-5-M /MH-6-M | Task | Completed | 2026-12-21 | 2026-12-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76830 | Excavation | MH-6-M /MH-7-M | Task | Completed | 2026-02-19 | 2026-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76840 | Pipe Laying | MH-6-M /MH-7-M | Task | Completed | 2026-02-24 | 2026-03-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76850 | Install Manhole | MH-6-M /MH-7-M | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76860 | Testing & Inspection | MH-6-M /MH-7-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 25 |
+| A76860 | Testing & Inspection | MH-6-M /MH-7-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 31 |
 | A76870 | Backfilling & Compaction | MH-6-M /MH-7-M | Task | Completed | 2027-01-02 | 2027-01-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76880 | Excavation | MH-7-M /MH-8-M | Task | Completed | 2026-02-24 | 2026-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76890 | Pipe Laying | MH-7-M /MH-8-M | Task | Completed | 2026-03-01 | 2026-03-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76900 | Install Manhole | MH-7-M /MH-8-M | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76910 | Testing & Inspection | MH-7-M /MH-8-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 25 |
+| A76910 | Testing & Inspection | MH-7-M /MH-8-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 31 |
 | A76920 | Backfilling & Compaction | MH-7-M /MH-8-M | Task | Completed | 2027-01-13 | 2027-01-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76930 | Excavation | MH-8-M / 0-M | Task | Completed | 2026-03-01 | 2026-03-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76940 | Pipe Laying | MH-8-M / 0-M | Task | Completed | 2026-03-05 | 2026-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76950 | Install Manhole | MH-8-M / 0-M | Task | Completed | 2026-03-05 | 2026-03-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A76960 | Testing & Inspection | MH-8-M / 0-M | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 25 |
+| A76960 | Testing & Inspection | MH-8-M / 0-M | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 31 |
 | A76970 | Backfilling & Compaction | MH-8-M / 0-M | Task | Completed | 2027-01-18 | 2027-01-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76980 | Excavation | MH-1-K /MH-2-K | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A76990 | Pipe Laying | MH-1-K /MH-2-K | Task | Completed | 2026-02-14 | 2026-03-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77000 | Install Manhole | MH-1-K /MH-2-K | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77010 | Testing & Inspection | MH-1-K /MH-2-K | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 34.8 |
+| A77010 | Testing & Inspection | MH-1-K /MH-2-K | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 34 |
 | A77020 | Backfilling & Compaction | MH-1-K /MH-2-K | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77030 | Excavation | MH-2-K / 0-K | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77040 | Pipe Laying | MH-2-K / 0-K | Task | Completed | 2026-02-15 | 2026-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77050 | Install Manhole | MH-2-K / 0-K | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77060 | Testing & Inspection | MH-2-K / 0-K | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 36.8 |
+| A77060 | Testing & Inspection | MH-2-K / 0-K | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 36 |
 | A77070 | Backfilling & Compaction | MH-2-K / 0-K | Task | Completed | 2026-12-14 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77080 | Excavation | MH-1-H /MH-2-H | Task | Completed | 2026-02-01 | 2026-02-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77090 | Pipe Laying | MH-1-H /MH-2-H | Task | Completed | 2026-02-14 | 2026-03-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77100 | Install Manhole | MH-1-H /MH-2-H | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77110 | Testing & Inspection | MH-1-H /MH-2-H | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 27.8 |
+| A77110 | Testing & Inspection | MH-1-H /MH-2-H | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 20 |
 | A77120 | Backfilling & Compaction | MH-1-H /MH-2-H | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77130 | Excavation | MH-2-H /MH-3-H | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77140 | Pipe Laying | MH-2-H /MH-3-H | Task | Completed | 2026-02-10 | 2026-02-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77150 | Install Manhole | MH-2-H /MH-3-H | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77160 | Testing & Inspection | MH-2-H /MH-3-H | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 29.8 |
+| A77160 | Testing & Inspection | MH-2-H /MH-3-H | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 22 |
 | A77170 | Backfilling & Compaction | MH-2-H /MH-3-H | Task | Completed | 2026-12-14 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77180 | Excavation | MH-3-H /MH-4-H | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77190 | Pipe Laying | MH-3-H /MH-4-H | Task | Completed | 2026-02-15 | 2026-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77200 | Install Manhole | MH-3-H /MH-4-H | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77210 | Testing & Inspection | MH-3-H /MH-4-H | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 29.8 |
+| A77210 | Testing & Inspection | MH-3-H /MH-4-H | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 22 |
 | A77220 | Backfilling & Compaction | MH-3-H /MH-4-H | Task | Completed | 2026-12-26 | 2027-01-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77230 | Excavation | MH-1-E /MH-2-E | Task | Completed | 2026-03-23 | 2026-03-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77240 | Pipe Laying | MH-1-E /MH-2-E | Task | Completed | 2026-03-28 | 2026-04-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77250 | Install Manhole | MH-1-E /MH-2-E | Task | Completed | 2026-03-28 | 2026-03-31 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77260 | Testing & Inspection | MH-1-E /MH-2-E | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 6.4 |
+| A77260 | Testing & Inspection | MH-1-E /MH-2-E | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 12.4 |
 | A77270 | Backfilling & Compaction | MH-1-E /MH-2-E | Task | Completed | 2026-11-18 | 2026-11-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77280 | Excavation | MH-2-E /MH-3-E | Task | Completed | 2026-03-28 | 2026-03-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77290 | Pipe Laying | MH-2-E /MH-3-E | Task | Completed | 2026-04-01 | 2026-04-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77300 | Install Manhole | MH-2-E /MH-3-E | Task | Completed | 2026-04-01 | 2026-04-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77310 | Testing & Inspection | MH-2-E /MH-3-E | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 6.4 |
+| A77310 | Testing & Inspection | MH-2-E /MH-3-E | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 12.4 |
 | A77320 | Backfilling & Compaction | MH-2-E /MH-3-E | Task | Completed | 2026-11-24 | 2026-11-30 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77330 | Excavation | MH-3-E / 0-E | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | -5.6 |
-| A77340 | Pipe Laying | MH-3-E / 0-E | Task | Not Started | 2026-10-14 | 2026-10-24 |  |  | 0 | -5.6 |
-| A77350 | Install Manhole | MH-3-E / 0-E | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 0.4 |
-| A77360 | Testing & Inspection | MH-3-E / 0-E | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | -5.6 |
-| A77370 | Backfilling & Compaction | MH-3-E / 0-E | Task | Not Started | 2026-10-26 | 2026-11-01 |  |  | 0 | -5.6 |
+| A77330 | Excavation | MH-3-E / 0-E | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 0.4 |
+| A77340 | Pipe Laying | MH-3-E / 0-E | Task | Not Started | 2026-10-07 | 2026-10-17 |  |  | 0 | 0.4 |
+| A77350 | Install Manhole | MH-3-E / 0-E | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 6.4 |
+| A77360 | Testing & Inspection | MH-3-E / 0-E | Task | Not Started | 2026-10-17 | 2026-10-19 |  |  | 0 | 0.4 |
+| A77370 | Backfilling & Compaction | MH-3-E / 0-E | Task | Not Started | 2026-10-19 | 2026-10-25 |  |  | 0 | 0.4 |
 | A77380 | Excavation | MH-1-G /MH-2-G | Task | Completed | 2026-04-06 | 2026-04-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77390 | Pipe Laying | MH-1-G /MH-2-G | Task | Completed | 2026-04-11 | 2026-04-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77400 | Install Manhole | MH-1-G /MH-2-G | Task | Completed | 2026-04-11 | 2026-04-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A77410 | Testing & Inspection | MH-1-G /MH-2-G | Task | Not Started | 2026-10-14 | 2026-10-17 |  |  | 0 | 7.4 |
+| A77410 | Testing & Inspection | MH-1-G /MH-2-G | Task | Not Started | 2026-10-07 | 2026-10-10 |  |  | 0 | 13.4 |
 | A77420 | Backfilling & Compaction | MH-1-G /MH-2-G | Task | Completed | 2026-12-06 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77430 | Excavation | MH-2-G /MH-3-G | Task | Completed | 2026-04-11 | 2026-04-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A77440 | Pipe Laying | MH-2-G /MH-3-G | Task | Completed | 2026-04-15 | 2026-04-23 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4790,7 +4790,7 @@
 | A78630 | Excavation | MH-12-O /MH-13-O | Task | Completed | 2026-03-18 | 2026-03-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78640 | Pipe Laying | MH-12-O /MH-13-O | Task | Completed | 2026-03-23 | 2026-04-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78650 | Install Manhole | MH-12-O /MH-13-O | Task | Completed | 2026-03-23 | 2026-03-26 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A78660 | Testing & Inspection | MH-12-O /MH-13-O | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 93.8 |
+| A78660 | Testing & Inspection | MH-12-O /MH-13-O | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 99.8 |
 | A78670 | Backfilling & Compaction | MH-12-O /MH-13-O | Task | Completed | 2026-10-31 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78680 | Excavation | MH-13-O /MH-O-0 | Task | Completed | 2026-03-23 | 2026-03-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78690 | Pipe Laying | MH-13-O /MH-O-0 | Task | Completed | 2026-09-26 | 2026-10-12 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4800,17 +4800,17 @@
 | A78730 | Excavation | MH-1-B /MH-2-B | Task | Completed | 2026-01-24 | 2026-01-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78740 | Pipe Laying | MH-1-B /MH-2-B | Task | Completed | 2026-02-14 | 2026-03-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78750 | Install Manhole | MH-1-B /MH-2-B | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A78760 | Testing & Inspection | MH-1-B /MH-2-B | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.4 |
+| A78760 | Testing & Inspection | MH-1-B /MH-2-B | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A78770 | Backfilling & Compaction | MH-1-B /MH-2-B | Task | Completed | 2026-12-09 | 2026-12-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78780 | Excavation | MH-2-B /MH-3-B | Task | Completed | 2026-01-28 | 2026-02-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78790 | Pipe Laying | MH-2-B /MH-3-B | Task | Completed | 2026-02-02 | 2026-02-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78800 | Install Manhole | MH-2-B /MH-3-B | Task | Completed | 2026-02-02 | 2026-02-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A78810 | Testing & Inspection | MH-2-B /MH-3-B | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.4 |
+| A78810 | Testing & Inspection | MH-2-B /MH-3-B | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A78820 | Backfilling & Compaction | MH-2-B /MH-3-B | Task | Completed | 2026-12-14 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78830 | Excavation | MH-3-B /MH-4-B | Task | Completed | 2026-02-02 | 2026-02-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78840 | Pipe Laying | MH-3-B /MH-4-B | Task | Completed | 2026-02-07 | 2026-02-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78850 | Install Manhole | MH-3-B /MH-4-B | Task | Completed | 2026-02-07 | 2026-02-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A78860 | Testing & Inspection | MH-3-B /MH-4-B | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 58.4 |
+| A78860 | Testing & Inspection | MH-3-B /MH-4-B | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A78870 | Backfilling & Compaction | MH-3-B /MH-4-B | Task | Completed | 2026-12-26 | 2027-01-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78880 | Excavation | MH-4-B-1 /MH-4-B | Task | Completed | 2026-01-24 | 2026-01-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A78890 | Pipe Laying | MH-4-B-1 /MH-4-B | Task | Completed | 2026-02-02 | 2026-02-17 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4845,23 +4845,23 @@
 | A79180 | Excavation | MH-3-D /MH-4-D | Task | Completed | 2026-02-01 | 2026-02-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79190 | Pipe Laying | MH-3-D /MH-4-D | Task | Completed | 2026-02-05 | 2026-02-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79200 | Install Manhole | MH-3-D /MH-4-D | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A79210 | Testing & Inspection | MH-3-D /MH-4-D | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A79210 | Testing & Inspection | MH-3-D /MH-4-D | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A79220 | Backfilling & Compaction | MH-3-D /MH-4-D | Task | Completed | 2026-12-21 | 2026-12-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79230 | Excavation | MH-4-D /MH-5-D | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79240 | Pipe Laying | MH-4-D /MH-5-D | Task | Completed | 2026-02-10 | 2026-02-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79250 | Install Manhole | MH-4-D /MH-5-D | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A79260 | Testing & Inspection | MH-4-D /MH-5-D | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A79260 | Testing & Inspection | MH-4-D /MH-5-D | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A79270 | Backfilling & Compaction | MH-4-D /MH-5-D | Task | Completed | 2026-12-26 | 2027-01-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79280 | Excavation | MH-5-D /MH-6-D | Task | Completed | 2026-02-10 | 2026-02-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79290 | Pipe Laying | MH-5-D /MH-6-D | Task | Completed | 2026-02-15 | 2026-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79300 | Install Manhole | MH-5-D /MH-6-D | Task | Completed | 2026-02-15 | 2026-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A79310 | Testing & Inspection | MH-5-D /MH-6-D | Task | Not Started | 2026-10-10 | 2026-10-11 |  |  | 0 | 59.3 |
+| A79310 | Testing & Inspection | MH-5-D /MH-6-D | Task | Not Started | 2026-10-03 | 2026-10-04 |  |  | 0 | 57 |
 | A79320 | Backfilling & Compaction | MH-5-D /MH-6-D | Task | Completed | 2027-01-06 | 2027-01-17 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79330 | Excavation | MH-8-O-1 /MH-2-F | Task | Completed | 2026-01-27 | 2026-01-31 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A79340 | Pipe Laying | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-10 | 2026-10-25 |  |  | 0 | 13 |
-| A79350 | Install Manhole | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-10 | 2026-10-13 |  |  | 0 | 25 |
-| A79360 | Testing & Inspection | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-26 | 2026-10-27 |  |  | 0 | 13 |
-| A79370 | Backfilling & Compaction | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-28 | 2026-11-08 |  |  | 0 | 13 |
+| A79340 | Pipe Laying | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-03 | 2026-10-18 |  |  | 0 | 18.4 |
+| A79350 | Install Manhole | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-03 | 2026-10-06 |  |  | 0 | 30.4 |
+| A79360 | Testing & Inspection | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-19 | 2026-10-20 |  |  | 0 | 18.4 |
+| A79370 | Backfilling & Compaction | MH-8-O-1 /MH-2-F | Task | Not Started | 2026-10-21 | 2026-11-01 |  |  | 0 | 18.4 |
 | A79380 | Excavation | MH-2-F /MH-3-F | Task | Completed | 2026-02-01 | 2026-02-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79390 | Pipe Laying | MH-2-F /MH-3-F | Task | Completed | 2026-02-05 | 2026-02-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79400 | Install Manhole | MH-2-F /MH-3-F | Task | Completed | 2026-02-05 | 2026-02-09 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -4922,165 +4922,165 @@
 | A79950 | Install Manhole | MH-A35 /MH-A36 | Task | Completed | 2026-11-16 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79960 | Testing & Inspection | MH-A35 /MH-A36 | Task | Completed | 2026-11-25 | 2026-11-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A79970 | Backfilling & Compaction | MH-A35 /MH-A36 | Task | Completed | 2026-11-28 | 2026-12-07 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A79980 | Excavation | MH-A30 /MH-A31 | Task | Not Started | 2026-11-21 | 2026-11-25 |  |  | 0 | 32.8 |
-| A79990 | Pipe Laying | MH-A30 /MH-A31 | Task | Not Started | 2026-11-25 | 2026-12-12 |  |  | 0 | 32.8 |
-| A80000 | Install Manhole | MH-A30 /MH-A31 | Task | Not Started | 2026-11-25 | 2026-11-30 |  |  | 0 | 44.8 |
-| A80010 | Testing & Inspection | MH-A30 /MH-A31 | Task | Not Started | 2026-12-12 | 2026-12-14 |  |  | 0 | 32.8 |
-| A80020 | Backfilling & Compaction | MH-A30 /MH-A31 | Task | Not Started | 2027-04-18 | 2027-04-26 |  |  | 0 | -74.2 |
-| A80030 | Excavation | MH-A29 /MH-A30 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 29.8 |
-| A80040 | Pipe Laying | MH-A29 /MH-A30 | Task | Not Started | 2026-11-21 | 2026-12-07 |  |  | 0 | 29.8 |
-| A80050 | Install Manhole | MH-A29 /MH-A30 | Task | Not Started | 2026-11-21 | 2026-11-25 |  |  | 0 | 41.8 |
-| A80060 | Testing & Inspection | MH-A29 /MH-A30 | Task | Not Started | 2026-12-07 | 2026-12-09 |  |  | 0 | 29.8 |
-| A80070 | Backfilling & Compaction | MH-A29 /MH-A30 | Task | Not Started | 2027-04-10 | 2027-04-18 |  |  | 0 | -74.2 |
-| A80080 | Excavation | MH-A28 /MH-A29 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 26.8 |
-| A80090 | Pipe Laying | MH-A28 /MH-A29 | Task | Not Started | 2026-11-16 | 2026-12-02 |  |  | 0 | 26.8 |
-| A80100 | Install Manhole | MH-A28 /MH-A29 | Task | Not Started | 2026-11-16 | 2026-11-21 |  |  | 0 | 38.8 |
-| A80110 | Testing & Inspection | MH-A28 /MH-A29 | Task | Not Started | 2026-12-02 | 2026-12-05 |  |  | 0 | 26.8 |
-| A80120 | Backfilling & Compaction | MH-A28 /MH-A29 | Task | Not Started | 2027-04-01 | 2027-04-10 |  |  | 0 | -74.2 |
-| A80130 | Excavation | MH-A27 /MH-A28 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | 23.8 |
-| A80140 | Pipe Laying | MH-A27 /MH-A28 | Task | Not Started | 2026-11-11 | 2026-11-28 |  |  | 0 | 23.8 |
-| A80150 | Install Manhole | MH-A27 /MH-A28 | Task | Not Started | 2026-11-11 | 2026-11-16 |  |  | 0 | 35.8 |
-| A80160 | Testing & Inspection | MH-A27 /MH-A28 | Task | Not Started | 2026-11-28 | 2026-11-30 |  |  | 0 | 23.8 |
-| A80170 | Backfilling & Compaction | MH-A27 /MH-A28 | Task | Not Started | 2027-03-24 | 2027-04-01 |  |  | 0 | -74.2 |
-| A80180 | Excavation | MH-A26 /MH-A27 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 20.8 |
-| A80190 | Pipe Laying | MH-A26 /MH-A27 | Task | Not Started | 2026-11-07 | 2026-11-23 |  |  | 0 | 20.8 |
-| A80200 | Install Manhole | MH-A26 /MH-A27 | Task | Not Started | 2026-11-07 | 2026-11-11 |  |  | 0 | 32.8 |
-| A80210 | Testing & Inspection | MH-A26 /MH-A27 | Task | Not Started | 2026-11-23 | 2026-11-25 |  |  | 0 | 20.8 |
-| A80220 | Backfilling & Compaction | MH-A26 /MH-A27 | Task | Not Started | 2027-03-16 | 2027-03-24 |  |  | 0 | -74.2 |
-| A80230 | Excavation | MH-A25 /MH-A26 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 17.8 |
-| A80240 | Pipe Laying | MH-A25 /MH-A26 | Task | Not Started | 2026-11-02 | 2026-11-18 |  |  | 0 | 17.8 |
-| A80250 | Install Manhole | MH-A25 /MH-A26 | Task | Not Started | 2026-11-02 | 2026-11-07 |  |  | 0 | 29.8 |
-| A80260 | Testing & Inspection | MH-A25 /MH-A26 | Task | Not Started | 2026-11-18 | 2026-11-21 |  |  | 0 | 17.8 |
-| A80270 | Backfilling & Compaction | MH-A25 /MH-A26 | Task | Not Started | 2027-03-08 | 2027-03-16 |  |  | 0 | -74.2 |
-| A80280 | Excavation | MH-A24 /MH-A25 | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 14.8 |
-| A80290 | Pipe Laying | MH-A24 /MH-A25 | Task | Not Started | 2026-10-28 | 2026-11-14 |  |  | 0 | 14.8 |
-| A80300 | Install Manhole | MH-A24 /MH-A25 | Task | Not Started | 2026-10-28 | 2026-11-02 |  |  | 0 | 26.8 |
-| A80310 | Testing & Inspection | MH-A24 /MH-A25 | Task | Not Started | 2026-11-14 | 2026-11-16 |  |  | 0 | 14.8 |
-| A80320 | Backfilling & Compaction | MH-A24 /MH-A25 | Task | Not Started | 2027-02-28 | 2027-03-08 |  |  | 0 | -74.2 |
-| A80330 | Excavation | MH-A23 /MH-A24 | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 11.8 |
-| A80340 | Pipe Laying | MH-A23 /MH-A24 | Task | Not Started | 2026-10-24 | 2026-11-09 |  |  | 0 | 11.8 |
-| A80350 | Install Manhole | MH-A23 /MH-A24 | Task | Not Started | 2026-10-24 | 2026-10-28 |  |  | 0 | 23.8 |
-| A80360 | Testing & Inspection | MH-A23 /MH-A24 | Task | Not Started | 2026-11-09 | 2026-11-11 |  |  | 0 | 11.8 |
-| A80370 | Backfilling & Compaction | MH-A23 /MH-A24 | Task | Not Started | 2027-02-20 | 2027-02-28 |  |  | 0 | -74.2 |
-| A80380 | Excavation | MH-A22 /MH-A23 | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 8.8 |
-| A80390 | Pipe Laying | MH-A22 /MH-A23 | Task | Not Started | 2026-10-19 | 2026-11-04 |  |  | 0 | 8.8 |
-| A80400 | Install Manhole | MH-A22 /MH-A23 | Task | Not Started | 2026-10-19 | 2026-10-24 |  |  | 0 | 20.8 |
-| A80410 | Testing & Inspection | MH-A22 /MH-A23 | Task | Not Started | 2026-11-04 | 2026-11-07 |  |  | 0 | 8.8 |
-| A80420 | Backfilling & Compaction | MH-A22 /MH-A23 | Task | Not Started | 2027-02-11 | 2027-02-20 |  |  | 0 | -74.2 |
-| A80430 | Excavation | MH-A21 /MH-A22 | Task | Not Started | 2026-10-10 | 2026-10-14 |  |  | 0 | 5.8 |
-| A80440 | Pipe Laying | MH-A21 /MH-A22 | Task | Not Started | 2026-10-14 | 2026-10-31 |  |  | 0 | 5.8 |
-| A80450 | Install Manhole | MH-A21 /MH-A22 | Task | Not Started | 2026-10-14 | 2026-10-19 |  |  | 0 | 17.8 |
-| A80460 | Testing & Inspection | MH-A21 /MH-A22 | Task | Not Started | 2026-10-31 | 2026-11-02 |  |  | 0 | 5.8 |
-| A80470 | Backfilling & Compaction | MH-A21 /MH-A22 | Task | Not Started | 2027-02-03 | 2027-02-11 |  |  | 0 | -74.2 |
+| A79980 | Excavation | MH-A30 /MH-A31 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 38.8 |
+| A79990 | Pipe Laying | MH-A30 /MH-A31 | Task | Not Started | 2026-11-18 | 2026-12-05 |  |  | 0 | 38.8 |
+| A80000 | Install Manhole | MH-A30 /MH-A31 | Task | Not Started | 2026-11-18 | 2026-11-23 |  |  | 0 | 50.8 |
+| A80010 | Testing & Inspection | MH-A30 /MH-A31 | Task | Not Started | 2026-12-05 | 2026-12-07 |  |  | 0 | 38.8 |
+| A80020 | Backfilling & Compaction | MH-A30 /MH-A31 | Task | Not Started | 2027-04-24 | 2027-05-02 |  |  | 0 | -79.2 |
+| A80030 | Excavation | MH-A29 /MH-A30 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 35.8 |
+| A80040 | Pipe Laying | MH-A29 /MH-A30 | Task | Not Started | 2026-11-14 | 2026-11-30 |  |  | 0 | 35.8 |
+| A80050 | Install Manhole | MH-A29 /MH-A30 | Task | Not Started | 2026-11-14 | 2026-11-18 |  |  | 0 | 47.8 |
+| A80060 | Testing & Inspection | MH-A29 /MH-A30 | Task | Not Started | 2026-11-30 | 2026-12-02 |  |  | 0 | 35.8 |
+| A80070 | Backfilling & Compaction | MH-A29 /MH-A30 | Task | Not Started | 2027-04-15 | 2027-04-24 |  |  | 0 | -79.2 |
+| A80080 | Excavation | MH-A28 /MH-A29 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 32.8 |
+| A80090 | Pipe Laying | MH-A28 /MH-A29 | Task | Not Started | 2026-11-09 | 2026-11-25 |  |  | 0 | 32.8 |
+| A80100 | Install Manhole | MH-A28 /MH-A29 | Task | Not Started | 2026-11-09 | 2026-11-14 |  |  | 0 | 44.8 |
+| A80110 | Testing & Inspection | MH-A28 /MH-A29 | Task | Not Started | 2026-11-25 | 2026-11-28 |  |  | 0 | 32.8 |
+| A80120 | Backfilling & Compaction | MH-A28 /MH-A29 | Task | Not Started | 2027-04-07 | 2027-04-15 |  |  | 0 | -79.2 |
+| A80130 | Excavation | MH-A27 /MH-A28 | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 29.8 |
+| A80140 | Pipe Laying | MH-A27 /MH-A28 | Task | Not Started | 2026-11-04 | 2026-11-21 |  |  | 0 | 29.8 |
+| A80150 | Install Manhole | MH-A27 /MH-A28 | Task | Not Started | 2026-11-04 | 2026-11-09 |  |  | 0 | 41.8 |
+| A80160 | Testing & Inspection | MH-A27 /MH-A28 | Task | Not Started | 2026-11-21 | 2026-11-23 |  |  | 0 | 29.8 |
+| A80170 | Backfilling & Compaction | MH-A27 /MH-A28 | Task | Not Started | 2027-03-30 | 2027-04-07 |  |  | 0 | -79.2 |
+| A80180 | Excavation | MH-A26 /MH-A27 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 26.8 |
+| A80190 | Pipe Laying | MH-A26 /MH-A27 | Task | Not Started | 2026-10-31 | 2026-11-16 |  |  | 0 | 26.8 |
+| A80200 | Install Manhole | MH-A26 /MH-A27 | Task | Not Started | 2026-10-31 | 2026-11-04 |  |  | 0 | 38.8 |
+| A80210 | Testing & Inspection | MH-A26 /MH-A27 | Task | Not Started | 2026-11-16 | 2026-11-18 |  |  | 0 | 26.8 |
+| A80220 | Backfilling & Compaction | MH-A26 /MH-A27 | Task | Not Started | 2027-03-22 | 2027-03-30 |  |  | 0 | -79.2 |
+| A80230 | Excavation | MH-A25 /MH-A26 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 23.8 |
+| A80240 | Pipe Laying | MH-A25 /MH-A26 | Task | Not Started | 2026-10-26 | 2026-11-11 |  |  | 0 | 23.8 |
+| A80250 | Install Manhole | MH-A25 /MH-A26 | Task | Not Started | 2026-10-26 | 2026-10-31 |  |  | 0 | 35.8 |
+| A80260 | Testing & Inspection | MH-A25 /MH-A26 | Task | Not Started | 2026-11-11 | 2026-11-14 |  |  | 0 | 23.8 |
+| A80270 | Backfilling & Compaction | MH-A25 /MH-A26 | Task | Not Started | 2027-03-14 | 2027-03-22 |  |  | 0 | -79.2 |
+| A80280 | Excavation | MH-A24 /MH-A25 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 20.8 |
+| A80290 | Pipe Laying | MH-A24 /MH-A25 | Task | Not Started | 2026-10-21 | 2026-11-07 |  |  | 0 | 20.8 |
+| A80300 | Install Manhole | MH-A24 /MH-A25 | Task | Not Started | 2026-10-21 | 2026-10-26 |  |  | 0 | 32.8 |
+| A80310 | Testing & Inspection | MH-A24 /MH-A25 | Task | Not Started | 2026-11-07 | 2026-11-09 |  |  | 0 | 20.8 |
+| A80320 | Backfilling & Compaction | MH-A24 /MH-A25 | Task | Not Started | 2027-03-06 | 2027-03-14 |  |  | 0 | -79.2 |
+| A80330 | Excavation | MH-A23 /MH-A24 | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 17.8 |
+| A80340 | Pipe Laying | MH-A23 /MH-A24 | Task | Not Started | 2026-10-17 | 2026-11-02 |  |  | 0 | 17.8 |
+| A80350 | Install Manhole | MH-A23 /MH-A24 | Task | Not Started | 2026-10-17 | 2026-10-21 |  |  | 0 | 29.8 |
+| A80360 | Testing & Inspection | MH-A23 /MH-A24 | Task | Not Started | 2026-11-02 | 2026-11-04 |  |  | 0 | 17.8 |
+| A80370 | Backfilling & Compaction | MH-A23 /MH-A24 | Task | Not Started | 2027-02-25 | 2027-03-06 |  |  | 0 | -79.2 |
+| A80380 | Excavation | MH-A22 /MH-A23 | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 14.8 |
+| A80390 | Pipe Laying | MH-A22 /MH-A23 | Task | Not Started | 2026-10-12 | 2026-10-28 |  |  | 0 | 14.8 |
+| A80400 | Install Manhole | MH-A22 /MH-A23 | Task | Not Started | 2026-10-12 | 2026-10-17 |  |  | 0 | 26.8 |
+| A80410 | Testing & Inspection | MH-A22 /MH-A23 | Task | Not Started | 2026-10-28 | 2026-10-31 |  |  | 0 | 14.8 |
+| A80420 | Backfilling & Compaction | MH-A22 /MH-A23 | Task | Not Started | 2027-02-17 | 2027-02-25 |  |  | 0 | -79.2 |
+| A80430 | Excavation | MH-A21 /MH-A22 | Task | Not Started | 2026-10-03 | 2026-10-07 |  |  | 0 | 11.8 |
+| A80440 | Pipe Laying | MH-A21 /MH-A22 | Task | Not Started | 2026-10-07 | 2026-10-24 |  |  | 0 | 11.8 |
+| A80450 | Install Manhole | MH-A21 /MH-A22 | Task | Not Started | 2026-10-07 | 2026-10-12 |  |  | 0 | 23.8 |
+| A80460 | Testing & Inspection | MH-A21 /MH-A22 | Task | Not Started | 2026-10-24 | 2026-10-26 |  |  | 0 | 11.8 |
+| A80470 | Backfilling & Compaction | MH-A21 /MH-A22 | Task | Not Started | 2027-02-09 | 2027-02-17 |  |  | 0 | -79.2 |
 | A80480 | Excavation | MH-A20 /MH-A21 | Task | Completed | 2027-01-06 | 2027-01-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80490 | Pipe Laying | MH-A20 /MH-A21 | Task | Completed | 2027-01-11 | 2027-01-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80500 | Install Manhole | MH-A20 /MH-A21 | Task | Completed | 2027-01-11 | 2027-01-16 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80510 | Testing & Inspection | MH-A20 /MH-A21 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 16.8 |
-| A80520 | Backfilling & Compaction | MH-A20 /MH-A21 | Task | Not Started | 2027-01-26 | 2027-02-03 |  |  | 0 | -74.2 |
+| A80510 | Testing & Inspection | MH-A20 /MH-A21 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 22.8 |
+| A80520 | Backfilling & Compaction | MH-A20 /MH-A21 | Task | Not Started | 2027-02-01 | 2027-02-09 |  |  | 0 | -79.2 |
 | A80530 | Excavation | MH-A19 /MH-A20 | Task | Completed | 2027-01-02 | 2027-01-06 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80540 | Pipe Laying | MH-A19 /MH-A20 | Task | Completed | 2027-01-06 | 2027-01-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80550 | Install Manhole | MH-A19 /MH-A20 | Task | Completed | 2027-01-06 | 2027-01-11 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80560 | Testing & Inspection | MH-A19 /MH-A20 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 9.8 |
-| A80570 | Backfilling & Compaction | MH-A19 /MH-A20 | Task | Not Started | 2027-01-18 | 2027-01-26 |  |  | 0 | -74.2 |
+| A80560 | Testing & Inspection | MH-A19 /MH-A20 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 15.8 |
+| A80570 | Backfilling & Compaction | MH-A19 /MH-A20 | Task | Not Started | 2027-01-24 | 2027-02-01 |  |  | 0 | -79.2 |
 | A80580 | Excavation | MH-A18 /MH-A19 | Task | Completed | 2026-12-28 | 2027-01-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80590 | Pipe Laying | MH-A18 /MH-A19 | Task | Completed | 2027-01-02 | 2027-01-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80600 | Install Manhole | MH-A18 /MH-A19 | Task | Completed | 2027-01-02 | 2027-01-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80610 | Testing & Inspection | MH-A18 /MH-A19 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | 2.8 |
-| A80620 | Backfilling & Compaction | MH-A18 /MH-A19 | Task | Not Started | 2027-01-10 | 2027-01-18 |  |  | 0 | -74.2 |
+| A80610 | Testing & Inspection | MH-A18 /MH-A19 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 8.8 |
+| A80620 | Backfilling & Compaction | MH-A18 /MH-A19 | Task | Not Started | 2027-01-16 | 2027-01-24 |  |  | 0 | -79.2 |
 | A80630 | Excavation | MH-A17 /MH-A18 | Task | Completed | 2026-12-23 | 2026-12-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80640 | Pipe Laying | MH-A17 /MH-A18 | Task | Completed | 2026-12-28 | 2027-01-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80650 | Install Manhole | MH-A17 /MH-A18 | Task | Completed | 2026-12-28 | 2027-01-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80660 | Testing & Inspection | MH-A17 /MH-A18 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -4.2 |
-| A80670 | Backfilling & Compaction | MH-A17 /MH-A18 | Task | Not Started | 2027-01-02 | 2027-01-10 |  |  | 0 | -74.2 |
+| A80660 | Testing & Inspection | MH-A17 /MH-A18 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | 1.8 |
+| A80670 | Backfilling & Compaction | MH-A17 /MH-A18 | Task | Not Started | 2027-01-07 | 2027-01-16 |  |  | 0 | -79.2 |
 | A80680 | Excavation | MH-A16 /MH-A17 | Task | Completed | 2026-12-19 | 2026-12-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80690 | Pipe Laying | MH-A16 /MH-A17 | Task | Completed | 2026-12-23 | 2027-01-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80700 | Install Manhole | MH-A16 /MH-A17 | Task | Completed | 2026-12-23 | 2026-12-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80710 | Testing & Inspection | MH-A16 /MH-A17 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -11.2 |
-| A80720 | Backfilling & Compaction | MH-A16 /MH-A17 | Task | Not Started | 2026-12-24 | 2027-01-02 |  |  | 0 | -74.2 |
+| A80710 | Testing & Inspection | MH-A16 /MH-A17 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -5.2 |
+| A80720 | Backfilling & Compaction | MH-A16 /MH-A17 | Task | Not Started | 2026-12-30 | 2027-01-07 |  |  | 0 | -79.2 |
 | A80730 | Excavation | MH-A15 /MH-A16 | Task | Completed | 2026-12-14 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80740 | Pipe Laying | MH-A15 /MH-A16 | Task | Completed | 2026-12-19 | 2027-01-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80750 | Install Manhole | MH-A15 /MH-A16 | Task | Completed | 2026-12-19 | 2026-12-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80760 | Testing & Inspection | MH-A15 /MH-A16 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -18.2 |
-| A80770 | Backfilling & Compaction | MH-A15 /MH-A16 | Task | Not Started | 2026-12-16 | 2026-12-24 |  |  | 0 | -74.2 |
+| A80760 | Testing & Inspection | MH-A15 /MH-A16 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -12.2 |
+| A80770 | Backfilling & Compaction | MH-A15 /MH-A16 | Task | Not Started | 2026-12-22 | 2026-12-30 |  |  | 0 | -79.2 |
 | A80780 | Excavation | MH-A14 /MH-A15 | Task | Completed | 2026-12-09 | 2026-12-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80790 | Pipe Laying | MH-A14 /MH-A15 | Task | Completed | 2026-12-14 | 2026-12-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80800 | Install Manhole | MH-A14 /MH-A15 | Task | Completed | 2026-12-14 | 2026-12-19 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80810 | Testing & Inspection | MH-A14 /MH-A15 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -25.2 |
-| A80820 | Backfilling & Compaction | MH-A14 /MH-A15 | Task | Not Started | 2026-12-08 | 2026-12-16 |  |  | 0 | -74.2 |
+| A80810 | Testing & Inspection | MH-A14 /MH-A15 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -19.2 |
+| A80820 | Backfilling & Compaction | MH-A14 /MH-A15 | Task | Not Started | 2026-12-14 | 2026-12-22 |  |  | 0 | -79.2 |
 | A80830 | Excavation | MH-A13 /MH-A14 | Task | Completed | 2026-12-05 | 2026-12-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80840 | Pipe Laying | MH-A13 /MH-A14 | Task | Completed | 2026-12-09 | 2026-12-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80850 | Install Manhole | MH-A13 /MH-A14 | Task | Completed | 2026-12-09 | 2026-12-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80860 | Testing & Inspection | MH-A13 /MH-A14 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -32.2 |
-| A80870 | Backfilling & Compaction | MH-A13 /MH-A14 | Task | Not Started | 2026-11-30 | 2026-12-08 |  |  | 0 | -74.2 |
+| A80860 | Testing & Inspection | MH-A13 /MH-A14 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -26.2 |
+| A80870 | Backfilling & Compaction | MH-A13 /MH-A14 | Task | Not Started | 2026-12-06 | 2026-12-14 |  |  | 0 | -79.2 |
 | A80880 | Excavation | MH-A12 /MH-A13 | Task | Completed | 2026-11-30 | 2026-12-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80890 | Pipe Laying | MH-A12 /MH-A13 | Task | Completed | 2026-12-05 | 2026-12-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80900 | Install Manhole | MH-A12 /MH-A13 | Task | Completed | 2026-12-05 | 2026-12-09 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80910 | Testing & Inspection | MH-A12 /MH-A13 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -39.2 |
-| A80920 | Backfilling & Compaction | MH-A12 /MH-A13 | Task | Not Started | 2026-11-22 | 2026-11-30 |  |  | 0 | -74.2 |
+| A80910 | Testing & Inspection | MH-A12 /MH-A13 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -33.2 |
+| A80920 | Backfilling & Compaction | MH-A12 /MH-A13 | Task | Not Started | 2026-11-28 | 2026-12-06 |  |  | 0 | -79.2 |
 | A80930 | Excavation | MH-A11 /MH-A12 | Task | Completed | 2026-11-25 | 2026-11-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80940 | Pipe Laying | MH-A11 /MH-A12 | Task | Completed | 2026-11-30 | 2026-12-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80950 | Install Manhole | MH-A11 /MH-A12 | Task | Completed | 2026-11-30 | 2026-12-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A80960 | Testing & Inspection | MH-A11 /MH-A12 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -46.2 |
-| A80970 | Backfilling & Compaction | MH-A11 /MH-A12 | Task | Not Started | 2026-11-14 | 2026-11-22 |  |  | 0 | -74.2 |
+| A80960 | Testing & Inspection | MH-A11 /MH-A12 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -40.2 |
+| A80970 | Backfilling & Compaction | MH-A11 /MH-A12 | Task | Not Started | 2026-11-19 | 2026-11-28 |  |  | 0 | -79.2 |
 | A80980 | Excavation | MH-A10 /MH-A11 | Task | Completed | 2026-11-21 | 2026-11-25 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A80990 | Pipe Laying | MH-A10 /MH-A11 | Task | Completed | 2026-11-25 | 2026-12-12 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81000 | Install Manhole | MH-A10 /MH-A11 | Task | Completed | 2026-11-25 | 2026-11-30 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81010 | Testing & Inspection | MH-A10 /MH-A11 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -53.2 |
-| A81020 | Backfilling & Compaction | MH-A10 /MH-A11 | Task | Not Started | 2026-11-05 | 2026-11-14 |  |  | 0 | -74.2 |
+| A81010 | Testing & Inspection | MH-A10 /MH-A11 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -47.2 |
+| A81020 | Backfilling & Compaction | MH-A10 /MH-A11 | Task | Not Started | 2026-11-11 | 2026-11-19 |  |  | 0 | -79.2 |
 | A81030 | Excavation | MH-A9 /MH-A10 | Task | Completed | 2026-11-16 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81040 | Pipe Laying | MH-A9 /MH-A10 | Task | Completed | 2026-11-21 | 2026-12-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81050 | Install Manhole | MH-A9 /MH-A10 | Task | Completed | 2026-11-21 | 2026-11-25 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81060 | Testing & Inspection | MH-A9 /MH-A10 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -60.2 |
-| A81070 | Backfilling & Compaction | MH-A9 /MH-A10 | Task | Not Started | 2026-10-28 | 2026-11-05 |  |  | 0 | -74.2 |
+| A81060 | Testing & Inspection | MH-A9 /MH-A10 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -54.2 |
+| A81070 | Backfilling & Compaction | MH-A9 /MH-A10 | Task | Not Started | 2026-11-03 | 2026-11-11 |  |  | 0 | -79.2 |
 | A81080 | Excavation | MH-A8 /MH-A9 | Task | Completed | 2026-11-11 | 2026-11-16 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81090 | Pipe Laying | MH-A8 /MH-A9 | Task | Completed | 2026-11-16 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81100 | Install Manhole | MH-A8 /MH-A9 | Task | Completed | 2026-11-16 | 2026-11-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81110 | Testing & Inspection | MH-A8 /MH-A9 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -67.2 |
-| A81120 | Backfilling & Compaction | MH-A8 /MH-A9 | Task | Not Started | 2026-10-20 | 2026-10-28 |  |  | 0 | -74.2 |
+| A81110 | Testing & Inspection | MH-A8 /MH-A9 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -61.2 |
+| A81120 | Backfilling & Compaction | MH-A8 /MH-A9 | Task | Not Started | 2026-10-26 | 2026-11-03 |  |  | 0 | -79.2 |
 | A81130 | Excavation | MH-A7 /MH-A8 | Task | Completed | 2026-11-07 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81140 | Pipe Laying | MH-A7 /MH-A8 | Task | Completed | 2026-11-11 | 2026-11-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81150 | Install Manhole | MH-A7 /MH-A8 | Task | Completed | 2026-11-11 | 2026-11-16 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81160 | Testing & Inspection | MH-A7 /MH-A8 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
-| A81170 | Backfilling & Compaction | MH-A7 /MH-A8 | Task | Not Started | 2026-10-12 | 2026-10-20 |  |  | 0 | -74.2 |
+| A81160 | Testing & Inspection | MH-A7 /MH-A8 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -68.2 |
+| A81170 | Backfilling & Compaction | MH-A7 /MH-A8 | Task | Not Started | 2026-10-18 | 2026-10-26 |  |  | 0 | -79.2 |
 | A81180 | Excavation | MH-A6 /MH-A7 | Task | Completed | 2026-11-02 | 2026-11-07 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81190 | Pipe Laying | MH-A6 /MH-A7 | Task | Completed | 2026-11-07 | 2026-11-23 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81200 | Install Manhole | MH-A6 /MH-A7 | Task | Completed | 2026-11-07 | 2026-11-11 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81210 | Testing & Inspection | MH-A6 /MH-A7 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
-| A81220 | Backfilling & Compaction | MH-A6 /MH-A7 | Task | Completed | 2026-10-20 | 2026-10-25 | 2026-08-20 | 2026-09-28 | 100 |  |
+| A81210 | Testing & Inspection | MH-A6 /MH-A7 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -72.2 |
+| A81220 | Backfilling & Compaction | MH-A6 /MH-A7 | Task | Not Started | 2026-10-13 | 2026-10-18 |  |  | 0 | -79.2 |
 | A81230 | Excavation | MH-A5 /MH-A6 | Task | Completed | 2026-10-28 | 2026-11-02 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81240 | Pipe Laying | MH-A5 /MH-A6 | Task | Completed | 2026-11-02 | 2026-11-18 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81250 | Install Manhole | MH-A5 /MH-A6 | Task | Completed | 2026-11-02 | 2026-11-07 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81260 | Testing & Inspection | MH-A5 /MH-A6 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
-| A81270 | Backfilling & Compaction | MH-A5 /MH-A6 | Task | Completed | 2026-10-12 | 2026-10-20 | 2026-08-20 | 2026-09-28 | 100 |  |
+| A81260 | Testing & Inspection | MH-A5 /MH-A6 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
+| A81270 | Backfilling & Compaction | MH-A5 /MH-A6 | Task | Not Started | 2026-10-05 | 2026-10-13 |  |  | 0 | -79.2 |
 | A81280 | Excavation | MH-A4 /MH-A5 | Task | Completed | 2026-10-24 | 2026-10-28 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81290 | Pipe Laying | MH-A4 /MH-A5 | Task | Completed | 2026-10-28 | 2026-11-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81300 | Install Manhole | MH-A4 /MH-A5 | Task | Completed | 2026-10-28 | 2026-11-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81310 | Testing & Inspection | MH-A4 /MH-A5 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81310 | Testing & Inspection | MH-A4 /MH-A5 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81320 | Backfilling & Compaction | MH-A4 /MH-A5 | Task | Completed | 2026-10-29 | 2026-11-07 | 2026-09-21 | 2026-10-01 | 100 |  |
 | A81330 | Excavation | MH-3 A /MH-4 | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81340 | Pipe Laying | MH-3 A /MH-4 | Task | Completed | 2026-10-24 | 2026-11-09 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81350 | Install Manhole | MH-3 A /MH-4 | Task | Completed | 2026-10-24 | 2026-10-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81360 | Testing & Inspection | MH-3 A /MH-4 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81360 | Testing & Inspection | MH-3 A /MH-4 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81370 | Backfilling & Compaction | MH-3 A /MH-4 | Task | Completed | 2026-10-21 | 2026-10-29 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A81380 | Excavation | TIN IN TOMH 1.1 | Task | Completed | 2026-09-30 | 2026-10-05 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81390 | Pipe Laying | TIN IN TOMH 1.1 | Task | Completed | 2026-10-05 | 2026-10-21 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81400 | Install Manhole | TIN IN TOMH 1.1 | Task | Completed | 2026-10-05 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81410 | Testing & Inspection | TIN IN TOMH 1.1 | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81410 | Testing & Inspection | TIN IN TOMH 1.1 | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81420 | Backfilling & Compaction | TIN IN TOMH 1.1 | Task | Completed | 2026-09-28 | 2026-10-06 | 2026-08-28 | 2026-09-28 | 100 |  |
 | A81430 | Excavation | O-A /MH-1A | Task | Completed | 2026-10-05 | 2026-10-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81440 | Pipe Laying | O-A /MH-1A | Task | Completed | 2026-10-10 | 2026-10-26 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81450 | Install Manhole | O-A /MH-1A | Task | Completed | 2026-10-10 | 2026-10-14 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81460 | Testing & Inspection | O-A /MH-1A | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81460 | Testing & Inspection | O-A /MH-1A | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81470 | Backfilling & Compaction | O-A /MH-1A | Task | Completed | 2026-10-06 | 2026-10-14 | 2026-09-06 | 2026-09-28 | 100 |  |
 | A81480 | Excavation | MH-1A /MH-2A | Task | Completed | 2026-10-10 | 2026-10-14 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81490 | Pipe Laying | MH-1A /MH-2A | Task | Completed | 2026-10-14 | 2026-10-31 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81500 | Install Manhole | MH-1A /MH-2A | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81510 | Testing & Inspection | MH-1A /MH-2A | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81510 | Testing & Inspection | MH-1A /MH-2A | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81520 | Backfilling & Compaction | MH-1A /MH-2A | Task | Completed | 2026-10-05 | 2026-10-13 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A81530 | Excavation | MH-2A /MH-3 A | Task | Completed | 2026-10-14 | 2026-10-19 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81540 | Pipe Laying | MH-2A /MH-3 A | Task | Completed | 2026-10-19 | 2026-11-04 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81550 | Install Manhole | MH-2A /MH-3 A | Task | Completed | 2026-10-19 | 2026-10-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A81560 | Testing & Inspection | MH-2A /MH-3 A | Task | Not Started | 2026-10-10 | 2026-10-12 |  |  | 0 | -74.2 |
+| A81560 | Testing & Inspection | MH-2A /MH-3 A | Task | Not Started | 2026-10-03 | 2026-10-05 |  |  | 0 | -79.2 |
 | A81570 | Backfilling & Compaction | MH-2A /MH-3 A | Task | Completed | 2026-10-13 | 2026-10-21 | 2026-09-26 | 2026-10-01 | 100 |  |
 | A81580 | Excavation | MH-A34 /MH-A35 | Task | Completed | 2027-04-18 | 2027-04-22 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81590 | Pipe Laying | MH-A34 /MH-A35 | Task | Completed | 2027-04-22 | 2027-05-17 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -5097,706 +5097,706 @@
 | A81700 | Install Manhole | MH-A32 /MH-A33 | Task | Completed | 2027-03-06 | 2027-03-10 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81710 | Testing & Inspection | MH-A32 /MH-A33 | Task | Completed | 2027-03-30 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A81720 | Backfilling & Compaction | MH-A32 /MH-A33 | Task | Completed | 2027-04-01 | 2027-04-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A84010 | Trenching & excavation | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-04-21 | 2027-04-29 | 2026-09-05 |  | 0 | -166.8 |
-| A84020 | Bedding preparation (sand) | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-04-26 | 2027-05-09 | 2026-09-05 |  | 0 | -158.7 |
-| A84030 | Duct installation / concrete encasement | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-01 | 2027-05-24 | 2026-09-05 |  | 0 | -158.7 |
-| A84040 | Backfilling & compaction | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-10 | 2027-06-02 | 2026-09-05 |  | 0 | -158.7 |
-| A84050 | Cable Laying | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-05 | 2027-05-29 | 2026-09-05 |  | 0 | -158.7 |
-| A84060 | Testing | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-25 | 2027-03-30 |  |  | 0 | -158.7 |
-| A84070 | RMU / transformer installation | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-14 | 2027-03-25 |  |  | 0 | -158.7 |
-| A84080 | Trenching & excavation | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-01 | 2027-05-09 | 2026-09-05 |  | 0 | -166.8 |
-| A84090 | Bedding preparation (sand) | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-05 | 2027-05-13 | 2026-09-05 |  | 0 | -164.3 |
-| A84100 | Duct installation / concrete encasement | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-10 | 2027-06-02 | 2026-09-05 |  | 0 | -164.3 |
-| A84110 | Backfilling & compaction | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-19 | 2027-06-12 | 2026-09-05 |  | 0 | -164.3 |
-| A84120 | Cable Laying | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-15 | 2027-06-07 | 2026-09-05 |  | 0 | -164.3 |
-| A84130 | Testing | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-04-01 | 2027-04-06 |  |  | 0 | -164.3 |
-| A84140 | RMU / transformer installation | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-03-21 | 2027-04-01 |  |  | 0 | -164.3 |
-| A84150 | Trenching & excavation | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-10 | 2027-05-18 | 2026-09-05 |  | 0 | -166.8 |
-| A84160 | Bedding preparation (sand) | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-13 | 2027-05-26 | 2026-09-05 |  | 0 | -166.8 |
-| A84170 | Duct installation / concrete encasement | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-17 | 2027-06-05 | 2026-09-05 |  | 0 | -166.8 |
-| A84180 | Backfilling & compaction | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-06-09 | 2027-07-03 | 2026-09-05 |  | 0 | -166.8 |
-| A84190 | Cable Laying | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-06-06 | 2027-06-24 | 2026-09-05 |  | 0 | -166.8 |
-| A84200 | Testing | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-04 | 2027-04-08 |  |  | 0 | -166.8 |
-| A84210 | RMU / transformer installation | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-03-23 | 2027-04-04 |  |  | 0 | -166.8 |
-| A84220 | Trenching for lighting network | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-12-19 | 2027-12-29 | 2026-09-05 |  | 0 | 100.9 |
-| A84230 | Installation of lighting poles & luminaires | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-03-21 | 2027-04-04 |  |  | 0 | 195.6 |
-| A84240 | Installation of lighting poles foundations | PSS 9067 - loop 02 Zone A | Task | In Progress | 2028-01-02 | 2028-01-15 | 2026-09-05 |  | 0 | 195.6 |
-| A84250 | LV cable laying & termination / Backfilling | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-12-26 | 2028-01-05 | 2026-09-05 |  | 0 | 136.7 |
-| A84260 | Street lighting sub-station construction & installation | PSS 9067 - loop 02 Zone A | Task | In Progress | 2028-01-06 | 2028-01-22 | 2026-09-05 |  | 0 | 136.7 |
-| A84270 | Trenching for lighting network | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-22 | 2027-04-03 |  |  | 0 | 100.9 |
-| A84280 | Installation of lighting poles & luminaires | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-04-12 | 2027-04-26 |  |  | 0 | 175.9 |
-| A84290 | Installation of lighting poles foundations | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-04-05 | 2027-04-19 |  |  | 0 | 175.9 |
-| A84300 | LV cable laying & termination / Backfilling | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-29 | 2027-04-10 |  |  | 0 | 110.9 |
-| A84310 | Street lighting sub-station construction & installation | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-04-10 | 2027-04-26 |  |  | 0 | 110.9 |
-| A84320 | Trenching for lighting network | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-03 | 2027-04-14 |  |  | 0 | 100.9 |
-| A84330 | Installation of lighting poles & luminaires | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-24 | 2027-05-08 |  |  | 0 | 165.9 |
-| A84340 | Installation of lighting poles foundations | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-17 | 2027-05-01 |  |  | 0 | 165.9 |
-| A84350 | LV cable laying & termination / Backfilling | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-10 | 2027-04-21 |  |  | 0 | 100.9 |
-| A84360 | Street lighting sub-station construction & installation | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-21 | 2027-05-08 |  |  | 0 | 100.9 |
-| A86130 | Trenching & excavation | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-01 | 2026-07-09 | 2026-09-05 |  | 0 | -82.8 |
-| A86140 | Bedding preparation (sand) | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-06 | 2026-07-21 | 2026-09-05 |  | 0 | -78.5 |
-| A86150 | Duct installation / concrete encasement | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-11 | 2026-07-30 | 2026-09-05 |  | 0 | -78.5 |
-| A86160 | Backfilling & compaction | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-05-02 | 2027-05-26 | 2026-09-05 |  | 0 | -78.5 |
-| A86170 | Cable Laying | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-15 | 2026-08-08 | 2026-09-05 |  | 0 | -78.5 |
-| A86180 | Testing | PSS 8714 - loop 01 Zone B | Task | Not Started | 2026-12-20 | 2026-12-26 |  |  | 0 | -78.5 |
-| A86190 | RMU / transformer installation | PSS 8714 - loop 01 Zone B | Task | Not Started | 2026-12-08 | 2026-12-20 |  |  | 0 | -78.5 |
-| A86200 | Trenching & excavation | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-11 | 2026-07-18 | 2026-09-05 |  | 0 | -82.8 |
-| A86210 | Bedding preparation (sand) | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-15 | 2026-07-30 | 2026-09-05 |  | 0 | -81.3 |
-| A86220 | Duct installation / concrete encasement | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-20 | 2026-08-09 | 2026-09-05 |  | 0 | -81.3 |
-| A86230 | Backfilling & compaction | PSS 8714 - loop 02 Zone B | Task | In Progress | 2027-05-06 | 2027-05-31 | 2026-09-05 |  | 0 | -81.3 |
-| A86240 | Cable Laying | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-25 | 2026-08-17 | 2026-09-05 |  | 0 | -81.3 |
-| A86250 | Testing | PSS 8714 - loop 02 Zone B | Task | Not Started | 2026-12-23 | 2026-12-29 |  |  | 0 | -81.3 |
-| A86260 | RMU / transformer installation | PSS 8714 - loop 02 Zone B | Task | Not Started | 2026-12-12 | 2026-12-23 |  |  | 0 | -81.3 |
-| A86270 | Trenching & excavation | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-19 | 2026-07-22 | 2026-09-05 |  | 0 | -82.8 |
-| A86280 | Bedding preparation (sand) | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-23 | 2026-08-08 | 2026-09-05 |  | 0 | -82.8 |
-| A86290 | Duct installation / concrete encasement | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-28 | 2026-08-17 | 2026-09-05 |  | 0 | -82.8 |
-| A86300 | Backfilling & compaction | PSS 8714 - loop 03 Zone B | Task | In Progress | 2027-05-11 | 2027-06-05 | 2026-09-05 |  | 0 | -82.8 |
-| A86310 | Cable Laying | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-08-02 | 2026-08-25 | 2026-09-05 |  | 0 | -82.8 |
-| A86320 | Testing | PSS 8714 - loop 03 Zone B | Task | Not Started | 2026-12-26 | 2026-12-30 |  |  | 0 | -82.8 |
-| A86330 | RMU / transformer installation | PSS 8714 - loop 03 Zone B | Task | Not Started | 2026-12-14 | 2026-12-26 |  |  | 0 | -82.8 |
-| A86340 | Trenching & excavation | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-07-23 | 2026-07-27 | 2026-09-05 |  | 0 | -79.0 |
-| A86350 | Bedding preparation (sand) | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-07-28 | 2026-08-05 | 2026-09-15 |  | 0 | -79.0 |
-| A86360 | Duct installation / concrete encasement | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-08-02 | 2026-08-10 | 2026-09-15 |  | 0 | -79.0 |
-| A86370 | Backfilling & compaction | PSS 8714 - loop 04 Zone B | Task | In Progress | 2027-05-13 | 2027-05-30 | 2026-09-15 |  | 0 | -79.0 |
-| A86380 | Cable Laying | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-08-06 | 2026-08-30 | 2026-09-15 |  | 0 | -79.0 |
-| A86390 | Testing | PSS 8714 - loop 04 Zone B | Task | Not Started | 2026-12-20 | 2026-12-26 |  |  | 0 | -79.0 |
-| A86400 | RMU / transformer installation | PSS 8714 - loop 04 Zone B | Task | Not Started | 2026-12-14 | 2026-12-20 |  |  | 0 | -79.0 |
-| A86410 | Trenching for lighting network | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-14 | 2027-11-25 | 2026-09-15 |  | 0 | 53.5 |
-| A86420 | Installation of lighting poles & luminaires | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-12-05 | 2027-12-21 | 2026-09-15 |  | 0 | 163.5 |
-| A86430 | Installation of lighting poles foundations | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-28 | 2027-12-14 | 2026-09-15 |  | 0 | 163.5 |
-| A86440 | LV cable laying & termination / Backfilling | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-21 | 2027-12-05 | 2026-09-15 |  | 0 | 91.4 |
-| A86450 | Street lighting sub-station construction & installation | PSS 8714 - loop 01 Zone B | Task | Not Started | 2027-05-01 | 2027-05-19 |  |  | 0 | 91.4 |
-| A86460 | Trenching for lighting network | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-01 | 2027-05-12 |  |  | 0 | 53.5 |
-| A86470 | Installation of lighting poles & luminaires | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-22 | 2027-06-07 |  |  | 0 | 140.5 |
-| A86480 | Installation of lighting poles foundations | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-15 | 2027-05-31 |  |  | 0 | 140.5 |
-| A86490 | LV cable laying & termination / Backfilling | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-08 | 2027-05-22 |  |  | 0 | 73.5 |
-| A86500 | Street lighting sub-station construction & installation | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-22 | 2027-06-09 |  |  | 0 | 73.5 |
-| A86510 | Trenching for lighting network | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-05-12 | 2027-05-24 |  |  | 0 | 53.5 |
-| A86520 | Installation of lighting poles & luminaires | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-06-02 | 2027-06-19 |  |  | 0 | 130.5 |
-| A86530 | Installation of lighting poles foundations | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-05-26 | 2027-06-12 |  |  | 0 | 130.5 |
-| A86540 | LV cable laying & termination / Backfilling | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-05-19 | 2027-06-02 |  |  | 0 | 63.5 |
-| A86550 | Street lighting sub-station construction & installation | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-06-02 | 2027-06-21 |  |  | 0 | 63.5 |
-| A86560 | Trenching for lighting network | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-05-24 | 2027-06-05 |  |  | 0 | 53.5 |
-| A86570 | Installation of lighting poles & luminaires | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-14 | 2027-06-30 |  |  | 0 | 120.5 |
-| A86580 | Installation of lighting poles foundations | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-07 | 2027-06-23 |  |  | 0 | 120.5 |
-| A86590 | LV cable laying & termination / Backfilling | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-05-31 | 2027-06-14 |  |  | 0 | 53.5 |
-| A86600 | Street lighting sub-station construction & installation | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-14 | 2027-07-03 |  |  | 0 | 53.5 |
-| A86610 | Trenching & Bedding | Road 1 | Task | In Progress | 2027-09-08 | 2027-09-19 | 2026-09-15 |  | 0 | -22.6 |
-| A86620 | Pipe Laying | Road 1 | Task | In Progress | 2027-09-12 | 2027-09-30 | 2026-09-15 |  | 0 | -22.6 |
-| A86630 | Backfilling & Compaction | Road 1 | Task | In Progress | 2027-10-06 | 2027-10-14 | 2026-09-15 |  | 0 | 11.0 |
-| A86640 | Testing | Road 1 | Task | In Progress | 2027-01-14 | 2027-01-19 | 2026-09-15 |  | 0 | -22.6 |
-| A86650 | Chambers Construction works | Road 1 | Task | Not Started | 2027-01-16 | 2027-02-03 |  |  | 0 | -22.6 |
-| A86660 | Valves & Fittings Installation | Road 1 | Task | Not Started | 2027-02-03 | 2027-02-24 |  |  | 0 | -22.6 |
+| A84010 | Trenching & excavation | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-04-21 | 2027-04-29 | 2026-09-05 |  | 0 | -165.3 |
+| A84020 | Bedding preparation (sand) | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-04-26 | 2027-05-09 | 2026-09-05 |  | 0 | -152.7 |
+| A84030 | Duct installation / concrete encasement | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-01 | 2027-05-24 | 2026-09-05 |  | 0 | -152.7 |
+| A84040 | Backfilling & compaction | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-10 | 2027-06-02 | 2026-09-05 |  | 0 | -152.7 |
+| A84050 | Cable Laying | PSS 9067 - loop 01 Zone A | Task | In Progress | 2027-05-05 | 2027-05-29 | 2026-09-05 |  | 0 | -152.7 |
+| A84060 | Testing | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-18 | 2027-03-23 |  |  | 0 | -152.7 |
+| A84070 | RMU / transformer installation | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-07 | 2027-03-18 |  |  | 0 | -152.7 |
+| A84080 | Trenching & excavation | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-01 | 2027-05-09 | 2026-09-05 |  | 0 | -165.3 |
+| A84090 | Bedding preparation (sand) | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-05 | 2027-05-13 | 2026-09-05 |  | 0 | -158.3 |
+| A84100 | Duct installation / concrete encasement | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-10 | 2027-06-02 | 2026-09-05 |  | 0 | -158.3 |
+| A84110 | Backfilling & compaction | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-19 | 2027-06-12 | 2026-09-05 |  | 0 | -158.3 |
+| A84120 | Cable Laying | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-05-15 | 2027-06-07 | 2026-09-05 |  | 0 | -158.3 |
+| A84130 | Testing | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-03-25 | 2027-03-30 |  |  | 0 | -158.3 |
+| A84140 | RMU / transformer installation | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-03-14 | 2027-03-25 |  |  | 0 | -158.3 |
+| A84150 | Trenching & excavation | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-10 | 2027-05-18 | 2026-09-05 |  | 0 | -165.3 |
+| A84160 | Bedding preparation (sand) | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-13 | 2027-05-26 | 2026-09-05 |  | 0 | -165.3 |
+| A84170 | Duct installation / concrete encasement | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-05-17 | 2027-06-05 | 2026-09-05 |  | 0 | -165.3 |
+| A84180 | Backfilling & compaction | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-06-09 | 2027-07-03 | 2026-09-05 |  | 0 | -165.3 |
+| A84190 | Cable Laying | PSS 9067 - loop 03 Zone A | Task | In Progress | 2027-06-06 | 2027-06-24 | 2026-09-05 |  | 0 | -165.3 |
+| A84200 | Testing | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-03 | 2027-04-07 |  |  | 0 | -165.3 |
+| A84210 | RMU / transformer installation | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-03-22 | 2027-04-03 |  |  | 0 | -165.3 |
+| A84220 | Trenching for lighting network | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-12-19 | 2027-12-29 | 2026-09-05 |  | 0 | 118.8 |
+| A84230 | Installation of lighting poles & luminaires | PSS 9067 - loop 02 Zone A | Task | Not Started | 2027-03-14 | 2027-03-28 |  |  | 0 | 214.1 |
+| A84240 | Installation of lighting poles foundations | PSS 9067 - loop 02 Zone A | Task | In Progress | 2028-01-02 | 2028-01-15 | 2026-09-05 |  | 0 | 214.1 |
+| A84250 | LV cable laying & termination / Backfilling | PSS 9067 - loop 02 Zone A | Task | In Progress | 2027-12-26 | 2028-01-05 | 2026-09-05 |  | 0 | 155.1 |
+| A84260 | Street lighting sub-station construction & installation | PSS 9067 - loop 02 Zone A | Task | In Progress | 2028-01-06 | 2028-01-22 | 2026-09-05 |  | 0 | 155.1 |
+| A84270 | Trenching for lighting network | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-16 | 2027-03-28 |  |  | 0 | 118.8 |
+| A84280 | Installation of lighting poles & luminaires | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-04-06 | 2027-04-20 |  |  | 0 | 193.8 |
+| A84290 | Installation of lighting poles foundations | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-30 | 2027-04-13 |  |  | 0 | 193.8 |
+| A84300 | LV cable laying & termination / Backfilling | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-03-23 | 2027-04-04 |  |  | 0 | 128.8 |
+| A84310 | Street lighting sub-station construction & installation | PSS 9067 - loop 01 Zone A | Task | Not Started | 2027-04-04 | 2027-04-20 |  |  | 0 | 128.8 |
+| A84320 | Trenching for lighting network | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-03-28 | 2027-04-08 |  |  | 0 | 118.8 |
+| A84330 | Installation of lighting poles & luminaires | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-18 | 2027-05-02 |  |  | 0 | 183.8 |
+| A84340 | Installation of lighting poles foundations | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-11 | 2027-04-25 |  |  | 0 | 183.8 |
+| A84350 | LV cable laying & termination / Backfilling | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-04 | 2027-04-15 |  |  | 0 | 118.8 |
+| A84360 | Street lighting sub-station construction & installation | PSS 9067 - loop 03 Zone A | Task | Not Started | 2027-04-15 | 2027-05-02 |  |  | 0 | 118.8 |
+| A86130 | Trenching & excavation | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-01 | 2026-07-09 | 2026-09-05 |  | 0 | -102.8 |
+| A86140 | Bedding preparation (sand) | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-06 | 2026-07-21 | 2026-09-05 |  | 0 | -97.8 |
+| A86150 | Duct installation / concrete encasement | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-11 | 2026-07-30 | 2026-09-05 |  | 0 | -97.8 |
+| A86160 | Backfilling & compaction | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-05-02 | 2027-05-26 | 2026-09-05 |  | 0 | -97.8 |
+| A86170 | Cable Laying | PSS 8714 - loop 01 Zone B | Task | In Progress | 2026-07-15 | 2026-08-08 | 2026-09-05 |  | 0 | -97.8 |
+| A86180 | Testing | PSS 8714 - loop 01 Zone B | Task | Not Started | 2027-01-11 | 2027-01-17 |  |  | 0 | -97.8 |
+| A86190 | RMU / transformer installation | PSS 8714 - loop 01 Zone B | Task | Not Started | 2026-12-30 | 2027-01-11 |  |  | 0 | -97.8 |
+| A86200 | Trenching & excavation | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-11 | 2026-07-18 | 2026-09-05 |  | 0 | -102.8 |
+| A86210 | Bedding preparation (sand) | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-15 | 2026-07-30 | 2026-09-05 |  | 0 | -101 |
+| A86220 | Duct installation / concrete encasement | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-20 | 2026-08-09 | 2026-09-05 |  | 0 | -101 |
+| A86230 | Backfilling & compaction | PSS 8714 - loop 02 Zone B | Task | In Progress | 2027-05-06 | 2027-05-31 | 2026-09-05 |  | 0 | -101 |
+| A86240 | Cable Laying | PSS 8714 - loop 02 Zone B | Task | In Progress | 2026-07-25 | 2026-08-17 | 2026-09-05 |  | 0 | -101 |
+| A86250 | Testing | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -101 |
+| A86260 | RMU / transformer installation | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-01-04 | 2027-01-14 |  |  | 0 | -101 |
+| A86270 | Trenching & excavation | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-19 | 2026-07-22 | 2026-09-05 |  | 0 | -102.8 |
+| A86280 | Bedding preparation (sand) | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-23 | 2026-08-08 | 2026-09-05 |  | 0 | -102.8 |
+| A86290 | Duct installation / concrete encasement | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-07-28 | 2026-08-17 | 2026-09-05 |  | 0 | -102.8 |
+| A86300 | Backfilling & compaction | PSS 8714 - loop 03 Zone B | Task | In Progress | 2027-05-11 | 2027-06-05 | 2026-09-05 |  | 0 | -102.8 |
+| A86310 | Cable Laying | PSS 8714 - loop 03 Zone B | Task | In Progress | 2026-08-02 | 2026-08-25 | 2026-09-05 |  | 0 | -102.8 |
+| A86320 | Testing | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-01-18 | 2027-01-23 |  |  | 0 | -102.8 |
+| A86330 | RMU / transformer installation | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-01-06 | 2027-01-18 |  |  | 0 | -102.8 |
+| A86340 | Trenching & excavation | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-07-23 | 2026-07-27 | 2026-09-05 |  | 0 | -99.2 |
+| A86350 | Bedding preparation (sand) | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-07-28 | 2026-08-05 | 2026-09-15 |  | 0 | -99.2 |
+| A86360 | Duct installation / concrete encasement | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-08-02 | 2026-08-10 | 2026-09-15 |  | 0 | -99.2 |
+| A86370 | Backfilling & compaction | PSS 8714 - loop 04 Zone B | Task | In Progress | 2027-05-13 | 2027-05-30 | 2026-09-15 |  | 0 | -99.2 |
+| A86380 | Cable Laying | PSS 8714 - loop 04 Zone B | Task | In Progress | 2026-08-06 | 2026-08-30 | 2026-09-15 |  | 0 | -99.2 |
+| A86390 | Testing | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-01-13 | 2027-01-19 |  |  | 0 | -99.2 |
+| A86400 | RMU / transformer installation | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-01-07 | 2027-01-13 |  |  | 0 | -99.2 |
+| A86410 | Trenching for lighting network | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-14 | 2027-11-25 | 2026-09-15 |  | 0 | 59.8 |
+| A86420 | Installation of lighting poles & luminaires | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-12-05 | 2027-12-21 | 2026-09-15 |  | 0 | 167.7 |
+| A86430 | Installation of lighting poles foundations | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-28 | 2027-12-14 | 2026-09-15 |  | 0 | 167.7 |
+| A86440 | LV cable laying & termination / Backfilling | PSS 8714 - loop 01 Zone B | Task | In Progress | 2027-11-21 | 2027-12-05 | 2026-09-15 |  | 0 | 97.7 |
+| A86450 | Street lighting sub-station construction & installation | PSS 8714 - loop 01 Zone B | Task | Not Started | 2027-05-08 | 2027-05-26 |  |  | 0 | 97.7 |
+| A86460 | Trenching for lighting network | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-08 | 2027-05-19 |  |  | 0 | 59.8 |
+| A86470 | Installation of lighting poles & luminaires | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-29 | 2027-06-14 |  |  | 0 | 146.8 |
+| A86480 | Installation of lighting poles foundations | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-22 | 2027-06-07 |  |  | 0 | 146.8 |
+| A86490 | LV cable laying & termination / Backfilling | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-15 | 2027-05-29 |  |  | 0 | 79.8 |
+| A86500 | Street lighting sub-station construction & installation | PSS 8714 - loop 02 Zone B | Task | Not Started | 2027-05-29 | 2027-06-16 |  |  | 0 | 79.8 |
+| A86510 | Trenching for lighting network | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-05-19 | 2027-05-31 |  |  | 0 | 59.8 |
+| A86520 | Installation of lighting poles & luminaires | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-06-09 | 2027-06-26 |  |  | 0 | 136.8 |
+| A86530 | Installation of lighting poles foundations | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-06-02 | 2027-06-19 |  |  | 0 | 136.8 |
+| A86540 | LV cable laying & termination / Backfilling | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-05-26 | 2027-06-09 |  |  | 0 | 69.8 |
+| A86550 | Street lighting sub-station construction & installation | PSS 8714 - loop 03 Zone B | Task | Not Started | 2027-06-09 | 2027-06-28 |  |  | 0 | 69.8 |
+| A86560 | Trenching for lighting network | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-05-31 | 2027-06-12 |  |  | 0 | 59.8 |
+| A86570 | Installation of lighting poles & luminaires | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-21 | 2027-07-07 |  |  | 0 | 126.8 |
+| A86580 | Installation of lighting poles foundations | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-14 | 2027-06-30 |  |  | 0 | 126.8 |
+| A86590 | LV cable laying & termination / Backfilling | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-07 | 2027-06-21 |  |  | 0 | 59.8 |
+| A86600 | Street lighting sub-station construction & installation | PSS 8714 - loop 04 Zone B | Task | Not Started | 2027-06-21 | 2027-07-10 |  |  | 0 | 59.8 |
+| A86610 | Trenching & Bedding | Road 1 | Task | In Progress | 2027-09-08 | 2027-09-19 | 2026-09-15 |  | 0 | -19.5 |
+| A86620 | Pipe Laying | Road 1 | Task | In Progress | 2027-09-12 | 2027-09-30 | 2026-09-15 |  | 0 | -19.5 |
+| A86630 | Backfilling & Compaction | Road 1 | Task | In Progress | 2027-10-06 | 2027-10-14 | 2026-09-15 |  | 0 | 14.1 |
+| A86640 | Testing | Road 1 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.5 |
+| A86650 | Chambers Construction works | Road 1 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.5 |
+| A86660 | Valves & Fittings Installation | Road 1 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.5 |
 | A86670 | Road Crossing Works | Road 1 | Task | Completed | 2027-06-10 | 2027-06-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A86680 | Trenching & Bedding | Road 2 | Task | In Progress | 2027-06-13 | 2027-06-29 | 2026-09-15 |  | 0 | -1.4 |
-| A86700 | Pipe Laying | Road 2 | Task | In Progress | 2027-06-22 | 2027-07-13 | 2026-09-15 |  | 0 | -1.4 |
-| A86720 | Backfilling & Compaction | Road 2 | Task | In Progress | 2027-07-18 | 2027-08-05 | 2026-09-15 |  | 0 | 31.8 |
-| A86710 | Testing | Road 2 | Task | In Progress | 2027-01-18 | 2027-01-23 | 2026-09-15 |  | 0 | -1.4 |
-| A86730 | Chambers Construction works | Road 2 | Task | Not Started | 2026-12-22 | 2027-01-10 |  |  | 0 | -1.4 |
-| A86740 | Valves & Fittings Installation | Road 2 | Task | Not Started | 2027-01-10 | 2027-01-31 |  |  | 0 | -1.4 |
+| A86680 | Trenching & Bedding | Road 2 | Task | In Progress | 2027-06-13 | 2027-06-29 | 2026-09-15 |  | 0 | -22.7 |
+| A86700 | Pipe Laying | Road 2 | Task | In Progress | 2027-06-22 | 2027-07-13 | 2026-09-15 |  | 0 | -22.7 |
+| A86720 | Backfilling & Compaction | Road 2 | Task | In Progress | 2027-07-18 | 2027-08-05 | 2026-09-15 |  | 0 | 10.5 |
+| A86710 | Testing | Road 2 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -22.7 |
+| A86730 | Chambers Construction works | Road 2 | Task | Not Started | 2027-01-16 | 2027-02-03 |  |  | 0 | -22.7 |
+| A86740 | Valves & Fittings Installation | Road 2 | Task | Not Started | 2027-02-03 | 2027-02-24 |  |  | 0 | -22.7 |
 | A86690 | Road Crossing Works | Road 2 | Task | Completed | 2027-06-10 | 2027-06-29 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A86750 | Trenching & Bedding | Road 3 | Task | Completed | 2027-03-31 | 2027-04-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A86770 | Pipe Laying | Road 3 | Task | In Progress | 2027-01-12 | 2027-01-28 | 2026-09-29 |  | 100 | 5.3 |
-| A86790 | Backfilling & Compaction | Road 3 | Task | Not Started | 2026-12-31 | 2027-01-09 |  |  | 0 | 17.3 |
-| A86780 | Testing | Road 3 | Task | Not Started | 2026-12-27 | 2026-12-31 |  |  | 0 | 5.3 |
-| A86800 | Chambers Construction works | Road 3 | Task | Not Started | 2026-12-31 | 2027-01-10 |  |  | 0 | 5.3 |
-| A86810 | Valves & Fittings Installation | Road 3 | Task | Not Started | 2027-01-10 | 2027-01-23 |  |  | 0 | 5.3 |
+| A86770 | Pipe Laying | Road 3 | Task | In Progress | 2027-01-12 | 2027-01-28 | 2026-09-29 |  | 100 | -14.0 |
+| A86790 | Backfilling & Compaction | Road 3 | Task | Not Started | 2027-01-24 | 2027-02-01 |  |  | 0 | -2.0 |
+| A86780 | Testing | Road 3 | Task | Not Started | 2027-01-19 | 2027-01-24 |  |  | 0 | -14.0 |
+| A86800 | Chambers Construction works | Road 3 | Task | Not Started | 2027-01-24 | 2027-02-02 |  |  | 0 | -14.0 |
+| A86810 | Valves & Fittings Installation | Road 3 | Task | Not Started | 2027-02-02 | 2027-02-15 |  |  | 0 | -14.0 |
 | A86760 | Road Crossing Works | Road 3 | Task | Completed | 2027-03-27 | 2027-04-12 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A86820 | Trenching & Bedding | Road 4 | Task | Not Started | 2026-11-28 | 2026-12-14 |  |  | 0 | -10.7 |
-| A86840 | Pipe Laying | Road 4 | Task | Not Started | 2026-12-07 | 2026-12-28 |  |  | 0 | -10.7 |
-| A86860 | Backfilling & Compaction | Road 4 | Task | Not Started | 2027-01-02 | 2027-01-20 |  |  | 0 | 7.3 |
-| A86850 | Testing | Road 4 | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | -10.7 |
-| A86870 | Chambers Construction works | Road 4 | Task | Not Started | 2027-01-02 | 2027-01-20 |  |  | 0 | -10.7 |
-| A86880 | Valves & Fittings Installation | Road 4 | Task | Not Started | 2027-01-20 | 2027-02-10 |  |  | 0 | -10.7 |
+| A86820 | Trenching & Bedding | Road 4 | Task | Not Started | 2026-12-21 | 2027-01-06 |  |  | 0 | -30.0 |
+| A86840 | Pipe Laying | Road 4 | Task | Not Started | 2026-12-30 | 2027-01-20 |  |  | 0 | -30.0 |
+| A86860 | Backfilling & Compaction | Road 4 | Task | Not Started | 2027-01-25 | 2027-02-13 |  |  | 0 | -12.0 |
+| A86850 | Testing | Road 4 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | -30.0 |
+| A86870 | Chambers Construction works | Road 4 | Task | Not Started | 2027-01-25 | 2027-02-13 |  |  | 0 | -30.0 |
+| A86880 | Valves & Fittings Installation | Road 4 | Task | Not Started | 2027-02-13 | 2027-03-06 |  |  | 0 | -30.0 |
 | A86830 | Road Crossing Works | Road 4 | Task | Completed | 2027-01-31 | 2027-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A86890 | Trenching & Bedding | Road 5 | Task | Not Started | 2027-03-01 | 2027-03-17 |  |  | 0 | -90.1 |
-| A86910 | Pipe Laying | Road 5 | Task | Not Started | 2027-03-10 | 2027-03-31 |  |  | 0 | -90.1 |
-| A86930 | Backfilling & Compaction | Road 5 | Task | Not Started | 2027-04-05 | 2027-04-24 |  |  | 0 | -72.1 |
-| A86920 | Testing | Road 5 | Task | Not Started | 2027-03-31 | 2027-04-05 |  |  | 0 | -90.1 |
-| A86940 | Chambers Construction works | Road 5 | Task | Not Started | 2027-04-05 | 2027-04-24 |  |  | 0 | -90.1 |
-| A86950 | Valves & Fittings Installation | Road 5 | Task | Not Started | 2027-04-24 | 2027-05-15 |  |  | 0 | -90.1 |
+| A86890 | Trenching & Bedding | Road 5 | Task | Not Started | 2027-02-22 | 2027-03-10 |  |  | 0 | -84.1 |
+| A86910 | Pipe Laying | Road 5 | Task | Not Started | 2027-03-03 | 2027-03-24 |  |  | 0 | -84.1 |
+| A86930 | Backfilling & Compaction | Road 5 | Task | Not Started | 2027-03-29 | 2027-04-17 |  |  | 0 | -66.1 |
+| A86920 | Testing | Road 5 | Task | Not Started | 2027-03-24 | 2027-03-29 |  |  | 0 | -84.1 |
+| A86940 | Chambers Construction works | Road 5 | Task | Not Started | 2027-03-29 | 2027-04-17 |  |  | 0 | -84.1 |
+| A86950 | Valves & Fittings Installation | Road 5 | Task | Not Started | 2027-04-17 | 2027-05-08 |  |  | 0 | -84.1 |
 | A86900 | Road Crossing Works | Road 5 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A86960 | Trenching & Bedding | Road 6 | Task | Not Started | 2026-11-23 | 2026-12-09 |  |  | 0 | -79.3 |
-| A86980 | Pipe Laying | Road 6 | Task | Not Started | 2026-12-02 | 2026-12-23 |  |  | 0 | -79.3 |
-| A87000 | Backfilling & Compaction | Road 6 | Task | Not Started | 2026-12-28 | 2027-01-16 |  |  | 0 | 11.7 |
-| A86990 | Testing | Road 6 | Task | Not Started | 2026-12-23 | 2026-12-28 |  |  | 0 | -79.3 |
-| A87010 | Chambers Construction works | Road 6 | Task | Not Started | 2026-12-28 | 2027-01-16 |  |  | 0 | -79.3 |
-| A87020 | Valves & Fittings Installation | Road 6 | Task | Not Started | 2027-01-16 | 2027-02-06 |  |  | 0 | -6.3 |
+| A86960 | Trenching & Bedding | Road 6 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -93.3 |
+| A86980 | Pipe Laying | Road 6 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -93.3 |
+| A87000 | Backfilling & Compaction | Road 6 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.3 |
+| A86990 | Testing | Road 6 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -93.3 |
+| A87010 | Chambers Construction works | Road 6 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -93.3 |
+| A87020 | Valves & Fittings Installation | Road 6 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.3 |
 | A86970 | Road Crossing Works | Road 6 | Task | Completed | 2026-12-30 | 2027-01-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87030 | Trenching & Bedding | Road 7 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -25.7 |
-| A87050 | Pipe Laying | Road 7 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A87070 | Backfilling & Compaction | Road 7 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.7 |
-| A87060 | Testing | Road 7 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A87080 | Chambers Construction works | Road 7 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A87090 | Valves & Fittings Installation | Road 7 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A87030 | Trenching & Bedding | Road 7 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -45.0 |
+| A87050 | Pipe Laying | Road 7 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A87070 | Backfilling & Compaction | Road 7 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -22.0 |
+| A87060 | Testing | Road 7 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A87080 | Chambers Construction works | Road 7 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A87090 | Valves & Fittings Installation | Road 7 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A87040 | Road Crossing Works | Road 7 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87100 | Trenching & Bedding | Road 8 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -20.7 |
-| A87120 | Pipe Laying | Road 8 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A87140 | Backfilling & Compaction | Road 8 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.7 |
-| A87130 | Testing | Road 8 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A87150 | Chambers Construction works | Road 8 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A87160 | Valves & Fittings Installation | Road 8 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A87100 | Trenching & Bedding | Road 8 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -40.0 |
+| A87120 | Pipe Laying | Road 8 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A87140 | Backfilling & Compaction | Road 8 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -22.0 |
+| A87130 | Testing | Road 8 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A87150 | Chambers Construction works | Road 8 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A87160 | Valves & Fittings Installation | Road 8 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A87110 | Road Crossing Works | Road 8 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87170 | Trenching & Bedding | Road 9 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -20.7 |
-| A87190 | Pipe Laying | Road 9 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A87210 | Backfilling & Compaction | Road 9 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.7 |
-| A87200 | Testing | Road 9 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A87220 | Chambers Construction works | Road 9 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A87230 | Valves & Fittings Installation | Road 9 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A87170 | Trenching & Bedding | Road 9 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -40.0 |
+| A87190 | Pipe Laying | Road 9 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A87210 | Backfilling & Compaction | Road 9 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -22.0 |
+| A87200 | Testing | Road 9 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A87220 | Chambers Construction works | Road 9 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A87230 | Valves & Fittings Installation | Road 9 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A87180 | Road Crossing Works | Road 9 | Task | Completed | 2027-03-02 | 2027-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87240 | Trenching & Bedding | Road 10 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | 7.3 |
-| A87260 | Pipe Laying | Road 10 | Task | Not Started | 2026-12-19 | 2026-12-30 |  |  | 0 | 7.3 |
-| A87280 | Backfilling & Compaction | Road 10 | Task | Not Started | 2027-01-04 | 2027-01-12 |  |  | 0 | 14.3 |
-| A87270 | Testing | Road 10 | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | 7.3 |
-| A87290 | Chambers Construction works | Road 10 | Task | Not Started | 2027-01-04 | 2027-01-12 |  |  | 0 | 7.3 |
-| A87300 | Valves & Fittings Installation | Road 10 | Task | Not Started | 2027-01-12 | 2027-01-20 |  |  | 0 | 7.3 |
+| A87240 | Trenching & Bedding | Road 10 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -12.0 |
+| A87260 | Pipe Laying | Road 10 | Task | Not Started | 2027-01-11 | 2027-01-23 |  |  | 0 | -12.0 |
+| A87280 | Backfilling & Compaction | Road 10 | Task | Not Started | 2027-01-27 | 2027-02-04 |  |  | 0 | -5.0 |
+| A87270 | Testing | Road 10 | Task | Not Started | 2027-01-23 | 2027-01-27 |  |  | 0 | -12.0 |
+| A87290 | Chambers Construction works | Road 10 | Task | Not Started | 2027-01-27 | 2027-02-04 |  |  | 0 | -12.0 |
+| A87300 | Valves & Fittings Installation | Road 10 | Task | Not Started | 2027-02-04 | 2027-02-13 |  |  | 0 | -12.0 |
 | A87250 | Road Crossing Works | Road 10 | Task | Completed | 2027-02-11 | 2027-02-23 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87310 | Trenching & Bedding | Road 11 | Task | In Progress | 2027-07-24 | 2027-07-29 | 2026-09-15 |  | 0 | 19.8 |
-| A87330 | Pipe Laying | Road 11 | Task | In Progress | 2027-08-02 | 2027-08-08 | 2026-09-15 |  | 0 | 19.8 |
-| A87350 | Backfilling & Compaction | Road 11 | Task | In Progress | 2027-03-01 | 2027-03-07 | 2026-09-15 |  | 0 | 29.3 |
-| A87340 | Testing | Road 11 | Task | Not Started | 2026-12-20 | 2026-12-26 |  |  | 0 | 19.8 |
-| A87360 | Chambers Construction works | Road 11 | Task | Not Started | 2026-12-26 | 2026-12-31 |  |  | 0 | 19.8 |
-| A87370 | Valves & Fittings Installation | Road 11 | Task | Not Started | 2026-12-31 | 2027-01-06 |  |  | 0 | 19.8 |
+| A87310 | Trenching & Bedding | Road 11 | Task | In Progress | 2027-07-24 | 2027-07-29 | 2026-09-15 |  | 0 | 0.5 |
+| A87330 | Pipe Laying | Road 11 | Task | In Progress | 2027-08-02 | 2027-08-08 | 2026-09-15 |  | 0 | 0.5 |
+| A87350 | Backfilling & Compaction | Road 11 | Task | In Progress | 2027-03-01 | 2027-03-07 | 2026-09-15 |  | 0 | 10.0 |
+| A87340 | Testing | Road 11 | Task | Not Started | 2027-01-11 | 2027-01-17 |  |  | 0 | 0.5 |
+| A87360 | Chambers Construction works | Road 11 | Task | Not Started | 2027-01-17 | 2027-01-23 |  |  | 0 | 0.5 |
+| A87370 | Valves & Fittings Installation | Road 11 | Task | Not Started | 2027-01-23 | 2027-01-28 |  |  | 0 | 0.5 |
 | A87320 | Road Crossing Works | Road 11 | Task | Completed | 2027-07-24 | 2027-07-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87380 | Trenching & Bedding | Road 12 | Task | Not Started | 2026-12-09 | 2026-12-13 |  |  | 0 | 16.3 |
-| A87400 | Pipe Laying | Road 12 | Task | Not Started | 2026-12-19 | 2026-12-24 |  |  | 0 | 16.3 |
-| A87420 | Backfilling & Compaction | Road 12 | Task | Not Started | 2026-12-29 | 2027-01-04 |  |  | 0 | 21.3 |
-| A87410 | Testing | Road 12 | Task | Not Started | 2026-12-24 | 2026-12-29 |  |  | 0 | 16.3 |
-| A87430 | Chambers Construction works | Road 12 | Task | Not Started | 2026-12-29 | 2027-01-04 |  |  | 0 | 16.3 |
-| A87440 | Valves & Fittings Installation | Road 12 | Task | Not Started | 2027-01-04 | 2027-01-10 |  |  | 0 | 16.3 |
+| A87380 | Trenching & Bedding | Road 12 | Task | Not Started | 2027-01-02 | 2027-01-05 |  |  | 0 | -3.0 |
+| A87400 | Pipe Laying | Road 12 | Task | Not Started | 2027-01-11 | 2027-01-17 |  |  | 0 | -3.0 |
+| A87420 | Backfilling & Compaction | Road 12 | Task | Not Started | 2027-01-21 | 2027-01-27 |  |  | 0 | 2.0 |
+| A87410 | Testing | Road 12 | Task | Not Started | 2027-01-17 | 2027-01-21 |  |  | 0 | -3.0 |
+| A87430 | Chambers Construction works | Road 12 | Task | Not Started | 2027-01-21 | 2027-01-27 |  |  | 0 | -3.0 |
+| A87440 | Valves & Fittings Installation | Road 12 | Task | Not Started | 2027-01-27 | 2027-02-02 |  |  | 0 | -3.0 |
 | A87390 | Road Crossing Works | Road 12 | Task | Completed | 2027-02-11 | 2027-02-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87450 | Trenching & Bedding | Road 13 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -20.7 |
-| A87470 | Pipe Laying | Road 13 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A87490 | Backfilling & Compaction | Road 13 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.7 |
-| A87480 | Testing | Road 13 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A87500 | Chambers Construction works | Road 13 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A87510 | Valves & Fittings Installation | Road 13 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A87450 | Trenching & Bedding | Road 13 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -40.0 |
+| A87470 | Pipe Laying | Road 13 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A87490 | Backfilling & Compaction | Road 13 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -22.0 |
+| A87480 | Testing | Road 13 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A87500 | Chambers Construction works | Road 13 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A87510 | Valves & Fittings Installation | Road 13 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A87460 | Road Crossing Works | Road 13 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87520 | Trenching & Bedding | Road 14 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -20.7 |
-| A87540 | Pipe Laying | Road 14 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A87560 | Backfilling & Compaction | Road 14 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -2.7 |
-| A87550 | Testing | Road 14 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A87570 | Chambers Construction works | Road 14 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A87580 | Valves & Fittings Installation | Road 14 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A87520 | Trenching & Bedding | Road 14 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -40.0 |
+| A87540 | Pipe Laying | Road 14 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A87560 | Backfilling & Compaction | Road 14 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -22.0 |
+| A87550 | Testing | Road 14 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A87570 | Chambers Construction works | Road 14 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A87580 | Valves & Fittings Installation | Road 14 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A87530 | Road Crossing Works | Road 14 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87590 | Trenching & Bedding | Road 15 | Task | In Progress | 2027-01-07 | 2027-01-12 | 2026-10-01 |  | 0 | 26.3 |
-| A87610 | Pipe Laying | Road 15 | Task | In Progress | 2027-01-17 | 2027-01-21 | 2026-10-01 |  | 0 | 26.3 |
-| A87630 | Backfilling & Compaction | Road 15 | Task | Not Started | 2026-12-20 | 2026-12-24 |  |  | 0 | 30.3 |
-| A87620 | Testing | Road 15 | Task | In Progress | 2027-01-21 | 2027-01-26 | 2026-10-01 |  | 0 | 26.3 |
-| A87640 | Chambers Construction works | Road 15 | Task | Not Started | 2026-12-20 | 2026-12-24 |  |  | 0 | 26.3 |
-| A87650 | Valves & Fittings Installation | Road 15 | Task | Not Started | 2026-12-24 | 2026-12-29 |  |  | 0 | 26.3 |
+| A87590 | Trenching & Bedding | Road 15 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | -0.0 |
+| A87610 | Pipe Laying | Road 15 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -0.0 |
+| A87630 | Backfilling & Compaction | Road 15 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | 4.0 |
+| A87620 | Testing | Road 15 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -0.0 |
+| A87640 | Chambers Construction works | Road 15 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | -0.0 |
+| A87650 | Valves & Fittings Installation | Road 15 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -0.0 |
 | A87600 | Road Crossing Works | Road 15 | Task | Completed | 2027-02-11 | 2027-02-16 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87660 | Trenching & Bedding | Road 16 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 19.3 |
-| A87680 | Pipe Laying | Road 16 | Task | Not Started | 2026-12-19 | 2026-12-23 |  |  | 0 | 19.3 |
-| A87700 | Backfilling & Compaction | Road 16 | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | 23.3 |
-| A87690 | Testing | Road 16 | Task | Not Started | 2026-12-23 | 2026-12-28 |  |  | 0 | 19.3 |
-| A87710 | Chambers Construction works | Road 16 | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | 19.3 |
-| A87720 | Valves & Fittings Installation | Road 16 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 19.3 |
+| A87660 | Trenching & Bedding | Road 16 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | -0.0 |
+| A87680 | Pipe Laying | Road 16 | Task | Not Started | 2027-01-11 | 2027-01-16 |  |  | 0 | -0.0 |
+| A87700 | Backfilling & Compaction | Road 16 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | 4.0 |
+| A87690 | Testing | Road 16 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -0.0 |
+| A87710 | Chambers Construction works | Road 16 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | -0.0 |
+| A87720 | Valves & Fittings Installation | Road 16 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -0.0 |
 | A87670 | Road Crossing Works | Road 16 | Task | Completed | 2027-02-21 | 2027-02-25 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87730 | Trenching & Bedding | Collector 1 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | -13.7 |
-| A87750 | Pipe Laying | Collector 1 | Task | Not Started | 2026-12-19 | 2026-12-31 |  |  | 0 | -13.7 |
-| A87770 | Backfilling & Compaction | Collector 1 | Task | Not Started | 2027-01-05 | 2027-01-18 |  |  | 0 | 9.3 |
-| A87760 | Testing | Collector 1 | Task | Not Started | 2026-12-31 | 2027-01-05 |  |  | 0 | -13.7 |
-| A87780 | Chambers Construction works | Collector 1 | Task | Not Started | 2027-01-05 | 2027-01-24 |  |  | 0 | -13.7 |
-| A87790 | Valves & Fittings Installation | Collector 1 | Task | Not Started | 2027-01-24 | 2027-02-14 |  |  | 0 | -13.7 |
+| A87730 | Trenching & Bedding | Collector 1 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -33.0 |
+| A87750 | Pipe Laying | Collector 1 | Task | Not Started | 2027-01-11 | 2027-01-24 |  |  | 0 | -33.0 |
+| A87770 | Backfilling & Compaction | Collector 1 | Task | Not Started | 2027-01-28 | 2027-02-10 |  |  | 0 | -10.0 |
+| A87760 | Testing | Collector 1 | Task | Not Started | 2027-01-24 | 2027-01-28 |  |  | 0 | -33.0 |
+| A87780 | Chambers Construction works | Collector 1 | Task | Not Started | 2027-01-28 | 2027-02-16 |  |  | 0 | -33.0 |
+| A87790 | Valves & Fittings Installation | Collector 1 | Task | Not Started | 2027-02-16 | 2027-03-09 |  |  | 0 | -33.0 |
 | A87740 | Road Crossing Works | Collector 1 | Task | Completed | 2027-02-11 | 2027-02-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87800 | Trenching & Bedding | Road 18 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 100 | 7.7 |
-| A87820 | Pipe Laying | Road 18 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | 7.7 |
-| A87840 | Backfilling & Compaction | Road 18 | Task | In Progress | 2027-03-04 | 2027-03-23 | 2026-09-15 |  | 0 | 23.4 |
-| A87830 | Testing | Road 18 | Task | In Progress | 2027-01-09 | 2027-01-13 | 2026-09-15 |  | 0 | 7.7 |
-| A87850 | Chambers Construction works | Road 18 | Task | Not Started | 2026-12-12 | 2026-12-30 |  |  | 0 | 7.7 |
-| A87860 | Valves & Fittings Installation | Road 18 | Task | Not Started | 2026-12-30 | 2027-01-20 |  |  | 0 | 7.7 |
+| A87800 | Trenching & Bedding | Road 18 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 100 | -14.4 |
+| A87820 | Pipe Laying | Road 18 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | -19.0 |
+| A87840 | Backfilling & Compaction | Road 18 | Task | In Progress | 2027-03-04 | 2027-03-23 | 2026-09-15 |  | 0 | -3.3 |
+| A87830 | Testing | Road 18 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A87850 | Chambers Construction works | Road 18 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A87860 | Valves & Fittings Installation | Road 18 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A87810 | Road Crossing Works | Road 18 | Task | Completed | 2027-05-20 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87870 | Trenching & Bedding | Road 19 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 0 | 7.5 |
-| A87890 | Pipe Laying | Road 19 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | 7.5 |
-| A87910 | Backfilling & Compaction | Road 19 | Task | In Progress | 2027-06-27 | 2027-07-15 | 2026-09-15 |  | 100 | 23.1 |
-| A87900 | Testing | Road 19 | Task | In Progress | 2027-01-09 | 2027-01-13 | 2026-09-15 |  | 0 | 7.5 |
-| A87920 | Chambers Construction works | Road 19 | Task | Not Started | 2026-12-12 | 2026-12-30 |  |  | 0 | 7.5 |
-| A87930 | Valves & Fittings Installation | Road 19 | Task | Not Started | 2026-12-30 | 2027-01-20 |  |  | 0 | 7.5 |
+| A87870 | Trenching & Bedding | Road 19 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 0 | -14.6 |
+| A87890 | Pipe Laying | Road 19 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | -19.0 |
+| A87910 | Backfilling & Compaction | Road 19 | Task | In Progress | 2027-06-27 | 2027-07-15 | 2026-09-15 |  | 100 | -3.5 |
+| A87900 | Testing | Road 19 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A87920 | Chambers Construction works | Road 19 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A87930 | Valves & Fittings Installation | Road 19 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A87880 | Road Crossing Works | Road 19 | Task | Completed | 2027-05-20 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A87940 | Trenching & Bedding | Road 20 | Task | Completed | 2027-05-23 | 2027-06-08 | 2026-09-15 | 2026-10-04 | 100 |  |
-| A87960 | Pipe Laying | Road 20 | Task | Completed | 2027-06-01 | 2027-06-22 | 2026-09-15 | 2026-10-04 | 100 |  |
-| A87980 | Backfilling & Compaction | Road 20 | Task | Completed | 2027-06-27 | 2027-07-15 | 2026-09-15 | 2026-10-04 | 100 |  |
-| A87970 | Testing | Road 20 | Task | In Progress | 2027-01-09 | 2027-01-13 | 2026-09-15 |  | 0 | 8.6 |
-| A87990 | Chambers Construction works | Road 20 | Task | Not Started | 2026-12-10 | 2026-12-29 |  |  | 0 | 8.6 |
-| A88000 | Valves & Fittings Installation | Road 20 | Task | Not Started | 2026-12-29 | 2027-01-19 |  |  | 0 | 8.6 |
+| A87940 | Trenching & Bedding | Road 20 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 0 | -14.6 |
+| A87960 | Pipe Laying | Road 20 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | -19.0 |
+| A87980 | Backfilling & Compaction | Road 20 | Task | In Progress | 2027-06-27 | 2027-07-15 | 2026-09-15 |  | 0 | -3.5 |
+| A87970 | Testing | Road 20 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A87990 | Chambers Construction works | Road 20 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A88000 | Valves & Fittings Installation | Road 20 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A87950 | Road Crossing Works | Road 20 | Task | Completed | 2027-05-20 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88010 | Trenching & Bedding | Road 21 | Task | Completed | 2027-05-23 | 2027-06-08 | 2026-09-15 | 2026-10-06 | 100 |  |
-| A88030 | Pipe Laying | Road 21 | Task | Completed | 2027-06-01 | 2027-06-22 | 2026-09-15 | 2026-10-06 | 100 |  |
-| A88050 | Backfilling & Compaction | Road 21 | Task | Completed | 2027-06-27 | 2027-07-15 | 2026-09-15 | 2026-10-06 | 100 |  |
-| A88040 | Testing | Road 21 | Task | In Progress | 2027-01-07 | 2027-01-12 | 2026-10-01 |  | 0 | 8.9 |
-| A88060 | Chambers Construction works | Road 21 | Task | Not Started | 2026-12-10 | 2026-12-29 |  |  | 0 | 8.9 |
-| A88070 | Valves & Fittings Installation | Road 21 | Task | Not Started | 2026-12-29 | 2027-01-19 |  |  | 0 | 8.9 |
+| A88010 | Trenching & Bedding | Road 21 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 0 | -31.6 |
+| A88030 | Pipe Laying | Road 21 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | -19.0 |
+| A88050 | Backfilling & Compaction | Road 21 | Task | In Progress | 2027-06-27 | 2027-07-15 | 2026-09-15 |  | 0 | -3.7 |
+| A88040 | Testing | Road 21 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A88060 | Chambers Construction works | Road 21 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A88070 | Valves & Fittings Installation | Road 21 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A88020 | Road Crossing Works | Road 21 | Task | Completed | 2027-05-20 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88080 | Trenching & Bedding | Road 22 | Task | In Progress | 2027-01-07 | 2027-01-24 | 2026-10-04 |  | 0 | -20.9 |
-| A88100 | Pipe Laying | Road 22 | Task | In Progress | 2027-01-17 | 2027-02-07 | 2026-10-04 |  | 0 | -15.7 |
-| A88120 | Backfilling & Compaction | Road 22 | Task | Not Started | 2027-01-07 | 2027-01-26 |  |  | 0 | -15.7 |
-| A88110 | Testing | Road 22 | Task | Not Started | 2027-01-03 | 2027-01-07 |  |  | 0 | -15.7 |
-| A88130 | Chambers Construction works | Road 22 | Task | Not Started | 2027-01-07 | 2027-01-26 |  |  | 0 | -15.7 |
-| A88140 | Valves & Fittings Installation | Road 22 | Task | Not Started | 2027-01-26 | 2027-02-16 |  |  | 0 | -15.7 |
+| A88080 | Trenching & Bedding | Road 22 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -54.0 |
+| A88100 | Pipe Laying | Road 22 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A88120 | Backfilling & Compaction | Road 22 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A88110 | Testing | Road 22 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A88130 | Chambers Construction works | Road 22 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A88140 | Valves & Fittings Installation | Road 22 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A88090 | Road Crossing Works | Road 22 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88150 | Trenching & Bedding | Arterial 1 | Task | In Progress | 2027-06-08 | 2027-06-17 | 2026-09-15 |  | 0 | -39.0 |
-| A88170 | Pipe Laying | Arterial 1 | Task | In Progress | 2027-06-17 | 2027-07-08 | 2026-09-15 |  | 0 | 5.9 |
-| A88190 | Backfilling & Compaction | Arterial 1 | Task | In Progress | 2027-03-06 | 2027-03-24 | 2026-09-15 |  | 0 | 21.5 |
-| A88180 | Testing | Arterial 1 | Task | In Progress | 2027-01-09 | 2027-01-13 | 2026-09-15 |  | 0 | 5.9 |
-| A88200 | Chambers Construction works | Arterial 1 | Task | Not Started | 2026-12-14 | 2027-01-02 |  |  | 0 | 5.9 |
-| A88210 | Valves & Fittings Installation | Arterial 1 | Task | Not Started | 2027-01-02 | 2027-01-23 |  |  | 0 | 5.9 |
+| A88150 | Trenching & Bedding | Arterial 1 | Task | In Progress | 2027-06-08 | 2027-06-17 | 2026-09-15 |  | 0 | -58.3 |
+| A88170 | Pipe Laying | Arterial 1 | Task | In Progress | 2027-06-17 | 2027-07-08 | 2026-09-15 |  | 0 | -19.0 |
+| A88190 | Backfilling & Compaction | Arterial 1 | Task | In Progress | 2027-03-06 | 2027-03-24 | 2026-09-15 |  | 0 | -3.5 |
+| A88180 | Testing | Arterial 1 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A88200 | Chambers Construction works | Arterial 1 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A88210 | Valves & Fittings Installation | Arterial 1 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A88160 | Road Crossing Works | Arterial 1 | Task | Completed | 2027-06-08 | 2027-06-17 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88220 | Trenching & Bedding | Collector 2 | Task | In Progress | 2027-05-30 | 2027-06-08 | 2026-09-15 |  | 0 | 7.6 |
-| A88240 | Pipe Laying | Collector 2 | Task | In Progress | 2027-06-08 | 2027-06-29 | 2026-09-15 |  | 0 | 7.6 |
-| A88260 | Backfilling & Compaction | Collector 2 | Task | In Progress | 2027-07-04 | 2027-07-22 | 2026-09-15 |  | 0 | 22.8 |
-| A88250 | Testing | Collector 2 | Task | In Progress | 2027-01-10 | 2027-01-14 | 2026-09-15 |  | 0 | 7.6 |
-| A88270 | Chambers Construction works | Collector 2 | Task | Not Started | 2026-12-12 | 2026-12-30 |  |  | 0 | 7.6 |
-| A88280 | Valves & Fittings Installation | Collector 2 | Task | Not Started | 2026-12-30 | 2027-01-20 |  |  | 0 | 7.6 |
+| A88220 | Trenching & Bedding | Collector 2 | Task | In Progress | 2027-05-30 | 2027-06-08 | 2026-09-15 |  | 0 | -15.5 |
+| A88240 | Pipe Laying | Collector 2 | Task | In Progress | 2027-06-08 | 2027-06-29 | 2026-09-15 |  | 0 | -15.5 |
+| A88260 | Backfilling & Compaction | Collector 2 | Task | In Progress | 2027-07-04 | 2027-07-22 | 2026-09-15 |  | 0 | -0.7 |
+| A88250 | Testing | Collector 2 | Task | Not Started | 2027-01-03 | 2027-01-07 |  |  | 0 | -15.5 |
+| A88270 | Chambers Construction works | Collector 2 | Task | Not Started | 2027-01-07 | 2027-01-26 |  |  | 0 | -15.5 |
+| A88280 | Valves & Fittings Installation | Collector 2 | Task | Not Started | 2027-01-26 | 2027-02-16 |  |  | 0 | -15.5 |
 | A88230 | Road Crossing Works | Collector 2 | Task | Completed | 2027-05-30 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A88290 | Trenching & Bedding | Road 27 | Task | Completed | 2027-05-23 | 2027-05-30 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A88310 | Pipe Laying | Road 27 | Task | Completed | 2027-06-01 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A88330 | Backfilling & Compaction | Road 27 | Task | Completed | 2027-06-13 | 2027-06-20 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88320 | Testing | Road 27 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 5.3 |
-| A88340 | Chambers Construction works | Road 27 | Task | Not Started | 2026-12-14 | 2027-01-02 |  |  | 0 | 5.3 |
-| A88350 | Valves & Fittings Installation | Road 27 | Task | Not Started | 2027-01-02 | 2027-01-23 |  |  | 0 | 5.3 |
+| A88320 | Testing | Road 27 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | -14.0 |
+| A88340 | Chambers Construction works | Road 27 | Task | Not Started | 2027-01-06 | 2027-01-25 |  |  | 0 | -14.0 |
+| A88350 | Valves & Fittings Installation | Road 27 | Task | Not Started | 2027-01-25 | 2027-02-15 |  |  | 0 | -14.0 |
 | A88300 | Road Crossing Works | Road 27 | Task | Completed | 2027-05-20 | 2027-05-30 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88360 | Trenching & Bedding | Road 26 | Task | In Progress | 2027-06-16 | 2027-07-03 | 2026-09-15 |  | 0 | -12.9 |
-| A88380 | Pipe Laying | Road 26 | Task | In Progress | 2027-06-26 | 2027-07-17 | 2026-09-15 |  | 0 | -12.9 |
-| A88400 | Backfilling & Compaction | Road 26 | Task | In Progress | 2027-07-21 | 2027-08-09 | 2026-09-15 |  | 0 | 2.3 |
-| A88390 | Testing | Road 26 | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | -12.9 |
-| A88410 | Chambers Construction works | Road 26 | Task | Not Started | 2027-01-04 | 2027-01-23 |  |  | 0 | -12.9 |
-| A88420 | Valves & Fittings Installation | Road 26 | Task | Not Started | 2027-01-23 | 2027-02-13 |  |  | 0 | -12.9 |
+| A88360 | Trenching & Bedding | Road 26 | Task | In Progress | 2027-06-16 | 2027-07-03 | 2026-09-15 |  | 0 | -15.3 |
+| A88380 | Pipe Laying | Road 26 | Task | In Progress | 2027-06-26 | 2027-07-17 | 2026-09-15 |  | 0 | -19.0 |
+| A88400 | Backfilling & Compaction | Road 26 | Task | In Progress | 2027-07-21 | 2027-08-09 | 2026-09-15 |  | 0 | -4.1 |
+| A88390 | Testing | Road 26 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A88410 | Chambers Construction works | Road 26 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A88420 | Valves & Fittings Installation | Road 26 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A88370 | Road Crossing Works | Road 26 | Task | Completed | 2027-06-14 | 2027-07-03 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88430 | Trenching & Bedding | Road 25 | Task | Completed | 2027-05-23 | 2027-06-08 | 2026-09-15 | 2026-10-07 | 100 |  |
-| A88450 | Pipe Laying | Road 25 | Task | Completed | 2027-06-01 | 2027-06-22 | 2026-09-15 | 2026-10-07 | 100 |  |
-| A88470 | Backfilling & Compaction | Road 25 | Task | Completed | 2027-06-27 | 2027-07-15 | 2026-09-15 | 2026-10-07 | 100 |  |
-| A88460 | Testing | Road 25 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 5.3 |
-| A88480 | Chambers Construction works | Road 25 | Task | Not Started | 2026-12-14 | 2027-01-02 |  |  | 0 | 5.3 |
-| A88490 | Valves & Fittings Installation | Road 25 | Task | Not Started | 2027-01-02 | 2027-01-23 |  |  | 0 | 5.3 |
+| A88430 | Trenching & Bedding | Road 25 | Task | In Progress | 2027-05-23 | 2027-06-08 | 2026-09-15 |  | 0 | -32.1 |
+| A88450 | Pipe Laying | Road 25 | Task | In Progress | 2027-06-01 | 2027-06-22 | 2026-09-15 |  | 0 | -19.0 |
+| A88470 | Backfilling & Compaction | Road 25 | Task | In Progress | 2027-06-27 | 2027-07-15 | 2026-09-15 |  | 0 | -4.3 |
+| A88460 | Testing | Road 25 | Task | Not Started | 2027-01-07 | 2027-01-12 |  |  | 0 | -19.0 |
+| A88480 | Chambers Construction works | Road 25 | Task | Not Started | 2027-01-12 | 2027-01-31 |  |  | 0 | -19.0 |
+| A88490 | Valves & Fittings Installation | Road 25 | Task | Not Started | 2027-01-31 | 2027-02-21 |  |  | 0 | -19.0 |
 | A88440 | Road Crossing Works | Road 25 | Task | Completed | 2027-05-20 | 2027-06-08 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88500 | Trenching & Bedding | Road 24 | Task | Not Started | 2026-12-09 | 2026-12-26 |  |  | 0 | -25.7 |
-| A88520 | Pipe Laying | Road 24 | Task | Not Started | 2026-12-19 | 2027-01-09 |  |  | 0 | -20.7 |
-| A88540 | Backfilling & Compaction | Road 24 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A88530 | Testing | Road 24 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.7 |
-| A88550 | Chambers Construction works | Road 24 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.7 |
-| A88560 | Valves & Fittings Installation | Road 24 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.7 |
+| A88500 | Trenching & Bedding | Road 24 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -45.0 |
+| A88520 | Pipe Laying | Road 24 | Task | Not Started | 2027-01-11 | 2027-02-01 |  |  | 0 | -40.0 |
+| A88540 | Backfilling & Compaction | Road 24 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A88530 | Testing | Road 24 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -40.0 |
+| A88550 | Chambers Construction works | Road 24 | Task | Not Started | 2027-02-06 | 2027-02-24 |  |  | 0 | -40.0 |
+| A88560 | Valves & Fittings Installation | Road 24 | Task | Not Started | 2027-02-24 | 2027-03-17 |  |  | 0 | -40.0 |
 | A88510 | Road Crossing Works | Road 24 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88570 | Trenching & Bedding | Road 23 | Task | In Progress | 2027-01-24 | 2027-02-09 | 2026-10-04 |  | 0 | -20.9 |
-| A88590 | Pipe Laying | Road 23 | Task | In Progress | 2027-02-02 | 2027-02-23 | 2026-10-04 |  | 0 | -20.9 |
-| A88610 | Backfilling & Compaction | Road 23 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.9 |
-| A88600 | Testing | Road 23 | Task | Not Started | 2027-01-09 | 2027-01-13 |  |  | 0 | -20.9 |
-| A88620 | Chambers Construction works | Road 23 | Task | Not Started | 2027-01-13 | 2027-02-01 |  |  | 0 | -20.9 |
-| A88630 | Valves & Fittings Installation | Road 23 | Task | Not Started | 2027-02-01 | 2027-02-22 |  |  | 0 | -20.9 |
+| A88570 | Trenching & Bedding | Road 23 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -54.0 |
+| A88590 | Pipe Laying | Road 23 | Task | Not Started | 2027-01-27 | 2027-02-17 |  |  | 0 | -54.0 |
+| A88610 | Backfilling & Compaction | Road 23 | Task | Not Started | 2027-02-22 | 2027-03-13 |  |  | 0 | -54.0 |
+| A88600 | Testing | Road 23 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -54.0 |
+| A88620 | Chambers Construction works | Road 23 | Task | Not Started | 2027-02-22 | 2027-03-13 |  |  | 0 | -54.0 |
+| A88630 | Valves & Fittings Installation | Road 23 | Task | Not Started | 2027-03-13 | 2027-04-03 |  |  | 0 | -54.0 |
 | A88580 | Road Crossing Works | Road 23 | Task | Completed | 2027-02-11 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A72005 | Pipe Laying | Road 1 | Task | Not Started | 2027-01-16 | 2027-01-21 |  |  | 0 | -5 |
+| A72005 | Pipe Laying | Road 1 | Task | Not Started | 2027-01-09 | 2027-01-14 |  |  | 0 | 1 |
 | A88640 | Road Crossing Works | Road 1 | Task | Completed | 2027-08-07 | 2027-08-10 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88650 | Valve Chambers Civil Works | Road 1 | Task | Not Started | 2027-01-23 | 2027-01-28 |  |  | 0 | -5 |
-| A88660 | Valve Installation | Road 1 | Task | Not Started | 2027-01-30 | 2027-02-02 |  |  | 0 | -5 |
-| A88670 | Testing | Road 1 | Task | Not Started | 2027-02-03 | 2027-02-04 |  |  | 0 | -5 |
-| A88680 | Backfilling | Road 1 | Task | Not Started | 2027-02-06 | 2027-02-09 |  |  | 0 | -5 |
-| A88690 | Trench Excavation | Road 1 | Task | Not Started | 2027-01-11 | 2027-01-14 |  |  | 0 | -5 |
-| A88700 | Pipe Laying | Road 2 | Task | Not Started | 2026-12-14 | 2026-12-21 |  |  | 0 | 22.3 |
+| A88650 | Valve Chambers Civil Works | Road 1 | Task | Not Started | 2027-01-16 | 2027-01-21 |  |  | 0 | 1 |
+| A88660 | Valve Installation | Road 1 | Task | Not Started | 2027-01-23 | 2027-01-26 |  |  | 0 | 1 |
+| A88670 | Testing | Road 1 | Task | Not Started | 2027-01-27 | 2027-01-28 |  |  | 0 | 1 |
+| A88680 | Backfilling | Road 1 | Task | Not Started | 2027-01-30 | 2027-02-02 |  |  | 0 | 1 |
+| A88690 | Trench Excavation | Road 1 | Task | Not Started | 2027-01-04 | 2027-01-07 |  |  | 0 | 1 |
+| A88700 | Pipe Laying | Road 2 | Task | Not Started | 2027-01-06 | 2027-01-13 |  |  | 0 | 3.0 |
 | A88710 | Road Crossing Works | Road 2 | Task | Completed | 2027-02-23 | 2027-02-28 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88720 | Valve Chambers Civil Works | Road 2 | Task | Not Started | 2026-12-21 | 2026-12-28 |  |  | 0 | 22.3 |
-| A88730 | Valve Installation | Road 2 | Task | Not Started | 2026-12-28 | 2027-01-02 |  |  | 0 | 22.3 |
-| A88740 | Testing | Road 2 | Task | Not Started | 2027-01-02 | 2027-01-04 |  |  | 0 | 22.3 |
-| A88750 | Backfilling | Road 2 | Task | Not Started | 2027-01-04 | 2027-01-09 |  |  | 0 | 22.3 |
-| A88760 | Trench Excavation | Road 2 | Task | Not Started | 2026-12-09 | 2026-12-14 |  |  | 0 | 22.3 |
-| A88770 | Pipe Laying | Road 3 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 1.3 |
+| A88720 | Valve Chambers Civil Works | Road 2 | Task | Not Started | 2027-01-13 | 2027-01-20 |  |  | 0 | 3.0 |
+| A88730 | Valve Installation | Road 2 | Task | Not Started | 2027-01-20 | 2027-01-25 |  |  | 0 | 3.0 |
+| A88740 | Testing | Road 2 | Task | Not Started | 2027-01-25 | 2027-01-27 |  |  | 0 | 3.0 |
+| A88750 | Backfilling | Road 2 | Task | Not Started | 2027-01-27 | 2027-02-01 |  |  | 0 | 3.0 |
+| A88760 | Trench Excavation | Road 2 | Task | Not Started | 2027-01-02 | 2027-01-06 |  |  | 0 | 3.0 |
+| A88770 | Pipe Laying | Road 3 | Task | Not Started | 2027-01-18 | 2027-01-28 |  |  | 0 | -18.0 |
 | A88780 | Road Crossing Works | Road 3 | Task | Completed | 2027-04-22 | 2027-04-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88790 | Valve Chambers Civil Works | Road 3 | Task | Not Started | 2027-01-05 | 2027-01-16 |  |  | 0 | 1.3 |
-| A88800 | Valve Installation | Road 3 | Task | Not Started | 2027-01-16 | 2027-01-23 |  |  | 0 | 1.3 |
-| A88810 | Testing | Road 3 | Task | Not Started | 2027-01-23 | 2027-01-26 |  |  | 0 | 1.3 |
-| A88820 | Backfilling | Road 3 | Task | Not Started | 2027-01-26 | 2027-02-02 |  |  | 0 | 1.3 |
-| A88830 | Trench Excavation | Road 3 | Task | Not Started | 2026-12-19 | 2026-12-26 |  |  | 0 | 1.3 |
-| A88840 | Pipe Laying | Road 5 | Task | Not Started | 2027-03-17 | 2027-03-20 |  |  | 0 | -42.1 |
+| A88790 | Valve Chambers Civil Works | Road 3 | Task | Not Started | 2027-01-28 | 2027-02-08 |  |  | 0 | -18.0 |
+| A88800 | Valve Installation | Road 3 | Task | Not Started | 2027-02-08 | 2027-02-15 |  |  | 0 | -18.0 |
+| A88810 | Testing | Road 3 | Task | Not Started | 2027-02-15 | 2027-02-18 |  |  | 0 | -18.0 |
+| A88820 | Backfilling | Road 3 | Task | Not Started | 2027-02-18 | 2027-02-25 |  |  | 0 | -18.0 |
+| A88830 | Trench Excavation | Road 3 | Task | Not Started | 2027-01-11 | 2027-01-18 |  |  | 0 | -18.0 |
+| A88840 | Pipe Laying | Road 5 | Task | Not Started | 2027-03-10 | 2027-03-13 |  |  | 0 | -36.1 |
 | A88850 | Road Crossing Works | Road 5 | Task | Completed | 2027-03-04 | 2027-03-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88860 | Valve Chambers Civil Works | Road 5 | Task | Not Started | 2027-03-20 | 2027-03-22 |  |  | 0 | -42.1 |
-| A88870 | Valve Installation | Road 5 | Task | Not Started | 2027-03-22 | 2027-03-23 |  |  | 0 | -42.1 |
-| A88880 | Testing | Road 5 | Task | Not Started | 2027-03-23 | 2027-03-24 |  |  | 0 | -42.1 |
-| A88890 | Backfilling | Road 5 | Task | Not Started | 2027-03-24 | 2027-03-25 |  |  | 0 | -42.1 |
-| A88900 | Trench Excavation | Road 5 | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | -42.1 |
-| A88910 | Pipe Laying | Collector 1 | Task | In Progress | 2027-06-23 | 2027-06-30 | 2026-09-15 |  | 0 | 21.1 |
+| A88860 | Valve Chambers Civil Works | Road 5 | Task | Not Started | 2027-03-13 | 2027-03-15 |  |  | 0 | -36.1 |
+| A88870 | Valve Installation | Road 5 | Task | Not Started | 2027-03-15 | 2027-03-16 |  |  | 0 | -36.1 |
+| A88880 | Testing | Road 5 | Task | Not Started | 2027-03-16 | 2027-03-17 |  |  | 0 | -36.1 |
+| A88890 | Backfilling | Road 5 | Task | Not Started | 2027-03-17 | 2027-03-18 |  |  | 0 | -36.1 |
+| A88900 | Trench Excavation | Road 5 | Task | Not Started | 2027-03-09 | 2027-03-10 |  |  | 0 | -36.1 |
+| A88910 | Pipe Laying | Collector 1 | Task | In Progress | 2027-06-23 | 2027-06-30 | 2026-09-15 |  | 0 | 1.8 |
 | A88920 | Road Crossing Works | Collector 1 | Task | Completed | 2027-06-30 | 2027-07-05 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A88930 | Valve Chambers Civil Works | Collector 1 | Task | Not Started | 2026-12-22 | 2026-12-29 |  |  | 0 | 21.1 |
-| A88940 | Valve Installation | Collector 1 | Task | Not Started | 2026-12-29 | 2027-01-03 |  |  | 0 | 21.1 |
-| A88950 | Testing | Collector 1 | Task | Not Started | 2027-01-03 | 2027-01-05 |  |  | 0 | 21.1 |
-| A88960 | Backfilling | Collector 1 | Task | Not Started | 2027-01-05 | 2027-01-10 |  |  | 0 | 21.1 |
-| A88970 | Trench Excavation | Collector 1 | Task | In Progress | 2027-06-19 | 2027-06-23 | 2026-09-15 |  | 0 | 21.1 |
-| A88980 | Pipe Laying | Road 4 | Task | Not Started | 2026-12-14 | 2026-12-16 |  |  | 0 | 37.3 |
+| A88930 | Valve Chambers Civil Works | Collector 1 | Task | Not Started | 2027-01-14 | 2027-01-21 |  |  | 0 | 1.8 |
+| A88940 | Valve Installation | Collector 1 | Task | Not Started | 2027-01-21 | 2027-01-26 |  |  | 0 | 1.8 |
+| A88950 | Testing | Collector 1 | Task | Not Started | 2027-01-26 | 2027-01-28 |  |  | 0 | 1.8 |
+| A88960 | Backfilling | Collector 1 | Task | Not Started | 2027-01-28 | 2027-02-02 |  |  | 0 | 1.8 |
+| A88970 | Trench Excavation | Collector 1 | Task | In Progress | 2027-06-19 | 2027-06-23 | 2026-09-15 |  | 0 | 1.8 |
+| A88980 | Pipe Laying | Road 4 | Task | Not Started | 2027-01-06 | 2027-01-09 |  |  | 0 | 18.0 |
 | A88990 | Road Crossing Works | Road 4 | Task | Completed | 2027-02-21 | 2027-02-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89000 | Valve Chambers Civil Works | Road 4 | Task | Not Started | 2026-12-16 | 2026-12-19 |  |  | 0 | 37.3 |
-| A89010 | Valve Installation | Road 4 | Task | Not Started | 2026-12-19 | 2026-12-20 |  |  | 0 | 37.3 |
-| A89020 | Testing | Road 4 | Task | Not Started | 2026-12-20 | 2026-12-21 |  |  | 0 | 37.3 |
-| A89030 | Backfilling | Road 4 | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 37.3 |
-| A89040 | Trench Excavation | Road 4 | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | 37.3 |
-| A89050 | Pipe Laying | Road 6 | Task | Not Started | 2027-01-20 | 2027-01-30 |  |  | 0 | -79.3 |
+| A89000 | Valve Chambers Civil Works | Road 4 | Task | Not Started | 2027-01-09 | 2027-01-11 |  |  | 0 | 18.0 |
+| A89010 | Valve Installation | Road 4 | Task | Not Started | 2027-01-11 | 2027-01-12 |  |  | 0 | 18.0 |
+| A89020 | Testing | Road 4 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 18.0 |
+| A89030 | Backfilling | Road 4 | Task | Not Started | 2027-01-13 | 2027-01-14 |  |  | 0 | 18.0 |
+| A89040 | Trench Excavation | Road 4 | Task | Not Started | 2027-01-05 | 2027-01-06 |  |  | 0 | 18.0 |
+| A89050 | Pipe Laying | Road 6 | Task | Not Started | 2027-02-06 | 2027-02-15 |  |  | 0 | -93.3 |
 | A89060 | Road Crossing Works | Road 6 | Task | Completed | 2027-03-10 | 2027-03-15 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89070 | Valve Chambers Civil Works | Road 6 | Task | Not Started | 2027-01-30 | 2027-02-08 |  |  | 0 | -79.3 |
-| A89080 | Valve Installation | Road 6 | Task | Not Started | 2027-02-08 | 2027-02-13 |  |  | 0 | -79.3 |
-| A89090 | Testing | Road 6 | Task | Not Started | 2027-02-13 | 2027-02-17 |  |  | 0 | -79.3 |
-| A89100 | Backfilling | Road 6 | Task | Not Started | 2027-02-17 | 2027-02-22 |  |  | 0 | -79.3 |
-| A89110 | Trench Excavation | Road 6 | Task | Not Started | 2027-01-16 | 2027-01-20 |  |  | 0 | -79.3 |
-| A89120 | Pipe Laying | Road 7 | Task | Not Started | 2027-02-27 | 2027-03-08 |  |  | 0 | -79.3 |
+| A89070 | Valve Chambers Civil Works | Road 6 | Task | Not Started | 2027-02-15 | 2027-02-24 |  |  | 0 | -93.3 |
+| A89080 | Valve Installation | Road 6 | Task | Not Started | 2027-02-24 | 2027-03-01 |  |  | 0 | -93.3 |
+| A89090 | Testing | Road 6 | Task | Not Started | 2027-03-01 | 2027-03-06 |  |  | 0 | -93.3 |
+| A89100 | Backfilling | Road 6 | Task | Not Started | 2027-03-06 | 2027-03-10 |  |  | 0 | -93.3 |
+| A89110 | Trench Excavation | Road 6 | Task | Not Started | 2027-02-01 | 2027-02-06 |  |  | 0 | -93.3 |
+| A89120 | Pipe Laying | Road 7 | Task | Not Started | 2027-03-15 | 2027-03-24 |  |  | 0 | -93.3 |
 | A89130 | Road Crossing Works | Road 7 | Task | Completed | 2027-04-17 | 2027-04-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89140 | Valve Chambers Civil Works | Road 7 | Task | Not Started | 2027-03-08 | 2027-03-17 |  |  | 0 | -79.3 |
-| A89150 | Valve Installation | Road 7 | Task | Not Started | 2027-03-17 | 2027-03-22 |  |  | 0 | -79.3 |
-| A89160 | Testing | Road 7 | Task | Not Started | 2027-03-22 | 2027-03-27 |  |  | 0 | -79.3 |
-| A89170 | Backfilling | Road 7 | Task | Not Started | 2027-03-27 | 2027-03-31 |  |  | 0 | -79.3 |
-| A89180 | Trench Excavation | Road 7 | Task | Not Started | 2027-02-22 | 2027-02-27 |  |  | 0 | -79.3 |
-| A89190 | Pipe Laying | Road 8 | Task | Not Started | 2027-04-05 | 2027-04-14 |  |  | 0 | -79.3 |
+| A89140 | Valve Chambers Civil Works | Road 7 | Task | Not Started | 2027-03-24 | 2027-04-03 |  |  | 0 | -93.3 |
+| A89150 | Valve Installation | Road 7 | Task | Not Started | 2027-04-03 | 2027-04-07 |  |  | 0 | -93.3 |
+| A89160 | Testing | Road 7 | Task | Not Started | 2027-04-07 | 2027-04-12 |  |  | 0 | -93.3 |
+| A89170 | Backfilling | Road 7 | Task | Not Started | 2027-04-12 | 2027-04-17 |  |  | 0 | -93.3 |
+| A89180 | Trench Excavation | Road 7 | Task | Not Started | 2027-03-10 | 2027-03-15 |  |  | 0 | -93.3 |
+| A89190 | Pipe Laying | Road 8 | Task | Not Started | 2027-04-21 | 2027-05-01 |  |  | 0 | -93.3 |
 | A89200 | Road Crossing Works | Road 8 | Task | Completed | 2027-05-24 | 2027-05-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89210 | Valve Chambers Civil Works | Road 8 | Task | Not Started | 2027-04-14 | 2027-04-24 |  |  | 0 | -79.3 |
-| A89220 | Valve Installation | Road 8 | Task | Not Started | 2027-04-24 | 2027-04-28 |  |  | 0 | -79.3 |
-| A89230 | Testing | Road 8 | Task | Not Started | 2027-04-28 | 2027-05-03 |  |  | 0 | -79.3 |
-| A89240 | Backfilling | Road 8 | Task | Not Started | 2027-05-03 | 2027-05-08 |  |  | 0 | -79.3 |
-| A89250 | Trench Excavation | Road 8 | Task | Not Started | 2027-03-31 | 2027-04-05 |  |  | 0 | -79.3 |
-| A89260 | Pipe Laying | Road 9 | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 27.3 |
+| A89210 | Valve Chambers Civil Works | Road 8 | Task | Not Started | 2027-05-01 | 2027-05-10 |  |  | 0 | -93.3 |
+| A89220 | Valve Installation | Road 8 | Task | Not Started | 2027-05-10 | 2027-05-15 |  |  | 0 | -93.3 |
+| A89230 | Testing | Road 8 | Task | Not Started | 2027-05-15 | 2027-05-19 |  |  | 0 | -93.3 |
+| A89240 | Backfilling | Road 8 | Task | Not Started | 2027-05-19 | 2027-05-24 |  |  | 0 | -93.3 |
+| A89250 | Trench Excavation | Road 8 | Task | Not Started | 2027-04-17 | 2027-04-21 |  |  | 0 | -93.3 |
+| A89260 | Pipe Laying | Road 9 | Task | Not Started | 2027-01-18 | 2027-01-20 |  |  | 0 | 8.0 |
 | A89270 | Road Crossing Works | Road 9 | Task | Completed | 2027-03-23 | 2027-03-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89280 | Valve Chambers Civil Works | Road 9 | Task | Not Started | 2026-12-28 | 2026-12-30 |  |  | 0 | 27.3 |
-| A89290 | Valve Installation | Road 9 | Task | Not Started | 2026-12-30 | 2026-12-31 |  |  | 0 | 27.3 |
-| A89300 | Testing | Road 9 | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 27.3 |
-| A89310 | Backfilling | Road 9 | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 27.3 |
-| A89320 | Trench Excavation | Road 9 | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | 27.3 |
-| A89330 | Pipe Laying | Road 10 | Task | Not Started | 2026-12-21 | 2026-12-23 |  |  | 0 | 31.3 |
+| A89280 | Valve Chambers Civil Works | Road 9 | Task | Not Started | 2027-01-20 | 2027-01-23 |  |  | 0 | 8.0 |
+| A89290 | Valve Installation | Road 9 | Task | Not Started | 2027-01-23 | 2027-01-24 |  |  | 0 | 8.0 |
+| A89300 | Testing | Road 9 | Task | Not Started | 2027-01-24 | 2027-01-25 |  |  | 0 | 8.0 |
+| A89310 | Backfilling | Road 9 | Task | Not Started | 2027-01-25 | 2027-01-26 |  |  | 0 | 8.0 |
+| A89320 | Trench Excavation | Road 9 | Task | Not Started | 2027-01-17 | 2027-01-18 |  |  | 0 | 8.0 |
+| A89330 | Pipe Laying | Road 10 | Task | Not Started | 2027-01-13 | 2027-01-16 |  |  | 0 | 12.0 |
 | A89340 | Road Crossing Works | Road 10 | Task | Completed | 2027-02-25 | 2027-02-27 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89350 | Valve Chambers Civil Works | Road 10 | Task | Not Started | 2026-12-23 | 2026-12-26 |  |  | 0 | 31.3 |
-| A89360 | Valve Installation | Road 10 | Task | Not Started | 2026-12-26 | 2026-12-27 |  |  | 0 | 31.3 |
-| A89370 | Testing | Road 10 | Task | Not Started | 2026-12-27 | 2026-12-28 |  |  | 0 | 31.3 |
-| A89380 | Backfilling | Road 10 | Task | Not Started | 2026-12-28 | 2026-12-29 |  |  | 0 | 31.3 |
-| A89390 | Trench Excavation | Road 10 | Task | Not Started | 2026-12-20 | 2026-12-21 |  |  | 0 | 31.3 |
-| A89400 | Pipe Laying | Road 11 | Task | Not Started | 2026-12-10 | 2026-12-13 |  |  | 0 | 40.3 |
+| A89350 | Valve Chambers Civil Works | Road 10 | Task | Not Started | 2027-01-16 | 2027-01-18 |  |  | 0 | 12.0 |
+| A89360 | Valve Installation | Road 10 | Task | Not Started | 2027-01-18 | 2027-01-19 |  |  | 0 | 12.0 |
+| A89370 | Testing | Road 10 | Task | Not Started | 2027-01-19 | 2027-01-20 |  |  | 0 | 12.0 |
+| A89380 | Backfilling | Road 10 | Task | Not Started | 2027-01-20 | 2027-01-21 |  |  | 0 | 12.0 |
+| A89390 | Trench Excavation | Road 10 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 12.0 |
+| A89400 | Pipe Laying | Road 11 | Task | Not Started | 2027-01-03 | 2027-01-05 |  |  | 0 | 21.0 |
 | A89410 | Road Crossing Works | Road 11 | Task | Completed | 2027-02-16 | 2027-02-17 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89420 | Valve Chambers Civil Works | Road 11 | Task | Not Started | 2026-12-13 | 2026-12-15 |  |  | 0 | 40.3 |
-| A89430 | Valve Installation | Road 11 | Task | Not Started | 2026-12-15 | 2026-12-16 |  |  | 0 | 40.3 |
-| A89440 | Testing | Road 11 | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 40.3 |
-| A89450 | Backfilling | Road 11 | Task | Not Started | 2026-12-17 | 2026-12-19 |  |  | 0 | 40.3 |
-| A89460 | Trench Excavation | Road 11 | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 40.3 |
-| A89470 | Pipe Laying | Road 12 | Task | Not Started | 2026-12-13 | 2026-12-15 |  |  | 0 | 38.3 |
+| A89420 | Valve Chambers Civil Works | Road 11 | Task | Not Started | 2027-01-05 | 2027-01-07 |  |  | 0 | 21.0 |
+| A89430 | Valve Installation | Road 11 | Task | Not Started | 2027-01-07 | 2027-01-09 |  |  | 0 | 21.0 |
+| A89440 | Testing | Road 11 | Task | Not Started | 2027-01-09 | 2027-01-10 |  |  | 0 | 21.0 |
+| A89450 | Backfilling | Road 11 | Task | Not Started | 2027-01-10 | 2027-01-11 |  |  | 0 | 21.0 |
+| A89460 | Trench Excavation | Road 11 | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 21.0 |
+| A89470 | Pipe Laying | Road 12 | Task | Not Started | 2027-01-05 | 2027-01-07 |  |  | 0 | 19.0 |
 | A89480 | Road Crossing Works | Road 12 | Task | Completed | 2027-02-17 | 2027-02-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89490 | Valve Chambers Civil Works | Road 12 | Task | Not Started | 2026-12-15 | 2026-12-17 |  |  | 0 | 38.3 |
-| A89500 | Valve Installation | Road 12 | Task | Not Started | 2026-12-17 | 2026-12-19 |  |  | 0 | 38.3 |
-| A89510 | Testing | Road 12 | Task | Not Started | 2026-12-19 | 2026-12-20 |  |  | 0 | 38.3 |
-| A89520 | Backfilling | Road 12 | Task | Not Started | 2026-12-20 | 2026-12-21 |  |  | 0 | 38.3 |
-| A89530 | Trench Excavation | Road 12 | Task | Not Started | 2026-12-12 | 2026-12-13 |  |  | 0 | 38.3 |
-| A89540 | Pipe Laying | Road 13 | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 27.3 |
+| A89490 | Valve Chambers Civil Works | Road 12 | Task | Not Started | 2027-01-07 | 2027-01-10 |  |  | 0 | 19.0 |
+| A89500 | Valve Installation | Road 12 | Task | Not Started | 2027-01-10 | 2027-01-11 |  |  | 0 | 19.0 |
+| A89510 | Testing | Road 12 | Task | Not Started | 2027-01-11 | 2027-01-12 |  |  | 0 | 19.0 |
+| A89520 | Backfilling | Road 12 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 19.0 |
+| A89530 | Trench Excavation | Road 12 | Task | Not Started | 2027-01-04 | 2027-01-05 |  |  | 0 | 19.0 |
+| A89540 | Pipe Laying | Road 13 | Task | Not Started | 2027-01-18 | 2027-01-20 |  |  | 0 | 8.0 |
 | A89550 | Road Crossing Works | Road 13 | Task | Completed | 2027-03-04 | 2027-03-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89560 | Valve Chambers Civil Works | Road 13 | Task | Not Started | 2026-12-28 | 2026-12-30 |  |  | 0 | 27.3 |
-| A89570 | Valve Installation | Road 13 | Task | Not Started | 2026-12-30 | 2026-12-31 |  |  | 0 | 27.3 |
-| A89580 | Testing | Road 13 | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 27.3 |
-| A89590 | Backfilling | Road 13 | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 27.3 |
-| A89600 | Trench Excavation | Road 13 | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | 27.3 |
-| A89610 | Pipe Laying | Road 14 | Task | Not Started | 2026-12-26 | 2026-12-28 |  |  | 0 | 27.3 |
+| A89560 | Valve Chambers Civil Works | Road 13 | Task | Not Started | 2027-01-20 | 2027-01-23 |  |  | 0 | 8.0 |
+| A89570 | Valve Installation | Road 13 | Task | Not Started | 2027-01-23 | 2027-01-24 |  |  | 0 | 8.0 |
+| A89580 | Testing | Road 13 | Task | Not Started | 2027-01-24 | 2027-01-25 |  |  | 0 | 8.0 |
+| A89590 | Backfilling | Road 13 | Task | Not Started | 2027-01-25 | 2027-01-26 |  |  | 0 | 8.0 |
+| A89600 | Trench Excavation | Road 13 | Task | Not Started | 2027-01-17 | 2027-01-18 |  |  | 0 | 8.0 |
+| A89610 | Pipe Laying | Road 14 | Task | Not Started | 2027-01-18 | 2027-01-20 |  |  | 0 | 8.0 |
 | A89620 | Road Crossing Works | Road 14 | Task | Completed | 2027-03-04 | 2027-03-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89630 | Valve Chambers Civil Works | Road 14 | Task | Not Started | 2026-12-28 | 2026-12-30 |  |  | 0 | 27.3 |
-| A89640 | Valve Installation | Road 14 | Task | Not Started | 2026-12-30 | 2026-12-31 |  |  | 0 | 27.3 |
-| A89650 | Testing | Road 14 | Task | Not Started | 2026-12-31 | 2027-01-02 |  |  | 0 | 27.3 |
-| A89660 | Backfilling | Road 14 | Task | Not Started | 2027-01-02 | 2027-01-03 |  |  | 0 | 27.3 |
-| A89670 | Trench Excavation | Road 14 | Task | Not Started | 2026-12-24 | 2026-12-26 |  |  | 0 | 27.3 |
-| A89680 | Pipe Laying | Road 15 | Task | Not Started | 2026-12-10 | 2026-12-13 |  |  | 0 | 40.3 |
+| A89630 | Valve Chambers Civil Works | Road 14 | Task | Not Started | 2027-01-20 | 2027-01-23 |  |  | 0 | 8.0 |
+| A89640 | Valve Installation | Road 14 | Task | Not Started | 2027-01-23 | 2027-01-24 |  |  | 0 | 8.0 |
+| A89650 | Testing | Road 14 | Task | Not Started | 2027-01-24 | 2027-01-25 |  |  | 0 | 8.0 |
+| A89660 | Backfilling | Road 14 | Task | Not Started | 2027-01-25 | 2027-01-26 |  |  | 0 | 8.0 |
+| A89670 | Trench Excavation | Road 14 | Task | Not Started | 2027-01-17 | 2027-01-18 |  |  | 0 | 8.0 |
+| A89680 | Pipe Laying | Road 15 | Task | Not Started | 2027-01-06 | 2027-01-09 |  |  | 0 | 18.0 |
 | A89690 | Road Crossing Works | Road 15 | Task | Completed | 2027-02-18 | 2027-02-20 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89700 | Valve Chambers Civil Works | Road 15 | Task | Not Started | 2026-12-13 | 2026-12-15 |  |  | 0 | 40.3 |
-| A89710 | Valve Installation | Road 15 | Task | Not Started | 2026-12-15 | 2026-12-16 |  |  | 0 | 40.3 |
-| A89720 | Testing | Road 15 | Task | Not Started | 2026-12-16 | 2026-12-17 |  |  | 0 | 40.3 |
-| A89730 | Backfilling | Road 15 | Task | Not Started | 2026-12-17 | 2026-12-19 |  |  | 0 | 40.3 |
-| A89740 | Trench Excavation | Road 15 | Task | Not Started | 2026-12-09 | 2026-12-10 |  |  | 0 | 40.3 |
-| A89750 | Pipe Laying | Road 16 | Task | Not Started | 2026-12-14 | 2026-12-16 |  |  | 0 | 37.3 |
+| A89700 | Valve Chambers Civil Works | Road 15 | Task | Not Started | 2027-01-09 | 2027-01-11 |  |  | 0 | 18.0 |
+| A89710 | Valve Installation | Road 15 | Task | Not Started | 2027-01-11 | 2027-01-12 |  |  | 0 | 18.0 |
+| A89720 | Testing | Road 15 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 18.0 |
+| A89730 | Backfilling | Road 15 | Task | Not Started | 2027-01-13 | 2027-01-14 |  |  | 0 | 18.0 |
+| A89740 | Trench Excavation | Road 15 | Task | Not Started | 2027-01-05 | 2027-01-06 |  |  | 0 | 18.0 |
+| A89750 | Pipe Laying | Road 16 | Task | Not Started | 2027-01-06 | 2027-01-09 |  |  | 0 | 18.0 |
 | A89760 | Road Crossing Works | Road 16 | Task | Completed | 2027-02-28 | 2027-03-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89770 | Valve Chambers Civil Works | Road 16 | Task | Not Started | 2026-12-16 | 2026-12-19 |  |  | 0 | 37.3 |
-| A89780 | Valve Installation | Road 16 | Task | Not Started | 2026-12-19 | 2026-12-20 |  |  | 0 | 37.3 |
-| A89790 | Testing | Road 16 | Task | Not Started | 2026-12-20 | 2026-12-21 |  |  | 0 | 37.3 |
-| A89800 | Backfilling | Road 16 | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 37.3 |
-| A89810 | Trench Excavation | Road 16 | Task | Not Started | 2026-12-13 | 2026-12-14 |  |  | 0 | 36.3 |
-| A89820 | Pipe Laying | Road 17 | Task | Not Started | 2026-12-15 | 2026-12-17 |  |  | 0 | 36.3 |
+| A89770 | Valve Chambers Civil Works | Road 16 | Task | Not Started | 2027-01-09 | 2027-01-11 |  |  | 0 | 18.0 |
+| A89780 | Valve Installation | Road 16 | Task | Not Started | 2027-01-11 | 2027-01-12 |  |  | 0 | 18.0 |
+| A89790 | Testing | Road 16 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 18.0 |
+| A89800 | Backfilling | Road 16 | Task | Not Started | 2027-01-13 | 2027-01-14 |  |  | 0 | 18.0 |
+| A89810 | Trench Excavation | Road 16 | Task | Not Started | 2027-01-05 | 2027-01-06 |  |  | 0 | 17.0 |
+| A89820 | Pipe Laying | Road 17 | Task | Not Started | 2027-01-07 | 2027-01-10 |  |  | 0 | 17.0 |
 | A89830 | Road Crossing Works | Road 17 | Task | Completed | 2027-03-01 | 2027-03-02 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89840 | Valve Chambers Civil Works | Road 17 | Task | Not Started | 2026-12-17 | 2026-12-20 |  |  | 0 | 36.3 |
-| A89850 | Valve Installation | Road 17 | Task | Not Started | 2026-12-20 | 2026-12-21 |  |  | 0 | 36.3 |
-| A89860 | Testing | Road 17 | Task | Not Started | 2026-12-21 | 2026-12-22 |  |  | 0 | 36.3 |
-| A89870 | Backfilling | Road 17 | Task | Not Started | 2026-12-22 | 2026-12-23 |  |  | 0 | 36.3 |
-| A89880 | Trench Excavation | Road 17 | Task | Not Started | 2026-12-14 | 2026-12-15 |  |  | 0 | 36.3 |
-| A89890 | Pipe Laying | Road 24 | Task | Not Started | 2027-01-06 | 2027-01-18 |  |  | 0 | -25.7 |
+| A89840 | Valve Chambers Civil Works | Road 17 | Task | Not Started | 2027-01-10 | 2027-01-12 |  |  | 0 | 17.0 |
+| A89850 | Valve Installation | Road 17 | Task | Not Started | 2027-01-12 | 2027-01-13 |  |  | 0 | 17.0 |
+| A89860 | Testing | Road 17 | Task | Not Started | 2027-01-13 | 2027-01-14 |  |  | 0 | 17.0 |
+| A89870 | Backfilling | Road 17 | Task | Not Started | 2027-01-14 | 2027-01-16 |  |  | 0 | 17.0 |
+| A89880 | Trench Excavation | Road 17 | Task | Not Started | 2027-01-06 | 2027-01-07 |  |  | 0 | 17.0 |
+| A89890 | Pipe Laying | Road 24 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -45.0 |
 | A89900 | Road Crossing Works | Road 24 | Task | Completed | 2027-03-25 | 2027-04-06 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89910 | Valve Chambers Civil Works | Road 24 | Task | Not Started | 2027-01-18 | 2027-01-30 |  |  | 0 | -25.7 |
-| A89920 | Valve Installation | Road 24 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -25.7 |
-| A89930 | Testing | Road 24 | Task | Not Started | 2027-02-10 | 2027-02-22 |  |  | 0 | -25.7 |
-| A89940 | Backfilling | Road 24 | Task | Not Started | 2027-02-22 | 2027-03-06 |  |  | 0 | -25.7 |
-| A89950 | Trench Excavation | Road 24 | Task | Not Started | 2026-12-26 | 2027-01-06 |  |  | 0 | -25.7 |
-| A89960 | Pipe Laying | Road 18 | Task | In Progress | 2027-03-01 | 2027-03-13 | 2026-09-15 |  | 0 | 17.7 |
+| A89910 | Valve Chambers Civil Works | Road 24 | Task | Not Started | 2027-02-10 | 2027-02-22 |  |  | 0 | -45.0 |
+| A89920 | Valve Installation | Road 24 | Task | Not Started | 2027-02-22 | 2027-03-06 |  |  | 0 | -45.0 |
+| A89930 | Testing | Road 24 | Task | Not Started | 2027-03-06 | 2027-03-17 |  |  | 0 | -45.0 |
+| A89940 | Backfilling | Road 24 | Task | Not Started | 2027-03-17 | 2027-03-29 |  |  | 0 | -45.0 |
+| A89950 | Trench Excavation | Road 24 | Task | Not Started | 2027-01-18 | 2027-01-30 |  |  | 0 | -45.0 |
+| A89960 | Pipe Laying | Road 18 | Task | In Progress | 2027-03-01 | 2027-03-13 | 2026-09-15 |  | 0 | -1.6 |
 | A89970 | Road Crossing Works | Road 18 | Task | Completed | 2027-03-13 | 2027-03-24 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A89980 | Valve Chambers Civil Works | Road 18 | Task | Not Started | 2026-12-10 | 2026-12-22 |  |  | 0 | 17.7 |
-| A89990 | Valve Installation | Road 18 | Task | Not Started | 2026-12-22 | 2027-01-03 |  |  | 0 | 17.7 |
-| A90000 | Testing | Road 18 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | 17.7 |
-| A90010 | Backfilling | Road 18 | Task | In Progress | 2027-04-17 | 2027-04-28 | 2026-09-15 |  | 0 | 17.7 |
-| A90020 | Trench Excavation | Road 18 | Task | In Progress | 2027-02-17 | 2027-03-01 | 2026-09-15 |  | 0 | 17.7 |
-| A90030 | Pipe Laying | Road 19 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | 17.3 |
+| A89980 | Valve Chambers Civil Works | Road 18 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -1.6 |
+| A89990 | Valve Installation | Road 18 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -1.6 |
+| A90000 | Testing | Road 18 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -1.6 |
+| A90010 | Backfilling | Road 18 | Task | In Progress | 2027-04-17 | 2027-04-28 | 2026-09-15 |  | 0 | -1.6 |
+| A90020 | Trench Excavation | Road 18 | Task | In Progress | 2027-02-17 | 2027-03-01 | 2026-09-15 |  | 0 | -1.6 |
+| A90030 | Pipe Laying | Road 19 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | -2.0 |
 | A90040 | Road Crossing Works | Road 19 | Task | Completed | 2027-07-01 | 2027-07-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90050 | Valve Chambers Civil Works | Road 19 | Task | Not Started | 2026-12-10 | 2026-12-22 |  |  | 0 | 17.3 |
-| A90060 | Valve Installation | Road 19 | Task | Not Started | 2026-12-22 | 2027-01-03 |  |  | 0 | 17.3 |
-| A90070 | Testing | Road 19 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | 17.3 |
-| A90080 | Backfilling | Road 19 | Task | In Progress | 2027-03-29 | 2027-04-10 | 2026-09-15 |  | 0 | 17.3 |
-| A90090 | Trench Excavation | Road 19 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | 17.3 |
-| A90100 | Pipe Laying | Road 20 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | 17.7 |
+| A90050 | Valve Chambers Civil Works | Road 19 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -2.0 |
+| A90060 | Valve Installation | Road 19 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -2.0 |
+| A90070 | Testing | Road 19 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -2.0 |
+| A90080 | Backfilling | Road 19 | Task | In Progress | 2027-03-29 | 2027-04-10 | 2026-09-15 |  | 0 | -2.0 |
+| A90090 | Trench Excavation | Road 19 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | -2.0 |
+| A90100 | Pipe Laying | Road 20 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | -2.0 |
 | A90110 | Road Crossing Works | Road 20 | Task | Completed | 2027-07-01 | 2027-07-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90120 | Valve Chambers Civil Works | Road 20 | Task | Not Started | 2026-12-10 | 2026-12-22 |  |  | 0 | 17.7 |
-| A90130 | Valve Installation | Road 20 | Task | Not Started | 2026-12-22 | 2027-01-03 |  |  | 0 | 17.7 |
-| A90140 | Testing | Road 20 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | 17.7 |
-| A90150 | Backfilling | Road 20 | Task | In Progress | 2027-03-27 | 2027-04-07 | 2026-09-15 |  | 0 | 17.7 |
-| A90160 | Trench Excavation | Road 20 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | 17.7 |
-| A90170 | Pipe Laying | Road 21 | Task | Not Started | 2026-12-21 | 2027-01-02 |  |  | 0 | -11.7 |
+| A90120 | Valve Chambers Civil Works | Road 20 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -2.0 |
+| A90130 | Valve Installation | Road 20 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -2.0 |
+| A90140 | Testing | Road 20 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -2.0 |
+| A90150 | Backfilling | Road 20 | Task | In Progress | 2027-03-27 | 2027-04-07 | 2026-09-15 |  | 0 | -2.0 |
+| A90160 | Trench Excavation | Road 20 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | -2.0 |
+| A90170 | Pipe Laying | Road 21 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -31.6 |
 | A90180 | Road Crossing Works | Road 21 | Task | Completed | 2027-03-08 | 2027-03-20 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90190 | Valve Chambers Civil Works | Road 21 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -11.7 |
-| A90200 | Valve Installation | Road 21 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -11.7 |
-| A90210 | Testing | Road 21 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -11.7 |
-| A90220 | Backfilling | Road 21 | Task | Not Started | 2027-02-06 | 2027-02-17 |  |  | 0 | -11.7 |
-| A90230 | Trench Excavation | Road 21 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | -11.7 |
-| A90240 | Pipe Laying | Road 22 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | 10.4 |
+| A90190 | Valve Chambers Civil Works | Road 21 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -31.6 |
+| A90200 | Valve Installation | Road 21 | Task | Not Started | 2027-02-06 | 2027-02-17 |  |  | 0 | -31.6 |
+| A90210 | Testing | Road 21 | Task | Not Started | 2027-02-17 | 2027-03-01 |  |  | 0 | -31.6 |
+| A90220 | Backfilling | Road 21 | Task | Not Started | 2027-03-01 | 2027-03-13 |  |  | 0 | -31.6 |
+| A90230 | Trench Excavation | Road 21 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -31.6 |
+| A90240 | Pipe Laying | Road 22 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | -15.9 |
 | A90250 | Road Crossing Works | Road 22 | Task | Completed | 2027-07-01 | 2027-07-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90260 | Valve Chambers Civil Works | Road 22 | Task | Not Started | 2026-12-19 | 2026-12-30 |  |  | 0 | 10.4 |
-| A90270 | Valve Installation | Road 22 | Task | Not Started | 2026-12-30 | 2027-01-11 |  |  | 0 | 10.4 |
-| A90280 | Testing | Road 22 | Task | Not Started | 2027-01-11 | 2027-01-23 |  |  | 0 | 10.4 |
-| A90290 | Backfilling | Road 22 | Task | In Progress | 2027-04-17 | 2027-04-28 | 2026-09-15 |  | 0 | 10.4 |
-| A90300 | Trench Excavation | Road 22 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | 10.4 |
-| A90310 | Pipe Laying | Road 23 | Task | In Progress | 2027-07-06 | 2027-07-18 | 2026-09-15 |  | 0 | 1.2 |
+| A90260 | Valve Chambers Civil Works | Road 22 | Task | Not Started | 2027-01-18 | 2027-01-30 |  |  | 0 | -15.9 |
+| A90270 | Valve Installation | Road 22 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -15.9 |
+| A90280 | Testing | Road 22 | Task | Not Started | 2027-02-10 | 2027-02-22 |  |  | 0 | -15.9 |
+| A90290 | Backfilling | Road 22 | Task | In Progress | 2027-04-17 | 2027-04-28 | 2026-09-15 |  | 0 | -15.9 |
+| A90300 | Trench Excavation | Road 22 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | -15.9 |
+| A90310 | Pipe Laying | Road 23 | Task | In Progress | 2027-07-06 | 2027-07-18 | 2026-09-15 |  | 0 | -29.3 |
 | A90320 | Road Crossing Works | Road 23 | Task | Completed | 2027-07-18 | 2027-07-29 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90330 | Valve Chambers Civil Works | Road 23 | Task | Not Started | 2026-12-29 | 2027-01-10 |  |  | 0 | 1.2 |
-| A90340 | Valve Installation | Road 23 | Task | Not Started | 2027-01-10 | 2027-01-21 |  |  | 0 | 1.2 |
-| A90350 | Testing | Road 23 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | 1.2 |
-| A90360 | Backfilling | Road 23 | Task | In Progress | 2027-05-02 | 2027-05-13 | 2026-09-15 |  | 0 | 1.2 |
-| A90370 | Trench Excavation | Road 23 | Task | In Progress | 2027-06-24 | 2027-07-06 | 2026-09-15 |  | 0 | 1.2 |
-| A90380 | Pipe Laying | Road 25 | Task | Not Started | 2026-12-21 | 2027-01-02 |  |  | 0 | -11.7 |
+| A90330 | Valve Chambers Civil Works | Road 23 | Task | Not Started | 2027-02-03 | 2027-02-15 |  |  | 0 | -29.3 |
+| A90340 | Valve Installation | Road 23 | Task | Not Started | 2027-02-15 | 2027-02-27 |  |  | 0 | -29.3 |
+| A90350 | Testing | Road 23 | Task | Not Started | 2027-02-27 | 2027-03-10 |  |  | 0 | -29.3 |
+| A90360 | Backfilling | Road 23 | Task | In Progress | 2027-05-02 | 2027-05-13 | 2026-09-15 |  | 0 | -29.3 |
+| A90370 | Trench Excavation | Road 23 | Task | In Progress | 2027-06-24 | 2027-07-06 | 2026-09-15 |  | 0 | -29.3 |
+| A90380 | Pipe Laying | Road 25 | Task | Not Started | 2027-01-14 | 2027-01-26 |  |  | 0 | -32.1 |
 | A90390 | Road Crossing Works | Road 25 | Task | Completed | 2027-03-10 | 2027-03-22 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90400 | Valve Chambers Civil Works | Road 25 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -11.7 |
-| A90410 | Valve Installation | Road 25 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -11.7 |
-| A90420 | Testing | Road 25 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -11.7 |
-| A90430 | Backfilling | Road 25 | Task | Not Started | 2027-02-06 | 2027-02-17 |  |  | 0 | -11.7 |
-| A90440 | Trench Excavation | Road 25 | Task | Not Started | 2026-12-09 | 2026-12-21 |  |  | 0 | -11.7 |
-| A90450 | Pipe Laying | Road 26 | Task | In Progress | 2027-07-14 | 2027-07-26 | 2026-09-15 |  | 0 | -1.2 |
+| A90400 | Valve Chambers Civil Works | Road 25 | Task | Not Started | 2027-01-26 | 2027-02-07 |  |  | 0 | -32.1 |
+| A90410 | Valve Installation | Road 25 | Task | Not Started | 2027-02-07 | 2027-02-18 |  |  | 0 | -32.1 |
+| A90420 | Testing | Road 25 | Task | Not Started | 2027-02-18 | 2027-03-02 |  |  | 0 | -32.1 |
+| A90430 | Backfilling | Road 25 | Task | Not Started | 2027-03-02 | 2027-03-14 |  |  | 0 | -32.1 |
+| A90440 | Trench Excavation | Road 25 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | -32.1 |
+| A90450 | Pipe Laying | Road 26 | Task | In Progress | 2027-07-14 | 2027-07-26 | 2026-09-15 |  | 0 | -3.5 |
 | A90460 | Road Crossing Works | Road 26 | Task | Completed | 2027-07-26 | 2027-08-07 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90470 | Valve Chambers Civil Works | Road 26 | Task | Not Started | 2026-12-31 | 2027-01-12 |  |  | 0 | -1.2 |
-| A90480 | Valve Installation | Road 26 | Task | Not Started | 2027-01-12 | 2027-01-24 |  |  | 0 | -1.2 |
-| A90490 | Testing | Road 26 | Task | Not Started | 2027-01-24 | 2027-02-04 |  |  | 0 | -1.2 |
-| A90500 | Backfilling | Road 26 | Task | In Progress | 2027-04-12 | 2027-04-24 | 2026-09-15 |  | 0 | -1.2 |
-| A90510 | Trench Excavation | Road 26 | Task | In Progress | 2027-07-03 | 2027-07-14 | 2026-09-15 |  | 0 | -1.2 |
-| A90520 | Pipe Laying | Road 27 | Task | In Progress | 2027-06-10 | 2027-06-22 | 2026-09-15 |  | 0 | 17.4 |
+| A90470 | Valve Chambers Civil Works | Road 26 | Task | Not Started | 2027-01-04 | 2027-01-14 |  |  | 0 | -3.5 |
+| A90480 | Valve Installation | Road 26 | Task | Not Started | 2027-01-16 | 2027-01-26 |  |  | 0 | -3.5 |
+| A90490 | Testing | Road 26 | Task | Not Started | 2027-01-27 | 2027-02-07 |  |  | 0 | -3.5 |
+| A90500 | Backfilling | Road 26 | Task | In Progress | 2027-04-12 | 2027-04-24 | 2026-09-15 |  | 0 | -3.5 |
+| A90510 | Trench Excavation | Road 26 | Task | In Progress | 2027-07-03 | 2027-07-14 | 2026-09-15 |  | 0 | -3.5 |
+| A90520 | Pipe Laying | Road 27 | Task | In Progress | 2027-06-10 | 2027-06-22 | 2026-09-15 |  | 0 | -1.9 |
 | A90530 | Road Crossing Works | Road 27 | Task | Completed | 2027-06-22 | 2027-07-04 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90540 | Valve Chambers Civil Works | Road 27 | Task | Not Started | 2026-12-10 | 2026-12-22 |  |  | 0 | 17.4 |
-| A90550 | Valve Installation | Road 27 | Task | Not Started | 2026-12-22 | 2027-01-03 |  |  | 0 | 17.4 |
-| A90560 | Testing | Road 27 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | 17.4 |
-| A90570 | Backfilling | Road 27 | Task | In Progress | 2027-03-29 | 2027-04-10 | 2026-09-15 |  | 0 | 17.4 |
-| A90580 | Trench Excavation | Road 27 | Task | In Progress | 2027-05-30 | 2027-06-10 | 2026-09-15 |  | 0 | 17.4 |
-| A90590 | Pipe Laying | ROUND ABOUT 1 | Task | Not Started | 2027-01-10 | 2027-01-21 |  |  | 0 | -29.0 |
+| A90540 | Valve Chambers Civil Works | Road 27 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -1.9 |
+| A90550 | Valve Installation | Road 27 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -1.9 |
+| A90560 | Testing | Road 27 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -1.9 |
+| A90570 | Backfilling | Road 27 | Task | In Progress | 2027-03-29 | 2027-04-10 | 2026-09-15 |  | 0 | -1.9 |
+| A90580 | Trench Excavation | Road 27 | Task | In Progress | 2027-05-30 | 2027-06-10 | 2026-09-15 |  | 0 | -1.9 |
+| A90590 | Pipe Laying | ROUND ABOUT 1 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -48.3 |
 | A90600 | Road Crossing Works | ROUND ABOUT 1 | Task | Completed | 2027-04-01 | 2027-04-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90610 | Valve Chambers Civil Works | ROUND ABOUT 1 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | -29.0 |
-| A90620 | Valve Installation | ROUND ABOUT 1 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -29.0 |
-| A90630 | Testing | ROUND ABOUT 1 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -29.0 |
-| A90640 | Backfilling | ROUND ABOUT 1 | Task | Not Started | 2027-02-25 | 2027-03-09 |  |  | 0 | -29.0 |
-| A90650 | Trench Excavation | ROUND ABOUT 1 | Task | Not Started | 2026-12-29 | 2027-01-10 |  |  | 0 | -39.0 |
-| A90660 | Pipe Laying | ROUND ABOUT 2 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | -39.0 |
+| A90610 | Valve Chambers Civil Works | ROUND ABOUT 1 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -48.3 |
+| A90620 | Valve Installation | ROUND ABOUT 1 | Task | Not Started | 2027-02-25 | 2027-03-09 |  |  | 0 | -48.3 |
+| A90630 | Testing | ROUND ABOUT 1 | Task | Not Started | 2027-03-09 | 2027-03-21 |  |  | 0 | -48.3 |
+| A90640 | Backfilling | ROUND ABOUT 1 | Task | Not Started | 2027-03-21 | 2027-04-01 |  |  | 0 | -48.3 |
+| A90650 | Trench Excavation | ROUND ABOUT 1 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | -58.3 |
+| A90660 | Pipe Laying | ROUND ABOUT 2 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -58.3 |
 | A90670 | Road Crossing Works | ROUND ABOUT 2 | Task | Completed | 2027-04-13 | 2027-04-25 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90680 | Valve Chambers Civil Works | ROUND ABOUT 2 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -39.0 |
-| A90690 | Valve Installation | ROUND ABOUT 2 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -39.0 |
-| A90700 | Testing | ROUND ABOUT 2 | Task | Not Started | 2027-02-25 | 2027-03-09 |  |  | 0 | -39.0 |
-| A90710 | Backfilling | ROUND ABOUT 2 | Task | Not Started | 2027-03-09 | 2027-03-21 |  |  | 0 | -39.0 |
-| A90720 | Trench Excavation | ROUND ABOUT 2 | Task | Not Started | 2027-01-10 | 2027-01-21 |  |  | 0 | -39.0 |
-| A90730 | Pipe Laying | Arterial 2 | Task | Not Started | 2026-12-29 | 2027-01-10 |  |  | 0 | -19.0 |
+| A90680 | Valve Chambers Civil Works | ROUND ABOUT 2 | Task | Not Started | 2027-02-25 | 2027-03-09 |  |  | 0 | -58.3 |
+| A90690 | Valve Installation | ROUND ABOUT 2 | Task | Not Started | 2027-03-09 | 2027-03-21 |  |  | 0 | -58.3 |
+| A90700 | Testing | ROUND ABOUT 2 | Task | Not Started | 2027-03-21 | 2027-04-01 |  |  | 0 | -58.3 |
+| A90710 | Backfilling | ROUND ABOUT 2 | Task | Not Started | 2027-04-01 | 2027-04-13 |  |  | 0 | -58.3 |
+| A90720 | Trench Excavation | ROUND ABOUT 2 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -58.3 |
+| A90730 | Pipe Laying | Arterial 2 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | -38.3 |
 | A90740 | Road Crossing Works | Arterial 2 | Task | Completed | 2027-03-21 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90750 | Valve Chambers Civil Works | Arterial 2 | Task | Not Started | 2027-01-10 | 2027-01-21 |  |  | 0 | -19.0 |
-| A90760 | Valve Installation | Arterial 2 | Task | Not Started | 2027-01-21 | 2027-02-02 |  |  | 0 | -19.0 |
-| A90770 | Testing | Arterial 2 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -19.0 |
-| A90780 | Backfilling | Arterial 2 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -19.0 |
-| A90790 | Trench Excavation | Arterial 2 | Task | Not Started | 2026-12-17 | 2026-12-29 |  |  | 0 | -39.0 |
-| A90800 | Pipe Laying | Collector 2 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | 17.0 |
+| A90750 | Valve Chambers Civil Works | Arterial 2 | Task | Not Started | 2027-02-02 | 2027-02-14 |  |  | 0 | -38.3 |
+| A90760 | Valve Installation | Arterial 2 | Task | Not Started | 2027-02-14 | 2027-02-25 |  |  | 0 | -38.3 |
+| A90770 | Testing | Arterial 2 | Task | Not Started | 2027-02-25 | 2027-03-09 |  |  | 0 | -38.3 |
+| A90780 | Backfilling | Arterial 2 | Task | Not Started | 2027-03-09 | 2027-03-21 |  |  | 0 | -38.3 |
+| A90790 | Trench Excavation | Arterial 2 | Task | Not Started | 2027-01-10 | 2027-01-21 |  |  | 0 | -58.3 |
+| A90800 | Pipe Laying | Collector 2 | Task | In Progress | 2027-06-20 | 2027-07-01 | 2026-09-15 |  | 0 | -2.6 |
 | A90810 | Road Crossing Works | Collector 2 | Task | Completed | 2027-07-01 | 2027-07-13 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90820 | Valve Chambers Civil Works | Collector 2 | Task | Not Started | 2026-12-10 | 2026-12-22 |  |  | 0 | 17.0 |
-| A90830 | Valve Installation | Collector 2 | Task | Not Started | 2026-12-22 | 2027-01-03 |  |  | 0 | 17.0 |
-| A90840 | Testing | Collector 2 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | 17.0 |
-| A90850 | Backfilling | Collector 2 | Task | In Progress | 2027-03-28 | 2027-04-08 | 2026-09-15 |  | 0 | 17.0 |
-| A90860 | Trench Excavation | Collector 2 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | 17.0 |
-| A90870 | Pipe Laying | Arterial 1 | Task | In Progress | 2027-02-25 | 2027-03-09 | 2026-09-15 |  | 0 | 2.0 |
+| A90820 | Valve Chambers Civil Works | Collector 2 | Task | Not Started | 2027-01-03 | 2027-01-14 |  |  | 0 | -2.6 |
+| A90830 | Valve Installation | Collector 2 | Task | Not Started | 2027-01-14 | 2027-01-26 |  |  | 0 | -2.6 |
+| A90840 | Testing | Collector 2 | Task | Not Started | 2027-01-26 | 2027-02-07 |  |  | 0 | -2.6 |
+| A90850 | Backfilling | Collector 2 | Task | In Progress | 2027-03-28 | 2027-04-08 | 2026-09-15 |  | 0 | -2.6 |
+| A90860 | Trench Excavation | Collector 2 | Task | In Progress | 2027-06-08 | 2027-06-20 | 2026-09-15 |  | 0 | -2.6 |
+| A90870 | Pipe Laying | Arterial 1 | Task | In Progress | 2027-02-25 | 2027-03-09 | 2026-09-15 |  | 0 | -17.3 |
 | A90880 | Road Crossing Works | Arterial 1 | Task | Completed | 2027-03-09 | 2027-03-21 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90890 | Valve Chambers Civil Works | Arterial 1 | Task | Not Started | 2026-12-26 | 2027-01-06 |  |  | 0 | 2.0 |
-| A90900 | Valve Installation | Arterial 1 | Task | Not Started | 2027-01-06 | 2027-01-18 |  |  | 0 | 2.0 |
-| A90910 | Testing | Arterial 1 | Task | Not Started | 2027-01-18 | 2027-01-20 |  |  | 0 | 2.0 |
-| A90920 | Backfilling | Arterial 1 | Task | Not Started | 2027-01-20 | 2027-02-01 |  |  | 0 | 2.0 |
-| A90930 | Trench Excavation | Arterial 1 | Task | In Progress | 2027-02-14 | 2027-02-25 | 2026-09-15 |  | 0 | -39.0 |
-| A90940 | Excavation | Road 1 | Task | Not Started | 2027-02-01 | 2027-02-13 |  |  | 0 | -37.9 |
-| A90950 | Duct Jointing & Laying | Road 1 | Task | Not Started | 2027-02-13 | 2027-02-24 |  |  | 0 | -37.9 |
+| A90890 | Valve Chambers Civil Works | Arterial 1 | Task | Not Started | 2027-01-18 | 2027-01-30 |  |  | 0 | -17.3 |
+| A90900 | Valve Installation | Arterial 1 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -17.3 |
+| A90910 | Testing | Arterial 1 | Task | Not Started | 2027-02-10 | 2027-02-13 |  |  | 0 | -17.3 |
+| A90920 | Backfilling | Arterial 1 | Task | Not Started | 2027-02-13 | 2027-02-24 |  |  | 0 | -17.3 |
+| A90930 | Trench Excavation | Arterial 1 | Task | In Progress | 2027-02-14 | 2027-02-25 | 2026-09-15 |  | 0 | -58.3 |
+| A90940 | Excavation | Road 1 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -31.9 |
+| A90950 | Duct Jointing & Laying | Road 1 | Task | Not Started | 2027-02-06 | 2027-02-17 |  |  | 0 | -31.9 |
 | A90960 | Road Crossing Encasement | Road 1 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A90970 | Manhole Civil Works | Road 1 | Task | Not Started | 2027-02-24 | 2027-03-08 |  |  | 0 | -37.9 |
-| A90980 | Backfilling & Compaction | Road 1 | Task | Not Started | 2027-03-08 | 2027-03-20 |  |  | 0 | -37.9 |
-| A90990 | Excavation | Road 2 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91000 | Duct Jointing & Laying | Road 2 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A90970 | Manhole Civil Works | Road 1 | Task | Not Started | 2027-02-17 | 2027-03-01 |  |  | 0 | -31.9 |
+| A90980 | Backfilling & Compaction | Road 1 | Task | Not Started | 2027-03-01 | 2027-03-13 |  |  | 0 | -31.9 |
+| A90990 | Excavation | Road 2 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91000 | Duct Jointing & Laying | Road 2 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91010 | Road Crossing Encasement | Road 2 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91020 | Manhole Civil Works | Road 2 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91030 | Backfilling & Compaction | Road 2 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91040 | Excavation | Road 3 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91050 | Duct Jointing & Laying | Road 3 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91020 | Manhole Civil Works | Road 2 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91030 | Backfilling & Compaction | Road 2 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91040 | Excavation | Road 3 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91050 | Duct Jointing & Laying | Road 3 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91060 | Road Crossing Encasement | Road 3 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91070 | Manhole Civil Works | Road 3 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91080 | Backfilling & Compaction | Road 3 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91090 | Excavation | Road 4 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91100 | Duct Jointing & Laying | Road 4 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91070 | Manhole Civil Works | Road 3 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91080 | Backfilling & Compaction | Road 3 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91090 | Excavation | Road 4 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91100 | Duct Jointing & Laying | Road 4 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91110 | Road Crossing Encasement | Road 4 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91120 | Manhole Civil Works | Road 4 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91130 | Backfilling & Compaction | Road 4 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91140 | Excavation | Road 5 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91150 | Duct Jointing & Laying | Road 5 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91120 | Manhole Civil Works | Road 4 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91130 | Backfilling & Compaction | Road 4 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91140 | Excavation | Road 5 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91150 | Duct Jointing & Laying | Road 5 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91160 | Road Crossing Encasement | Road 5 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91170 | Manhole Civil Works | Road 5 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91180 | Backfilling & Compaction | Road 5 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91190 | Excavation | Road 6 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91200 | Duct Jointing & Laying | Road 6 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91170 | Manhole Civil Works | Road 5 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91180 | Backfilling & Compaction | Road 5 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91190 | Excavation | Road 6 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91200 | Duct Jointing & Laying | Road 6 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91210 | Road Crossing Encasement | Road 6 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91220 | Manhole Civil Works | Road 6 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91230 | Backfilling & Compaction | Road 6 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91240 | Excavation | Road 7 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91250 | Duct Jointing & Laying | Road 7 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91220 | Manhole Civil Works | Road 6 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91230 | Backfilling & Compaction | Road 6 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91240 | Excavation | Road 7 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91250 | Duct Jointing & Laying | Road 7 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91260 | Road Crossing Encasement | Road 7 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91270 | Manhole Civil Works | Road 7 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91280 | Backfilling & Compaction | Road 7 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91290 | Excavation | Road 8 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91300 | Duct Jointing & Laying | Road 8 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91270 | Manhole Civil Works | Road 7 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91280 | Backfilling & Compaction | Road 7 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91290 | Excavation | Road 8 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91300 | Duct Jointing & Laying | Road 8 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91310 | Road Crossing Encasement | Road 8 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91320 | Manhole Civil Works | Road 8 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91330 | Backfilling & Compaction | Road 8 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91340 | Excavation | Road 9 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91350 | Duct Jointing & Laying | Road 9 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91320 | Manhole Civil Works | Road 8 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91330 | Backfilling & Compaction | Road 8 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91340 | Excavation | Road 9 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91350 | Duct Jointing & Laying | Road 9 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91360 | Road Crossing Encasement | Road 9 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91370 | Manhole Civil Works | Road 9 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91380 | Backfilling & Compaction | Road 9 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91390 | Excavation | Road 10 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91400 | Duct Jointing & Laying | Road 10 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91370 | Manhole Civil Works | Road 9 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91380 | Backfilling & Compaction | Road 9 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91390 | Excavation | Road 10 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91400 | Duct Jointing & Laying | Road 10 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91410 | Road Crossing Encasement | Road 10 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91420 | Manhole Civil Works | Road 10 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91430 | Backfilling & Compaction | Road 10 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91440 | Excavation | Road 11 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91450 | Duct Jointing & Laying | Road 11 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91420 | Manhole Civil Works | Road 10 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91430 | Backfilling & Compaction | Road 10 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91440 | Excavation | Road 11 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91450 | Duct Jointing & Laying | Road 11 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91460 | Road Crossing Encasement | Road 11 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91470 | Manhole Civil Works | Road 11 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91480 | Backfilling & Compaction | Road 11 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91490 | Excavation | Road 12 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91500 | Duct Jointing & Laying | Road 12 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91470 | Manhole Civil Works | Road 11 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91480 | Backfilling & Compaction | Road 11 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91490 | Excavation | Road 12 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91500 | Duct Jointing & Laying | Road 12 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91510 | Road Crossing Encasement | Road 12 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91520 | Manhole Civil Works | Road 12 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91530 | Backfilling & Compaction | Road 12 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91540 | Excavation | Road 13 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91550 | Duct Jointing & Laying | Road 13 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91520 | Manhole Civil Works | Road 12 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91530 | Backfilling & Compaction | Road 12 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91540 | Excavation | Road 13 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91550 | Duct Jointing & Laying | Road 13 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91560 | Road Crossing Encasement | Road 13 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91570 | Manhole Civil Works | Road 13 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91580 | Backfilling & Compaction | Road 13 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91590 | Excavation | Road 14 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91600 | Duct Jointing & Laying | Road 14 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91570 | Manhole Civil Works | Road 13 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91580 | Backfilling & Compaction | Road 13 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91590 | Excavation | Road 14 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91600 | Duct Jointing & Laying | Road 14 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91610 | Road Crossing Encasement | Road 14 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91620 | Manhole Civil Works | Road 14 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91630 | Backfilling & Compaction | Road 14 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91640 | Excavation | Road 15 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91650 | Duct Jointing & Laying | Road 15 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91620 | Manhole Civil Works | Road 14 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91630 | Backfilling & Compaction | Road 14 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91640 | Excavation | Road 15 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91650 | Duct Jointing & Laying | Road 15 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91660 | Road Crossing Encasement | Road 15 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91670 | Manhole Civil Works | Road 15 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91680 | Backfilling & Compaction | Road 15 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91690 | Excavation | Road 16 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91700 | Duct Jointing & Laying | Road 16 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91670 | Manhole Civil Works | Road 15 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91680 | Backfilling & Compaction | Road 15 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91690 | Excavation | Road 16 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91700 | Duct Jointing & Laying | Road 16 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91710 | Road Crossing Encasement | Road 16 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91720 | Manhole Civil Works | Road 16 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91730 | Backfilling & Compaction | Road 16 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91740 | Excavation | Road 17 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91750 | Duct Jointing & Laying | Road 17 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91720 | Manhole Civil Works | Road 16 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91730 | Backfilling & Compaction | Road 16 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91740 | Excavation | Road 17 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91750 | Duct Jointing & Laying | Road 17 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91760 | Road Crossing Encasement | Road 17 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91770 | Manhole Civil Works | Road 17 | Task | Not Started | 2027-01-06 | 2027-01-17 |  |  | 0 | 11 |
-| A91780 | Backfilling & Compaction | Road 17 | Task | Not Started | 2027-01-18 | 2027-01-21 |  |  | 0 | 11 |
-| A91790 | Excavation | COLLECTOR 1 | Task | Not Started | 2026-12-14 | 2026-12-24 |  |  | 0 | 11 |
-| A91800 | Duct Jointing & Laying | COLLECTOR 1 | Task | Not Started | 2026-12-26 | 2027-01-05 |  |  | 0 | 11 |
+| A91770 | Manhole Civil Works | Road 17 | Task | Not Started | 2027-01-25 | 2027-02-06 |  |  | 0 | -5.0 |
+| A91780 | Backfilling & Compaction | Road 17 | Task | Not Started | 2027-02-06 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91790 | Excavation | COLLECTOR 1 | Task | Not Started | 2027-01-02 | 2027-01-13 |  |  | 0 | -5.0 |
+| A91800 | Duct Jointing & Laying | COLLECTOR 1 | Task | Not Started | 2027-01-13 | 2027-01-25 |  |  | 0 | -5.0 |
 | A91810 | Road Crossing Encasement | COLLECTOR 1 | Task | Completed | 2027-03-07 | 2027-03-18 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91820 | Manhole Civil Works | COLLECTOR 1 | Task | Not Started | 2027-01-06 | 2027-01-10 |  |  | 0 | 11 |
-| A91830 | Backfilling & Compaction | COLLECTOR 1 | Task | Not Started | 2027-01-11 | 2027-01-21 |  |  | 0 | 11 |
-| A91840 | Excavation | Road 18 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A91850 | Duct Jointing & Laying | Road 18 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A91820 | Manhole Civil Works | COLLECTOR 1 | Task | Not Started | 2027-01-25 | 2027-01-30 |  |  | 0 | -5.0 |
+| A91830 | Backfilling & Compaction | COLLECTOR 1 | Task | Not Started | 2027-01-30 | 2027-02-10 |  |  | 0 | -5.0 |
+| A91840 | Excavation | Road 18 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A91850 | Duct Jointing & Laying | Road 18 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A91860 | Road Crossing Encasement | Road 18 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91870 | Manhole Civil Works | Road 18 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A91880 | Backfilling & Compaction | Road 18 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A91890 | Excavation | Road 19 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A91900 | Duct Jointing & Laying | Road 19 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A91870 | Manhole Civil Works | Road 18 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A91880 | Backfilling & Compaction | Road 18 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A91890 | Excavation | Road 19 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A91900 | Duct Jointing & Laying | Road 19 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A91910 | Road Crossing Encasement | Road 19 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91920 | Manhole Civil Works | Road 19 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A91930 | Backfilling & Compaction | Road 19 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A91940 | Excavation | Road 20 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A91950 | Duct Jointing & Laying | Road 20 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A91920 | Manhole Civil Works | Road 19 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A91930 | Backfilling & Compaction | Road 19 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A91940 | Excavation | Road 20 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A91950 | Duct Jointing & Laying | Road 20 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A91960 | Road Crossing Encasement | Road 20 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A91970 | Manhole Civil Works | Road 20 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A91980 | Backfilling & Compaction | Road 20 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A91990 | Excavation | Road 22 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92000 | Duct Jointing & Laying | Road 22 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A91970 | Manhole Civil Works | Road 20 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A91980 | Backfilling & Compaction | Road 20 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A91990 | Excavation | Road 22 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92000 | Duct Jointing & Laying | Road 22 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92010 | Road Crossing Encasement | Road 22 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92020 | Manhole Civil Works | Road 22 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92030 | Backfilling & Compaction | Road 22 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92040 | Excavation | Road 21 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92050 | Duct Jointing & Laying | Road 21 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92020 | Manhole Civil Works | Road 22 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92030 | Backfilling & Compaction | Road 22 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92040 | Excavation | Road 21 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92050 | Duct Jointing & Laying | Road 21 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92060 | Road Crossing Encasement | Road 21 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92070 | Manhole Civil Works | Road 21 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92080 | Backfilling & Compaction | Road 21 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92090 | Excavation | Road 23 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92100 | Duct Jointing & Laying | Road 23 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92070 | Manhole Civil Works | Road 21 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92080 | Backfilling & Compaction | Road 21 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92090 | Excavation | Road 23 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92100 | Duct Jointing & Laying | Road 23 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92110 | Road Crossing Encasement | Road 23 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92120 | Manhole Civil Works | Road 23 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92130 | Backfilling & Compaction | Road 23 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92140 | Excavation | Road 24 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92150 | Duct Jointing & Laying | Road 24 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92120 | Manhole Civil Works | Road 23 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92130 | Backfilling & Compaction | Road 23 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92140 | Excavation | Road 24 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92150 | Duct Jointing & Laying | Road 24 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92160 | Road Crossing Encasement | Road 24 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92170 | Manhole Civil Works | Road 24 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92180 | Backfilling & Compaction | Road 24 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92190 | Excavation | Road 25 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92200 | Duct Jointing & Laying | Road 25 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92170 | Manhole Civil Works | Road 24 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92180 | Backfilling & Compaction | Road 24 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92190 | Excavation | Road 25 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92200 | Duct Jointing & Laying | Road 25 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92210 | Road Crossing Encasement | Road 25 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92220 | Manhole Civil Works | Road 25 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92230 | Backfilling & Compaction | Road 25 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92240 | Excavation | Road 26 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92250 | Duct Jointing & Laying | Road 26 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92220 | Manhole Civil Works | Road 25 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92230 | Backfilling & Compaction | Road 25 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92240 | Excavation | Road 26 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92250 | Duct Jointing & Laying | Road 26 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92260 | Road Crossing Encasement | Road 26 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92270 | Manhole Civil Works | Road 26 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92280 | Backfilling & Compaction | Road 26 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92290 | Excavation | Road 27 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92300 | Duct Jointing & Laying | Road 27 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92270 | Manhole Civil Works | Road 26 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92280 | Backfilling & Compaction | Road 26 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92290 | Excavation | Road 27 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92300 | Duct Jointing & Laying | Road 27 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92310 | Road Crossing Encasement | Road 27 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92320 | Manhole Civil Works | Road 27 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92330 | Backfilling & Compaction | Road 27 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92340 | Excavation | Collector 2 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92350 | Duct Jointing & Laying | Collector 2 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92320 | Manhole Civil Works | Road 27 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92330 | Backfilling & Compaction | Road 27 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92340 | Excavation | Collector 2 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92350 | Duct Jointing & Laying | Collector 2 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92360 | Road Crossing Encasement | Collector 2 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92370 | Manhole Civil Works | Collector 2 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92380 | Backfilling & Compaction | Collector 2 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92390 | Excavation | Arterial 1 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92400 | Duct Jointing & Laying | Arterial 1 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92370 | Manhole Civil Works | Collector 2 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92380 | Backfilling & Compaction | Collector 2 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92390 | Excavation | Arterial 1 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92400 | Duct Jointing & Laying | Arterial 1 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92410 | Road Crossing Encasement | Arterial 1 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92420 | Manhole Civil Works | Arterial 1 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92430 | Backfilling & Compaction | Arterial 1 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92440 | Excavation | Arterial 2 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92450 | Duct Jointing & Laying | Arterial 2 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92420 | Manhole Civil Works | Arterial 1 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92430 | Backfilling & Compaction | Arterial 1 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92440 | Excavation | Arterial 2 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92450 | Duct Jointing & Laying | Arterial 2 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92460 | Road Crossing Encasement | Arterial 2 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92470 | Manhole Civil Works | Arterial 2 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92480 | Backfilling & Compaction | Arterial 2 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92490 | Excavation | ROUND ABOUT 1 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92500 | Duct Jointing & Laying | ROUND ABOUT 1 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92470 | Manhole Civil Works | Arterial 2 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92480 | Backfilling & Compaction | Arterial 2 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92490 | Excavation | ROUND ABOUT 1 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92500 | Duct Jointing & Laying | ROUND ABOUT 1 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92510 | Road Crossing Encasement | ROUND ABOUT 1 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92520 | Manhole Civil Works | ROUND ABOUT 1 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92530 | Backfilling & Compaction | ROUND ABOUT 1 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92540 | Excavation | ROUND ABOUT 2 | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92550 | Duct Jointing & Laying | ROUND ABOUT 2 | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92520 | Manhole Civil Works | ROUND ABOUT 1 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92530 | Backfilling & Compaction | ROUND ABOUT 1 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92540 | Excavation | ROUND ABOUT 2 | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92550 | Duct Jointing & Laying | ROUND ABOUT 2 | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92560 | Road Crossing Encasement | ROUND ABOUT 2 | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92570 | Manhole Civil Works | ROUND ABOUT 2 | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92580 | Backfilling & Compaction | ROUND ABOUT 2 | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92590 | Excavation | EX ROAD | Task | Not Started | 2026-12-14 | 2026-12-29 |  |  | 0 | -11 |
-| A92600 | Duct Jointing & Laying | EX ROAD | Task | Not Started | 2026-12-30 | 2027-01-14 |  |  | 0 | -11 |
+| A92570 | Manhole Civil Works | ROUND ABOUT 2 | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92580 | Backfilling & Compaction | ROUND ABOUT 2 | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92590 | Excavation | EX ROAD | Task | Not Started | 2027-01-02 | 2027-01-18 |  |  | 0 | -27.0 |
+| A92600 | Duct Jointing & Laying | EX ROAD | Task | Not Started | 2027-01-18 | 2027-02-03 |  |  | 0 | -27.0 |
 | A92610 | Road Crossing Encasement | EX ROAD | Task | Completed | 2027-03-16 | 2027-04-01 | 2026-08-20 | 2026-09-28 | 100 |  |
-| A92620 | Manhole Civil Works | EX ROAD | Task | Not Started | 2027-01-16 | 2027-01-31 |  |  | 0 | -11 |
-| A92630 | Backfilling & Compaction | EX ROAD | Task | Not Started | 2027-02-01 | 2027-02-16 |  |  | 0 | -11 |
-| A92670 | Removal of temporary site facilities | Demobilization | Task | Not Started | 2027-10-09 | 2027-10-26 |  |  | 0 | 4 |
-| A92680 | Removal of temporary utilities, fencing & access gates | Demobilization | Task | Not Started | 2027-10-09 | 2027-10-26 |  |  | 0 | 4 |
-| A92690 | Demobilization of construction equipment & machinery | Demobilization | Task | Not Started | 2027-10-09 | 2027-10-26 |  |  | 0 | 4 |
-| A92700 | Final site cleaning & housekeeping | Demobilization | Task | Not Started | 2027-10-26 | 2027-11-13 |  |  | 0 | 4 |
-| A92720 | Snag List Clearance | Handover & TOC | Task | Not Started | 2027-09-14 | 2027-10-09 |  |  | 0 | 4 |
-| A92730 | Final Site Walkdown | Handover & TOC | Task | Not Started | 2027-09-14 | 2027-10-09 |  |  | 0 | 4 |
-| A92740 | Complete As Built Drawings submission | Documentation & As-Built | Task | Not Started | 2027-08-29 | 2027-09-14 |  |  | 0 | 4 |
-| A92750 | Complete Commissioning Reports | Documentation & As-Built | Task | Not Started | 2027-08-29 | 2027-09-14 |  |  | 0 | 4 |
+| A92620 | Manhole Civil Works | EX ROAD | Task | Not Started | 2027-02-03 | 2027-02-20 |  |  | 0 | -27.0 |
+| A92630 | Backfilling & Compaction | EX ROAD | Task | Not Started | 2027-02-20 | 2027-03-08 |  |  | 0 | -27.0 |
+| A92670 | Removal of temporary site facilities | Demobilization | Task | Not Started | 2027-10-28 | 2027-11-15 |  |  | 0 | 0 |
+| A92680 | Removal of temporary utilities, fencing & access gates | Demobilization | Task | Not Started | 2027-10-28 | 2027-11-15 |  |  | 0 | 0 |
+| A92690 | Demobilization of construction equipment & machinery | Demobilization | Task | Not Started | 2027-10-28 | 2027-11-15 |  |  | 0 | 0 |
+| A92700 | Final site cleaning & housekeeping | Demobilization | Task | Not Started | 2027-11-15 | 2027-12-02 |  |  | 0 | 0 |
+| A92720 | Snag List Clearance | Handover & TOC | Task | Not Started | 2027-10-04 | 2027-10-28 |  |  | 0 | 0 |
+| A92730 | Final Site Walkdown | Handover & TOC | Task | Not Started | 2027-10-04 | 2027-10-28 |  |  | 0 | 0 |
+| A92740 | Complete As Built Drawings submission | Documentation & As-Built | Task | Not Started | 2027-09-18 | 2027-10-04 |  |  | 0 | 0 |
+| A92750 | Complete Commissioning Reports | Documentation & As-Built | Task | Not Started | 2027-09-18 | 2027-10-04 |  |  | 0 | 0 |
 | A4750 | Site preparation, plans, material and engineering submittals | Milestones | Milestone | Completed | 2026-10-25 | 2026-10-25 | 2026-01-03 | 2026-01-03 | 100 |  |
-| A4810 | Completion of MV works | Milestones | Milestone | Not Started | 2027-04-14 | 2027-04-14 |  |  | 0 | -166.8 |
-| A4820 | Completion of Sewage Network | Milestones | Milestone | Not Started | 2027-02-27 | 2027-02-27 |  |  | 0 | -21.0 |
-| A4830 | Project Finish | Milestones | Milestone | Not Started | 2027-11-17 | 2027-11-17 |  |  | 0 | 0 |
+| A4810 | Completion of MV works | Milestones | Milestone | Not Started | 2027-04-13 | 2027-04-13 |  |  | 0 | -165.3 |
+| A4820 | Completion of Sewage Network | Milestones | Milestone | Not Started | 2027-03-22 | 2027-03-22 |  |  | 0 | -40.3 |
+| A4830 | Project Finish | Milestones | Milestone | Not Started | 2027-12-02 | 2027-12-02 |  |  | 0 | 0 |
 | A92760 | Excavation - Box Culverts | CU-01 | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A92770 | Foundation works | CU-01 | Task | Completed | 2027-06-01 | 2027-06-13 | 2026-08-20 | 2026-09-28 | 100 |  |
 | A92780 | Walls & Slabs works | CU-01 | Task | Completed | 2027-06-13 | 2027-06-29 | 2026-08-20 | 2026-09-28 | 100 |  |
@@ -5842,64 +5842,64 @@
 | A4760 | Construct Parking Sheds | Mobilization | Task | Completed | 2026-10-12 | 2026-10-25 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A4770 | Construct Site Offices & Storage | Mobilization | Task | Completed | 2026-10-11 | 2026-10-25 | 2025-12-07 | 2026-01-03 | 100 |  |
 | A4780 | Construct Temporary Fence | Mobilization | Task | Completed | 2026-10-11 | 2026-10-25 | 2025-12-07 | 2026-01-03 | 100 |  |
-| A4815 | Completion of Storm Network | Milestones | Milestone | Not Started | 2027-05-02 | 2027-05-02 |  |  | 0 | -74.2 |
-| A6800 | Completion of Potable water Network | Milestones | Milestone | Not Started | 2027-05-20 | 2027-05-20 |  |  | 0 | -90.1 |
-| A4825 | Completion of Irrigation Network | Milestones | Milestone | Not Started | 2027-05-08 | 2027-05-08 |  |  | 0 | -79.3 |
-| A4835 | Completion of Landscape | Milestones | Milestone | Not Started | 2027-09-29 | 2027-09-29 |  |  | 0 | 42 |
-| A4845 | Completion of Telecommunication | Milestones | Milestone | Not Started | 2027-03-20 | 2027-03-20 |  |  | 0 | -37.9 |
-| A93180 | Testing & Commissioning of potable Network for Zone A | Potable Water Network Testing & Commissioning Zone A | Task | Not Started | 2027-05-15 | 2027-05-20 |  |  | 0 | -90.1 |
-| A93190 | Testing & Commissioning of potable Network for Zone A | Potable water Network Testing & Commissioning Zone B | Task | Not Started | 2027-02-22 | 2027-02-28 |  |  | 0 | -20.9 |
-| A93200 | Testing & Commissioning of MV Network for Zone B | MV Network Testing & Commissioning Zone B | Task | Not Started | 2026-12-30 | 2027-01-06 |  |  | 0 | -82.8 |
-| A93210 | Testing & Commissioning of MV Network for Zone B | MV Network Testing & Commissioning Zone A | Task | Not Started | 2027-04-08 | 2027-04-14 |  |  | 0 | -166.8 |
-| A93220 | Testing & Commissioning of Sewage Network for Zone B | Sewage Network Testing & Commissioning Zone B | Task | Not Started | 2026-12-30 | 2027-01-04 |  |  | 0 | 25 |
-| A93230 | Testing & Commissioning of Storm Network for Zone A | Storm Network Testing & Commissioning Zone A | Task | Not Started | 2027-02-17 | 2027-02-23 |  |  | 0 | -16.7 |
-| A93240 | Testing & Commissioning of Sewage Network for Zone A | Sewage Network Testing & Commissioning Zone A | Task | Not Started | 2027-02-21 | 2027-02-27 |  |  | 0 | -21.0 |
-| A93250 | Testing & Commissioning of Storm Network for Zone B | Storm Network Testing & Commissioning Zone B | Task | Not Started | 2027-04-26 | 2027-05-02 |  |  | 0 | -74.2 |
-| A92710 | Final site inspection & clearance | Demobilization | Task | Not Started | 2027-10-26 | 2027-11-13 |  |  | 0 | 4 |
+| A4815 | Completion of Storm Network | Milestones | Milestone | Not Started | 2027-05-08 | 2027-05-08 |  |  | 0 | -79.2 |
+| A6800 | Completion of Potable water Network | Milestones | Milestone | Not Started | 2027-05-13 | 2027-05-13 |  |  | 0 | -84.1 |
+| A4825 | Completion of Irrigation Network | Milestones | Milestone | Not Started | 2027-05-24 | 2027-05-24 |  |  | 0 | -93.3 |
+| A4835 | Completion of Landscape | Milestones | Milestone | Not Started | 2027-10-07 | 2027-10-07 |  |  | 0 | 48.3 |
+| A4845 | Completion of Telecommunication | Milestones | Milestone | Not Started | 2027-03-13 | 2027-03-13 |  |  | 0 | -31.9 |
+| A93180 | Testing & Commissioning of potable Network for Zone A | Potable Water Network Testing & Commissioning Zone A | Task | Not Started | 2027-05-08 | 2027-05-13 |  |  | 0 | -84.1 |
+| A93190 | Testing & Commissioning of potable Network for Zone A | Potable water Network Testing & Commissioning Zone B | Task | Not Started | 2027-04-03 | 2027-04-08 |  |  | 0 | -54.0 |
+| A93200 | Testing & Commissioning of MV Network for Zone B | MV Network Testing & Commissioning Zone B | Task | Not Started | 2027-01-23 | 2027-01-30 |  |  | 0 | -102.8 |
+| A93210 | Testing & Commissioning of MV Network for Zone B | MV Network Testing & Commissioning Zone A | Task | Not Started | 2027-04-07 | 2027-04-13 |  |  | 0 | -165.3 |
+| A93220 | Testing & Commissioning of Sewage Network for Zone B | Sewage Network Testing & Commissioning Zone B | Task | Not Started | 2026-12-23 | 2026-12-28 |  |  | 0 | 31 |
+| A93230 | Testing & Commissioning of Storm Network for Zone A | Storm Network Testing & Commissioning Zone A | Task | Not Started | 2027-03-08 | 2027-03-14 |  |  | 0 | -32.0 |
+| A93240 | Testing & Commissioning of Sewage Network for Zone A | Sewage Network Testing & Commissioning Zone A | Task | Not Started | 2027-03-16 | 2027-03-22 |  |  | 0 | -40.3 |
+| A93250 | Testing & Commissioning of Storm Network for Zone B | Storm Network Testing & Commissioning Zone B | Task | Not Started | 2027-05-02 | 2027-05-08 |  |  | 0 | -79.2 |
+| A92710 | Final site inspection & clearance | Demobilization | Task | Not Started | 2027-11-15 | 2027-12-02 |  |  | 0 | 0 |
 | A93260 | Drawings Submittal | Submittals | Task | Completed | 2026-09-26 | 2026-10-11 | 2025-12-06 | 2026-09-28 | 100 |  |
 | A93270 | Drawings Approvals | Approvals | Task | Completed | 2026-10-12 | 2026-10-25 | 2025-12-06 | 2026-09-28 | 100 |  |
-| A93580 | Excavation | LINE 01 | Task | Not Started | 2027-02-24 | 2027-03-06 |  |  | 0 | 0 |
-| A93590 | Pipe Laying | LINE 01 | Task | Not Started | 2027-03-06 | 2027-03-22 |  |  | 0 | 0 |
-| A93600 | Install Manholes | LINE 01 | Task | Not Started | 2027-03-06 | 2027-03-22 |  |  | 0 | 18 |
-| A93610 | Testing & Inspection | LINE 01 | Task | Not Started | 2027-03-29 | 2027-04-05 |  |  | 0 | 0 |
-| A93620 | Backfilling & Compaction | LINE 01 | Task | Not Started | 2027-03-29 | 2027-04-12 |  |  | 0 | 0 |
-| A93640 | Existing Asphalt milling / Demolishing | Rehabilitate Road | Task | Not Started | 2027-08-30 | 2027-09-15 |  |  | 0 | 0 |
-| A93650 | Removal & disposal of damaged asphalt | Rehabilitate Road | Task | Not Started | 2027-09-01 | 2027-09-18 |  |  | 0 | 0 |
-| A93660 | Aggregate base course replacement | Rehabilitate Road | Task | Not Started | 2027-09-13 | 2027-09-29 |  |  | 0 | 0 |
-| A93670 | Compaction & level check | Rehabilitate Road | Task | Not Started | 2027-09-25 | 2027-10-11 |  |  | 0 | 0 |
-| A93680 | Prime coat | Rehabilitate Road | Task | Not Started | 2027-10-11 | 2027-10-16 |  |  | 0 | 0 |
-| A93690 | Asphalt wearing course | Rehabilitate Road | Task | Not Started | 2027-10-13 | 2027-11-03 |  |  | 0 | 0 |
-| A93700 | Asphalt compaction & finishing | Rehabilitate Road | Task | Not Started | 2027-10-16 | 2027-11-06 |  |  | 0 | 0 |
-| A93710 | Hardscape, Road markings & signage reinstatement | Rehabilitate Road | Task | Not Started | 2027-11-06 | 2027-11-17 |  |  | 0 | 0 |
-| A93630 | Catch Basin installation and backfilling | LINE 01 | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 0 |
-| A93340 | Excavation | LINE 08 | Task | Not Started | 2027-05-29 | 2027-06-19 |  |  | 0 | 18 |
-| A93350 | Pipe Laying | LINE 08 | Task | Not Started | 2027-06-07 | 2027-07-01 |  |  | 0 | 18 |
-| A93360 | Install Manholes | LINE 08 | Task | Not Started | 2027-06-07 | 2027-06-28 |  |  | 0 | 27 |
-| A93370 | Testing & Inspection | LINE 08 | Task | Not Started | 2027-07-08 | 2027-07-15 |  |  | 0 | 18 |
-| A93380 | Backfilling & Compaction | LINE 08 | Task | Not Started | 2027-07-08 | 2027-07-22 |  |  | 0 | 18 |
-| A93390 | Catch Basin installation and backfilling | LINE 08 | Task | Not Started | 2027-08-05 | 2027-08-30 |  |  | 0 | 0 |
-| A93280 | Excavation | LINE 07 | Task | Not Started | 2027-05-08 | 2027-05-29 |  |  | 0 | 15 |
-| A93290 | Pipe Laying | LINE 07 | Task | Not Started | 2027-05-17 | 2027-06-10 |  |  | 0 | 15 |
-| A93300 | Install Manholes | LINE 07 | Task | Not Started | 2027-05-17 | 2027-06-10 |  |  | 0 | 21 |
-| A93310 | Testing & Inspection | LINE 07 | Task | Not Started | 2027-06-17 | 2027-06-24 |  |  | 0 | 15 |
-| A93320 | Backfilling & Compaction | LINE 07 | Task | Not Started | 2027-06-17 | 2027-07-01 |  |  | 0 | 15 |
-| A93330 | Catch Basin installation and backfilling | LINE 07 | Task | Not Started | 2027-07-12 | 2027-08-05 |  |  | 0 | 0 |
-| A93400 | Excavation | LINE 06 | Task | Not Started | 2027-04-17 | 2027-05-08 |  |  | 0 | 12 |
-| A93410 | Pipe Laying | LINE 06 | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 12 |
-| A93420 | Install Manholes | LINE 06 | Task | Not Started | 2027-04-26 | 2027-05-20 |  |  | 0 | 18 |
-| A93430 | Testing & Inspection | LINE 06 | Task | Not Started | 2027-05-27 | 2027-06-03 |  |  | 0 | 12 |
-| A93440 | Backfilling & Compaction | LINE 06 | Task | Not Started | 2027-05-27 | 2027-06-10 |  |  | 0 | 12 |
-| A93450 | Catch Basin installation and backfilling | LINE 06 | Task | Not Started | 2027-06-17 | 2027-07-12 |  |  | 0 | 0 |
-| A93460 | Excavation | LINE 03 | Task | Not Started | 2027-03-27 | 2027-04-17 |  |  | 0 | 9 |
-| A93470 | Pipe Laying | LINE 03 | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 9 |
-| A93480 | Install Manholes | LINE 03 | Task | Not Started | 2027-04-05 | 2027-04-29 |  |  | 0 | 27 |
-| A93490 | Testing & Inspection | LINE 03 | Task | Not Started | 2027-05-06 | 2027-05-13 |  |  | 0 | 9 |
-| A93500 | Backfilling & Compaction | LINE 03 | Task | Not Started | 2027-05-06 | 2027-05-20 |  |  | 0 | 9 |
-| A93510 | Catch Basin installation and backfilling | LINE 03 | Task | Not Started | 2027-05-24 | 2027-06-17 |  |  | 0 | 0 |
-| A93520 | Excavation | LINE 02 | Task | Not Started | 2027-03-06 | 2027-03-27 |  |  | 0 | 6 |
-| A93530 | Pipe Laying | LINE 02 | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 6 |
-| A93540 | Install Manholes | LINE 02 | Task | Not Started | 2027-03-15 | 2027-04-08 |  |  | 0 | 24 |
-| A93550 | Testing & Inspection | LINE 02 | Task | Not Started | 2027-04-15 | 2027-04-22 |  |  | 0 | 6 |
-| A93560 | Backfilling & Compaction | LINE 02 | Task | Not Started | 2027-04-15 | 2027-04-29 |  |  | 0 | 6 |
-| A93570 | Catch Basin installation and backfilling | LINE 02 | Task | Not Started | 2027-04-29 | 2027-05-24 |  |  | 0 | 0 |
-| A93720 | Project Saving Quantities | Project Saving Quantities | Task | Not Started | 2027-10-26 | 2027-11-11 |  |  | 0 | 5 |
+| A93580 | Excavation | LINE 01 | Task | Not Started | 2027-03-04 | 2027-03-14 |  |  | 0 | 6.3 |
+| A93590 | Pipe Laying | LINE 01 | Task | Not Started | 2027-03-14 | 2027-03-30 |  |  | 0 | 6.3 |
+| A93600 | Install Manholes | LINE 01 | Task | Not Started | 2027-03-14 | 2027-03-30 |  |  | 0 | 24.3 |
+| A93610 | Testing & Inspection | LINE 01 | Task | Not Started | 2027-04-06 | 2027-04-13 |  |  | 0 | 6.3 |
+| A93620 | Backfilling & Compaction | LINE 01 | Task | Not Started | 2027-04-06 | 2027-04-20 |  |  | 0 | 6.3 |
+| A93640 | Existing Asphalt milling / Demolishing | Rehabilitate Road | Task | Not Started | 2027-09-07 | 2027-09-23 |  |  | 0 | 6.3 |
+| A93650 | Removal & disposal of damaged asphalt | Rehabilitate Road | Task | Not Started | 2027-09-09 | 2027-09-26 |  |  | 0 | 6.3 |
+| A93660 | Aggregate base course replacement | Rehabilitate Road | Task | Not Started | 2027-09-21 | 2027-10-07 |  |  | 0 | 6.3 |
+| A93670 | Compaction & level check | Rehabilitate Road | Task | Not Started | 2027-10-03 | 2027-10-19 |  |  | 0 | 6.3 |
+| A93680 | Prime coat | Rehabilitate Road | Task | Not Started | 2027-10-19 | 2027-10-24 |  |  | 0 | 6.3 |
+| A93690 | Asphalt wearing course | Rehabilitate Road | Task | Not Started | 2027-10-21 | 2027-11-11 |  |  | 0 | 6.3 |
+| A93700 | Asphalt compaction & finishing | Rehabilitate Road | Task | Not Started | 2027-10-24 | 2027-11-14 |  |  | 0 | 6.3 |
+| A93710 | Hardscape, Road markings & signage reinstatement | Rehabilitate Road | Task | Not Started | 2027-11-14 | 2027-11-25 |  |  | 0 | 6.3 |
+| A93630 | Catch Basin installation and backfilling | LINE 01 | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 6.3 |
+| A93340 | Excavation | LINE 08 | Task | Not Started | 2027-06-06 | 2027-06-27 |  |  | 0 | 24.3 |
+| A93350 | Pipe Laying | LINE 08 | Task | Not Started | 2027-06-15 | 2027-07-10 |  |  | 0 | 24.3 |
+| A93360 | Install Manholes | LINE 08 | Task | Not Started | 2027-06-15 | 2027-07-06 |  |  | 0 | 33.3 |
+| A93370 | Testing & Inspection | LINE 08 | Task | Not Started | 2027-07-17 | 2027-07-24 |  |  | 0 | 24.3 |
+| A93380 | Backfilling & Compaction | LINE 08 | Task | Not Started | 2027-07-17 | 2027-07-31 |  |  | 0 | 24.3 |
+| A93390 | Catch Basin installation and backfilling | LINE 08 | Task | Not Started | 2027-08-14 | 2027-09-07 |  |  | 0 | 6.3 |
+| A93280 | Excavation | LINE 07 | Task | Not Started | 2027-05-16 | 2027-06-06 |  |  | 0 | 21.3 |
+| A93290 | Pipe Laying | LINE 07 | Task | Not Started | 2027-05-25 | 2027-06-19 |  |  | 0 | 21.3 |
+| A93300 | Install Manholes | LINE 07 | Task | Not Started | 2027-05-25 | 2027-06-19 |  |  | 0 | 27.3 |
+| A93310 | Testing & Inspection | LINE 07 | Task | Not Started | 2027-06-26 | 2027-07-03 |  |  | 0 | 21.3 |
+| A93320 | Backfilling & Compaction | LINE 07 | Task | Not Started | 2027-06-26 | 2027-07-10 |  |  | 0 | 21.3 |
+| A93330 | Catch Basin installation and backfilling | LINE 07 | Task | Not Started | 2027-07-20 | 2027-08-14 |  |  | 0 | 6.3 |
+| A93400 | Excavation | LINE 06 | Task | Not Started | 2027-04-25 | 2027-05-16 |  |  | 0 | 18.3 |
+| A93410 | Pipe Laying | LINE 06 | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 18.3 |
+| A93420 | Install Manholes | LINE 06 | Task | Not Started | 2027-05-04 | 2027-05-29 |  |  | 0 | 24.3 |
+| A93430 | Testing & Inspection | LINE 06 | Task | Not Started | 2027-06-05 | 2027-06-12 |  |  | 0 | 18.3 |
+| A93440 | Backfilling & Compaction | LINE 06 | Task | Not Started | 2027-06-05 | 2027-06-19 |  |  | 0 | 18.3 |
+| A93450 | Catch Basin installation and backfilling | LINE 06 | Task | Not Started | 2027-06-26 | 2027-07-20 |  |  | 0 | 6.3 |
+| A93460 | Excavation | LINE 03 | Task | Not Started | 2027-04-04 | 2027-04-25 |  |  | 0 | 15.3 |
+| A93470 | Pipe Laying | LINE 03 | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 15.3 |
+| A93480 | Install Manholes | LINE 03 | Task | Not Started | 2027-04-13 | 2027-05-08 |  |  | 0 | 33.3 |
+| A93490 | Testing & Inspection | LINE 03 | Task | Not Started | 2027-05-15 | 2027-05-22 |  |  | 0 | 15.3 |
+| A93500 | Backfilling & Compaction | LINE 03 | Task | Not Started | 2027-05-15 | 2027-05-29 |  |  | 0 | 15.3 |
+| A93510 | Catch Basin installation and backfilling | LINE 03 | Task | Not Started | 2027-06-01 | 2027-06-26 |  |  | 0 | 6.3 |
+| A93520 | Excavation | LINE 02 | Task | Not Started | 2027-03-14 | 2027-04-04 |  |  | 0 | 12.3 |
+| A93530 | Pipe Laying | LINE 02 | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 12.3 |
+| A93540 | Install Manholes | LINE 02 | Task | Not Started | 2027-03-23 | 2027-04-17 |  |  | 0 | 30.3 |
+| A93550 | Testing & Inspection | LINE 02 | Task | Not Started | 2027-04-24 | 2027-05-01 |  |  | 0 | 12.3 |
+| A93560 | Backfilling & Compaction | LINE 02 | Task | Not Started | 2027-04-24 | 2027-05-08 |  |  | 0 | 12.3 |
+| A93570 | Catch Basin installation and backfilling | LINE 02 | Task | Not Started | 2027-05-08 | 2027-06-01 |  |  | 0 | 6.3 |
+| A93720 | Project Saving Quantities | Project Saving Quantities | Task | Not Started | 2027-11-15 | 2027-12-01 |  |  | 0 | 1 |
