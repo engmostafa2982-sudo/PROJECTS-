@@ -8,13 +8,13 @@ Weekly progress reports follow one standard for all projects: see [_report-stand
 
 ## Upload tracker / متابعة الرفع
 
-**68 of 325 folders have uploads.**
+**69 of 325 folders have uploads.**
 
 _Updated automatically after every upload. ✅ n = number of files in **All Files**, ⬜ = nothing uploaded yet. Click a cell to open the folder._
 
 | # | Project / المشروع | BOQ | Drawing | Baseline | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/1-BOQ/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/2-Project%20Drawing/All%20Files) | [✅ 1](01-riyadh-4th-industrial-city-infrastructure-networks/3-Baseline/All%20Files) | [✅ 13](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W1/All%20Files) | [✅ 1](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W2/All%20Files) | [✅ 24](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W4/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W5/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W6/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W7/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W8/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W9/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W10/All%20Files) |
+| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/1-BOQ/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/2-Project%20Drawing/All%20Files) | [✅ 1](01-riyadh-4th-industrial-city-infrastructure-networks/3-Baseline/All%20Files) | [✅ 13](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W1/All%20Files) | [✅ 1](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W2/All%20Files) | [✅ 24](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W4/All%20Files) | [✅ 9](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W5/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W6/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W7/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W8/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W9/All%20Files) | [⬜](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W10/All%20Files) |
 | 02 | [تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة](02-jeddah-3rd-industrial-city-infrastructure/) | [✅ 1](02-jeddah-3rd-industrial-city-infrastructure/1-BOQ/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/2-Project%20Drawing/All%20Files) | [✅ 1](02-jeddah-3rd-industrial-city-infrastructure/3-Baseline/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W1/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W2/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W3/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W4/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W5/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W6/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W7/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W8/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W9/All%20Files) | [⬜](02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W10/All%20Files) |
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | [✅ 1](03-kharj-industrial-city-infrastructure-networks/1-BOQ/All%20Files) | [✅ 2](03-kharj-industrial-city-infrastructure-networks/2-Project%20Drawing/All%20Files) | [✅ 1](03-kharj-industrial-city-infrastructure-networks/3-Baseline/All%20Files) | [✅ 2](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W1/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W2/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W3/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W4/All%20Files) | [✅ 3](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W5/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W6/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W7/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W8/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W9/All%20Files) | [⬜](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W10/All%20Files) |
 | 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/1-BOQ/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/2-Project%20Drawing/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/3-Baseline/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W1/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W2/All%20Files) | [✅ 1](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W4/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W5/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W6/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W7/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W8/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W9/All%20Files) | [⬜](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W10/All%20Files) |
@@ -42,13 +42,13 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**15 of 49 uploaded weeks have a generated report.**
+**15 of 50 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
 | # | Project / المشروع | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
+| 01 | [مشروع تطوير شبكات البنية التحتية بالرياض الرابعة](01-riyadh-4th-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W3/Generated%20Report) | – | ⏳ | – | – | – | – | – |
 | 02 | [تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة](02-jeddah-3rd-industrial-city-infrastructure/) | – | – | – | – | – | – | – | – | – | – |
 | 03 | [تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج](03-kharj-industrial-city-infrastructure-networks/) | ⏳ | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W5/Generated%20Report) | – | – | – | – | – |
 | 04 | [إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة](04-jeddah-3rd-industrial-city-infrastructure-completion/) | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W3/Generated%20Report) | – | – | – | – | – | – | – |
@@ -78,6 +78,15 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | ABC WORK - RD-A-1 - Z08.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | ABC WORK FOR RD-L-7 - Z05.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | Asphalt work for RD_ A_1 - Z04.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | Backfilling works for BL_ 31 - Z09.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | Cutting works for BL_ 31 - Z09.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | RHD4- WPR#15 2026-10-26.xlsx |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | Ric work for BL- 33 - Z09.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | WhatsApp Image 2026-10-24 at 7.49.26 AM.jpeg |
+| 2026-11-01 07:47 | elgarhyrabiey | 01 | 4-Weekly update/W5 | WhatsApp Image 2026-10-28 at 1.53.50 PM.jpeg |
 | 2026-10-28 11:08 | elgarhyrabiey | 03 | 4-Weekly update/W1 | Industrial City Weekly Report 28.Sep.2026.xlsx |
 | 2026-10-28 11:08 | elgarhyrabiey | 03 | 4-Weekly update/W1 | PROGRESS PRESENTATION FILE  28-SEP-2026.pdf |
 | 2026-10-28 11:07 | elgarhyrabiey | 03 | 4-Weekly update/W5 | Industrial City Weekly Report 26.Oct.2026.xlsx |
@@ -99,14 +108,5 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 2026-10-28 09:06 | elgarhyrabiey | 06 | 4-Weekly update/W1 | 02. WPR UPD As Oct. 06, 2026.xer |
 | 2026-10-28 09:05 | elgarhyrabiey | 06 | 4-Weekly update/W1 | 1. DAM2-02-09-SAJ-TS9-1-DCM-WPR Oct. 06, 2026.xlsx |
 | 2026-10-28 09:04 | tayebsmmani777 | 04 | 4-Weekly update/W1 | JDH3-02-008 Weekly Progress Report 04-10-2026.xlsx |
-| 2026-10-28 09:03 | tayebsmmani777 | 04 | 4-Weekly update/W2 | JDH3-02-008 Weekly Progress Report 11-10-2026.xlsx |
-| 2026-10-28 09:03 | tayebsmmani777 | 04 | 4-Weekly update/W3 | JDH3-02-008 Weekly Progress Report 18-10-2026.xlsx |
-| 2026-10-28 09:01 | elgarhyrabiey | 05 | 3-Baseline | MOD3-J-2769-BL01-R01-106-Baseline.xer |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 00.DAM3-02-007-WPR-92-13-10-2026.xlsx |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 02.DAM3-02-007-UPS Level 5 -20-10-2026.pdf |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 03.DAM3-02-007-UPS Level 5 -20-10-2026.xer |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 048533a3-ad12-41.jfif |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 05.DAM3-02-007-UPS LOOK AHEAD 20-10-2026.pdf |
-| 2026-10-28 09:00 | elgarhyrabiey | 05 | 4-Weekly update/W3 | 05.DAM3-02-007-UPS WBS Summary -20-10-2026.pdf |
 
 <!-- tracker:end -->
