@@ -44,7 +44,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**33 of 77 uploaded weeks have a generated report.**
+**32 of 77 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
@@ -61,7 +61,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 09 | [تطوير اضافي و استكمال شبكات في تبوك](09-tabuk-additional-networks-completion/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](09-tabuk-additional-networks-completion/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 10 | [مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام](10-dammam-3rd-industrial-city-phase1-part2/) | – | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](10-dammam-3rd-industrial-city-phase1-part2/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 11 | [إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة](11-dammam-3rd-44-ready-built-factories/) | – | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
-| 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
+| 12 | [مشروع تطوير اراضي بواحة جدة](12-jeddah-oasis-land-development/) | – | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](12-jeddah-oasis-land-development/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | ⏳ | – | – | – | – | – | – |
 | 13 | [تطوير المناطق التقنية - الظهران](13-dhahran-tech-zones-development/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](13-dhahran-tech-zones-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 14 | [تطوير المناطق التقنية - الدمام](14-dammam-tech-zones-development/) | – | – | – | – | [✅ HTML ✅ PDF ✅ Email](14-dammam-tech-zones-development/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
 | 15 | [برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر](15-hail-ready-factories-package3-20-factories/) | ⏳ | ⏳ | ⏳ | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W03%20-%2015-Oct-2026/Generated%20Report) | [✅ HTML ✅ PDF ✅ Email](15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W04%20-%2022-Oct-2026/Generated%20Report) | – | – | – | – | – | – |
@@ -80,28 +80,6 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 00. MKH2-02-004-ENJ-WPR-018-27-10-2026.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 03.MKH2-02-004-ENJ-WPR-018-27-10-2026 Update Level 5.pdf |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 06.MKH2-02-004-ENJ-WPR-018-27-10-2026 Remaining Work.pdf |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 09. MKH2-02-004-ENJ-WPR-018-27-10-2026 Failed Start List.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 12. MKH2-02-004-ENJ-WPR-018-27-10-2026 ملخص سير الأعمال.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 14. MKH2-02-004-ENJ-WPR-018-27-10-2026 Procurement Log.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 15. MKH2-02-004-ENJ-WPR-018-27-10-2026 الأعمال المنفذة ونسب الإنجاز.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | 16. MKH2-02-004-ENJ-WPR-018-27-10-2026 الأعمال المنفذه خلال الإسبوع.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 17 | 4-Weekly update/W04 - 22-Oct-2026 | MKH2-02-004-ENJ-27-10-2026-Risk - Issue Log.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 00. MLTX-02-004-WPR-26-26-10-2026.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 03.MLTX-02-004-UPS-26-26-10-2026.pdf |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 06.MLTX-02-004-WPR-26-26-10-2026 Remaining Works.pdf |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 08. MLTX-02-004-WPR-25-19-10-2026 Progress Report.pdf |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 09. MLTX-02-004-WPR-26-26-10-2026 Failed Start List.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 10. MLTX-02-004-PRO-WPR-26-26-10-2026 Tracking Progress.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 12. MLTX-02-004-WPR-26-26-10-2026 ملخص سير الأعمال.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 14. MLTX-02-004-WPR-26-26-10-2026 Procurement Log.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 15. MLTX-02-004-WPR-26-26-10-2026 الأعمال المنفذة ونسب الإنجاز.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 16. MLTX-02-004-WPR-26-26-10-2026 الأعمال المنفذه خلال الإسبوع.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | 2. MLTX-02-004-UPS-26-26-10-2026.xer |
-| 2026-11-01 10:02 | github-actions[bot] | 21 | 4-Weekly update/W04 - 22-Oct-2026 | MLTX-02-004-Risk_-_Issue_Log_MODON_Play ground Western_Region.xlsx |
-| 2026-11-01 10:02 | github-actions[bot] | 25 | 4-Weekly update/W04 - 22-Oct-2026 | 01. NJR1-05-005 - Weekly Report #30 2026.10.27.xlsx |
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 02.DAM3-05-11 Updated Baseline.xer |
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 03.DAM3-05-11  Weekly Report Dash Board -WPR35-2026-10-20.xlsb |
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 04.DAM3-05-11-Shop Drawings List -2026-10-20.xlsx |
@@ -110,5 +88,27 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 07. DAM3-05-11 -Failed Start List 2026-10-20.xlsx |
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 09.Risk - Issue Log Main.xlsx |
 | 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 10.Progress Certificate - MODON.pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 11.Progress Tracker  - MODON.pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 12. DAM3-05-11( 2 Weeks Look Ahead-2026-10-20).pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 13.DAM3-05-11-Critical Activities-2026-10-20.pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 14.DDAM3-05-11 Updated Baseline.pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 15.DAM3-05-11 WBS.pdf |
+| 2026-11-01 10:01 | elgarhyrabiey | 11 | 4-Weekly update/W03 - 15-Oct-2026 | 8. DAM3-05-11-Delayed Activites List -2026-10-20.xlsx |
+| 2026-11-01 10:00 | tayebsmmani777 | 25 | 4-Weekly update/W05 - 29-Oct-2026 | 01. NJR1-05-005 - Weekly Report #30 2026.10.27.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 02.DAM3-05-11 Updated Baseline.xer |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 03.DAM3-05-11  Weekly Report Dash Board -WPR34-2026-10-13.xlsb |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 04.DAM3-05-11-Shop Drawings List -2026-10-13.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 05. DAM3-05-11 Procurement Plan.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 06.DAM3-05-11-Infrastructure & Roads Progress Layout- 2026-10-13.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 07. DAM3-05-11 -Failed Start List 2026-10-13.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 09.Risk - Issue Log Main.xlsx |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 10.Progress Certificate - MODON.pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 11.Progress Tracker  - MODON.pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 12. DAM3-05-11( 2 Weeks Look Ahead-2026-10-13).pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 13.DAM3-05-11-Critical Activities-2026-10-13.pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 14.DDAM3-05-11 Updated Baseline.pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 15.DAM3-05-11 WBS.pdf |
+| 2026-11-01 09:59 | elgarhyrabiey | 11 | 4-Weekly update/W02 - 08-Oct-2026 | 8. DAM3-05-11-Delayed Activites List -2026-10-13.xlsx |
+| 2026-11-01 09:58 | tayebsmmani777 | 21 | 4-Weekly update/W05 - 29-Oct-2026 | 00. MLTX-02-004-WPR-26-26-10-2026.xlsx |
 
 <!-- tracker:end -->
