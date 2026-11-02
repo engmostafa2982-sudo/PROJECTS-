@@ -49,8 +49,14 @@ jobs:
             git add -A -- ':(glob)**/4-Weekly update/**' ':(glob)**/MD Files/**' README.md
             if ! git diff --cached --quiet; then
               git commit -q -m "Convert uploads to Markdown and update tracker"
-              git pull --rebase -X theirs origin main
-              git push origin HEAD:main
+              # Another run or an upload may have pushed meanwhile: if the rebase fails, start this pass again
+              # from the latest main (conversion is repeatable), instead of failing.
+              if ! git pull --rebase -X theirs origin main || ! git push origin HEAD:main; then
+                git rebase --abort 2>/dev/null || true
+                git fetch -q origin main && git reset -q --hard origin/main
+                tries=$((${tries:-0} + 1)); [ "$tries" -le 5 ] && continue
+                exit 1
+              fi
             fi
             [ "$status" -eq 3 ] || exit "$status"
           done
