@@ -1,0 +1,48 @@
+name: Publish the reports website
+
+# Rebuilds the GitHub Pages site (gh-pages branch) whenever a report changes, so the fixed links
+# https://<owner>.github.io/<repo>/ and .../<NN>/ always show the latest reports.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/Generated Report/**"
+      - "**/README.md"
+      - ".github/scripts/build_site.py"
+      - ".github/workflows/publish-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-site
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the site on top of the current gh-pages branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          if git fetch -q --depth 1 origin gh-pages; then
+            git worktree add -q site FETCH_HEAD
+          else
+            git worktree add -q --detach site && git -C site checkout -q --orphan gh-pages
+          fi
+          python .github/scripts/build_site.py site
+          cd site
+          git add -A
+          if git diff --cached --quiet; then echo "site unchanged"; exit 0; fi
+          git commit -q -m "Publish reports website"
+          git push -q origin HEAD:gh-pages
