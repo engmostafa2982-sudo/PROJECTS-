@@ -1,5 +1,7 @@
 # Infrastructure Projects / مشاريع البنية التحتية
 
+**🌐 موقع التقارير / Reports website: https://engmostafa2982-sudo.github.io/PROJECTS-/** — آخر تقرير لكل مشروع، يتحدث تلقائياً. Each project's latest report is always at `…/PROJECTS-/<NN>/` (e.g. `/05/`).
+
 Upload files into the **All Files** folder of each section. A Markdown copy is created automatically in **MD Files**.
 
 Weekly folders are named by the Thursday each week ends on, from 01-Oct-2026: `W01 - 01-Oct-2026`, `W02 - 08-Oct-2026` … `W10 - 03-Dec-2026`. A weekly report dated after one Thursday, up to and including the next, belongs to the next Thursday's folder (a report dated 26-Oct-2026 goes in `W05 - 29-Oct-2026`). After every upload the report's date is read from the file names and a week uploaded to the wrong folder is moved automatically (only into an empty folder, so nothing is overwritten). Files uploaded to an old-style folder (`W4`) or straight into a week folder are also moved into the right **All Files**.
