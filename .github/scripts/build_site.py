@@ -213,13 +213,13 @@ def build(out):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>تقارير تقدم المشاريع / Project Progress Reports</title>
+<title>Project Tracker</title>
 <style>{CSS}</style>
 </head>
 <body>
 <div class="wrap">
-<h1>تقارير تقدم المشاريع الأسبوعية</h1>
-<p class="sub">Weekly project progress reports · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز فعلية (Physical % complete)</p>
+<h1>Project Tracker</h1>
+<p class="sub">تقارير تقدم المشاريع الأسبوعية · Weekly project progress reports · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز فعلية (Physical % complete)</p>
 <div class="sum">
   <div><b>{reported}</b><span>مشروع لديه تقرير / projects reported</span></div>
   <div><b style="color:var(--good)">{counts['good']}</b><span>حسب الخطة أو متقدم / on or ahead of plan</span></div>
