@@ -1,6 +1,6 @@
 # Infrastructure Projects / مشاريع البنية التحتية
 
-**🌐 موقع التقارير / Reports website: https://engmostafa2982-sudo.github.io/PROJECTS-/** — آخر تقرير لكل مشروع، يتحدث تلقائياً. Each project's latest report is always at `…/PROJECTS-/<NN>/` (e.g. `/05/`).
+**🌐 [Project Tracker](https://engmostafa2982-sudo.github.io/PROJECTS-/)** — آخر تقرير لكل مشروع، يتحدث تلقائياً. Each project's latest report is always at `…/PROJECTS-/<NN>/` (e.g. `/05/`).
 
 Upload files into the **All Files** folder of each section. A Markdown copy is created automatically in **MD Files**.
 
