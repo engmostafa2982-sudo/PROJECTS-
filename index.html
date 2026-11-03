@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>تقارير تقدم المشاريع / Project Progress Reports</title>
+<style>
+@font-face{font-family:"Plex Arabic";font-weight:400;src:url(fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF}
+@font-face{font-family:"Plex Arabic";font-weight:600;src:url(fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF}
+@font-face{font-family:"Plex Arabic";font-weight:400;src:url(fonts/ibm-plex-sans-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"Plex Arabic";font-weight:600;src:url(fonts/ibm-plex-sans-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Plex Mono";font-weight:500;src:url(fonts/ibm-plex-mono-latin-500-normal.woff2) format("woff2")}
+:root{--bg:#f6f6f3;--panel:#fff;--ink:#17201d;--ink-2:#5b6661;--rule:#dfe2dd;--grid:#e9ebe7;--accent:#1f6f5c;
+--good:#1b7a46;--good-bg:#e3f3e9;--warn:#9a6300;--warn-bg:#fbefd8;--crit:#b3261e;--crit-bg:#fbe5e3;--plan:#8a948f;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#121816;--panel:#1a2220;--ink:#e6ebe8;--ink-2:#9aa6a0;--rule:#2c3633;--grid:#25302d;--accent:#5cc3a5;
+--good:#5fd08e;--good-bg:#173226;--warn:#f0b54a;--warn-bg:#3a2d12;--crit:#ff8a80;--crit-bg:#3d1c1a;--plan:#7d8984;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "Plex Arabic",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 16px 48px}
+h1{font-size:1.7rem;margin:0 0 2px;line-height:1.3}.sub{color:var(--ink-2);margin:0 0 20px}
+.sum{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:0 0 22px}
+.sum div{background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:12px 14px}
+.sum b{display:block;font:500 1.6rem "Plex Mono",monospace}.sum span{color:var(--ink-2);font-size:.85rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
+.card.empty{opacity:.55}
+.top{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}
+.num{font:500 .8rem "Plex Mono",monospace;color:var(--ink-2);border:1px solid var(--rule);border-radius:6px;padding:1px 7px;flex:none}
+.name{font-weight:600;line-height:1.45}.en{color:var(--ink-2);font-size:.82rem;direction:ltr;text-align:right}
+.fig{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}.fig span{color:var(--ink-2);font-size:.85rem}
+.fig .big{font:500 1.9rem/1 "Plex Mono",monospace;direction:ltr;color:var(--ink)}.planv{margin-inline-start:auto}
+.st{display:flex;align-items:center;gap:10px}.spi{font:500 .85rem "Plex Mono",monospace;color:var(--ink-2);direction:ltr;unicode-bidi:isolate}
+.bar{height:8px;background:var(--grid);border-radius:99px;position:relative;overflow:visible;direction:ltr}
+.bar i{position:absolute;inset:0 auto 0 0;border-radius:99px;background:var(--accent)}
+.bar u{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--plan)}
+.pill{display:inline-block;font-size:.8rem;font-weight:600;border-radius:99px;padding:2px 10px}
+.pill.good{color:var(--good);background:var(--good-bg)}.pill.warn{color:var(--warn);background:var(--warn-bg)}
+.pill.crit{color:var(--crit);background:var(--crit-bg)}.pill.none{color:var(--ink-2);background:var(--grid)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;color:var(--ink-2);font-size:.85rem}.meta bdi{color:var(--ink)}
+.links{display:flex;flex-wrap:wrap;gap:8px}
+.links a{color:var(--accent);text-decoration:none;font-weight:600;font-size:.88rem;border:1px solid var(--rule);border-radius:99px;padding:4px 12px}
+.links a.main{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.links a:hover{border-color:var(--accent)}
+details{font-size:.85rem;color:var(--ink-2)}details a{color:var(--accent);margin-inline-end:10px;white-space:nowrap}
+footer{margin-top:28px;color:var(--ink-2);font-size:.82rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>تقارير تقدم المشاريع الأسبوعية</h1>
+<p class="sub">Weekly project progress reports · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز فعلية (Physical % complete)</p>
+<div class="sum">
+  <div><b>24</b><span>مشروع لديه تقرير / projects reported</span></div>
+  <div><b style="color:var(--good)">12</b><span>حسب الخطة أو متقدم / on or ahead of plan</span></div>
+  <div><b style="color:var(--warn)">4</b><span>متأخر قليلاً / slightly behind</span></div>
+  <div><b style="color:var(--crit)">8</b><span>متأخر / behind (SPI &lt; 0.90)</span></div>
+</div>
+<div class="cards">
+<article class="card">
+  <div class="top"><div><div class="name">مشروع تطوير شبكات البنية التحتية بالرياض الرابعة</div><div class="en">Developing Infrastructure Networks in Riyadh&#x27;s Fourth Industrial City</div></div><span class="num">01</span></div>
+  <div class="fig"><span class="big">25.2%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">30.1%</bdi></span></div><div class="bar" title="Actual 25.2%, plan 30.1%"><i style="width:25.2%"></i><u style="left:30.1%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.84</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 47</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">01-Feb-2029</bdi></span></div>
+  <div class="links"><a class="main" href="01/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Riyadh-4th-progress-report-week-47.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/01-riyadh-4th-industrial-city-infrastructure-networks/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-47.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="01/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير البنية التحتية بالمدينة الصناعية الثالثة بجدة</div><div class="en">New Infrastructure Development of the Second Phase, Third Industrial City, Jeddah</div></div><span class="num">02</span></div>
+  <div class="fig"><span class="big">52.8%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">52.8%</bdi></span></div><div class="bar" title="Actual 52.75%, plan 52.76%"><i style="width:52.75%"></i><u style="left:52.76%"></u></div>
+  <div class="st"><span class="pill good">حسب الخطة</span><span class="spi">SPI <bdi dir="ltr">1.00</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 84</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">19-Mar-2028</bdi></span></div>
+  <div class="links"><a class="main" href="02/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Jeddah-3rd-Infra-progress-report-week-84.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/02-jeddah-3rd-industrial-city-infrastructure/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%AC%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-84.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير شبكات البنية التحتية بالمدينة الصناعية بالخرج</div><div class="en">Development of Infrastructure Networks, Al-Kharj Industrial City</div></div><span class="num">03</span></div>
+  <div class="fig"><span class="big">49.3%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">48.4%</bdi></span></div><div class="bar" title="Actual 49.3%, plan 48.4%"><i style="width:49.3%"></i><u style="left:48.4%"></u></div>
+  <div class="st"><span class="pill good">حسب الخطة</span><span class="spi">SPI <bdi dir="ltr">1.02</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 46</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">27-Apr-2028</bdi></span></div>
+  <div class="links"><a class="main" href="03/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Kharj-progress-report-week-46.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/03-kharj-industrial-city-infrastructure-networks/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AE%D8%B1%D8%AC-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-46.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">إستكمال شبكات البنية التحتية بالمدينة الصناعية الثالثة بجدة</div><div class="en">Completion of the Infrastructure Development of the First Phase, Third Industrial City, Jeddah</div></div><span class="num">04</span></div>
+  <div class="fig"><span class="big">99.1%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">99.9%</bdi></span></div><div class="bar" title="Actual 99.1%, plan 99.9%"><i style="width:99.1%"></i><u style="left:99.9%"></u></div>
+  <div class="st"><span class="pill warn">متأخر قليلاً</span><span class="spi">SPI <bdi dir="ltr">0.99</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">25-Oct-2026</bdi></span><span>الأسبوع 117</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">15-Dec-2026</bdi></span></div>
+  <div class="links"><a class="main" href="04/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Jeddah-3rd-Completion-progress-report-week-117.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/04-jeddah-3rd-industrial-city-infrastructure-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AC%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-117.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="04/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير شبكات البنية التحتية للمدينة الصناعية الثالثة بالدمام المرحلة الثانية الجزء الثاني - المنطقة J</div><div class="en">Development of Infrastructure Networks, 3rd Industrial City in Dammam, Phase 2 Part 2, Zone J</div></div><span class="num">05</span></div>
+  <div class="fig"><span class="big">78.5%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">86.6%</bdi></span></div><div class="bar" title="Actual 78.5%, plan 86.6%"><i style="width:78.5%"></i><u style="left:86.6%"></u></div>
+  <div class="st"><span class="pill warn">متأخر قليلاً</span><span class="spi">SPI <bdi dir="ltr">0.91</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 93</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">07-Sep-2027</bdi></span></div>
+  <div class="links"><a class="main" href="05/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-3rd-Zone-J-progress-report-week-93.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/05-dammam-3rd-industrial-city-phase2-part2-zone-j/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-J-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-93.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="05/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">شبكات البنية التحتية للمنطقة اللوجستية لمساحة 1 كم مربع بالمدينة الصناعية الثانية بالدمام</div><div class="en">Infrastructure Networks for the 1 km² Logistics Zone, 2nd Industrial City, Dammam</div></div><span class="num">06</span></div>
+  <div class="fig"><span class="big">60.7%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">76.0%</bdi></span></div><div class="bar" title="Actual 60.7%, plan 76.0%"><i style="width:60.7%"></i><u style="left:76.0%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.80</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 65</span></div>
+  <div class="links"><a class="main" href="06/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-2nd-Logistics-progress-report-week-65.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/06-dammam-2nd-industrial-city-logistics-zone-1km2/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-65.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="06/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير شبكات البنية التحتية بالمنطقة الصناعية بسدير المرحلة الثالثة</div><div class="en">Infrastructure Network Development, Sudair City for Industry and Business</div></div><span class="num">07</span></div>
+  <div class="fig"><span class="big">46.4%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">42.2%</bdi></span></div><div class="bar" title="Actual 46.4%, plan 42.2%"><i style="width:46.4%"></i><u style="left:42.2%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.10</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 42</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">05-Jul-2027</bdi></span></div>
+  <div class="links"><a class="main" href="07/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Sudair-Phase3-progress-report-week-42.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/07-sudair-industrial-city-infrastructure-phase3/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%B3%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-42.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="07/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير البنية التحتية بالمدينة الصناعية الأولى بجدة (1كم2) - x</div><div class="en">Infrastructure Development for Industrial City 1 in Jeddah</div></div><span class="num">08</span></div>
+  <div class="fig"><span class="big">73.4%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">48.0%</bdi></span></div><div class="bar" title="Actual 73.4%, plan 48.0%"><i style="width:73.4%"></i><u style="left:48.0%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.53</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 48</span></div>
+  <div class="links"><a class="main" href="08/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Jeddah-1st-progress-report-week-48.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/08-jeddah-1st-industrial-city-infrastructure-1km2-x/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%AC%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-48.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="08/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير اضافي و استكمال شبكات في تبوك</div><div class="en">Additional Development and Network Completion, Tabuk Industrial City</div></div><span class="num">09</span></div>
+  <div class="fig"><span class="big">51.9%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">36.7%</bdi></span></div><div class="bar" title="Actual 51.9%, plan 36.7%"><i style="width:51.9%"></i><u style="left:36.7%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.42</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 60</span></div>
+  <div class="links"><a class="main" href="09/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/09-tabuk-additional-networks-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Tabuk-progress-report-week-60.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/09-tabuk-additional-networks-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%AA%D8%A8%D9%88%D9%83-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-60.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="09/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مشروع تطوير المرحلة الأولى الجزء الثاني بالمدينة الصناعية الثالثة بالدمام</div><div class="en">Development of Phase One – Part Two, Third Industrial City in Dammam</div></div><span class="num">10</span></div>
+  <div class="fig"><span class="big">77.4%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">96.5%</bdi></span></div><div class="bar" title="Actual 77.4%, plan 96.5%"><i style="width:77.4%"></i><u style="left:96.5%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.80</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 75</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">12-Jun-2027</bdi></span></div>
+  <div class="links"><a class="main" href="10/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/10-dammam-3rd-industrial-city-phase1-part2/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-3rd-Phase1-progress-report-week-75.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/10-dammam-3rd-industrial-city-phase1-part2/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-75.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">إنشاء 44 مصنع جاهز (900 متر مربع) في المدينة الصناعية بالدمام الثالثة</div><div class="en">44 Ready-Built Factories (900 m²), Dammam 3rd Industrial City</div></div><span class="num">11</span></div>
+  <div class="fig"><span class="big">80.0%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">79.2%</bdi></span></div><div class="bar" title="Actual 80.0%, plan 79.2%"><i style="width:80.0%"></i><u style="left:79.2%"></u></div>
+  <div class="st"><span class="pill good">حسب الخطة</span><span class="spi">SPI <bdi dir="ltr">1.01</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 42</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">03-Mar-2027</bdi></span></div>
+  <div class="links"><a class="main" href="11/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-44-Factories-progress-report-week-42.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/11-dammam-3rd-44-ready-built-factories/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-44-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-42.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مشروع تطوير اراضي بواحة جدة</div><div class="en">Land Development of Jeddah Oasis</div></div><span class="num">12</span></div>
+  <div class="fig"><span class="big">97.2%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">79.0%</bdi></span></div><div class="bar" title="Actual 97.2%, plan 79.0%"><i style="width:97.2%"></i><u style="left:79.0%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.23</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 49</span></div>
+  <div class="links"><a class="main" href="12/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/12-jeddah-oasis-land-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Jeddah-Oasis-progress-report-week-49.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/12-jeddah-oasis-land-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AD%D8%A9-%D8%AC%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-49.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="12/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير المناطق التقنية - الظهران</div><div class="en">Development of the Technology City in Dhahran</div></div><span class="num">13</span></div>
+  <div class="fig"><span class="big">20.8%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">36.4%</bdi></span></div><div class="bar" title="Actual 20.8%, plan 36.4%"><i style="width:20.8%"></i><u style="left:36.4%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.57</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 42</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">15-Jul-2027</bdi></span></div>
+  <div class="links"><a class="main" href="13/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/13-dhahran-tech-zones-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dhahran-Tech-Zones-progress-report-week-42.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/13-dhahran-tech-zones-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%B8%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-42.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير المناطق التقنية - الدمام</div><div class="en">Development of the Technology City in Dammam</div></div><span class="num">14</span></div>
+  <div class="fig"><span class="big">32.5%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">68.4%</bdi></span></div><div class="bar" title="Actual 32.47%, plan 68.43%"><i style="width:32.47%"></i><u style="left:68.43%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.47</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">29-Oct-2026</bdi></span><span>الأسبوع 44</span></div>
+  <div class="links"><a class="main" href="14/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/14-dammam-tech-zones-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-Tech-Zones-progress-report-week-44.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/14-dammam-tech-zones-development/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-44.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">برنامج المصانع الجاهزة و المنتجات الجديدة الحزمة الثالثة (المحفظة الاستثمارية) - حائل 20 مصنع 900 متر</div><div class="en">Ready-Built Factories Program, Package 3: 20 Factories of 900 m² in Hail</div></div><span class="num">15</span></div>
+  <div class="fig"><span class="big">98.4%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">97.9%</bdi></span></div><div class="bar" title="Actual 98.4%, plan 97.9%"><i style="width:98.4%"></i><u style="left:97.9%"></u></div>
+  <div class="st"><span class="pill good">حسب الخطة</span><span class="spi">SPI <bdi dir="ltr">1.01</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 46</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">04-Nov-2026</bdi></span></div>
+  <div class="links"><a class="main" href="15/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Hail-Factories-progress-report-week-46.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/15-hail-ready-factories-package3-20-factories/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%AD%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-46.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="15/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">استكمال شبكات البنية التحتية بالمدينة الصناعية الثانية بمكة</div><div class="en">Completion of Infrastructure Works, Second Industrial City in Makkah</div></div><span class="num">16</span></div>
+  <div class="fig"><span class="big">81.3%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">51.1%</bdi></span></div><div class="bar" title="Actual 81.3%, plan 51.1%"><i style="width:81.3%"></i><u style="left:51.1%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.59</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 37</span></div>
+  <div class="links"><a class="main" href="16/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Makkah-2nd-Networks-progress-report-week-37.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/16-makkah-2nd-industrial-city-networks-completion/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-37.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="16/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تطوير الطرق لمنطقة الخدمات المساندة بالمدينة الصناعية الثانية بمكة المكرمة (العكيشية)</div><div class="en">Road Development for the Support Services Area, Second Industrial City in Makkah (Al-Akayshiyah)</div></div><span class="num">17</span></div>
+  <div class="fig"><span class="big">48.3%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">35.7%</bdi></span></div><div class="bar" title="Actual 48.3%, plan 35.7%"><i style="width:48.3%"></i><u style="left:35.7%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.35</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 18</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">21-Oct-2027</bdi></span></div>
+  <div class="links"><a class="main" href="17/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Makkah-Akishiya-progress-report-week-18.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D9%83%D9%8A%D8%B4%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-18.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="17/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">محطة ركاب لسار في سدير - Passengers station for SAR in Sudair</div><div class="en">Construction of Passenger Station for SAR Railway, Sudair Industrial City</div></div><span class="num">18</span></div>
+  <div class="fig"><span class="big">27.3%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">40.0%</bdi></span></div><div class="bar" title="Actual 27.3%, plan 40.0%"><i style="width:27.3%"></i><u style="left:40.0%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.68</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 29</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">07-Aug-2027</bdi></span></div>
+  <div class="links"><a class="main" href="18/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/18-sudair-sar-passenger-station/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Sudair-SAR-Station-progress-report-week-29.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/18-sudair-sar-passenger-station/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D8%AD%D8%B7%D8%A9-%D8%B3%D8%A7%D8%B1-%D8%B3%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-29.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مبادرة الملاعب بالمنطقة الوسطى (حائل, واحة القصيم, تبوك)</div><div class="en">Playgrounds Initiative: Qassim Oasis, Hail and Tabuk Industrial City</div></div><span class="num">19</span></div>
+  <div class="fig"><span class="big">77.6%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">83.3%</bdi></span></div><div class="bar" title="Actual 77.64%, plan 83.26%"><i style="width:77.64%"></i><u style="left:83.26%"></u></div>
+  <div class="st"><span class="pill warn">متأخر قليلاً</span><span class="spi">SPI <bdi dir="ltr">0.93</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">25-Oct-2026</bdi></span><span>الأسبوع 35</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">14-Feb-2027</bdi></span></div>
+  <div class="links"><a class="main" href="19/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/19-stadiums-initiative-central-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Stadiums-Central-progress-report-week-35.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/19-stadiums-initiative-central-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-35.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="19/W03-15-Oct-2026.html">15-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">سور للمدينة الصناعية - الدمام الثالثة</div><div class="en">Dammam 3rd Industrial City Gates and Fence</div></div><span class="num">20</span></div>
+  <div class="fig"><span class="big">97.9%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">100.0%</bdi></span></div><div class="bar" title="Actual 97.9%, plan 100.0%"><i style="width:97.9%"></i><u style="left:100.0%"></u></div>
+  <div class="st"><span class="pill warn">متأخر قليلاً</span><span class="spi">SPI <bdi dir="ltr">0.98</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 24</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">02-Nov-2026</bdi></span></div>
+  <div class="links"><a class="main" href="20/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/20-dammam-3rd-industrial-city-fence/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Dammam-3rd-Fence-progress-report-week-24.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/20-dammam-3rd-industrial-city-fence/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%B3%D9%88%D8%B1-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-24.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مبادرة الملاعب بالمنطقة الغربية (عسير, جازان, واحة جدة)</div><div class="en">Playground Initiative for Western Region (Asir, Jazan, Jeddah)</div></div><span class="num">21</span></div>
+  <div class="fig"><span class="big">44.6%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">55.2%</bdi></span></div><div class="bar" title="Actual 44.6%, plan 55.2%"><i style="width:44.6%"></i><u style="left:55.2%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.81</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 30</span></div>
+  <div class="links"><a class="main" href="21/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/21-stadiums-initiative-western-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Stadiums-Western-progress-report-week-30.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/21-stadiums-initiative-western-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-30.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="21/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مبادرة الملاعب بالمنطقة الشرقية (عرعر, واحة الاحساء, الدمام الثانية)</div><div class="en">Playground Initiative for Eastern Region (Arar, Hasa Oasis, Dammam 2nd)</div></div><span class="num">22</span></div>
+  <div class="fig"><span class="big">53.9%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">53.7%</bdi></span></div><div class="bar" title="Actual 53.9%, plan 53.7%"><i style="width:53.9%"></i><u style="left:53.7%"></u></div>
+  <div class="st"><span class="pill good">حسب الخطة</span><span class="spi">SPI <bdi dir="ltr">1.00</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 33</span></div>
+  <div class="links"><a class="main" href="22/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/22-stadiums-initiative-eastern-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Stadiums-Eastern-progress-report-week-33.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/22-stadiums-initiative-eastern-region/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-33.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">تسوير المنطقة المطورة بوعد الشمال</div><div class="en">Improvement of Waad Al Shamal Industrial City Fence &amp; Gates</div></div><span class="num">23</span></div>
+  <div class="fig"><span class="big">77.1%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">100.0%</bdi></span></div><div class="bar" title="Actual 77.1%, plan 100.0%"><i style="width:77.1%"></i><u style="left:100.0%"></u></div>
+  <div class="st"><span class="pill crit">متأخر</span><span class="spi">SPI <bdi dir="ltr">0.77</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">26-Oct-2026</bdi></span><span>الأسبوع 24</span><span>الانتهاء المتوقع (P6) <bdi dir="ltr">26-Nov-2026</bdi></span></div>
+  <div class="links"><a class="main" href="23/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/23-waad-alshamal-developed-area-fencing/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Waad-Alshamal-Fence-progress-report-week-24.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/23-waad-alshamal-developed-area-fencing/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%B3%D9%88%D8%B1-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-24.pdf">PDF عربي</a></div>
+  
+</article>
+<article class="card empty">
+  <div class="top"><div><div class="name">تطوير البنية التحتية المرحلة الأولى من المنطقة اللوجستية في المدينة الصناعية الثالثة بجدة</div><div class="en"></div></div><span class="num">24</span></div>
+  
+  <div class="st"><span class="pill none">—</span></div>
+  <div class="meta"><span>لا يوجد تقرير بعد / No report yet</span></div>
+  <div class="links"></div>
+  
+</article>
+<article class="card">
+  <div class="top"><div><div class="name">مبادرة الحرفيين (الصناعات منخفضة العمليات التصنيعية بنجران)</div><div class="en">Construction of Industrial Units for Artisans in Najran</div></div><span class="num">25</span></div>
+  <div class="fig"><span class="big">100.0%</span><span>فعلي</span><span class="planv">المخطط <bdi dir="ltr">85.3%</bdi></span></div><div class="bar" title="Actual 100.0%, plan 85.3%"><i style="width:100.0%"></i><u style="left:85.3%"></u></div>
+  <div class="st"><span class="pill good">متقدم على الخطة</span><span class="spi">SPI <bdi dir="ltr">1.17</bdi></span></div>
+  <div class="meta"><span>تاريخ البيانات <bdi dir="ltr">27-Oct-2026</bdi></span><span>الأسبوع 34</span></div>
+  <div class="links"><a class="main" href="25/">التقرير / Report</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/25-najran-craftsmen-initiative/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/Najran-Craftsmen-progress-report-week-34.pdf">PDF English</a><a class="" href="https://github.com/engmostafa2982-sudo/PROJECTS-/raw/main/25-najran-craftsmen-initiative/4-Weekly%20update/W05%20-%2029-Oct-2026/Generated%20Report/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%82%D8%AF%D9%85-%D8%AD%D8%B1%D9%81%D9%8A%D9%8A-%D9%86%D8%AC%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-34.pdf">PDF عربي</a></div>
+  <details><summary>الأسابيع السابقة / Earlier weeks</summary><a href="25/W04-22-Oct-2026.html">22-Oct-2026</a></details>
+</article>
+</div>
+<footer>آخر تحديث / Last updated: <bdi dir="ltr">03-Nov-2026 08:47</bdi> (توقيت الرياض)</footer>
+</div>
+</body>
+</html>
