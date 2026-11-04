@@ -1,0 +1,143 @@
+{
+  "project": {
+    "name": "غرفة اختبار",
+    "city": "الرياض"
+  },
+  "site": {
+    "boundary": [
+      [
+        0,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        0,
+        8
+      ]
+    ]
+  },
+  "levels": [
+    {
+      "id": "L0",
+      "name": "الدور الأرضي",
+      "elevation": 0,
+      "height": 3.2
+    }
+  ],
+  "walls": [
+    {
+      "id": "W1",
+      "level": "L0",
+      "type": "EXT_200",
+      "thickness": 0.2,
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": "W2",
+      "level": "L0",
+      "type": "EXT_200",
+      "thickness": 0.2,
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "W3",
+      "level": "L0",
+      "type": "EXT_200",
+      "thickness": 0.2,
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "id": "W4",
+      "level": "L0",
+      "type": "EXT_200",
+      "thickness": 0.2,
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        2,
+        2
+      ]
+    }
+  ],
+  "openings": [
+    {
+      "id": "D1",
+      "host": "W1",
+      "kind": "door",
+      "family": "Door_Single",
+      "type": "90x220",
+      "position": 2.0,
+      "width": 0.9,
+      "height": 2.2,
+      "hinge": "start",
+      "swing": "left"
+    },
+    {
+      "id": "G1",
+      "host": "W3",
+      "kind": "window",
+      "family": "Window_Sliding",
+      "type": "150x150",
+      "position": 2.0,
+      "width": 1.5,
+      "height": 1.5,
+      "sill": 0.9
+    }
+  ],
+  "rooms": [
+    {
+      "id": "R1",
+      "level": "L0",
+      "name": "غرفة نوم",
+      "usage": "bedroom",
+      "boundary": [
+        [
+          2,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          2,
+          7
+        ]
+      ]
+    }
+  ]
+}

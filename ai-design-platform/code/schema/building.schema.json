@@ -1,0 +1,399 @@
+{
+  "$defs": {
+    "Level": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "elevation": {
+          "description": "Finished floor level in metres.",
+          "title": "Elevation",
+          "type": "number"
+        },
+        "height": {
+          "description": "Floor-to-floor height in metres.",
+          "exclusiveMinimum": 0,
+          "title": "Height",
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "elevation",
+        "height"
+      ],
+      "title": "Level",
+      "type": "object"
+    },
+    "Opening": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "host": {
+          "description": "Id of the wall the opening sits in.",
+          "title": "Host",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "door",
+            "window"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "family": {
+          "description": "Revit family name, e.g. Door_Single.",
+          "title": "Family",
+          "type": "string"
+        },
+        "type": {
+          "description": "Revit type name, e.g. 90x220.",
+          "title": "Type",
+          "type": "string"
+        },
+        "position": {
+          "description": "Distance along the wall from its start to the opening centre.",
+          "minimum": 0,
+          "title": "Position",
+          "type": "number"
+        },
+        "width": {
+          "exclusiveMinimum": 0,
+          "title": "Width",
+          "type": "number"
+        },
+        "height": {
+          "exclusiveMinimum": 0,
+          "title": "Height",
+          "type": "number"
+        },
+        "sill": {
+          "default": 0.0,
+          "description": "Height of the bottom of the opening above the floor.",
+          "minimum": 0,
+          "title": "Sill",
+          "type": "number"
+        },
+        "hinge": {
+          "default": "start",
+          "description": "Doors: hinge side, toward the wall start or end.",
+          "enum": [
+            "start",
+            "end"
+          ],
+          "title": "Hinge",
+          "type": "string"
+        },
+        "swing": {
+          "default": "left",
+          "description": "Doors: opens to the left or right of the wall direction.",
+          "enum": [
+            "left",
+            "right"
+          ],
+          "title": "Swing",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "host",
+        "kind",
+        "family",
+        "type",
+        "position",
+        "width",
+        "height"
+      ],
+      "title": "Opening",
+      "type": "object"
+    },
+    "ProjectInfo": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "owner": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Owner"
+        },
+        "plot_number": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Plot Number"
+        },
+        "city": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "City"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "title": "ProjectInfo",
+      "type": "object"
+    },
+    "Room": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "level": {
+          "title": "Level",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "usage": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Machine-readable room type, e.g. majlis_men, kitchen.",
+          "title": "Usage"
+        },
+        "boundary": {
+          "description": "Room outline along wall centrelines, not closed.",
+          "items": {
+            "maxItems": 2,
+            "minItems": 2,
+            "prefixItems": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              }
+            ],
+            "type": "array"
+          },
+          "title": "Boundary",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "level",
+        "name",
+        "boundary"
+      ],
+      "title": "Room",
+      "type": "object"
+    },
+    "Site": {
+      "additionalProperties": false,
+      "properties": {
+        "boundary": {
+          "description": "Plot boundary, in order, not closed.",
+          "items": {
+            "maxItems": 2,
+            "minItems": 2,
+            "prefixItems": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              }
+            ],
+            "type": "array"
+          },
+          "title": "Boundary",
+          "type": "array"
+        },
+        "north_angle": {
+          "default": 0.0,
+          "description": "Degrees from plan-up to true north, clockwise.",
+          "title": "North Angle",
+          "type": "number"
+        }
+      },
+      "required": [
+        "boundary"
+      ],
+      "title": "Site",
+      "type": "object"
+    },
+    "Wall": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "level": {
+          "description": "Id of the level the wall stands on.",
+          "title": "Level",
+          "type": "string"
+        },
+        "type": {
+          "description": "Wall type name, matched to a Revit wall type, e.g. EXT_200.",
+          "title": "Type",
+          "type": "string"
+        },
+        "thickness": {
+          "exclusiveMinimum": 0,
+          "maximum": 1.0,
+          "title": "Thickness",
+          "type": "number"
+        },
+        "start": {
+          "description": "Start of the wall centreline.",
+          "maxItems": 2,
+          "minItems": 2,
+          "prefixItems": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "number"
+            }
+          ],
+          "title": "Start",
+          "type": "array"
+        },
+        "end": {
+          "description": "End of the wall centreline.",
+          "maxItems": 2,
+          "minItems": 2,
+          "prefixItems": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "number"
+            }
+          ],
+          "title": "End",
+          "type": "array"
+        },
+        "height": {
+          "anyOf": [
+            {
+              "exclusiveMinimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Defaults to the level height.",
+          "title": "Height"
+        }
+      },
+      "required": [
+        "id",
+        "level",
+        "type",
+        "thickness",
+        "start",
+        "end"
+      ],
+      "title": "Wall",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "0.1",
+      "default": "0.1",
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "units": {
+      "const": "m",
+      "default": "m",
+      "title": "Units",
+      "type": "string"
+    },
+    "project": {
+      "$ref": "#/$defs/ProjectInfo"
+    },
+    "site": {
+      "$ref": "#/$defs/Site"
+    },
+    "levels": {
+      "items": {
+        "$ref": "#/$defs/Level"
+      },
+      "minItems": 1,
+      "title": "Levels",
+      "type": "array"
+    },
+    "walls": {
+      "items": {
+        "$ref": "#/$defs/Wall"
+      },
+      "title": "Walls",
+      "type": "array"
+    },
+    "openings": {
+      "items": {
+        "$ref": "#/$defs/Opening"
+      },
+      "title": "Openings",
+      "type": "array"
+    },
+    "rooms": {
+      "items": {
+        "$ref": "#/$defs/Room"
+      },
+      "title": "Rooms",
+      "type": "array"
+    }
+  },
+  "required": [
+    "project",
+    "site",
+    "levels"
+  ],
+  "title": "Building",
+  "type": "object"
+}
