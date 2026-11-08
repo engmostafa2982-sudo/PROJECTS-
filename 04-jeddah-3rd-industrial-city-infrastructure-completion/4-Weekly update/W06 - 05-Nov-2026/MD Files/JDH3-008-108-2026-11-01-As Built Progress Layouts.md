@@ -1,0 +1,283 @@
+<!-- converted-from: JDH3-008-108-2026-11-01-As Built Progress Layouts.pdf sha256: f2a9e53f468a1152c0a5f85f8019339a2bb20504103cf553a2336de06482444f -->
+# JDH3-008-108-2026-11-01-As Built Progress Layouts.pdf
+
+### Page 1
+
+ASPHALT
+
+AS-BUILT APPROVED A
+
+mu =AS-BUILT APPROVED B
+mu §=AS-BUILT UNDER REVIEW
+
+mum §=AS-BUILT CODE C
+
+~— AS-BUILT NOT SUBMITTAL
+
+### Page 2
+
+TWLILINENS LON 1 1!)19-517
+
+0 3009 1 1119-5317
+
+‎YSQNN 1 1١!)19-517‏ كن تلى/اتل/
+‎١!)19-517‏ ل لاك ك03/108 8
+
+‎V ‏لاكك02/08‎ LING SV
+
+‏لزت ك2
+
+### Page 3
+
+mum =AS-BUILT APPROVED
+
+mum §=AS-BUILT UNDER REVIEW
+mum §=AS-BUILT CODE C
+
+‎AS-BUILT NOT SUBMITTAL‏ امه
+
+‎JEDDAH 2 ‏لم‎
+
+### Page 4
+
+: 41
+04 hy 1
+if
+
+it aH 1
+Hit BI Sh we
+Hin Whe "1
+‏ا"‎ Nie i
+HH Hi hy
+aH WH Hy
+aly HH Hi
+Bis sii 1
+ie dt My
+1 iit 1
+al 0 1
+5 | |
+rg By 4
+
+bel ud = Ae Xs 574.4
+
+A ey = ROS KODE
+0 2
+١ at pal 20:
+
+ا
+ل | 35
+‎PRA ay qanunnssnenebetaeasesnes eas '‏
+
+es
+1S, ameseecceccecceecececccecet! PELS2E32825
+5 ‏اعيبم الد 20200 رن ع ا ل‎
+‏اعورم‎ 2 aii ry he } 4;
+near ‏الو‎ 1 0 ape /
+= iil @ (Ox ‏ل‎
+‏وي‎ at 1
+
+WLILINENS LON LIING-SV
+
+0 23009 1 1!)19-517
+
+1
+
+‎YSONN 1 1119-17‏ كت/اتل/ ع
+1!)19-517 1 03/0829 8
+
+‎٠
+
+‎LIINE-SV‏ 7اكك03/808 ‎V‏ ع
+3
+
+‎3
+
+‎TANNVHO 1320
+032552030 1-5
+
+### Page 5
+
+INTERLOCK
+
+AS-BUILT APPROVED
+
+AS-BUILT UNDER REVIEW
+
+AS-BUILT CODE C
+
+AS-BUILT NOT SUBMITTAL
+
+### Page 6
+
+IRR
+
+AS-BUILT APPROVED
+
+AS-BUILT CODE B
+
+AS-BUILT UNDER REVIEW
+
+Ss
+‏ام‎
+‏سس‎ §=AS-BUILT CODE C
+—_
+‏ابعل‎
+
+١
+31
+
+AS-BUILT NOT SUBMITTAL
+
+### Page 7
+
+ROAD MARKING & SIGN
+
+mmm = AS-BUILT APPROVED
+
+AS-BUILT UNDER REVIEW
+
+sl
+mums §=AS-BUILT CODE C
+=
+
+AS-BUILT NOT SUBMITTAL
+
+9
+r 7
+
+### Page 8
+
+SEWER
+
+AS-BUILT APPROVED
+
+AS-BUILT CODE B
+AS-BUILT CODE C
+
+AS-BUILT UNDER REVIEW
+
+AS-BUILT NOT SUBMITTAL
+
+I
+
+### Page 9
+
+STORM CB+PIPE
+
+summa = AS-BUILT APPROVED
+
+mum = AS-BUILT UNDER REVIEW
+
+mum §=AS-BUILT CODE C
+
+‎AS-BUILT NOT SUBMITTAL‏ 0ه
+
+‎i
+
+### Page 10
+
+STORM MANHOLE+PIPE
+
+AS-BUILT APPROVED
+
+AS-BUILT CODE B
+
+AS-BUILT CODE C
+
+AS-BUILT UNDER REVIEW
+
+AS-BUILT NOT SUBMITTAL
+
+### Page 11
+
+STORM OPEN CHANNEL
+
+sume AS-BUILT APPROVED A
+
+mum AS-BUILT APPROVED B
+mum §=AS-BUILT UNDER REVIEW
+
+‎=AS-BUILT CODE C‏ سكم
+
+‎AS-BUILT NOT SUBMITTAL‏ لاه
+
+‎mus = XISTING BOX CULVERT
+
+### Page 12
+
+0
+
+———————
+
+لل يي
+
+BUILT APPROVED
+BUILT UNDER REVIE
+BUILT NOT SUBMITTAL
+
+STORM POND
+
+EXISTING POND
+
+mum =AS-BUILT CODE C
+
+ome §=6AS-
+me §=AS
+ams AS
+
+JEDDAH 2
+
+### Page 13
+
+STREET LIGHT
+
+AS-BUILT APPROVED
+
+AS-BUILT UNDER REVIEW
+
+AS-BUILT CODE C
+
+AS-BUILT NOT SUBMITTAL
+
+JEDDAH 3
+
+### Page 14
+
+TELECOM
+
+AS-BUILT APPROVED
+
+AS-BUILT UNDER REVIEW
+
+AS-BUILT CODE C
+
+AS-BUILT NOT SUBMITTAL
+
+### Page 15
+
+WATER+FH
+
+AS-BUILT APPROVED
+
+AS-BUILT CODE B
+
+AS-BUILT UNDER REVIEW
+
+يمعطم
+وهو
+‎§=AS-BUILT CODE C‏ مسد
+‎os‏
+‏بحو
+
+AS-BUILT NOT SUBMITTAL
+
+mp pe
+or at © © etee ew
+‏بم‎ e 6 @ 0
+| e © ‏ه.‎ e
+Ge ‏هم‎ © 6 e
+* ‏مة هاه‎ e
+®
+ees 8
+© © e co ‏هه‎
+‏هاه 9وه ه‎ oe ©
