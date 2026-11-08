@@ -1,0 +1,579 @@
+<!-- converted-from: WAS1-05-006 -Improvement of Waad Al Shamal Industrial City Fence & Gates-DD02-11-2026 (1).xer sha256: a17525c2a41a019dec3efef9ef040de37565bfc849878d364c12c4eea9d2bcd1 -->
+# WAS1-05-006 -Improvement of Waad Al Shamal Industrial City Fence & Gates-DD02-11-2026 (1).xer
+
+## Project: WAS1-05-006 - B1 - B1 - B1 - B1 - B1
+
+| Field | Value |
+|---|---|
+| Data date | 2026-11-02 |
+| Planned start | 2026-05-06 |
+| Scheduled finish | 2026-11-26 |
+| Must finish by | 2026-10-05 |
+
+## Activity status
+
+| Status | Count |
+|---|---|
+| Completed | 465 |
+| In Progress | 62 |
+| Not Started | 27 |
+| **Total** | **554** |
+
+## Activities
+
+| ID | Name | WBS | Type | Status | Start | Finish | Actual Start | Actual Finish | % Complete | Total Float (d) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| WAD.S.1210 | Installation of Site Offices | Construct Site Offices | Task | Completed | 2026-07-26 | 2026-07-28 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1000 | Insurances | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-08-03 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1010 | Performance Bonds | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-25 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1020 | Site Survey | Site Survey | Task | Completed | 2026-07-14 | 2026-07-15 | 2026-07-14 | 2026-07-15 | 100 |  |
+| WAD.S.1160 | Grading & Leveling | Construct Site Access Roads | Task | Completed | 2026-07-23 | 2026-07-25 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1200 | Temporary Access Road | Construct Site Access Roads | Task | Completed | 2026-07-25 | 2026-07-28 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1260 | Installation of Furniture | Construct Site Offices | Task | Completed | 2026-07-26 | 2026-07-28 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1120 | Site Office Layout Drawing Proposal Submittal | Site Layout Plan | Task | Completed | 2026-07-19 | 2026-07-19 | 2026-07-19 | 2026-07-19 | 100 |  |
+| WAD.S.1130 | Site Office Layout Drawing Review & Approval | Site Layout Plan | Task | Completed | 2026-07-20 | 2026-07-21 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1150 | Site Preparation | Construct Site Access Roads | Task | Completed | 2026-07-22 | 2026-07-22 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1170 | Mobilization of Manpower | Mobilization of Manpower | Task | Completed | 2026-07-23 | 2026-07-29 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1180 | Mobilization of Tools & Equipment | Mobilization of Equipment | Task | Completed | 2026-07-23 | 2026-07-29 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1230 | Excavation for Fence Foundation | Construct Site Office Fence | Task | Completed | 2026-07-26 | 2026-07-30 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1270 | Installation of Fence Posts | Construct Site Office Fence | Task | Completed | 2026-07-27 | 2026-08-01 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1280 | Installation of Fence Mesh | Construct Site Office Fence | Task | Completed | 2026-07-30 | 2026-08-04 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1240 | MEP Works | Construct Site Offices | Task | Completed | 2026-07-26 | 2026-07-27 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1030 | Contract Schedule (Baseline Program) | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-28 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1040 | HSE Plan | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-27 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1050 | Quality Control Plan | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-25 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1060 | Project Organization Chart | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-27 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1070 | Submission of Staff CVs | Preliminary Submittals | Task | Completed | 2026-07-14 | 2026-07-25 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1110 | Survey Report | Site Survey | Task | Completed | 2026-07-16 | 2026-07-18 | 2026-07-16 | 2026-07-18 | 100 |  |
+| WAD.S.1080 | Project Start | General Milestones | Milestone | Completed | 2026-07-07 | 2026-07-07 | 2026-07-07 | 2026-07-07 | 100 |  |
+| WAD.S.6490 | Project Finish | General Milestones | Milestone | Not Started | 2026-11-26 | 2026-11-26 |  |  | 0 | -44.2 |
+| WAD.S.1320 | Completion of Moblization | Contractual Milestones | Milestone | Completed | 2026-07-28 | 2026-07-28 | 2026-07-09 | 2026-07-09 | 100 |  |
+| WAD.S.5070 | Completion of Engineering Works | Contractual Milestones | Milestone | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | -24 |
+| WAD.S.6250 | Completion of Procurment Works | Contractual Milestones | Milestone | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | -24 |
+| WAD.S.3850 | Completion of Fences | Contractual Milestones | Milestone | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | -24 |
+| WAD.S.3860 | Completion of GUARD HOUSE 1 | Contractual Milestones | Milestone | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | -24 |
+| WAD.S.6110 | Completion of EXT. WORKS | Contractual Milestones | Milestone | Not Started | 2026-11-03 | 2026-11-03 |  |  | 0 | -24.2 |
+| WAD.S.5850 | Demobilize | Demobilization | Task | Not Started | 2026-11-04 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5430 | Prepare & Submit | As-Built Drawings | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | -33.2 |
+| WAD.S.5440 | Testing & Commissioning - Electrical Systems | Testing & Commissioning | Task | Not Started | 2026-11-03 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5860 | Snaglist Rectification | Snaglist Rectification | Task | Not Started | 2026-11-04 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5870 | Initial Handing Over | Snaglist Rectification | Task | Not Started | 2026-11-04 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.6260 | Review & Approve | As-Built Drawings | Task | Not Started | 2026-11-03 | 2026-11-10 |  |  | 0 | -30.2 |
+| WAD.S.5450 | Prepare & Submit | Operational Spares | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | -33.2 |
+| WAD.S.6350 | Inspection | Operational Spares | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5460 | Prepare & Submit | Warranties and Guarantees | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | -33.2 |
+| WAD.S.6360 | Review & Approve | Warranties and Guarantees | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.6370 | Acceptance | Operational Spares | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5470 | Prepare & Submit | Training | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | -33.2 |
+| WAD.S.6380 | Review & Approve | Training | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5480 | Prepare & Submit | Manuals | Task | Not Started | 2026-11-03 | 2026-11-08 |  |  | 0 | -33.2 |
+| WAD.S.6390 | Review & Approve | Manuals | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.6400 | Fabrication & Delivery | Training | Task | Not Started | 2026-11-08 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.5490 | Testing & Commissioning - Mechanical Systems | Testing & Commissioning | Task | Not Started | 2026-11-03 | 2026-11-14 |  |  | 0 | -33.2 |
+| WAD.S.1340 | Demolition Works | SITE WORKS | Task | Completed | 2026-08-24 | 2026-09-03 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1370 | Excavation Works | SITE WORKS | Task | Completed | 2026-09-06 | 2026-09-23 | 2026-07-11 | 2026-10-04 | 100 |  |
+| WAD.S.1530 | Backfilling Works Before Foundation | SITE WORKS | Task | Completed | 2026-09-07 | 2026-09-28 | 2026-08-01 | 2026-09-05 | 100 |  |
+| WAD.S.2330 | Applying 2 coats of bitumen waterproofing paint on concrete surfaces - Part 1 | Part 1 | Task | Completed | 2026-08-18 | 2026-09-10 | 2026-08-18 | 2026-10-08 | 100 |  |
+| WAD.S.2870 | install structural steel beams, posts and rods for wall fence - Part 1 | Part 1 | Task | Completed | 2026-08-31 | 2026-09-23 | 2026-08-31 | 2026-09-24 | 100 |  |
+| WAD.S.3260 | Install tubes, bolts, nuts and steel plates to strengthened the wall fence and posts - Part 1 | Part 1 | Task | Completed | 2026-09-26 | 2026-10-19 | 2026-09-26 | 2026-09-30 | 100 |  |
+| WAD.S.3870 | fix galvanized steel chain link fence wall; including steel tube framing and posts, turn buckle - Part 1 | Part 1 | Task | Completed | 2026-10-01 | 2026-10-25 | 2026-10-01 | 2026-10-05 | 100 |  |
+| WAD.S.2640 | Intrusion Detection system including processor control units items and  joints   - 1st Fix | ELECTRICAL WORKS | Task | Not Started | 2026-11-03 | 2026-11-14 |  |  | 0 | -44.2 |
+| WAD.S.2950 | Fiber Optic Outdoor Cable | ELECTRICAL WORKS | Task | Completed | 2026-10-22 | 2026-11-01 | 2026-10-22 | 2026-11-14 | 100 |  |
+| WAD.S.3720 | Fiber Optic Outdoor Cable To Close The Loop | ELECTRICAL WORKS | Task | Not Started | 2026-11-14 | 2026-11-24 |  |  | 0 | -44.2 |
+| WAD.S.4810 | Handholes\ Manholes | ELECTRICAL WORKS | Task | Completed | 2026-11-11 | 2026-11-21 | 2025-11-11 | 2026-11-14 | 100 |  |
+| WAD.S.4980 | SIDEWALKS AND CURBS | EXTERNAL WORKS | Task | Completed | 2026-11-24 | 2026-12-02 | 2025-04-14 | 2026-11-05 | 100 |  |
+| WAD.S.4990 | ROAD WORKS | EXTERNAL WORKS | Task | Completed | 2026-10-31 | 2026-11-08 | 2026-10-31 | 2026-11-08 | 100 |  |
+| WAD.S.1290 | 40 mm Pipes | EXTERNAL WORKS | Task | Completed | 2026-11-04 | 2026-11-18 | 2026-11-04 | 2026-11-18 | 100 |  |
+| WAD.S.3270 | GRP Pipes laid in trenches | EXTERNAL WORKS | Task | Completed | 2026-11-04 | 2026-11-18 | 2026-11-04 | 2026-11-18 | 100 |  |
+| WAD.S.3880 | 100 mm Pipe in trench not exceeding 2.00 m depth to invert | EXTERNAL WORKS | Task | Completed | 2026-11-10 | 2026-11-18 | 2026-11-10 | 2026-11-18 | 100 |  |
+| WAD.S.4020 | install 100 mm GRP pipe service connections between building sewage inspection chamber and main wastewater line | EXTERNAL WORKS | Task | Completed | 2026-11-09 | 2026-11-18 | 2026-11-09 | 2026-11-18 | 100 |  |
+| WAD.S.4030 | Manhole depth not exceeding 4.0m | EXTERNAL WORKS | Task | Completed | 2026-11-09 | 2026-11-18 | 2026-11-09 | 2026-11-18 | 100 |  |
+| WAD.S.1090 | FENCES Shop Drawings (Prepare & Submit) | Prepare & Submit | Task | Completed | 2026-07-14 | 2026-07-25 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1140 | GUARD HOUSE 1 Shop Drawings (Prepare & Submit) | Prepare & Submit | Task | Completed | 2026-07-13 | 2026-07-23 | 2026-07-13 | 2026-08-31 | 100 |  |
+| WAD.S.1190 | GUARD HOUSE 1 Shop Drawings (Prepare & Submit) | Prepare & Submit | Task | Completed | 2026-07-16 | 2026-07-27 | 2026-07-16 | 2026-08-31 | 100 |  |
+| WAD.S.1250 | EXT. WORKS Shop Drawings (Prepare & Submit) | Prepare & Submit | Task | Completed | 2026-08-02 | 2026-08-13 | 2026-07-05 | 2026-09-05 | 100 |  |
+| WAD.S.1220 | FENCES Shop Drawings (Review & Approve) | Review & Approve | Task | Completed | 2026-07-19 | 2026-07-27 | 2026-06-16 | 2026-06-22 | 100 |  |
+| WAD.S.1300 | GUARD HOUSE 1 Shop Drawings (Review & Approve) | Review & Approve | Task | Completed | 2026-07-28 | 2026-08-05 | 2026-07-13 | 2026-09-01 | 100 |  |
+| WAD.S.1310 | GUARD HOUSE 1 Shop Drawings (Review & Approve) | Review & Approve | Task | Completed | 2026-07-28 | 2026-08-05 | 2026-07-13 | 2026-09-05 | 100 |  |
+| WAD.S.1330 | EXT. WORKS Shop Drawings (Review & Approve) | Review & Approve | Task | Completed | 2026-08-13 | 2026-08-23 | 2026-07-13 | 2026-09-10 | 100 |  |
+| WAD.S.2960 | Road crossing ducts for Fiber Optic Cable | ELECTRICAL WORKS | Task | Not Started | 2026-11-14 | 2026-11-22 |  |  | 0 | -40.2 |
+| WAD.S.2980 | install 50mm diameter high-density polyethylene (HDPE) pipe including the require pipe fittings for connection, | ELECTRICAL WORKS | Task | Completed | 2026-11-03 | 2026-11-12 | 2026-11-03 | 2026-11-12 | 100 |  |
+| WAD.S.1420 | Backfilling Works | Short Lead Items | Task | Completed | 2026-08-18 | 2026-08-22 | 2026-08-18 | 2026-08-22 | 100 |  |
+| WAD.S.2180 | bitumen waterproofing paint on concrete surfaces   (FENCES) | Short Lead Items | Task | Completed | 2026-08-17 | 2026-08-20 | 2026-08-17 | 2026-08-20 | 100 |  |
+| WAD.S.1430 | structural steel beams, posts and rods for wall fence  (FENCES) | Short Lead Items | Task | In Progress | 2026-08-31 | 2026-09-03 | 2026-06-08 |  | 100 | -25.4 |
+| WAD.S.1540 | tubes, bolts, nuts and steel plates to strengthened the wall fence and posts  (FENCES) | Short Lead Items | Task | In Progress | 2026-09-05 | 2026-09-07 | 2026-06-09 |  | 0 | -24.3 |
+| WAD.S.2470 | structural steel members and plates for main sliding gates  (FENCES) | Long Lead Items | Task | In Progress | 2026-09-09 | 2026-09-24 | 2026-09-09 |  | 0 | -25.6 |
+| WAD.S.1570 | fix galvanized steel chain link gate including all necessary associated  (FENCES) | Long Lead Items | Task | In Progress | 2026-08-22 | 2026-09-07 | 2026-08-22 |  | 0 | -25.6 |
+| WAD.S.3890 | Concrete Masonry (100mm thick )   (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-08-08 | 2026-08-09 | 2026-08-08 | 2026-08-08 | 100 |  |
+| WAD.S.3730 | Concrete Masonry (200mm thick )   (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-08-08 | 2026-08-10 | 2026-08-08 | 2026-08-08 | 100 |  |
+| WAD.S.4510 | folding & sliding mounter combination ladder for building maintenance purpose   (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-06 | 2026-10-21 | 2026-10-06 |  | 0 | -25.6 |
+| WAD.S.4520 | overflow galvanized steel roof scupper   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-07 | 2026-10-22 | 2026-10-07 | 2026-11-05 | 100 |  |
+| WAD.S.4620 | heavy steel cover with frame for tanks   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-26 | 2026-10-11 | 2026-11-04 | 100 |  |
+| WAD.S.4120 | PANTRY CABINET   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-05 | 2026-10-22 | 2026-10-05 | 2026-11-04 | 100 |  |
+| WAD.S.4530 | counter desk   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-07 | 2026-10-24 | 2026-10-07 | 2026-11-05 | 100 |  |
+| WAD.S.4630 | HOLLOW METAL DOORS AND FRAMES  (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-11 | 2026-10-27 | 2026-10-11 |  | 0 | -25.4 |
+| WAD.S.4640 | ALUMINIUM DOORS  (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-11 | 2026-10-26 | 2026-10-11 |  | 0 | -25.3 |
+| WAD.S.4760 | aluminum framed double glazed windows  (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-10 | 2026-10-24 | 2026-10-10 |  | 0 | -24.2 |
+| WAD.S.3740 | ceramic floor tiles  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-04 | 2026-10-18 | 2026-10-04 | 2026-11-03 | 100 |  |
+| WAD.S.4130 | 20mm thick black granite  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-05 | 2026-10-20 | 2026-10-05 | 2026-11-04 | 100 |  |
+| WAD.S.4540 | install ceramic wall tiles  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-07 | 2026-10-21 | 2026-10-07 | 2026-11-04 | 100 |  |
+| WAD.S.3750 | install Riyadh stone cladding  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-04 | 2026-10-18 | 2026-10-04 | 2026-11-03 | 100 |  |
+| WAD.S.4650 | TOILET AND BATH ACCESSROIES  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-05 | 2026-10-20 | 2026-10-05 | 2026-11-04 | 100 |  |
+| WAD.S.4550 | PANEL SIGNAGE  (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-11 | 2026-10-27 | 2026-10-11 |  | 0 | -25.0 |
+| WAD.S.4140 | Workstation chair  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-06 | 2026-10-25 | 2026-10-06 | 2026-11-04 | 100 |  |
+| WAD.S.4770 | Roller blind  (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-10 | 2026-10-24 | 2026-10-10 |  | 0 | -30.2 |
+| WAD.S.4660 | Waste Receptacle  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-28 | 2026-10-11 | 2026-11-10 | 100 |  |
+| WAD.S.4780 | FIRE PROTECTION SYSTEM (fire extinguisher)  (GUARD HOUSE) | Short Lead Items | Task | In Progress | 2026-09-23 | 2026-09-28 | 2026-09-23 |  | 0 | -24.1 |
+| WAD.S.3900 | Panel boards   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-04 | 2026-10-25 | 2026-10-04 | 2026-11-04 | 100 |  |
+| WAD.S.3760 | UPS   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-04 | 2026-10-25 | 2026-10-04 | 2026-11-04 | 100 |  |
+| WAD.S.4150 | Safety Disconnect Switches complete with busbar, frame box   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-06 | 2026-10-26 | 2026-10-06 | 2026-11-04 | 100 |  |
+| WAD.S.5080 | UNDERGROUND DISTRIBUTION SYSTEM   (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-05 | 2026-10-08 | 2026-10-05 | 2026-11-02 | 100 |  |
+| WAD.S.4670 | LIGHTING FIXTURES   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-25 | 2026-10-11 | 2026-11-10 | 100 |  |
+| WAD.S.4160 | GROUNDING  (GUARD HOUSE) | Short Lead Items | Task | In Progress | 2026-09-24 | 2026-09-28 | 2026-09-24 |  | 0 | -24.1 |
+| WAD.S.4560 | COMMUNICATIONS BACKBONE CABLING    (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-26 | 2026-10-11 | 2026-11-04 | 100 |  |
+| WAD.S.4570 | card reader IN/OUT   (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-10 | 2026-10-27 | 2026-10-10 |  | 0 | -26.5 |
+| WAD.S.4680 | Access control panel   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-27 | 2026-10-11 | 2026-11-10 | 100 |  |
+| WAD.S.4820 | COMPUTERS AND RELATED PERIPHERALS   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-10 | 2026-10-21 | 2026-10-10 | 2026-11-09 | 100 |  |
+| WAD.S.4790 | DATA COMMUNICATIONS   (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-10 | 2026-10-25 | 2026-10-10 | 2026-11-10 | 100 |  |
+| WAD.S.4690 | VIDEO SURVEILLANCE    (GUARD HOUSE) | Long Lead Items | Task | In Progress | 2026-10-11 | 2026-10-27 | 2026-10-11 |  | 0 | -27.0 |
+| WAD.S.3910 | SIDEWALKS AND CURBS  (GUARD HOUSE) | Short Lead Items | Task | In Progress | 2026-10-04 | 2026-10-12 | 2026-10-04 |  | 0 | -33.1 |
+| WAD.S.4170 | ROAD WORKS  (GUARD HOUSE) | Short Lead Items | Task | In Progress | 2026-09-28 | 2026-10-04 | 2026-09-28 |  | 0 | -30.1 |
+| WAD.S.3280 | GRP Pipes laid in trenches(Fabrication & Delivery) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-19 | 2026-09-24 | 2026-09-19 | 2026-09-24 | 100 |  |
+| WAD.S.3290 | 100 mm GRP pipe service connections  (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-24 | 2026-10-01 | 2026-09-24 | 2026-11-02 | 100 |  |
+| WAD.S.2970 | Manhole depth not exceeding 4.0m   (GUARD HOUSE) | Short Lead Items | Task | In Progress | 2026-10-01 | 2026-10-11 | 2026-10-01 |  | 0 | -24.2 |
+| WAD.S.2170 | Intrusion Detection system including processor control units items and  joints    (FENCES) | Long Lead Items | Task | In Progress | 2026-09-24 | 2026-10-08 | 2026-09-24 |  | 0 | -44.2 |
+| WAD.S.2260 | Handholes\ Manholes     (FENCES) | Long Lead Items | Task | Completed | 2026-10-01 | 2026-10-15 | 2026-10-01 | 2026-11-03 | 100 |  |
+| WAD.S.4580 | WATER SUPPLY SYSTEM  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-01 | 2026-10-17 | 2026-10-01 | 2026-11-03 | 100 |  |
+| WAD.S.4590 | SEWER AND DRAINAGE SYSTEM  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-05 | 2026-10-21 | 2026-10-05 | 2026-11-04 | 100 |  |
+| WAD.S.4600 | SUPPLY  PLUMBING FIXTURES  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-11 | 2026-10-26 | 2026-10-11 | 2026-11-04 | 100 |  |
+| WAD.S.4610 | HEATING, VENTILATION AND AIR CONDITIONING  (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-04 | 2026-10-20 | 2026-10-04 | 2026-11-04 | 100 |  |
+| WAD.S.1380 | Backfilling Works (Material Review & Approve) | Short Lead Items | Task | Completed | 2026-08-12 | 2026-08-18 | 2026-08-12 | 2026-08-18 | 100 |  |
+| WAD.S.1550 | bitumen waterproofing paint on concrete surfaces  (Material Review & Approve) (FENCES) | Short Lead Items | Task | Completed | 2026-08-24 | 2026-08-30 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1390 | structural steel beams, posts and rods for wall fence (Material Review & Approve) (FENCES) | Short Lead Items | Task | Completed | 2026-08-24 | 2026-08-30 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1440 | tubes, bolts, nuts and steel plates to strengthened the wall fence and posts (Material Review & Approve) (FENCES) | Short Lead Items | Task | Completed | 2026-08-29 | 2026-09-03 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.2190 | structural steel members and plates for main sliding gates (Material Review & Approve) (FENCES) | Long Lead Items | Task | Completed | 2026-09-29 | 2026-10-05 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1480 | fix galvanized steel chain link gate including all necessary associated (Material Review & Approve) (FENCES) | Long Lead Items | Task | Completed | 2026-09-16 | 2026-09-22 | 2026-06-25 | 2026-06-27 | 100 |  |
+| WAD.S.3120 | Concrete Masonry (100mm thick )  (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-27 | 2026-11-02 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.2990 | Concrete Masonry (200mm thick )  (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-26 | 2026-11-01 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.3600 | folding & sliding mounter combination ladder for building maintenance purpose  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3610 | overflow galvanized steel roof scupper  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3770 | heavy steel cover with frame for tanks  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3500 | PANTRY CABINET  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-22 | 2026-10-29 | 2026-10-22 | 2026-11-03 | 100 |  |
+| WAD.S.3620 | counter desk  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3780 | HOLLOW METAL DOORS AND FRAMES (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3790 | ALUMINIUM DOORS (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-09 | 2026-11-02 | 2026-11-09 | 100 |  |
+| WAD.S.4040 | aluminum framed double glazed windows (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-08 | 2026-11-02 | 2026-11-08 | 100 |  |
+| WAD.S.3000 | ceramic floor tiles (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-21 | 2026-10-28 | 2026-10-21 | 2026-11-02 | 100 |  |
+| WAD.S.3510 | 20mm thick black granite (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-22 | 2026-10-29 | 2026-10-22 | 2026-11-03 | 100 |  |
+| WAD.S.3630 | install ceramic wall tiles (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3010 | install Riyadh stone cladding (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-21 | 2026-10-28 | 2026-10-21 | 2026-11-02 | 100 |  |
+| WAD.S.3800 | TOILET AND BATH ACCESSROIES (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-20 | 2026-09-26 | 2026-07-12 | 2026-11-03 | 100 |  |
+| WAD.S.3640 | PANEL SIGNAGE (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3520 | Workstation chair (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-22 | 2026-10-29 | 2026-10-22 | 2026-11-03 | 100 |  |
+| WAD.S.4050 | Roller blind (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-08 | 2026-11-02 | 2026-11-08 | 100 |  |
+| WAD.S.3810 | Waste Receptacle (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-09 | 2026-11-02 | 2026-11-09 | 100 |  |
+| WAD.S.4060 | FIRE PROTECTION SYSTEM (fire extinguisher) (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-11-04 | 2026-11-10 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.3130 | Panel boards  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-21 | 2026-10-28 | 2026-10-21 | 2026-11-02 | 100 |  |
+| WAD.S.3020 | UPS  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-21 | 2026-10-28 | 2026-10-21 | 2026-11-02 | 100 |  |
+| WAD.S.3530 | Safety Disconnect Switches complete with busbar, frame box  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-12 | 2026-09-17 | 2026-07-28 | 2026-08-01 | 100 |  |
+| WAD.S.4840 | UNDERGROUND DISTRIBUTION SYSTEM  (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-19 | 2026-10-26 | 2026-10-19 | 2026-11-02 | 100 |  |
+| WAD.S.3820 | LIGHTING FIXTURES  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-09 | 2026-11-02 | 2026-11-09 | 100 |  |
+| WAD.S.3540 | GROUNDING (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-31 | 2026-11-05 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.3650 | COMMUNICATIONS BACKBONE CABLING   (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-28 | 2026-11-04 | 2026-10-28 | 2026-11-03 | 100 |  |
+| WAD.S.3660 | card reader IN/OUT  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-27 | 2026-11-03 | 2026-10-27 | 2026-11-02 | 100 |  |
+| WAD.S.3830 | Access control panel  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-09 | 2026-11-02 | 2026-11-09 | 100 |  |
+| WAD.S.4080 | COMPUTERS AND RELATED PERIPHERALS  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-08 | 2026-11-02 | 2026-11-08 | 100 |  |
+| WAD.S.4070 | DATA COMMUNICATIONS  (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-08 | 2026-11-02 | 2026-11-08 | 100 |  |
+| WAD.S.3840 | VIDEO SURVEILLANCE   (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-02 | 2026-11-09 | 2026-11-02 | 2026-11-09 | 100 |  |
+| WAD.S.3140 | SIDEWALKS AND CURBS (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-21 | 2026-10-28 | 2026-10-21 | 2026-11-02 | 100 |  |
+| WAD.S.3550 | ROAD WORKS (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-31 | 2026-11-05 | 2026-07-15 | 2026-11-03 | 100 |  |
+| WAD.S.2810 | GRP Pipes laid in trenches(Material Review & Approve) (GUARD HOUS | Short Lead Items | Task | Completed | 2026-08-27 | 2026-09-02 | 2026-08-02 | 2026-08-02 | 100 |  |
+| WAD.S.2820 | 100 mm GRP pipe service connections(Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-02 | 2026-09-08 | 2026-08-02 | 2026-08-02 | 100 |  |
+| WAD.S.2680 | Manhole depth not exceeding 4.0m  (Material Review & Approve) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-19 | 2026-10-26 | 2026-10-19 | 2026-11-02 | 100 |  |
+| WAD.S.1510 | Intrusion Detection system including processor control units items and  joints   (Material Review & Approve) (FENCES) | Long Lead Items | Task | Completed | 2026-09-21 | 2026-09-27 | 2026-07-05 | 2026-11-02 | 100 |  |
+| WAD.S.1650 | Handholes\ Manholes    (Material Review & Approve) (FENCES) | Long Lead Items | Task | Completed | 2026-10-19 | 2026-10-26 | 2026-10-19 | 2026-11-02 | 100 |  |
+| WAD.S.3670 | WATER SUPPLY SYSTEM (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-01 | 2026-11-07 | 2026-07-05 | 2026-11-02 | 100 |  |
+| WAD.S.3680 | SEWER AND DRAINAGE SYSTEM (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-01 | 2026-11-07 | 2026-07-05 | 2026-11-03 | 100 |  |
+| WAD.S.3690 | SUPPLY AND INSTALL PLUMBING FIXTURES (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-12 | 2026-09-17 | 2026-07-13 | 2026-11-03 | 100 |  |
+| WAD.S.3700 | HEATING, VENTILATION AND AIR CONDITIONING (Material Review & Approve) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-11-01 | 2026-11-07 | 2026-07-05 | 2026-11-03 | 100 |  |
+| WAD.S.1350 | Backfilling Works (Material Prepare & Submit) | Short Lead Items | Task | Completed | 2026-08-09 | 2026-08-12 | 2026-08-09 | 2026-08-12 | 100 |  |
+| WAD.S.1500 | bitumen waterproofing paint on concrete surfaces  (Material Prepare & Submit) (FENCES) | Short Lead Items | Task | Completed | 2026-08-19 | 2026-08-23 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1360 | structural steel beams, posts and rods for wall fence (Material Prepare & Submit) (FENCES) | Short Lead Items | Task | Completed | 2026-08-19 | 2026-08-23 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1400 | tubes, bolts, nuts and steel plates to strengthened the wall fence and posts (Material Prepare & Submit) (FENCES) | Short Lead Items | Task | Completed | 2026-08-24 | 2026-08-27 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1580 | structural steel members and plates for main sliding gates (Material Prepare & Submit) (FENCES) | Long Lead Items | Task | Completed | 2026-09-24 | 2026-09-28 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1410 | fix galvanized steel chain link gate including all necessary associated (Material Prepare & Submit) (FENCES) | Long Lead Items | Task | Completed | 2026-09-12 | 2026-09-15 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.2880 | Concrete Masonry (100mm thick )  (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-22 | 2026-10-26 | 2026-07-14 | 2026-07-16 | 100 |  |
+| WAD.S.2830 | Concrete Masonry (200mm thick )  (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-07-14 | 2026-07-16 | 100 |  |
+| WAD.S.3150 | folding & sliding mounter combination ladder for building maintenance purpose  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-08 | 2026-09-12 | 2026-09-08 | 2026-11-02 | 100 |  |
+| WAD.S.3160 | overflow galvanized steel roof scupper  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3300 | heavy steel cover with frame for tanks  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3030 | PANTRY CABINET  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3170 | counter desk  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3310 | HOLLOW METAL DOORS AND FRAMES (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3320 | ALUMINIUM DOORS (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3560 | aluminum framed double glazed windows (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.2840 | ceramic floor tiles (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3040 | 20mm thick black granite (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3180 | install ceramic wall tiles (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.2850 | Riyadh stone cladding (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3330 | TOILET AND BATH ACCESSROIES (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3190 | PANEL SIGNAGE (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3050 | Workstation chair (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3570 | Roller blind (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3340 | Waste Receptacle (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3580 | FIRE PROTECTION SYSTEM (fire extinguisher) (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.2890 | Panel boards  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.2860 | UPS  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3060 | Safety Disconnect Switches complete with busbar, frame box  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.4700 | UNDERGROUND DISTRIBUTION SYSTEM  (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-27 | 2026-09-30 | 2026-09-27 | 2026-11-01 | 100 |  |
+| WAD.S.3350 | LIGHTING FIXTURES  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3070 | GROUNDING (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.3200 | COMMUNICATIONS BACKBONE CABLING   (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3210 | card reader IN/OUT  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3360 | Access control panel  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.3710 | COMPUTERS AND RELATED PERIPHERALS  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3590 | DATA COMMUNICATIONS  (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3370 | VIDEO SURVEILLANCE   (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-23 | 2026-09-27 | 2026-09-23 | 2026-11-02 | 100 |  |
+| WAD.S.2900 | SIDEWALKS AND CURBS (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-19 | 2026-09-22 | 2026-09-19 | 2026-11-01 | 100 |  |
+| WAD.S.3080 | ROAD WORKS (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.2690 | GRP Pipes laid in trenches(Material Prepare & Submit) (GUARD HOUS | Short Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.2700 | 100 mm GRP pipe service connections (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.2630 | Manhole depth not exceeding 4.0m  (Material Prepare & Submit) (GUARD HOUSE) | Short Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.1490 | Intrusion Detection system including processor control units items and  joints   (Material Prepare & Submit) (FENCES) | Long Lead Items | Task | Completed | 2026-09-16 | 2026-09-20 | 2026-07-05 | 2026-11-01 | 100 |  |
+| WAD.S.1520 | Handholes\ Manholes    (Material Prepare & Submit) (FENCES) | Long Lead Items | Task | Completed | 2026-09-08 | 2026-09-12 | 2026-09-08 | 2026-11-01 | 100 |  |
+| WAD.S.3220 | WATER SUPPLY SYSTEM (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-27 | 2026-10-31 | 2026-07-05 | 2026-11-01 | 100 |  |
+| WAD.S.3230 | SEWER AND DRAINAGE SYSTEM (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-27 | 2026-10-31 | 2026-07-05 | 2026-11-02 | 100 |  |
+| WAD.S.3240 | SUPPLY AND INSTALL PLUMBING FIXTURES (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-09-14 | 2026-09-17 | 2026-09-14 | 2026-11-01 | 100 |  |
+| WAD.S.3250 | HEATING, VENTILATION AND AIR CONDITIONING (Material Prepare & Submit) (GUARD HOUSE) | Long Lead Items | Task | Completed | 2026-10-27 | 2026-10-31 | 2026-07-05 | 2026-11-02 | 100 |  |
+| WAD.S.3380 | Backfilling Works After Foundation | SITE WORKS | Task | Completed | 2026-09-23 | 2026-09-29 | 2026-09-01 | 2026-09-05 | 100 |  |
+| WAD.S.1560 | cast in place reinforced concrete for the sub-structures - Part 1 | Part 1 | Task | Completed | 2026-09-01 | 2026-09-26 | 2026-07-09 | 2026-10-18 | 100 |  |
+| WAD.S.2910 | install Concrete Masonry Unit (CMU) for walls | MASONRY UNIT | Task | Completed | 2026-09-12 | 2026-09-14 | 2026-09-12 | 2026-09-27 | 100 |  |
+| WAD.S.5500 | folding & sliding mounter combination ladder for building maintenance purpose | METALS | Task | Completed | 2026-11-07 | 2026-11-09 | 2026-11-07 | 2026-11-07 | 100 |  |
+| WAD.S.5510 | install  of overflow galvanized steel roof scupper with gray color with angular secondary support | METALS | Task | Completed | 2026-10-26 | 2026-10-28 | 2026-10-26 | 2026-11-07 | 100 |  |
+| WAD.S.5520 | install heavy steel cover with frame including all necessary fixings | METALS | Task | Completed | 2026-11-07 | 2026-11-09 | 2026-11-07 | 2026-11-07 | 100 |  |
+| WAD.S.5880 | PANTRY CABINET | WOODS AND PLASTICS | Task | Completed | 2026-11-07 | 2026-11-09 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.5890 | COUNTER DESK | WOODS AND PLASTICS | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.3920 | apply 2 coats of bitumen waterproofing paint on concrete surface in contact with soil | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-09-16 | 2026-09-19 | 2026-09-16 | 2026-09-19 | 100 |  |
+| WAD.S.4180 | install liquid applied waterproofing coating single-component pitch modified polyurethane based elastomeric | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.3930 | install liquid applied waterproofing coating; single-component pitch modified polyurethane | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-06 | 2026-10-07 | 2026-10-06 | 2026-10-18 | 100 |  |
+| WAD.S.4090 | install geotextile sheet | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-08 | 2026-10-10 | 2026-10-08 | 2026-10-10 | 100 |  |
+| WAD.S.4710 | install water stop for tanks according to the drawings and specification | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-15 | 2026-10-20 | 2026-10-15 | 2026-10-20 | 100 |  |
+| WAD.S.4190 | install 4mm thick APP modified bituminous membrane - single layer | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4200 | install 75mm thick rigid insulation (extruded polystyrene) | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4210 | cast in place foam concrete screed, 50mm thick minimum; laid to fall and cross fall | ROOFING SYSTEM | Task | Completed | 2026-10-15 | 2026-10-27 | 2026-10-15 | 2026-10-18 | 100 |  |
+| WAD.S.4220 | install 300 micron polyethylene sheet | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4230 | install 50mm thick loose gravel toppings | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4240 | install high density polyisocynurate cover board | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4250 | install UV resistant geotextile sheet | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4260 | fixing 3mm thick extruded aluminum flashing 40mm with sealant and all other accessories | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4270 | install Terrazzo tiles | ROOFING SYSTEM | Task | Completed | 2026-10-15 | 2026-10-27 | 2026-10-15 | 2026-10-27 | 100 |  |
+| WAD.S.5900 | Install Aluminum Door | DOORS & WINDOWS | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -25.6 |
+| WAD.S.5050 | install hollow metal door | DOORS & WINDOWS | Task | Completed | 2026-11-03 | 2026-11-08 | 2026-11-03 | 2026-11-04 | 100 |  |
+| WAD.S.6120 | Install aluminum framed double glazed  windows | DOORS & WINDOWS | Task | Completed | 2026-11-04 | 2026-11-08 | 2026-11-04 | 2026-11-04 | 100 |  |
+| WAD.S.4940 | install ceramic floor tiles | FINISHES | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-10-31 | 2026-11-03 | 100 |  |
+| WAD.S.4950 | install granite flooring | FINISHES | Task | Completed | 2026-10-20 | 2026-10-22 | 2026-10-20 | 2026-10-22 | 100 |  |
+| WAD.S.5010 | install granite saddles and thresholds | FINISHES | Task | Completed | 2026-10-31 | 2026-11-03 | 2026-10-31 | 2026-11-03 | 100 |  |
+| WAD.S.3090 | install concrete plastering | FINISHES | Task | Completed | 2026-10-04 | 2026-10-07 | 2026-10-04 | 2026-10-06 | 100 |  |
+| WAD.S.5120 | install ceramic wall tiles | FINISHES | Task | Completed | 2026-10-25 | 2026-10-28 | 2026-10-25 | 2026-10-28 | 100 |  |
+| WAD.S.5530 | install two coats of acrylic paint on internal walls | FINISHES | Task | Completed | 2026-10-26 | 2026-10-28 | 2026-10-26 | 2026-11-03 | 100 |  |
+| WAD.S.5540 | install two coats of acrylic paint (suitable for exterior use) on external | FINISHES | Task | In Progress | 2026-10-26 | 2026-10-28 | 2026-10-26 |  | 0 | -24.5 |
+| WAD.S.5020 | install Riyadh stone cladding | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.5060 | install aluminum cladding | FINISHES | Task | Completed | 2026-10-22 | 2026-10-25 | 2026-10-22 | 2026-10-25 | 100 |  |
+| WAD.S.5030 | install 3mm steel CNC laser cut panels | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.5040 | gypsum board suspended ceiling | FINISHES | Task | Completed | 2026-10-31 | 2026-11-05 | 2026-10-31 | 2026-11-05 | 100 |  |
+| WAD.S.6130 | TOILET ACCESSROIES | SPECIALTIES | Task | Completed | 2026-11-05 | 2026-11-08 | 2026-11-05 | 2026-11-05 | 100 |  |
+| WAD.S.6410 | PANEL SIGNAGE | SPECIALTIES | Task | Completed | 2026-11-09 | 2026-11-11 | 2026-11-09 | 2026-11-11 | 100 |  |
+| WAD.S.6450 | Workstation chair | FURNISHINGS | Task | Completed | 2026-11-10 | 2026-11-11 | 2026-11-10 | 2026-11-11 | 100 |  |
+| WAD.S.6460 | Workstation table | FURNISHINGS | Task | Completed | 2026-11-10 | 2026-11-11 | 2026-11-10 | 2026-11-11 | 100 |  |
+| WAD.S.6470 | Roller blind | FURNISHINGS | Task | In Progress | 2026-11-10 | 2026-11-11 | 2026-11-10 |  | 0 | -27.5 |
+| WAD.S.6480 | Waste Receptacle | FURNISHINGS | Task | Completed | 2026-11-10 | 2026-11-11 | 2026-11-10 | 2026-11-11 | 100 |  |
+| WAD.S.5130 | installation of Fire extinguishers as per drawings, specifications | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-24 | 2026-10-27 | 2026-10-24 | 2026-11-01 | 100 |  |
+| WAD.S.1660 | WATER SUPPLY SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-11 | 100 |  |
+| WAD.S.1670 | SEWER AND DRAINAGE SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-05 | 100 |  |
+| WAD.S.5140 | gully traps with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-24 | 2026-10-27 | 2026-10-24 | 2026-11-03 | 100 |  |
+| WAD.S.5150 | chamber with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-24 | 2026-10-27 | 2026-10-24 | 2026-11-03 | 100 |  |
+| WAD.S.5160 | INSTALL PLUMBING FIXTURES | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-24 | 2026-10-27 | 2026-10-24 | 2026-11-01 | 100 |  |
+| WAD.S.5910 | HEATING, VENTILATION AND AIR CONDITIONING - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-03 | 100 |  |
+| WAD.S.5920 | Exhaust fans - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-03 | 100 |  |
+| WAD.S.1680 | IRRIGATION SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-11 | 100 |  |
+| WAD.S.5930 | Bulbblers and Spreyers of IRRIGATION SYSTEM | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-04 | 100 |  |
+| WAD.S.1690 | LIGHTING AND POWER TYPE PANELBOARDS - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1700 | UPS 3KVA (installed inside the rack) - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.5940 | power source with built-in photocell sensor for automatic electrical connection during day/light times - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-04 | 100 |  |
+| WAD.S.6140 | UNDERGROUND DISTRIBUTION SYSTEM - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-02 | 2026-11-04 | 2026-11-02 | 2026-11-04 | 100 |  |
+| WAD.S.5950 | LIGHTING FIXTURES - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-09 | 2026-11-05 | 2026-11-07 | 100 |  |
+| WAD.S.6150 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-09 | 2026-11-07 | 2026-11-07 | 100 |  |
+| WAD.S.5960 | GROUNDING - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-09 | 2026-11-05 | 2026-11-10 | 100 |  |
+| WAD.S.6160 | card reader IN/OUT - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-05 | 2026-11-09 | 2026-11-05 |  | 0 | -26.5 |
+| WAD.S.6270 | Access control panel - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-07 | 2026-11-09 | 2026-11-07 |  | 0 | -26.5 |
+| WAD.S.6170 | 12-Port CAT6A UTP fully loaded patch panel | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-05 | 2026-11-09 | 2026-11-05 |  | 0 | -26.5 |
+| WAD.S.5970 | 12-Port, SMF, Fiber Optic Patch Panels; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-09 | 2026-11-04 |  | 0 | -27.5 |
+| WAD.S.6180 | COMPUTERS AND RELATED PERIPHERALS | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-05 | 2026-11-09 | 2026-11-05 |  | 0 | -27.5 |
+| WAD.S.6190 | VIDEO SURVEILLANCE | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-07 | 2026-11-11 | 2026-11-07 |  | 0 | -27.5 |
+| WAD.S.6280 | Central (Headend) System Components; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-08 | 2026-11-11 | 2026-11-08 |  | 0 | -27.5 |
+| WAD.S.6290 | VSS System, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-08 | 2026-11-11 | 2026-11-08 |  | 0 | -27.5 |
+| WAD.S.6200 | CCTV storage system, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-07 | 2026-11-11 | 2026-11-07 |  | 0 | -27.5 |
+| WAD.S.6300 | CCTV cameras - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-08 | 2026-11-11 | 2026-11-08 |  | 0 | -27.5 |
+| WAD.S.6420 | 20A , ATS ( Automatic transfer switch) for UPS | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-09 | 2026-11-11 | 2026-11-09 |  | 0 | -27.5 |
+| WAD.S.6310 | ELECTRICAL GATE BARRIER | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-08 | 2026-11-11 | 2026-11-08 |  | 0 | -27.5 |
+| WAD.S.6430 | LIGHTNING PROTECTION | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-09 | 2026-11-11 | 2026-11-09 | 2026-11-11 | 100 |  |
+| WAD.S.6320 | fire alarm system including wires, conduit and other materials - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-11 | 2026-11-08 | 2026-11-11 | 100 |  |
+| WAD.S.6330 | Analog addressable fire alarm control panel with battery | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-11 | 2026-11-08 | 2026-11-11 | 100 |  |
+| WAD.S.6440 | Intelligent Ionization / Photoelectric smoke and heat detector with base | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-09 | 2026-11-11 | 2026-11-09 | 2026-11-11 | 100 |  |
+| WAD.S.5980 | WATER SUPPLY SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-01 | 100 |  |
+| WAD.S.5990 | IRRIGATION SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-01 | 2026-11-04 | 2026-11-01 | 2026-11-04 | 100 |  |
+| WAD.S.6340 | LIGHTING AND POWER TYPE PANELBOARDS - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-11 | 2026-11-08 | 2026-11-11 | 100 |  |
+| WAD.S.1710 | HEATING, VENTILATION AND AIR CONDITIONING - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-11 | 100 |  |
+| WAD.S.1720 | Exhaust fans  - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-11 | 100 |  |
+| WAD.S.1730 | power source with built-in photocell sensor for automatic electrical connection during day/light times - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1740 | UNDERGROUND DISTRIBUTION SYSTEM - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-08 | 100 |  |
+| WAD.S.1750 | LIGHTING FIXTURES - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-08 | 100 |  |
+| WAD.S.1760 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - 1st  Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1770 | GROUNDING - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-06 | 2026-09-16 | 2026-09-06 | 2026-10-08 | 100 |  |
+| WAD.S.1780 | card reader IN/OUT - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1790 | CCTV cameras - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1800 | Access control panel - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.1810 | fire alarm system including wires, conduit and other materials - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.4280 | lay epoxy 2 coating for inner surfaces for bottom of the roof | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-15 | 2026-10-27 | 2026-10-15 | 2026-10-19 | 100 |  |
+| WAD.S.1450 | Excavation for guard rooms | Guard Rooms & Gates | Task | Completed | 2026-09-15 | 2026-09-23 | 2026-07-06 | 2026-07-19 | 100 |  |
+| WAD.S.1590 | Replacment Under Foundation | Guard Rooms & Gates | Task | Completed | 2026-08-02 | 2026-08-03 | 2026-08-02 | 2026-08-04 | 100 |  |
+| WAD.S.2270 | Backfilling Under G.Beam | Guard Rooms & Gates | Task | Completed | 2026-08-11 | 2026-08-12 | 2026-08-11 | 2026-08-31 | 100 |  |
+| WAD.S.2280 | Backfilling Under S.O.G | Guard Rooms & Gates | Task | Completed | 2026-09-07 | 2026-09-08 | 2026-09-07 | 2026-09-08 | 100 |  |
+| WAD.S.2340 | 50 mm thickness lean concrete under grade beams. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-08-31 | 2026-09-03 | 2026-08-31 | 2026-09-03 | 100 |  |
+| WAD.S.1600 | 50 mm thickness lean concrete under the foundation. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-08-04 | 2026-08-06 | 2026-08-04 | 2026-08-06 | 100 |  |
+| WAD.S.3390 | Provide and cast concrete floor slab on grade | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-19 | 2026-09-23 | 2026-09-19 | 2026-09-22 | 100 |  |
+| WAD.S.1820 | Isolated Footings & Column Neck | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-27 | 2026-10-01 | 2026-07-12 | 2026-08-08 | 100 |  |
+| WAD.S.2600 | Grade beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-03 | 2026-09-09 | 2026-09-03 | 2026-09-09 | 100 |  |
+| WAD.S.2650 | Columns | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-09 | 2026-09-14 | 2026-09-09 | 2026-09-14 | 100 |  |
+| WAD.S.3400 | Concrete Pad | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-12 | 2026-09-14 | 2026-09-12 | 2026-09-14 | 100 |  |
+| WAD.S.2750 | Roof Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-06 | 2026-09-14 | 2026-09-06 | 2026-09-08 | 100 |  |
+| WAD.S.2760 | Beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-06 | 2026-09-14 | 2026-09-06 | 2026-09-08 | 100 |  |
+| WAD.S.2710 | Raft and R.C. walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-05 | 2026-09-09 | 2026-09-05 | 2026-09-09 | 100 |  |
+| WAD.S.3410 | Tanks Raft | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-06 | 2026-10-11 | 2026-10-06 | 2026-10-11 | 100 |  |
+| WAD.S.3940 | Tanks Walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-12 | 2026-10-17 | 2026-10-12 | 2026-10-18 | 100 |  |
+| WAD.S.4850 | Tanks Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-18 | 2026-10-22 | 2026-10-18 | 2026-10-22 | 100 |  |
+| WAD.S.2720 | cast in place reinforced concrete for the sub-structures - Part 2 | Part 2 | Task | In Progress | 2026-09-26 | 2026-10-20 | 2026-07-09 |  | 0 | -24.2 |
+| WAD.S.3420 | Applying 2 coats of bitumen waterproofing paint on concrete surfaces - Part 2 | Part 2 | Task | In Progress | 2026-10-01 | 2026-10-26 | 2026-10-01 |  | 0 | -24.4 |
+| WAD.S.2920 | install structural steel beams, posts and rods for wall fence - Part 2 | Part 2 | Task | Completed | 2026-09-21 | 2026-10-15 | 2026-09-21 | 2026-11-01 | 100 |  |
+| WAD.S.3430 | Install tubes, bolts, nuts and steel plates to strengthened the wall fence and posts  - Part 2 | Part 2 | Task | Completed | 2026-09-26 | 2026-10-20 | 2026-09-26 | 2026-11-02 | 100 |  |
+| WAD.S.3950 | fix galvanized steel chain link fence wall; including steel tube framing and posts, turn buckle  - Part 2 | Part 2 | Task | Completed | 2026-10-01 | 2026-10-26 | 2026-10-01 | 2026-11-02 | 100 |  |
+| WAD.S.4720 | galvanized steel chain link gates Installation - Part 1 | Part 1 | Task | Completed | 2026-10-07 | 2026-10-29 | 2026-10-07 | 2026-10-19 | 100 |  |
+| WAD.S.4730 | galvanized steel chain link gates Installation - Part 2 | Part 2 | Task | Completed | 2026-10-07 | 2026-10-31 | 2026-10-07 | 2026-10-29 | 100 |  |
+| WAD.S.4830 | Install, Electrical gate barrier complete (cables,  conduits, pipes, pulling cables in the conduits) | ELECTRICAL GATE BARRIER | Task | In Progress | 2026-11-12 | 2026-11-22 | 2026-11-12 |  | 0 | -44.2 |
+| WAD.S.1100 | Excavation Works | EXTERNAL WORKS | Task | Completed | 2026-10-18 | 2026-11-04 | 2026-10-18 | 2026-11-04 | 100 |  |
+| WAD.S.4800 | Backfilling Works | EXTERNAL WORKS | Task | Completed | 2026-11-18 | 2026-11-24 | 2026-11-18 | 2026-11-24 | 100 |  |
+| WAD.S.5000 | install flag pole 6 M height | EXTERNAL WORKS | Task | Completed | 2026-11-24 | 2026-11-30 | 2026-11-24 | 2026-11-24 | 100 |  |
+| WAD.S.2930 | install Concrete Masonry Unit (CMU) for walls | MASONRY UNIT | Task | Completed | 2026-10-04 | 2026-10-07 | 2026-10-04 | 2026-10-06 | 100 |  |
+| WAD.S.2480 | folding & sliding mounter combination ladder for building maintenance purpose | METALS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-11-02 | 100 |  |
+| WAD.S.2490 | install  of overflow galvanized steel roof scupper with gray color with angular secondary support | METALS | Task | Completed | 2026-10-11 | 2026-10-12 | 2026-10-11 | 2026-10-22 | 100 |  |
+| WAD.S.2500 | install heavy steel cover with frame including all necessary fixings | METALS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-11-01 | 100 |  |
+| WAD.S.2510 | PANTRY CABINET | WOODS AND PLASTICS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-10-27 | 100 |  |
+| WAD.S.2350 | COUNTER DESK | WOODS AND PLASTICS | Task | Completed | 2026-10-27 | 2026-10-29 | 2026-10-27 | 2026-10-27 | 100 |  |
+| WAD.S.3960 | apply 2 coats of bitumen waterproofing paint on concrete surface in contact with soil | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-09-16 | 2026-09-19 | 2026-09-16 | 2026-09-19 | 100 |  |
+| WAD.S.4290 | install liquid applied waterproofing coating single-component pitch modified polyurethane based elastomeric | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.3970 | install liquid applied waterproofing coating; single-component pitch modified polyurethane | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-18 | 2026-10-19 | 2026-10-18 | 2026-10-19 | 100 |  |
+| WAD.S.4100 | install geotextile sheet | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-10 | 2026-10-12 | 2026-10-10 | 2026-10-12 | 100 |  |
+| WAD.S.4740 | install water stop for tanks according to the drawings and specification | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-22 | 2026-10-28 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.4300 | install 4mm thick APP modified bituminous membrane - single layer | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4310 | install 75mm thick rigid insulation (extruded polystyrene) | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4320 | cast in place foam concrete screed, 50mm thick minimum; laid to fall and cross fall | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-31 | 2026-06-09 | 2026-10-19 | 100 |  |
+| WAD.S.4330 | install 300 micron polyethylene sheet | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4340 | install 50mm thick loose gravel toppings | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4350 | install high density polyisocynurate cover board | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4360 | install UV resistant geotextile sheet | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4370 | fixing 3mm thick extruded aluminum flashing 40mm with sealant and all other accessories | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.4380 | install Terrazzo tiles | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-31 | 2026-10-18 | 2026-10-31 | 100 |  |
+| WAD.S.2360 | Install Aluminum Door | DOORS & WINDOWS | Task | In Progress | 2026-10-21 | 2026-10-24 | 2026-10-21 |  | 0 | -30.6 |
+| WAD.S.2200 | install hollow metal door | DOORS & WINDOWS | Task | Completed | 2026-10-22 | 2026-10-26 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.2210 | Install aluminum framed double glazed  windows | DOORS & WINDOWS | Task | Completed | 2026-10-22 | 2026-10-25 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.2370 | install ceramic floor tiles | FINISHES | Task | Completed | 2026-10-18 | 2026-10-20 | 2026-10-18 | 2026-10-20 | 100 |  |
+| WAD.S.2380 | install granite flooring | FINISHES | Task | Completed | 2026-10-18 | 2026-10-19 | 2026-10-18 | 2026-10-19 | 100 |  |
+| WAD.S.4860 | install granite saddles and thresholds | FINISHES | Task | Completed | 2026-10-18 | 2026-10-21 | 2026-10-18 | 2026-10-21 | 100 |  |
+| WAD.S.3100 | install concrete plastering | FINISHES | Task | Completed | 2026-10-13 | 2026-10-17 | 2025-04-07 | 2026-10-18 | 100 |  |
+| WAD.S.2390 | install ceramic wall tiles | FINISHES | Task | Completed | 2026-10-18 | 2026-10-20 | 2026-10-18 | 2026-10-20 | 100 |  |
+| WAD.S.2520 | install two coats of acrylic paint on internal walls | FINISHES | Task | Completed | 2026-10-19 | 2026-10-20 | 2026-10-19 | 2026-10-19 | 100 |  |
+| WAD.S.2530 | install two coats of acrylic paint (suitable for exterior use) on external | FINISHES | Task | In Progress | 2026-10-19 | 2026-10-20 | 2026-10-19 |  | 0 | -24.2 |
+| WAD.S.4870 | install Riyadh stone cladding | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.4960 | install aluminum cladding | FINISHES | Task | Completed | 2026-10-22 | 2026-10-25 | 2026-10-22 | 2026-10-25 | 100 |  |
+| WAD.S.4880 | install 3mm steel CNC laser cut panels | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.2240 | gypsum board suspended ceiling | FINISHES | Task | Completed | 2026-10-18 | 2026-10-21 | 2026-10-18 | 2026-10-21 | 100 |  |
+| WAD.S.5550 | TOILET ACCESSROIES | SPECIALTIES | Task | Completed | 2026-11-08 | 2026-11-09 | 2026-11-08 | 2026-11-08 | 100 |  |
+| WAD.S.6000 | PANEL SIGNAGE | SPECIALTIES | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.6210 | Workstation chair | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6220 | Workstation table | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6230 | Roller blind | FURNISHINGS | Task | In Progress | 2026-11-07 | 2026-11-08 | 2026-11-07 |  | 0 | -32.1 |
+| WAD.S.6240 | Waste Receptacle | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.5560 | installation of Fire extinguishers as per drawings, specifications | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-31 | 2026-11-02 | 2026-10-31 | 2026-11-02 | 100 |  |
+| WAD.S.1830 | WATER SUPPLY SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-10-04 | 2026-10-14 | 2026-10-04 | 2026-10-11 | 100 |  |
+| WAD.S.1840 | SEWER AND DRAINAGE SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-10-04 | 2026-10-14 | 2026-10-04 | 2026-10-15 | 100 |  |
+| WAD.S.5570 | gully traps with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-22 | 100 |  |
+| WAD.S.5580 | chamber with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-22 | 100 |  |
+| WAD.S.5590 | INSTALL PLUMBING FIXTURES | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.5600 | HEATING, VENTILATION AND AIR CONDITIONING - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.5610 | Exhaust fans - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.1850 | IRRIGATION SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-10-04 | 2026-10-14 | 2026-10-04 | 2026-10-15 | 100 |  |
+| WAD.S.5620 | Bulbblers and Spreyers of IRRIGATION SYSTEM | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.1860 | LIGHTING AND POWER TYPE PANELBOARDS - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1870 | UPS 3KVA (installed inside the rack) - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.5630 | power source with built-in photocell sensor for automatic electrical connection during day/light times - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.6010 | UNDERGROUND DISTRIBUTION SYSTEM - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.5640 | LIGHTING FIXTURES - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6020 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-08 | 100 |  |
+| WAD.S.5650 | GROUNDING - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-07 | 100 |  |
+| WAD.S.5660 | card reader IN/OUT - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -30.6 |
+| WAD.S.6030 | Access control panel - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-08 | 2026-11-05 | 2026-11-05 | 100 |  |
+| WAD.S.5670 | 12-Port CAT6A UTP fully loaded patch panel | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -30.6 |
+| WAD.S.5170 | 12-Port, SMF, Fiber Optic Patch Panels; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -30.8 |
+| WAD.S.5680 | COMPUTERS AND RELATED PERIPHERALS | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.5180 | VIDEO SURVEILLANCE | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -32.1 |
+| WAD.S.5690 | Central (Headend) System Components; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.5700 | VSS System, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.5190 | CCTV storage system, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -32.1 |
+| WAD.S.5710 | CCTV cameras - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.6040 | 20A , ATS ( Automatic transfer switch) for UPS | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-08 | 2026-11-05 | 2026-11-05 | 100 |  |
+| WAD.S.5720 | ELECTRICAL GATE BARRIER | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-07 | 2026-11-10 | 2026-09-20 |  | 0 | -32.1 |
+| WAD.S.6050 | LIGHTNING PROTECTION | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.5730 | fire alarm system including wires, conduit and other materials - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.5740 | Analog addressable fire alarm control panel with battery | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.6060 | Intelligent Ionization / Photoelectric smoke and heat detector with base | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.5750 | WATER SUPPLY SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.5760 | IRRIGATION SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.5770 | LIGHTING AND POWER TYPE PANELBOARDS - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.1880 | HEATING, VENTILATION AND AIR CONDITIONING - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-10-04 | 2026-10-14 | 2026-10-04 | 2026-10-15 | 100 |  |
+| WAD.S.1890 | Exhaust fans  - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-10-04 | 2026-10-14 | 2026-10-04 | 2026-10-15 | 100 |  |
+| WAD.S.1900 | power source with built-in photocell sensor for automatic electrical connection during day/light times - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1910 | UNDERGROUND DISTRIBUTION SYSTEM - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1920 | LIGHTING FIXTURES - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1930 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - 1st  Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1940 | GROUNDING - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1950 | card reader IN/OUT - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1960 | CCTV cameras - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1970 | Access control panel - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.1980 | fire alarm system including wires, conduit and other materials - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-10-06 | 2026-10-17 | 2026-10-06 | 2026-10-17 | 100 |  |
+| WAD.S.4390 | lay epoxy 2 coating for inner surfaces for bottom of the roof | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-18 | 2026-10-31 | 2026-07-20 | 2026-10-21 | 100 |  |
+| WAD.S.1460 | Excavation for guard rooms | Guard Rooms & Gates | Task | Completed | 2026-07-27 | 2026-08-04 | 2026-07-11 | 2026-07-23 | 100 |  |
+| WAD.S.1610 | Replacment Under Foundation | Guard Rooms & Gates | Task | Completed | 2026-08-04 | 2026-08-05 | 2026-08-04 | 2026-08-04 | 100 |  |
+| WAD.S.2290 | Backfilling Under G.Beam | Guard Rooms & Gates | Task | Completed | 2026-08-11 | 2026-08-12 | 2026-08-11 | 2026-09-16 | 100 |  |
+| WAD.S.2300 | Backfilling Under S.O.G | Guard Rooms & Gates | Task | Completed | 2026-10-04 | 2026-10-05 | 2026-10-04 | 2026-10-05 | 100 |  |
+| WAD.S.2400 | 50 mm thickness lean concrete under grade beams. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-08 | 2026-09-12 | 2026-09-08 | 2026-09-12 | 100 |  |
+| WAD.S.1620 | 50 mm thickness lean concrete under the foundation. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-08-04 | 2026-08-06 | 2026-08-04 | 2026-08-06 | 100 |  |
+| WAD.S.3440 | Provide and cast concrete floor slab on grade | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-04 | 2026-10-10 | 2026-10-04 | 2026-10-13 | 100 |  |
+| WAD.S.1990 | Isolated Footings & Column Neck | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-27 | 2026-10-01 | 2026-07-11 | 2026-08-08 | 100 |  |
+| WAD.S.2610 | Grade beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-24 | 2026-09-29 | 2026-09-24 | 2026-09-30 | 100 |  |
+| WAD.S.2660 | Columns | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-29 | 2026-10-03 | 2026-09-29 | 2026-10-04 | 100 |  |
+| WAD.S.3450 | Concrete Pad | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-04 | 2026-10-07 | 2026-10-04 | 2026-10-07 | 100 |  |
+| WAD.S.2770 | Roof Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-05 | 2026-10-13 | 2026-08-17 | 2026-10-04 | 100 |  |
+| WAD.S.2780 | Beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-05 | 2026-10-13 | 2026-06-08 | 2026-10-04 | 100 |  |
+| WAD.S.2730 | Raft and R.C. walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-05 | 2026-10-10 | 2026-10-05 | 2026-10-10 | 100 |  |
+| WAD.S.3460 | Tanks Raft | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-06 | 2026-10-11 | 2026-10-06 | 2026-10-11 | 100 |  |
+| WAD.S.3980 | Tanks Walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-12 | 2026-10-17 | 2026-10-12 | 2026-10-18 | 100 |  |
+| WAD.S.4890 | Tanks Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-18 | 2026-10-22 | 2026-10-18 | 2026-10-22 | 100 |  |
+| WAD.S.6500 | install Concrete Masonry Unit (CMU) for walls | MASONRY UNIT | Task | Completed | 2026-09-23 | 2026-09-26 | 2026-09-23 | 2026-10-04 | 100 |  |
+| WAD.S.6510 | folding & sliding mounter combination ladder for building maintenance purpose | METALS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-11-02 | 100 |  |
+| WAD.S.6520 | install  of overflow galvanized steel roof scupper with gray color with angular secondary support | METALS | Task | Completed | 2026-10-11 | 2026-10-12 | 2026-10-11 | 2026-10-22 | 100 |  |
+| WAD.S.6530 | install heavy steel cover with frame including all necessary fixings | METALS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-11-01 | 100 |  |
+| WAD.S.6540 | PANTRY CABINET | WOODS AND PLASTICS | Task | Completed | 2026-10-27 | 2026-10-28 | 2026-10-27 | 2026-10-27 | 100 |  |
+| WAD.S.6550 | COUNTER DESK | WOODS AND PLASTICS | Task | Completed | 2026-10-27 | 2026-10-29 | 2026-10-27 | 2026-10-27 | 100 |  |
+| WAD.S.6560 | apply 2 coats of bitumen waterproofing paint on concrete surface in contact with soil | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-09-16 | 2026-09-19 | 2026-09-16 | 2026-09-19 | 100 |  |
+| WAD.S.6570 | install liquid applied waterproofing coating single-component pitch modified polyurethane based elastomeric | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6580 | install liquid applied waterproofing coating; single-component pitch modified polyurethane | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-06 | 2026-10-07 | 2026-10-06 | 2026-10-18 | 100 |  |
+| WAD.S.6590 | install geotextile sheet | THERMAL & MOISTURE PROTECTION - Foundation | Task | Completed | 2026-10-08 | 2026-10-10 | 2026-10-08 | 2026-10-10 | 100 |  |
+| WAD.S.6600 | install water stop for tanks according to the drawings and specification | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-22 | 2026-10-28 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.6610 | install 4mm thick APP modified bituminous membrane - single layer | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6620 | install 75mm thick rigid insulation (extruded polystyrene) | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6630 | cast in place foam concrete screed, 50mm thick minimum; laid to fall and cross fall | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-24 | 100 |  |
+| WAD.S.6640 | install 300 micron polyethylene sheet | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6650 | install 50mm thick loose gravel toppings | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6660 | install high density polyisocynurate cover board | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6670 | install UV resistant geotextile sheet | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6680 | fixing 3mm thick extruded aluminum flashing 40mm with sealant and all other accessories | ROOFING SYSTEM | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-11-04 | 100 |  |
+| WAD.S.6690 | install Terrazzo tiles | ROOFING SYSTEM | Task | Completed | 2026-10-18 | 2026-10-29 | 2026-10-18 | 2026-10-29 | 100 |  |
+| WAD.S.6700 | Install Aluminum Door | DOORS & WINDOWS | Task | In Progress | 2026-10-21 | 2026-10-24 | 2026-10-21 |  | 0 | -30.6 |
+| WAD.S.6710 | install hollow metal door | DOORS & WINDOWS | Task | Completed | 2026-10-22 | 2026-10-26 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.6720 | Install aluminum framed double glazed  windows | DOORS & WINDOWS | Task | Completed | 2026-10-22 | 2026-10-25 | 2026-10-22 | 2026-10-22 | 100 |  |
+| WAD.S.6730 | install ceramic floor tiles | FINISHES | Task | Completed | 2026-10-18 | 2026-10-20 | 2026-10-18 | 2026-10-20 | 100 |  |
+| WAD.S.6740 | install granite flooring | FINISHES | Task | Completed | 2026-10-06 | 2026-10-07 | 2026-10-06 | 2026-10-07 | 100 |  |
+| WAD.S.6750 | install granite saddles and thresholds | FINISHES | Task | Completed | 2026-10-18 | 2026-10-21 | 2026-10-18 | 2026-10-21 | 100 |  |
+| WAD.S.6760 | install concrete plastering | FINISHES | Task | Completed | 2026-10-11 | 2026-10-15 | 2026-10-11 | 2026-10-11 | 100 |  |
+| WAD.S.6770 | install ceramic wall tiles | FINISHES | Task | Completed | 2026-10-06 | 2026-10-08 | 2026-10-06 | 2026-10-08 | 100 |  |
+| WAD.S.6780 | install two coats of acrylic paint on internal walls | FINISHES | Task | Completed | 2026-10-07 | 2026-10-08 | 2026-10-07 | 2026-10-18 | 100 |  |
+| WAD.S.6790 | install two coats of acrylic paint (suitable for exterior use) on external | FINISHES | Task | In Progress | 2026-10-07 | 2026-10-08 | 2026-10-07 |  | 0 | -33.2 |
+| WAD.S.6800 | install Riyadh stone cladding | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.6810 | install aluminum cladding | FINISHES | Task | Completed | 2026-10-22 | 2026-10-25 | 2026-10-22 | 2026-10-25 | 100 |  |
+| WAD.S.6820 | install 3mm steel CNC laser cut panels | FINISHES | Task | Completed | 2026-10-21 | 2026-10-25 | 2026-10-21 | 2026-10-25 | 100 |  |
+| WAD.S.6830 | gypsum board suspended ceiling | FINISHES | Task | Completed | 2026-10-18 | 2026-10-21 | 2026-10-18 | 2026-10-21 | 100 |  |
+| WAD.S.6840 | TOILET ACCESSROIES | SPECIALTIES | Task | Completed | 2026-11-08 | 2026-11-09 | 2026-11-08 | 2026-11-08 | 100 |  |
+| WAD.S.6850 | PANEL SIGNAGE | SPECIALTIES | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.6860 | Workstation chair | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6870 | Workstation table | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6880 | Roller blind | FURNISHINGS | Task | In Progress | 2026-11-07 | 2026-11-08 | 2026-11-07 |  | 0 | -32.1 |
+| WAD.S.6890 | Waste Receptacle | FURNISHINGS | Task | Completed | 2026-11-07 | 2026-11-08 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6900 | installation of Fire extinguishers as per drawings, specifications | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-31 | 2026-11-02 | 2026-10-31 | 2026-11-02 | 100 |  |
+| WAD.S.6910 | WATER SUPPLY SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-10 | 100 |  |
+| WAD.S.6920 | SEWER AND DRAINAGE SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-05 | 100 |  |
+| WAD.S.6930 | gully traps with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-10-26 | 2026-10-27 | 100 |  |
+| WAD.S.6940 | chamber with heavy duty cover | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-10-26 | 2026-10-27 | 100 |  |
+| WAD.S.6950 | INSTALL PLUMBING FIXTURES | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6960 | HEATING, VENTILATION AND AIR CONDITIONING - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-03 | 2026-11-05 | 2026-11-03 | 2026-11-10 | 100 |  |
+| WAD.S.6970 | Exhaust fans - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.6980 | IRRIGATION SYSTEM - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-10 | 100 |  |
+| WAD.S.6990 | Bulbblers and Spreyers of IRRIGATION SYSTEM | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7000 | LIGHTING AND POWER TYPE PANELBOARDS - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7010 | UPS 3KVA (installed inside the rack) - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7020 | power source with built-in photocell sensor for automatic electrical connection during day/light times - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7030 | UNDERGROUND DISTRIBUTION SYSTEM - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.7040 | LIGHTING FIXTURES - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.7050 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-08 | 100 |  |
+| WAD.S.7060 | GROUNDING - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.7070 | card reader IN/OUT - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -30.6 |
+| WAD.S.7080 | Access control panel - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-08 | 2026-11-05 | 2026-11-05 | 100 |  |
+| WAD.S.7090 | 12-Port CAT6A UTP fully loaded patch panel | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -30.6 |
+| WAD.S.7100 | 12-Port, SMF, Fiber Optic Patch Panels; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -30.8 |
+| WAD.S.7110 | COMPUTERS AND RELATED PERIPHERALS | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.7120 | VIDEO SURVEILLANCE | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -32.1 |
+| WAD.S.7130 | Central (Headend) System Components; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.7140 | VSS System, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.7150 | CCTV storage system, as specified; | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-03 | 2026-11-08 | 2026-11-03 |  | 0 | -32.1 |
+| WAD.S.7160 | CCTV cameras - Final Fix | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-04 | 2026-11-08 | 2026-11-04 |  | 0 | -32.1 |
+| WAD.S.7170 | 20A , ATS ( Automatic transfer switch) for UPS | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-05 | 2026-11-08 | 2026-11-05 | 2026-11-05 | 100 |  |
+| WAD.S.7180 | ELECTRICAL GATE BARRIER | ELECTRICAL WORKS - Final Fix | Task | In Progress | 2026-11-07 | 2026-11-10 | 2025-04-14 |  | 0 | -32.1 |
+| WAD.S.7190 | LIGHTNING PROTECTION | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.7200 | fire alarm system including wires, conduit and other materials - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7210 | Analog addressable fire alarm control panel with battery | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7220 | Intelligent Ionization / Photoelectric smoke and heat detector with base | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-08 | 2026-11-10 | 2026-11-08 | 2026-11-10 | 100 |  |
+| WAD.S.7230 | WATER SUPPLY SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-08 | 100 |  |
+| WAD.S.7240 | IRRIGATION SYSTEM - Final Fix | MECHANICAL  WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7250 | LIGHTING AND POWER TYPE PANELBOARDS - Final Fix | ELECTRICAL WORKS - Final Fix | Task | Completed | 2026-11-07 | 2026-11-10 | 2026-11-07 | 2026-11-10 | 100 |  |
+| WAD.S.7260 | HEATING, VENTILATION AND AIR CONDITIONING - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-10 | 100 |  |
+| WAD.S.7270 | Exhaust fans  - 1st Fix | MECHANICAL  WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-10 | 100 |  |
+| WAD.S.7280 | power source with built-in photocell sensor for automatic electrical connection during day/light times - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7290 | UNDERGROUND DISTRIBUTION SYSTEM - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-08 | 100 |  |
+| WAD.S.7300 | LIGHTING FIXTURES - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-21 | 2026-10-01 | 2026-09-21 | 2026-10-08 | 100 |  |
+| WAD.S.7310 | installation of Wiring devices includes switches and Receptacle outlets complete with device boxes - 1st  Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7320 | GROUNDING - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-06 | 2026-09-16 | 2026-09-06 | 2026-10-08 | 100 |  |
+| WAD.S.7330 | card reader IN/OUT - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7340 | CCTV cameras - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7350 | Access control panel - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7360 | fire alarm system including wires, conduit and other materials - 1st Fix | ELECTRICAL WORKS - 1st Fix | Task | Completed | 2026-09-27 | 2026-10-07 | 2026-09-27 | 2026-10-08 | 100 |  |
+| WAD.S.7370 | lay epoxy 2 coating for inner surfaces for bottom of the roof | THERMAL & MOISTURE PROTECTION - Tanks | Task | Completed | 2026-10-22 | 2026-11-04 | 2026-10-22 | 2026-10-27 | 100 |  |
+| WAD.S.7380 | Excavation for guard rooms | Guard Rooms & Gates | Task | Completed | 2026-09-15 | 2026-09-23 | 2026-07-16 | 2026-07-23 | 100 |  |
+| WAD.S.7390 | Replacment Under Foundation | Guard Rooms & Gates | Task | Completed | 2026-08-04 | 2026-08-05 | 2026-08-04 | 2026-08-04 | 100 |  |
+| WAD.S.7400 | Backfilling Under G.Beam | Guard Rooms & Gates | Task | Completed | 2026-08-11 | 2026-08-12 | 2026-08-11 | 2026-08-31 | 100 |  |
+| WAD.S.7410 | Backfilling Under S.O.G | Guard Rooms & Gates | Task | Completed | 2026-09-07 | 2026-09-08 | 2026-09-07 | 2026-09-08 | 100 |  |
+| WAD.S.7420 | 50 mm thickness lean concrete under grade beams. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-08-31 | 2026-09-03 | 2026-08-31 | 2026-09-03 | 100 |  |
+| WAD.S.7430 | 50 mm thickness lean concrete under the foundation. | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-08-04 | 2026-08-06 | 2026-08-04 | 2026-08-06 | 100 |  |
+| WAD.S.7440 | Provide and cast concrete floor slab on grade | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-03 | 2026-10-07 | 2026-10-03 | 2026-10-07 | 100 |  |
+| WAD.S.7450 | Isolated Footings & Column Neck | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-27 | 2026-10-01 | 2026-07-11 | 2026-08-08 | 100 |  |
+| WAD.S.7460 | Grade beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-10 | 2026-09-15 | 2026-09-10 | 2026-09-15 | 100 |  |
+| WAD.S.7470 | Columns | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-16 | 2026-09-20 | 2026-09-16 | 2026-09-20 | 100 |  |
+| WAD.S.7480 | Concrete Pad | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-23 | 2026-09-26 | 2026-09-23 | 2026-09-26 | 100 |  |
+| WAD.S.7490 | Roof Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-17 | 2026-09-26 | 2026-09-06 | 2026-09-20 | 100 |  |
+| WAD.S.7500 | Beams | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-17 | 2026-09-26 | 2026-09-06 | 2026-09-20 | 100 |  |
+| WAD.S.7510 | Raft and R.C. walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-09-16 | 2026-09-21 | 2026-09-16 | 2026-09-24 | 100 |  |
+| WAD.S.7520 | Tanks Raft | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-06 | 2026-10-11 | 2026-10-06 | 2026-10-11 | 100 |  |
+| WAD.S.7530 | Tanks Walls | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-12 | 2026-10-17 | 2026-10-12 | 2026-10-18 | 100 |  |
+| WAD.S.7540 | Tanks Slab | Guard Rooms & Gates  (CONCRETE Works) | Task | Completed | 2026-10-26 | 2026-10-29 | 2026-10-26 | 2026-10-29 | 100 |  |
+| WAD.S.1470 | Site Handover | Contractual Milestones | Milestone | Completed | 2026-07-07 | 2026-07-07 | 2026-07-07 | 2026-07-07 | 100 |  |
+| WAD.S.7550 | Contract Schedule (Baseline Program) | Contractual Milestones | Milestone | Completed | 2026-07-07 | 2026-07-07 | 2026-07-07 | 2026-07-07 | 100 |  |
+| WAD.S.7560 | Testing & Commissioning | Contractual Milestones | Milestone | Not Started | 2026-11-14 | 2026-11-14 |  |  | 0 | -33.2 |
+| ` | Installation of Site Offices | Construct Site Offices | Task | Completed | 2026-07-26 | 2026-07-28 | 2026-07-01 | 2026-07-09 | 100 |  |
