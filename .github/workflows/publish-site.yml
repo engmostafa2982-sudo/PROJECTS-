@@ -8,7 +8,10 @@ on:
     paths:
       - "**/Generated Report/**"
       - "**/README.md"
+      - "main files/**"
       - ".github/scripts/build_site.py"
+      - ".github/scripts/build_card.js"
+      - ".github/scripts/cwar_ids.json"
       - ".github/workflows/publish-site.yml"
   workflow_dispatch:
 
@@ -30,6 +33,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install a headless browser (reads the Excel files into the project card)
+        run: |
+          npm install --no-save --no-package-lock playwright@1.48.2
+          npx playwright install --with-deps chromium
 
       - name: Build the site on top of the current gh-pages branch
         run: |
