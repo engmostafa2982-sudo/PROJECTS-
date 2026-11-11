@@ -82,6 +82,7 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 
 | Date | Uploaded by | # | Folder | File |
 |---|---|---|---|---|
+| 2026-11-10 14:37 | github-actions[bot] | 14 | 4-Weekly update/W07 - 12-Nov-2026 | لوحة متابعة المدينة التقنية 10-11-2026.xlsx |
 | 2026-11-10 12:23 | elgarhyrabiey | 22 | 4-Weekly update/W07 - 12-Nov-2026 | 00. MLTX-02-005-PRO-WPR-28-09-11-2026.xlsx |
 | 2026-11-10 12:23 | elgarhyrabiey | 22 | 4-Weekly update/W07 - 12-Nov-2026 | 02.MLTX-02-005 Rev UPS 09.11.2026.xer |
 | 2026-11-10 12:23 | elgarhyrabiey | 22 | 4-Weekly update/W07 - 12-Nov-2026 | 03.MLTX-02-005-Updated schedule  9-11-2026.pdf |
@@ -111,6 +112,5 @@ _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDF
 | 2026-11-10 09:44 | elgarhyrabiey | 07 | 4-Weekly update/W07 - 12-Nov-2026 | SUD1-02-011 WPR 09-11-2026..xlsx |
 | 2026-11-10 09:44 | elgarhyrabiey | 07 | 4-Weekly update/W07 - 12-Nov-2026 | Sudair 2 P2 09.11.26 INFRA.xer |
 | 2026-11-10 09:44 | elgarhyrabiey | 07 | 4-Weekly update/W07 - 12-Nov-2026 | Two Week Look Ahead Plan - infra..pdf |
-| 2026-11-10 09:44 | elgarhyrabiey | 07 | 4-Weekly update/W07 - 12-Nov-2026 | Weekly Report Summary 09.11.2026.pdf |
 
 <!-- tracker:end -->
