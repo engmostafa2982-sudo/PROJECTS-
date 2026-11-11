@@ -351,8 +351,33 @@ MERGE_HTML = """<div id="repPage" style="display:none;margin-top:14px">
   <iframe id="repFrame" src="reports.html" title="تقارير التقدم الأسبوعية" style="width:100%;border:0;min-height:80vh;display:block"></iframe>
 </div>"""
 
-MERGE_JS = """<script>
-// Project Tracker: weekly reports tab, and a link from each project card to its weekly report.
+MERGE_JS = """<style>
+/* side menu: the page tabs and the data buttons in a column beside the page instead of a row above it */
+@media(min-width:900px){
+  .wrap.sideNav{display:flex;flex-direction:row-reverse;align-items:flex-start;gap:20px}
+  .sideNav>.sideCol{flex:0 0 210px;position:sticky;top:14px;max-height:calc(100vh - 28px);overflow:auto;display:flex;flex-direction:column;gap:12px}
+  .sideNav>.mainCol{flex:1 1 auto;min-width:0}
+  .sideCol .tabs{flex-direction:column;margin:0;gap:6px}
+  .sideCol .tabBtn{width:100%;text-align:right;padding:10px 14px}
+  .sideCol .uplRow{flex-direction:column;align-items:stretch;margin:0;gap:8px}
+  .sideCol .uplRow button{width:100%}
+  .sideCol #uplStatus{font-size:11.5px;line-height:1.6}
+}
+@media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
+</style>
+<script>
+// Project Tracker: side menu, weekly reports tab, and a link from each project card to its weekly report.
+(function(){
+  var wrap=document.querySelector(".wrap"), t=wrap&&wrap.querySelector(":scope>.tabs");
+  if(wrap && t){
+    var side=document.createElement("nav"), main=document.createElement("div");
+    side.className="sideCol"; main.className="mainCol";
+    var upl=wrap.querySelector(":scope>.uplRow");
+    Array.prototype.slice.call(wrap.childNodes).forEach(function(n){ if(n!==t && n!==upl) main.appendChild(n); });
+    side.appendChild(t); if(upl) side.appendChild(upl);
+    wrap.appendChild(side); wrap.appendChild(main); wrap.classList.add("sideNav");
+  }
+})();
 (function(){
   var REPORTS = __REPORTS__;
   var tabs = document.querySelector(".tabs"), rep = document.getElementById("repPage");
