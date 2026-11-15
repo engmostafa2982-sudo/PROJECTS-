@@ -364,6 +364,8 @@ MERGE_JS = """<style>
   .sideCol #uplStatus{font-size:11.5px;line-height:1.6}
 }
 @media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
+@media(min-width:1100px){.ex2HeroKpis{grid-template-columns:repeat(6,minmax(0,1fr)) !important}}
+.hkCount .hk2{line-height:1.5}
 </style>
 <script>
 // Project Tracker: side menu, weekly reports tab, and a link from each project card to its weekly report.
@@ -404,6 +406,32 @@ MERGE_JS = """<style>
   fr.addEventListener("load", function(){ fit(); setTimeout(fit,500); });
   window.addEventListener("resize", fit);
   if(location.hash==="#reports") btn.click();
+
+  // a "number of projects" card first in the hero cards of the executive and ongoing-works summaries
+  function countCard(pageId){
+    var pg=document.getElementById(pageId); if(!pg || typeof ALL==="undefined") return;
+    var k=pg.querySelector(".ex2HeroKpis");
+    if(!k || k.querySelector(".hkCount")) return;
+    var list=ALL, by=function(st){ return list.filter(function(p){ return p.st===st; }).length; }, sub;
+    if(pageId==="ongPage"){
+      list=ALL.filter(function(p){ return p.st==="Ongoing Projects"||p.st==="Under Design"; });
+      var seg=(typeof ongSeg!=="undefined")?ongSeg:"all", cats=(typeof ongCats!=="undefined")?ongCats:[];
+      var PH={exec:"Execution",design:"Design",utility:"Utilities"}[seg];
+      if(PH) list=list.filter(function(p){ return (p.ph||"").trim()===PH; });
+      if(cats.length) list=list.filter(function(p){ return cats.indexOf(p.cat||"غير مصنف")>=0; });
+      sub=by("Ongoing Projects")+" قيد التنفيذ · "+by("Under Design")+" قيد التصميم";
+    } else {
+      sub=by("Ongoing Projects")+" جاري · "+by("Under Design")+" قيد التصميم · "+by("Completed Project")+" مكتمل";
+    }
+    var d=document.createElement("div"); d.className="hk hkCount";
+    d.innerHTML='<div class="hv">'+list.length+'</div><div class="hk2">عدد المشاريع — '+sub+'</div>';
+    k.insertBefore(d,k.firstChild);
+  }
+  ["execPage","ongPage"].forEach(function(id){
+    var pg=document.getElementById(id); if(!pg) return;
+    countCard(id);
+    new MutationObserver(function(){ countCard(id); }).observe(pg,{childList:true,subtree:true});
+  });
 
   // link from the project card to the weekly report
   function linkFor(idx){
