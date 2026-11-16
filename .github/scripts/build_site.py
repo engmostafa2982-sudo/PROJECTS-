@@ -194,6 +194,9 @@ CSS = """
 h1{font-size:1.7rem;margin:0 0 2px;line-height:1.3}.sub{color:var(--ink-2);margin:0 0 20px}
 .sum{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:0 0 22px}
 .sum div{background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:12px 14px}
+.sum .flt{cursor:pointer;transition:border-color .15s,box-shadow .15s}.sum .flt:hover{border-color:var(--accent)}
+.sum .flt.on{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.card.hide{display:none}
 .sum b{display:block;font:500 1.6rem "Plex Mono",monospace}.sum span{color:var(--ink-2);font-size:.85rem}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
 .card{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
@@ -253,7 +256,7 @@ def card(num, name, f, links, older):
     if older:
         hist = "<details><summary>الأسابيع السابقة / Earlier weeks</summary>" + "".join(
             f'<a href="{href}">{html.escape(lbl)}</a>' for lbl, href in older) + "</details>"
-    return f"""<article class="card{'' if links else ' empty'}">
+    return f"""<article class="card{'' if links else ' empty'}" data-st="{cls if links else 'none'}">
   <div class="top"><div><div class="name">{html.escape(name)}</div><div class="en">{html.escape(f.get('h1', ''))}</div></div><span class="num">{num}</span></div>
   {big}{bar}
   <div class="st"><span class="pill {cls}">{label}</span>{spi}</div>
@@ -325,14 +328,15 @@ def build(out):
 <h1>تقارير التقدم الأسبوعية</h1>
 <p class="sub">تقارير تقدم المشاريع الأسبوعية · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز الفعلية (Physical % complete) {('من ملف ' + html.escape(prog_src) + '، ونسبة التقرير الأسبوعي للمقارنة') if prog else 'من التقارير الأسبوعية'}</p>
 <div class="sum">
-  <div><b>{reported}</b><span>مشروع لديه تقرير / projects reported</span></div>
-  <div><b style="color:var(--good)">{counts['good']}</b><span>حسب الخطة أو متقدم (الفارق أعلى من −1%)</span></div>
-  <div><b style="color:var(--warn)">{counts['warn']}</b><span>متأخر (الفارق من −1% إلى −15%)</span></div>
-  <div><b style="color:var(--crit)">{counts['crit']}</b><span>متأخر جداً (الفارق −15% أو أقل)</span></div>
+  <div class="flt on" data-f="all" title="عرض كل المشاريع"><b>{reported}</b><span>مشروع لديه تقرير / projects reported</span></div>
+  <div class="flt" data-f="good" title="اضغط لعرض هذه المشاريع فقط"><b style="color:var(--good)">{counts['good']}</b><span>حسب الخطة أو متقدم (الفارق أعلى من −1%)</span></div>
+  <div class="flt" data-f="warn" title="اضغط لعرض هذه المشاريع فقط"><b style="color:var(--warn)">{counts['warn']}</b><span>متأخر (الفارق من −1% إلى −15%)</span></div>
+  <div class="flt" data-f="crit" title="اضغط لعرض هذه المشاريع فقط"><b style="color:var(--crit)">{counts['crit']}</b><span>متأخر جداً (الفارق −15% أو أقل)</span></div>
 </div>
 <div class="cards">
 {chr(10).join(cards)}
 </div>
+{FILTER_JS}
 <footer>آخر تحديث / Last updated: <bdi dir="ltr">{now:%d-%b-%Y %H:%M}</bdi> (توقيت الرياض)</footer>
 </div>
 </body>
@@ -346,6 +350,19 @@ def build(out):
     print(f"site built: {reported} projects with reports; CWAR progress for {sum(1 for c in reports if c in prog)}"
           + (f" (from {prog_src})" if prog else ""))
 
+
+FILTER_JS = """<script>
+(function(){
+  var boxes=document.querySelectorAll(".sum .flt"), cards=document.querySelectorAll(".cards .card");
+  function apply(f){
+    boxes.forEach(function(b){ b.classList.toggle("on", b.dataset.f===f); });
+    cards.forEach(function(c){ c.classList.toggle("hide", f!=="all" && c.dataset.st!==f); });
+    try{ var fr=window.frameElement; if(fr){ fr.style.height="300px"; fr.style.height=(document.documentElement.scrollHeight+20)+"px"; } }catch(e){}
+  }
+  boxes.forEach(function(b){ b.addEventListener("click", function(){
+    apply(b.classList.contains("on") && b.dataset.f!=="all" ? "all" : b.dataset.f); }); });
+})();
+</script>"""
 
 MERGE_HTML = """<div id="repPage" style="display:none;margin-top:14px">
   <iframe id="repFrame" src="reports.html" title="تقارير التقدم الأسبوعية" style="width:100%;border:0;min-height:80vh;display:block"></iframe>
