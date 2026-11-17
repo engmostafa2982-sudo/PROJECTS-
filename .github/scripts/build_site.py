@@ -379,6 +379,9 @@ CARD_PATCHES = [
     ('<div class="k">الميزانية المعتمدة — SAR</div></div>\n    <div class="dk"><div class="v">${avg!==null',
      '<div class="k">قيمة العقود — SAR</div></div>\n    <div class="dk"><div class="v">${avg!==null'),
     ('cv:c?(c.cacv||c.ocv||0):0};\n  }).sort((a,b)=>b.b-a.b);', 'cv:c?(c.cacv||c.ocv||0):0};\n  }).sort((a,b)=>b.cv-a.cv);'),
+    # project managers: list every PM, also those with no contracts under the current filter
+    ('    rows = dirAgg(by);\n  }',
+     '    if(kind==="pm" && window.__pmNames) window.__pmNames().forEach(n=>{ if(!by[n]) by[n]=[]; });\n    rows = dirAgg(by);\n  }'),
 ]
 
 FILTER_JS = """<script>
@@ -457,6 +460,13 @@ MERGE_JS = """<style>
   window.addEventListener("resize", fit);
   if(location.hash==="#reports") btn.click();
 
+  // every project manager named in CWAR (any status) or in All Projects (design / execution PM)
+  window.__pmNames=function(){
+    var set={};
+    try{ Object.keys(CWAR).forEach(function(k){ var n=(CWAR[k].pm||"").trim(); if(n) set[n]=1; }); }catch(e){}
+    try{ ALL.forEach(function(p){ [p.dpm,p.epm].forEach(function(n){ n=(n||"").trim(); if(n) set[n]=1; }); }); }catch(e){}
+    return Object.keys(set);
+  };
   // "show all" for the lists that stop at 30 rows
   if(typeof renderStatus==="function"){ var rs=renderStatus, last=null;
     // finished projects: no progress % or health indicator (columns التصميم / التنفيذ / المؤشر and their tiles)
