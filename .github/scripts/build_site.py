@@ -278,7 +278,7 @@ def build(out):
         if cid:
             reports[cid] = {"url": f"{num}/", "num": num, "week": f.get("week", ""), "date": f.get("date", "")}
         counts[status(f)[0]] += 1
-        (d / "index.html").write_text(page, encoding="utf-8")
+        (d / "index.html").write_text(site_report(page, latest), encoding="utf-8")
         links = [("التقرير / Report", f"{num}/", "main")]
         for pdf in sorted((latest_week / "Generated Report").glob("*.pdf")):
             arabic = bool(re.search(r"[؀-ۿ]", pdf.name))
@@ -286,7 +286,7 @@ def build(out):
         older = []
         for w, rep in weeks:
             name_html = f"{slug(w.name)}.html"
-            shutil.copy2(rep, d / name_html)
+            (d / name_html).write_text(site_report(rep.read_text(encoding="utf-8"), rep), encoding="utf-8")
             if w != latest_week:
                 older.append((w.name.split(" - ")[1], f"{num}/{name_html}"))
         cards.append(card(num, name, f, links, older))
@@ -326,6 +326,49 @@ def build(out):
     else:
         (out / "index.html").write_text(page, encoding="utf-8")
     print(f"site built: {reported} projects with reports (progress from the weekly reports)")
+
+
+
+# ---- saving report edits straight back to the repository --------------------------------------------
+# On the website, the report's "✎ Edit → Save" commits the edited page to the same file in the repository
+# (GitHub contents API, with a GitHub token the editor enters once in their browser). The two snippets
+# below are added only to the website copy and are taken out again before the page is committed.
+SAVE_HOOK_OLD = "    if (standalone) {\n      const name = "
+SAVE_HOOK_NEW = ("    /*site-save*/if (standalone && window.__siteSave) { try { await window.__siteSave(pageWith(next)); edits = next; stop(); "
+                 "leaves().forEach(e => { delete e.dataset.edited; }); apply(); say(\"Saved to the repository. The website updates in about 2 minutes.\", 8000); } "
+                 "catch (err) { save.disabled = false; cancel.hidden = false; say(String((err && err.message) || err)); } return; }/*/site-save*/\n")
+SITE_SAVE_JS = """<script id="site-save">
+window.__siteSave = async function (html) {
+  var REPO = __REPO__, PATH = __PATH__, API = "https://api.github.com/repos/" + REPO + "/contents/" + PATH.split("/").map(encodeURIComponent).join("/");
+  html = html.replace(/<script id="site-save">[\\s\\S]*?<\\/script>\\n?/g, "").replace(/\\/\\*site-save\\*\\/[\\s\\S]*?\\/\\*\\/site-save\\*\\/\\n/g, "");
+  var token = ""; try { token = localStorage.getItem("gh-token") || ""; } catch (e) {}
+  if (!token) {
+    token = (prompt("للحفظ في الريبو مباشرة أدخل GitHub token (مرة واحدة على هذا الجهاز).\\nأنشئه من GitHub: Settings → Developer settings → Fine-grained tokens، للريبو " + REPO + " بصلاحية Contents: Read and write.") || "").trim();
+    if (!token) throw new Error("لم يتم الحفظ: لا يوجد GitHub token.");
+  }
+  var h = { "Authorization": "Bearer " + token, "Accept": "application/vnd.github+json" };
+  var cur = await fetch(API + "?ref=main", { headers: h, cache: "no-store" });
+  if (cur.status === 401 || cur.status === 403) { try { localStorage.removeItem("gh-token"); } catch (e) {} throw new Error("الـ token غير صالح أو بدون صلاحية كتابة. حاول مرة أخرى."); }
+  if (!cur.ok) throw new Error("تعذر الوصول للملف في الريبو (" + cur.status + ").");
+  var sha = (await cur.json()).sha;
+  var bytes = new TextEncoder().encode(html), bin = "";
+  for (var i = 0; i < bytes.length; i += 32768) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 32768));
+  var res = await fetch(API, { method: "PUT", headers: h, body: JSON.stringify({ message: "Edit report from the website: " + PATH.split("/").pop(), content: btoa(bin), sha: sha, branch: "main" }) });
+  if (!res.ok) { var t = ""; try { t = (await res.json()).message || ""; } catch (e) {} if (res.status === 401 || res.status === 403) { try { localStorage.removeItem("gh-token"); } catch (e) {} } throw new Error("فشل الحفظ في الريبو (" + res.status + ") " + t); }
+  try { localStorage.setItem("gh-token", token); } catch (e) {}
+};
+</script>"""
+
+
+def site_report(page, path):
+    """The website copy of a report: its Save button commits the edited page back to its file in the repository."""
+    head = re.search(r'<meta charset="?utf-8"?>', page[:5000], re.I)   # the real <head> (reports have no </head> tag)
+    if SAVE_HOOK_OLD not in page or not head:
+        return page
+    rel = path.relative_to(ROOT).as_posix()
+    js = SITE_SAVE_JS.replace("__REPO__", json.dumps(REPO)).replace("__PATH__", json.dumps(rel))
+    page = page.replace(SAVE_HOOK_OLD, SAVE_HOOK_NEW + SAVE_HOOK_OLD, 1)
+    return page[:head.end()] + "\n" + js + page[head.end():]
 
 
 FILTER_JS = """<script>
