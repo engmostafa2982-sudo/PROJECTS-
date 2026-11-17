@@ -371,6 +371,16 @@ def site_report(page, path):
     return page[:head.end()] + "\n" + js + page[head.end():]
 
 
+CARD_PATCHES = [
+    ('<td class="num" data-sort="${r.b||""}">${r.b?fmtSAR(r.b):"—"}</td>',
+     '<td class="num" data-sort="${r.cv||""}">${r.cv?fmtSAR(r.cv):"—"}</td>'),
+    ('"مدير المشروع","الميزانية المعتمدة","الإنجاز الفعلي"', '"مدير المشروع","قيمة العقد","الإنجاز الفعلي"'),
+    ('const tot = list.reduce((a,r)=>a+(r.b||0),0);', 'const tot = list.reduce((a,r)=>a+(r.cv||0),0);'),
+    ('<div class="k">الميزانية المعتمدة — SAR</div></div>\n    <div class="dk"><div class="v">${avg!==null',
+     '<div class="k">قيمة العقود — SAR</div></div>\n    <div class="dk"><div class="v">${avg!==null'),
+    ('cv:c?(c.cacv||c.ocv||0):0};\n  }).sort((a,b)=>b.b-a.b);', 'cv:c?(c.cacv||c.ocv||0):0};\n  }).sort((a,b)=>b.cv-a.cv);'),
+]
+
 FILTER_JS = """<script>
 (function(){
   var boxes=document.querySelectorAll(".sum .flt"), cards=document.querySelectorAll(".cards .card");
@@ -523,6 +533,12 @@ def merge_card(card_page, reports):
     s = re.sub(r"<title>.*?</title>", "<title>Project Tracker</title>", s, count=1, flags=re.S)
     # long lists stop at 30 rows: let the viewer show the rest ("عرض الكل")
     s = re.sub(r"const CAP ?= ?30;", "const CAP = window.__showAll ? 1e9 : 30;", s)
+    # ongoing-projects list: show the contract value (CWAR current contract value) instead of the approved budget
+    for old, new in CARD_PATCHES:
+        if old in s:
+            s = s.replace(old, new, 1)
+        else:
+            print("project card patch not applied (text not found):", old[:60])
     js = MERGE_JS.replace("__REPORTS__", json.dumps(reports, ensure_ascii=False))
     j = s.rfind("</body>")
     return s[:j] + js + s[j:] if j > 0 else s + js
