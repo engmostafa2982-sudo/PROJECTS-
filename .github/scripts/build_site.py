@@ -87,24 +87,6 @@ def contract_id(num, page, ids):
     return m.group(0) if m else None
 
 
-def from_cwar(f, prog):
-    """Replace the report's progress figures with the CWAR file's (physical % complete)."""
-    if not prog or prog.get("actP") is None:
-        return f
-    g = dict(f)
-    g["report_actual"] = f.get("actual")
-    g["actual"] = prog["actP"]
-    plan = prog.get("revP", prog.get("planP"))
-    if plan is not None:
-        g["plan"] = plan
-    else:
-        g.pop("plan", None)
-    g["sv"] = prog.get("sv", g["actual"] - plan if plan is not None else None)
-    g.pop("spi", None)
-    g["cwar_date"] = prog.get("progDate", "")
-    return g
-
-
 def text(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
 
@@ -238,14 +220,8 @@ def card(num, name, f, links, older):
                + (f'<span class="planv">المخطط <bdi dir="ltr">{f["plan"]:.1f}%</bdi></span>' if "plan" in f else "") + "</div>")
     spi = f'<span class="spi">SPI <bdi dir="ltr">{f["spi"]:.2f}</bdi></span>' if "spi" in f else ""
     if f.get("sv") is not None:
-        spi = f'<span class="spi">الفارق <bdi dir="ltr">{f["sv"]:+.1f}%</bdi></span>'
+        spi += f'<span class="spi">الفارق <bdi dir="ltr">{f["sv"]:+.1f}%</bdi></span>'
     meta = []
-    if f.get("cwar_date"):
-        meta.append(f'نسب CWAR بتاريخ <bdi dir="ltr">{f["cwar_date"]}</bdi>')
-        if f.get("report_actual") is not None:
-            meta.append(f'التقرير الأسبوعي: <bdi dir="ltr">{f["report_actual"]:.1f}%</bdi>')
-    elif "actual" in f:
-        meta.append("لا توجد نسبة في CWAR — النسبة من التقرير الأسبوعي")
     if "date" in f:
         meta.append(f'تاريخ البيانات <bdi dir="ltr">{f["date"]}</bdi>')
     if "week" in f:
@@ -296,7 +272,9 @@ def build(out):
         latest_week, latest = weeks[0]
         page = latest.read_text(encoding="utf-8")
         cid = contract_id(num, page, ids)
-        f = from_cwar(facts(page), prog.get(cid))
+        f = facts(page)   # progress figures from the weekly report itself (not CWAR)
+        if f.get("actual") is not None and f.get("plan") is not None:
+            f["sv"] = round(f["actual"] - f["plan"], 2)
         if cid:
             reports[cid] = {"url": f"{num}/", "num": num, "week": f.get("week", ""), "date": f.get("date", "")}
         counts[status(f)[0]] += 1
@@ -326,7 +304,7 @@ def build(out):
 <body>
 <div class="wrap">
 <h1>تقارير التقدم الأسبوعية</h1>
-<p class="sub">تقارير تقدم المشاريع الأسبوعية · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز الفعلية (Physical % complete) {('من ملف ' + html.escape(prog_src) + '، ونسبة التقرير الأسبوعي للمقارنة') if prog else 'من التقارير الأسبوعية'}</p>
+<p class="sub">تقارير تقدم المشاريع الأسبوعية · يُحدَّث تلقائياً عند رفع أي تقرير جديد · نسب الإنجاز الفعلية (Physical % complete) من التقارير الأسبوعية</p>
 <div class="sum">
   <div class="flt on" data-f="all" title="عرض كل المشاريع"><b>{reported}</b><span>مشروع لديه تقرير / projects reported</span></div>
   <div class="flt" data-f="good" title="اضغط لعرض هذه المشاريع فقط"><b style="color:var(--good)">{counts['good']}</b><span>حسب الخطة أو متقدم (الفارق أعلى من −1%)</span></div>
@@ -347,8 +325,7 @@ def build(out):
         (out / "index.html").write_text(merge_card(card_page, reports), encoding="utf-8")
     else:
         (out / "index.html").write_text(page, encoding="utf-8")
-    print(f"site built: {reported} projects with reports; CWAR progress for {sum(1 for c in reports if c in prog)}"
-          + (f" (from {prog_src})" if prog else ""))
+    print(f"site built: {reported} projects with reports (progress from the weekly reports)")
 
 
 FILTER_JS = """<script>
