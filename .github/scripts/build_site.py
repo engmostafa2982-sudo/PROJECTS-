@@ -359,6 +359,7 @@ MERGE_JS = """<style>
 }
 @media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
 #dirMore:not(:empty),#stMore:not(:empty){cursor:pointer}
+#stPage.stDone .ex2T th:nth-child(n+5),#stPage.stDone .ex2T td:nth-child(n+5){display:none}
 #dirMore:not(:empty)::after,#stMore:not(:empty)::after{content:"  ·  عرض الكل ⌄";color:#006666;font-weight:800;text-decoration:underline}
 @media(min-width:1100px){.ex2HeroKpis{grid-template-columns:repeat(6,minmax(0,1fr)) !important}}
 .hkCount .hk2{line-height:1.5}
@@ -405,8 +406,18 @@ MERGE_JS = """<style>
 
   // "show all" for the lists that stop at 30 rows
   if(typeof renderStatus==="function"){ var rs=renderStatus, last=null;
-    renderStatus=function(){ last=arguments; return rs.apply(this,arguments); };
-    window.__rerenderStatus=function(){ if(last) rs.apply(null,last); }; }
+    // finished projects: no progress % or health indicator (columns التصميم / التنفيذ / المؤشر and their tiles)
+    var DONE=["Completed Project","Project Closed"];
+    function tidyDone(st){
+      var pg=document.getElementById("stPage"); if(!pg) return;
+      var done=DONE.indexOf(st)>=0; pg.classList.toggle("stDone",done);
+      if(!done) return;
+      pg.querySelectorAll("div").forEach(function(d){
+        if(d.children.length<=3 && /^(متوسط التصميم|متوسط التنفيذ|متعثرة)$/.test((d.lastElementChild||{}).textContent||"")) d.style.display="none";
+      });
+    }
+    renderStatus=function(){ last=arguments; var r=rs.apply(this,arguments); tidyDone(arguments[0]); return r; };
+    window.__rerenderStatus=function(){ if(last){ rs.apply(null,last); tidyDone(last[0]); } }; }
   document.addEventListener("click", function(e){
     var n=e.target.closest("#dirMore, #stMore"); if(!n || !n.textContent.trim()) return;
     window.__showAll=true;
