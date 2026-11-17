@@ -12,7 +12,7 @@ Weekly progress reports follow one standard for all projects: see [_report-stand
 
 ## Upload tracker / متابعة الرفع
 
-**157 of 299 folders have uploads.**
+**162 of 312 folders have uploads.**
 
 _Updated automatically after every upload. ✅ n = number of files in **All Files**, ⬜ = nothing uploaded yet. Click a cell to open the folder._
 
@@ -44,7 +44,7 @@ _Updated automatically after every upload. ✅ n = number of files in **All File
 
 ### Generated reports / التقارير المُنشأة
 
-**72 of 132 uploaded weeks have a generated report.**
+**74 of 136 uploaded weeks have a generated report.**
 
 _✅ HTML ✅ PDF ✅ Email = report generated (HTML, the English and Arabic PDFs, and the Arabic email to the project manager). ⚠️ PDF = only one of the two PDFs. ⏳ = files uploaded, report not generated yet. – = nothing uploaded. Click a cell to open the report folder._
 
