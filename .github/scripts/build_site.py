@@ -358,6 +358,8 @@ MERGE_JS = """<style>
   .sideCol #uplStatus{font-size:11.5px;line-height:1.6}
 }
 @media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
+#dirMore:not(:empty),#stMore:not(:empty){cursor:pointer}
+#dirMore:not(:empty)::after,#stMore:not(:empty)::after{content:"  ·  عرض الكل ⌄";color:#006666;font-weight:800;text-decoration:underline}
 @media(min-width:1100px){.ex2HeroKpis{grid-template-columns:repeat(6,minmax(0,1fr)) !important}}
 .hkCount .hk2{line-height:1.5}
 </style>
@@ -400,6 +402,18 @@ MERGE_JS = """<style>
   fr.addEventListener("load", function(){ fit(); setTimeout(fit,500); });
   window.addEventListener("resize", fit);
   if(location.hash==="#reports") btn.click();
+
+  // "show all" for the lists that stop at 30 rows
+  if(typeof renderStatus==="function"){ var rs=renderStatus, last=null;
+    renderStatus=function(){ last=arguments; return rs.apply(this,arguments); };
+    window.__rerenderStatus=function(){ if(last) rs.apply(null,last); }; }
+  document.addEventListener("click", function(e){
+    var n=e.target.closest("#dirMore, #stMore"); if(!n || !n.textContent.trim()) return;
+    window.__showAll=true;
+    if(n.id==="dirMore" && typeof renderDir==="function" && typeof curDirKind!=="undefined") renderDir(curDirKind);
+    if(n.id==="stMore" && window.__rerenderStatus) window.__rerenderStatus();
+    window.__showAll=false;
+  });
 
   // a "number of projects" card first in the hero cards of the executive and ongoing-works summaries
   function countCard(pageId){
@@ -453,6 +467,8 @@ def merge_card(card_page, reports):
     if i > 0:
         s = s[:i] + MERGE_HTML + "\n  " + s[i:]
     s = re.sub(r"<title>.*?</title>", "<title>Project Tracker</title>", s, count=1, flags=re.S)
+    # long lists stop at 30 rows: let the viewer show the rest ("عرض الكل")
+    s = re.sub(r"const CAP ?= ?30;", "const CAP = window.__showAll ? 1e9 : 30;", s)
     js = MERGE_JS.replace("__REPORTS__", json.dumps(reports, ensure_ascii=False))
     j = s.rfind("</body>")
     return s[:j] + js + s[j:] if j > 0 else s + js
