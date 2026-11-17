@@ -397,7 +397,8 @@ FILTER_JS = """<script>
 })();
 </script>"""
 
-MERGE_HTML = """<div id="repPage" style="display:none;margin-top:14px">
+MERGE_HTML = """<div id="savPage" style="display:none"></div>
+<div id="repPage" style="display:none;margin-top:14px">
   <iframe id="repFrame" src="reports.html" title="تقارير التقدم الأسبوعية" style="width:100%;border:0;min-height:80vh;display:block"></iframe>
 </div>"""
 
@@ -415,6 +416,8 @@ MERGE_JS = """<style>
 }
 @media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
 #dirMore:not(:empty),#stMore:not(:empty){cursor:pointer}
+.savT td.savTxt{white-space:pre-line;font-size:11.5px;line-height:1.6;min-width:220px;max-width:340px;color:#3c5561}
+.savT td.num .sb{display:block;font-size:10.5px;color:#5E7783;font-weight:600}
 #stPage.stDone .ex2T th:nth-child(n+5),#stPage.stDone .ex2T td:nth-child(n+5){display:none}
 #dirMore:not(:empty)::after,#stMore:not(:empty)::after{content:"  ·  عرض الكل ⌄";color:#006666;font-weight:800;text-decoration:underline}
 @media(min-width:1100px){.ex2HeroKpis{grid-template-columns:repeat(6,minmax(0,1fr)) !important}}
@@ -440,7 +443,7 @@ MERGE_JS = """<style>
   var btn = document.createElement("button");
   btn.className = "tabBtn"; btn.id = "tabRep"; btn.type = "button"; btn.textContent = "تقارير التقدم الأسبوعية";
   tabs.appendChild(btn);
-  var pages = ["execPage","ongPage","olPage","dirPage","stPage","page","hint"];
+  var pages = ["execPage","ongPage","olPage","dirPage","stPage","page","hint","savPage"];
   btn.addEventListener("click", function(){
     tabs.querySelectorAll(".tabBtn").forEach(function(b){ b.classList.remove("active"); });
     btn.classList.add("active");
@@ -459,6 +462,71 @@ MERGE_JS = """<style>
   fr.addEventListener("load", function(){ fit(); setTimeout(fit,500); });
   window.addEventListener("resize", fit);
   if(location.hash==="#reports") btn.click();
+
+  // الوفورات (savings) page, from the newest «الوفورات» workbook in main files
+  var SAV = __SAVINGS__;
+  var sav=document.getElementById("savPage");
+  if(SAV && sav){
+    var sbtn=document.createElement("button"); sbtn.className="tabBtn"; sbtn.id="tabSav"; sbtn.type="button"; sbtn.textContent="الوفورات";
+    tabs.insertBefore(sbtn, btn);
+    var seg="all", sec="all", q="";
+    var fmt=function(v){ return (v===null||v===undefined)?"—":(typeof fmtSAR==="function"?fmtSAR(v):String(v)); };
+    var escH=function(x){ return String(x==null?"":x).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); };
+    var cell=function(r,k){ var v=r[k]; return v!==null&&v!==undefined ? fmt(v) : (r[k+"_t"]?escH(r[k+"_t"]):"—"); };
+    var segs=[["all","الكل"],["exec","تحت التنفيذ"],["done","المكتملة"],["svc","الخدمات (إيصال الخدمات)"]];
+    function rows(){
+      return SAV.rows.filter(function(r){
+        if(seg!=="all" && r.grp!==seg) return false;
+        if(sec!=="all" && r.sector!==sec) return false;
+        if(q){ var h=(r.name+" "+(r.code||"")+" "+r.sector+" "+(r.works||"")+" "+(r.prop||"")).toLowerCase(); if(h.indexOf(q)<0) return false; }
+        return true; });
+    }
+    function sum(list,k){ return list.reduce(function(a,r){ return a+(typeof r[k]==="number"?r[k]:0); },0); }
+    function render(){
+      var list=rows(), tc=sum(list,"cv"), ts=sum(list,"tot"), us=sum(list,"used"), av=sum(list,"avail");
+      var pidIdx=(typeof buildPidIdx==="function")?buildPidIdx():{};
+      var secs=[]; SAV.rows.forEach(function(r){ if(secs.indexOf(r.sector)<0) secs.push(r.sector); });
+      var body=list.map(function(r,i){
+        var idx=r.code?pidIdx[r.code]:undefined, pct=(typeof r.tot==="number"&&r.cv)?(r.tot/r.cv*100):null;
+        return '<tr'+(idx!==undefined?' class="clkRow" data-idx="'+idx+'" title="اضغط لفتح بطاقة المشروع"':'')+'><td class="rank">'+(i+1)+'</td>'+
+          '<td class="nm">'+escH(r.name)+'<span class="sb">'+escH(r.code||"")+(r.code?" · ":"")+escH(r.sector)+' · '+({exec:"تحت التنفيذ",done:"مكتمل",svc:"خدمات"}[r.grp])+'</span></td>'+
+          '<td class="num" data-sort="'+(r.cv||"")+'">'+fmt(r.cv)+'</td>'+
+          '<td class="num" data-sort="'+(typeof r.tot==="number"?r.tot:"")+'">'+cell(r,"tot")+(pct!==null?'<span class="sb">'+pct.toFixed(1)+'% من العقد</span>':'')+'</td>'+
+          '<td class="num" data-sort="'+(typeof r.used==="number"?r.used:"")+'">'+cell(r,"used")+'</td>'+
+          '<td class="num" data-sort="'+(typeof r.avail==="number"?r.avail:"")+'">'+(typeof r.avail==="number"&&r.avail>0?'<b style="color:#006666">'+fmt(r.avail)+'</b>':cell(r,"avail"))+'</td>'+
+          '<td class="savTxt">'+escH(r.works||"—")+'</td><td class="savTxt">'+escH(r.prop||"—")+'</td></tr>';
+      }).join("");
+      sav.innerHTML='<div class="dirHead" style="background:linear-gradient(135deg,#0E3B36,#3E7A2E)"><div><h2>الوفورات</h2>'+
+        '<div class="sub">'+escH(SAV.title)+' · المصدر: '+escH(SAV.file)+' (القيم بدون ضريبة القيمة المضافة)</div></div>'+
+        '<div class="dirKpis"><div class="dk"><div class="v">'+list.length+'</div><div class="k">مشروع</div></div>'+
+        '<div class="dk"><div class="v">'+fmt(tc)+'</div><div class="k">قيمة العقود — SAR</div></div>'+
+        '<div class="dk"><div class="v" style="color:#9FE8B8">'+fmt(ts)+'</div><div class="k">إجمالي الوفر — SAR</div></div>'+
+        '<div class="dk"><div class="v">'+fmt(us)+'</div><div class="k">الوفر المستخدم في أعمال — SAR</div></div>'+
+        '<div class="dk"><div class="v" style="color:#FFE08A">'+fmt(av)+'</div><div class="k">الوفر المتاح حالياً — SAR</div></div></div></div>'+
+        '<div class="segBar" style="margin-top:14px">'+segs.map(function(x){ return '<button type="button" class="segBtn savSeg'+(seg===x[0]?" active":"")+'" data-v="'+x[0]+'">'+x[1]+'</button>'; }).join("")+'</div>'+
+        '<div class="segBar" style="margin-top:8px"><button type="button" class="segBtn sm savSec'+(sec==="all"?" active":"")+'" data-v="all">كل القطاعات</button>'+
+          secs.map(function(x){ return '<button type="button" class="segBtn sm savSec'+(sec===x?" active":"")+'" data-v="'+escH(x)+'">'+escH(x)+'</button>'; }).join("")+'</div>'+
+        '<div class="dirFilter"><input id="savQ" type="text" placeholder="فلترة بالاسم أو الكود أو الأعمال…" value="'+escH(q)+'"></div>'+
+        '<div class="exCard dirCard" style="overflow-x:auto"><table class="ex2T savT"><thead><tr><th class="rank">#</th><th>المشروع</th><th>قيمة العقد</th><th>إجمالي الوفر</th><th>الوفر المستخدم</th><th>الوفر المتاح حالياً</th><th>الأعمال المنفذة</th><th>المقترحات</th></tr></thead><tbody>'+
+        (body||'<tr><td colspan="8" style="text-align:center;padding:16px">لا نتائج</td></tr>')+'</tbody></table></div>';
+      sav.querySelectorAll(".savSeg").forEach(function(b){ b.onclick=function(){ seg=b.dataset.v; render(); }; });
+      sav.querySelectorAll(".savSec").forEach(function(b){ b.onclick=function(){ sec=b.dataset.v; render(); }; });
+      var qi=document.getElementById("savQ"); qi.oninput=function(){ q=qi.value.trim().toLowerCase(); var p=qi.selectionStart; render(); var n=document.getElementById("savQ"); n.focus(); n.setSelectionRange(p,p); };
+    }
+    sbtn.addEventListener("click", function(){
+      tabs.querySelectorAll(".tabBtn").forEach(function(b){ b.classList.remove("active"); });
+      sbtn.classList.add("active");
+      pages.concat(["repPage"]).forEach(function(id){ var e=document.getElementById(id); if(e) e.style.display="none"; });
+      var sb=document.querySelector(".selbox"); if(sb) sb.style.display="none";
+      render(); sav.style.display="";
+      if(location.hash!=="#savings") history.replaceState(null,"","#savings");
+    });
+    tabs.addEventListener("click", function(e){
+      var b=e.target.closest(".tabBtn");
+      if(b && b!==sbtn){ sav.style.display="none"; sbtn.classList.remove("active"); if(location.hash==="#savings") history.replaceState(null,"",location.pathname); }
+    }, true);
+    if(location.hash==="#savings") sbtn.click();
+  }
 
   // every project manager named in CWAR (any status) or in All Projects (design / execution PM)
   window.__pmNames=function(){
@@ -534,6 +602,77 @@ MERGE_JS = """<style>
 </script>"""
 
 
+def _num(v):
+    if isinstance(v, (int, float)):
+        return float(v)
+    t = str(v or "").replace(",", "").strip()
+    try:
+        return float(t)
+    except ValueError:
+        return None
+
+
+def savings_data():
+    """Rows of the newest «الوفورات» workbook in main files: the updated execution sheet (projects under
+    execution and completed projects) and the services sheet."""
+    f = newest("الوفورات*.xls*")
+    if not f:
+        return None
+    try:
+        import openpyxl
+    except ImportError:
+        print("savings page skipped: openpyxl not installed")
+        return None
+    wb = openpyxl.load_workbook(f, data_only=True, read_only=True)
+    names = wb.sheetnames
+    main = next((n for n in names if "محدث" in n), None) or next((n for n in names if "التنفيذ" in n), None)
+    svc = next((n for n in names if "الخدمات" in n), None)
+    out, title = [], ""
+
+    def txt(v):
+        return "" if v is None else str(v).strip()
+
+    def val(row, i):
+        v = row[i] if i < len(row) else None
+        n = _num(v)
+        return (n, None) if n is not None else (None, txt(v) or None)
+
+    for sheet, default in ((main, "exec"), (svc, "svc")):
+        if not sheet:
+            continue
+        grp, head = default, None
+        for row in wb[sheet].iter_rows(values_only=True):
+            row = list(row)
+            first = txt(row[0]) if row else ""
+            if first.startswith("وفورات") and sheet == main and not title:
+                title = first
+            if first.startswith("وفورات المشاريع المكتملة"):
+                grp = "done"
+                continue
+            if len(row) > 1 and txt(row[1]) == "القطاع":
+                head = [txt(x) for x in row]
+                continue
+            if head is None or not first.isdigit():
+                continue
+            col = lambda *keys: next((i for i, h in enumerate(head) if any(h.startswith(k) for k in keys)), None)
+            ic, iname, icv = col("كود المشروع"), col("المشاريع"), col("قيمة العقد")
+            itot = col("إجمالي الوفر", "الوفر المحقق / المتوقع")
+            iused = next((i for i, h in enumerate(head) if h == "الوفر"), None)
+            iav, iw, ip = col("الوفر المتاح"), col("الأعمال المنفذة", "الأعمال المعتمدة"), col("المقترحات")
+            r = {"grp": grp, "sector": txt(row[1]), "code": txt(row[ic]) if ic is not None else "",
+                 "name": txt(row[iname]) if iname is not None else "", "cv": _num(row[icv]) if icv is not None else None}
+            for k, i in (("tot", itot), ("used", iused), ("avail", iav)):
+                if i is not None:
+                    r[k], t = val(row, i)
+                    if t:
+                        r[k + "_t"] = t
+            r["works"] = txt(row[iw]) if iw is not None else ""
+            r["prop"] = txt(row[ip]) if ip is not None else ""
+            out.append(r)
+    print(f"savings page: {len(out)} rows from {f.name} ({main}, {svc})")
+    return {"file": f.name, "title": title, "rows": out}
+
+
 def merge_card(card_page, reports):
     """The project card with the weekly reports added: a tab with every report and a link on each project's card."""
     s = card_page
@@ -550,6 +689,7 @@ def merge_card(card_page, reports):
         else:
             print("project card patch not applied (text not found):", old[:60])
     js = MERGE_JS.replace("__REPORTS__", json.dumps(reports, ensure_ascii=False))
+    js = js.replace("__SAVINGS__", json.dumps(savings_data(), ensure_ascii=False).replace("</", "<\\/"))
     j = s.rfind("</body>")
     return s[:j] + js + s[j:] if j > 0 else s + js
 
