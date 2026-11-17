@@ -2,6 +2,27 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script id="site-save">
+window.__siteSave = async function (html) {
+  var REPO = "engmostafa2982-sudo/PROJECTS-", PATH = "17-makkah-2nd-industrial-city-akishiya-roads/4-Weekly update/W04 - 22-Oct-2026/Generated Report/Makkah-Akishiya-progress-report-week-17.html", API = "https://api.github.com/repos/" + REPO + "/contents/" + PATH.split("/").map(encodeURIComponent).join("/");
+  html = html.replace(/<script id="site-save">[\s\S]*?<\/script>\n?/g, "").replace(/\/\*site-save\*\/[\s\S]*?\/\*\/site-save\*\/\n/g, "");
+  var token = ""; try { token = localStorage.getItem("gh-token") || ""; } catch (e) {}
+  if (!token) {
+    token = (prompt("للحفظ في الريبو مباشرة أدخل GitHub token (مرة واحدة على هذا الجهاز).\nأنشئه من GitHub: Settings → Developer settings → Fine-grained tokens، للريبو " + REPO + " بصلاحية Contents: Read and write.") || "").trim();
+    if (!token) throw new Error("لم يتم الحفظ: لا يوجد GitHub token.");
+  }
+  var h = { "Authorization": "Bearer " + token, "Accept": "application/vnd.github+json" };
+  var cur = await fetch(API + "?ref=main", { headers: h, cache: "no-store" });
+  if (cur.status === 401 || cur.status === 403) { try { localStorage.removeItem("gh-token"); } catch (e) {} throw new Error("الـ token غير صالح أو بدون صلاحية كتابة. حاول مرة أخرى."); }
+  if (!cur.ok) throw new Error("تعذر الوصول للملف في الريبو (" + cur.status + ").");
+  var sha = (await cur.json()).sha;
+  var bytes = new TextEncoder().encode(html), bin = "";
+  for (var i = 0; i < bytes.length; i += 32768) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 32768));
+  var res = await fetch(API, { method: "PUT", headers: h, body: JSON.stringify({ message: "Edit report from the website: " + PATH.split("/").pop(), content: btoa(bin), sha: sha, branch: "main" }) });
+  if (!res.ok) { var t = ""; try { t = (await res.json()).message || ""; } catch (e) {} if (res.status === 401 || res.status === 403) { try { localStorage.removeItem("gh-token"); } catch (e) {} } throw new Error("فشل الحفظ في الريبو (" + res.status + ") " + t); }
+  try { localStorage.setItem("gh-token", token); } catch (e) {}
+};
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Makkah-Akishiya Progress Week 17</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -860,6 +881,7 @@ const tUnits = s => LANG === "ar" ? s.replace(/ nos$| ea$/, " عدد").replace(/
       if (from !== v.to) next[LANG][k] = { from, to: v.to };
     });
     save.disabled = true; cancel.hidden = true; say("Saving…");
+    /*site-save*/if (standalone && window.__siteSave) { try { await window.__siteSave(pageWith(next)); edits = next; stop(); leaves().forEach(e => { delete e.dataset.edited; }); apply(); say("Saved to the repository. The website updates in about 2 minutes.", 8000); } catch (err) { save.disabled = false; cancel.hidden = false; say(String((err && err.message) || err)); } return; }/*/site-save*/
     if (standalone) {
       const name = decodeURIComponent(location.pathname.split("/").pop() || "") || "report.html";
       saveFile(/\.html?$/i.test(name) ? name : name + ".html", new Blob([pageWith(next)], { type: "text/html;charset=utf-8" }));
