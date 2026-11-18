@@ -528,6 +528,29 @@ MERGE_JS = """<style>
     if(location.hash==="#savings") sbtn.click();
   }
 
+  // «الاستشاريون»: one menu item for design offices and supervision contracts, with a switch between them
+  (function(){
+    var des=document.getElementById("tabDes"), cons=document.getElementById("tabCons"), dp=document.getElementById("dirPage");
+    if(!des || !cons || !dp) return;
+    var cb=document.createElement("button"); cb.className="tabBtn"; cb.id="tabConsult"; cb.type="button"; cb.textContent="الاستشاريون";
+    des.parentNode.insertBefore(cb, des); des.style.display="none"; cons.style.display="none";
+    var on=false;
+    function sw(){
+      if(!on || (typeof curDirKind!=="undefined" && curDirKind!=="des" && curDirKind!=="cons")) return;
+      cb.classList.add("active");
+      var k=(typeof curDirKind!=="undefined")?curDirKind:"des", bar=dp.querySelector(".consSw");
+      if(!bar){ bar=document.createElement("div"); bar.className="segBar consSw"; bar.style.margin="0 0 12px";
+        bar.innerHTML='<button type="button" class="segBtn" data-k="des">مكاتب التصميم</button><button type="button" class="segBtn" data-k="cons">عقود الإشراف</button>';
+        dp.insertBefore(bar, dp.firstChild);
+        bar.addEventListener("click", function(e){ var b=e.target.closest("[data-k]"); if(b){ (b.dataset.k==="cons"?cons:des).click(); } }); }
+      bar.querySelectorAll("[data-k]").forEach(function(b){ b.classList.toggle("active", b.dataset.k===k); });
+    }
+    new MutationObserver(sw).observe(dp,{childList:true});
+    cb.addEventListener("click", function(){ on=true; des.click(); sw(); });
+    tabs.addEventListener("click", function(e){ var b=e.target.closest(".tabBtn");
+      if(b && b!==cb && b!==des && b!==cons){ on=false; cb.classList.remove("active"); } }, true);
+  })();
+
   // every project manager named in CWAR (any status) or in All Projects (design / execution PM)
   window.__pmNames=function(){
     var set={};
