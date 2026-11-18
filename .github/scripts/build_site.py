@@ -539,10 +539,10 @@ MERGE_JS = """<style>
       if(!KINDS[k] || getComputedStyle(dp).display==="none") return;
       cont.classList.add("active");
       var bar=dp.querySelector(".consSw");
-      if(!bar){ bar=document.createElement("div"); bar.className="segBar consSw"; bar.style.margin="0 0 12px";
+      if(!bar){ bar=document.createElement("div"); bar.className="segBar consSw"; bar.style.margin="16px 0 0";
         bar.innerHTML='<button type="button" class="segBtn" data-k="cont">المقاولين</button><button type="button" class="segBtn" data-k="des">مكاتب التصميم</button><button type="button" class="segBtn" data-k="cons">عقود الإشراف</button>';
-        dp.insertBefore(bar, dp.firstChild);
-        bar.addEventListener("click", function(e){ var b=e.target.closest("[data-k]"); if(b) KINDS[b.dataset.k].click(); }); }
+        bar.addEventListener("click", function(e){ var b=e.target.closest("[data-k]"); if(b){ KINDS[b.dataset.k].click(); window.scrollTo(0,0); } }); }
+      if(dp.lastElementChild!==bar) dp.appendChild(bar);   // at the end of the page, under the table
       bar.querySelectorAll("[data-k]").forEach(function(b){ b.classList.toggle("active", b.dataset.k===k); });
     }
     new MutationObserver(sw).observe(dp,{childList:true});
