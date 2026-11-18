@@ -416,6 +416,8 @@ MERGE_JS = """<style>
 }
 @media(max-width:899px){.sideCol .tabs{overflow-x:auto;flex-wrap:nowrap}.sideCol .tabBtn{flex:none}}
 #dirMore:not(:empty),#stMore:not(:empty){cursor:pointer}
+.sideCol .tabBtn.tabSub{width:calc(100% - 18px);margin-inline-start:18px;padding:8px 12px;font-size:12.5px}
+.tabGroup .gArr{float:left;opacity:.7}
 .savT td.savTxt{white-space:pre-line;font-size:11.5px;line-height:1.6;min-width:220px;max-width:340px;color:#3c5561}
 .savT td.num .sb{display:block;font-size:10.5px;color:#5E7783;font-weight:600}
 #stPage.stDone .ex2T th:nth-child(n+5),#stPage.stDone .ex2T td:nth-child(n+5){display:none}
@@ -532,6 +534,16 @@ MERGE_JS = """<style>
   (function(){
     var des=document.getElementById("tabDes"), cons=document.getElementById("tabCons"), dp=document.getElementById("dirPage");
     if(!des || !cons || !dp) return;
+    if(window.__CONSULT_MODE==="group"){
+      // variant: a collapsible "الاستشاريون ▾" group showing the two pages as sub-items
+      var g=document.createElement("button"); g.className="tabBtn tabGroup"; g.id="tabConsult"; g.type="button"; g.innerHTML='الاستشاريون <span class="gArr">▾</span>';
+      des.parentNode.insertBefore(g, des); des.classList.add("tabSub"); cons.classList.add("tabSub");
+      var open=false; function setOpen(v){ open=v; des.style.display=cons.style.display=v?"":"none"; g.querySelector(".gArr").textContent=v?"▴":"▾"; }
+      setOpen(false);
+      g.addEventListener("click", function(){ setOpen(!open); });
+      [des,cons].forEach(function(b){ b.addEventListener("click", function(){ setOpen(true); }); });
+      return;
+    }
     var cb=document.createElement("button"); cb.className="tabBtn"; cb.id="tabConsult"; cb.type="button"; cb.textContent="الاستشاريون";
     des.parentNode.insertBefore(cb, des); des.style.display="none"; cons.style.display="none";
     var on=false;
@@ -712,6 +724,8 @@ def merge_card(card_page, reports):
         else:
             print("project card patch not applied (text not found):", old[:60])
     js = MERGE_JS.replace("__REPORTS__", json.dumps(reports, ensure_ascii=False))
+    if os.environ.get("CONSULT_MODE") == "group":
+        js = "<script>window.__CONSULT_MODE='group';</script>" + js
     js = js.replace("__SAVINGS__", json.dumps(savings_data(), ensure_ascii=False).replace("</", "<\\/"))
     j = s.rfind("</body>")
     return s[:j] + js + s[j:] if j > 0 else s + js
